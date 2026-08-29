@@ -1,0 +1,123 @@
+{
+  "LINHAS_TEMPO": [
+    {
+      "num": "03",
+      "nome": "Evolutivo recente",
+      "sub": "100 mil a 10 milhões de anos (evolução da espécie humana)"
+    },
+    {
+      "num": "02",
+      "nome": "Histórico/cultural",
+      "sub": "1 mil a 100 mil anos (surgimento de culturas, escrita, instituições)"
+    },
+    {
+      "num": "01",
+      "nome": "Desenvolvimental",
+      "sub": "Anos a décadas (desenvolvimento individual, aprendizado)"
+    },
+    {
+      "num": "00",
+      "nome": "Imediato",
+      "sub": "segundos a minutos (processamento, interações)"
+    }
+  ],
+  "COLUNAS_PROX": [
+    {
+      "letra": "A",
+      "nome": "Intra-biológico",
+      "sub": "dentro do organismo",
+      "classe": "col-A"
+    },
+    {
+      "letra": "B",
+      "nome": "Individual interno",
+      "sub": "dentro do indivíduo",
+      "classe": "col-B"
+    },
+    {
+      "letra": "C",
+      "nome": "Interação imediata",
+      "sub": "entre indivíduos",
+      "classe": "col-C"
+    },
+    {
+      "letra": "D",
+      "nome": "Social / cultural",
+      "sub": "estruturas e cultura",
+      "classe": "col-D"
+    }
+  ],
+  "MATRIZ": {
+    "0,0": [
+      "Genética populacional humana",
+      "Neuroevolução"
+    ],
+    "0,1": [
+      "Etologia",
+      "Psicologia evolutiva"
+    ],
+    "0,2": [],
+    "0,3": [
+      "Evolução cultural",
+      "Antropologia evolutiva"
+    ],
+    "1,0": [
+      "Epigenética evolutiva"
+    ],
+    "1,1": [
+      "Psicologia cultural"
+    ],
+    "1,2": [
+      "Sociobiologia / Ecologia comportamental"
+    ],
+    "1,3": [
+      "Antropologia",
+      "Sociologia histórica",
+      "História cultural"
+    ],
+    "2,0": [
+      "Neurodesenvolvimento",
+      "Endocrinologia do desenvolvimento"
+    ],
+    "2,1": [
+      "Psicologia do desenvolvimento",
+      "Psicologia cognitiva"
+    ],
+    "2,2": [
+      "Psicologia social"
+    ],
+    "2,3": [
+      "Sociologia",
+      "Sociolinguística",
+      "Educação e mídia"
+    ],
+    "3,0": [
+      "Neurociência",
+      "Psicofisiologia"
+    ],
+    "3,1": [
+      "Psicofísica",
+      "Neuroeconomia"
+    ],
+    "3,2": [
+      "Análise Experimental do Comportamento",
+      "Economia comportamental",
+      "Teoria dos jogos"
+    ],
+    "3,3": [
+      "Comunicação simbólica",
+      "Mídias sociais"
+    ]
+  },
+  "DESCRICOES": {
+    "Psicologia cognitiva": "O estudo dos processos mentais — atenção, memória, linguagem, raciocínio — entendidos como sistemas de processamento de informação.",
+    "Análise Experimental do Comportamento": "A ciência das relações funcionais entre comportamento e ambiente, fundada na investigação experimental do reforçamento e da escolha.",
+    "Economia comportamental": "A integração entre psicologia e economia, focada em como vieses e heurísticas moldam decisões reais sob risco e incerteza.",
+    "Psicologia social": "O estudo de como pensamos, sentimos e nos comportamos em função da presença real, imaginária ou implícita de outros.",
+    "Antropologia": "A investigação comparativa das culturas e da experiência humana, do trabalho de campo etnográfico à análise de sistemas simbólicos.",
+    "Neurociência": "O estudo do sistema nervoso em seus múltiplos níveis — molecular, celular, sistêmico — como substrato da mente e do comportamento.",
+    "Etologia": "O estudo do comportamento animal em seu ambiente natural, considerando causas próximas e distantes em uma perspectiva evolutiva.",
+    "Sociolinguística": "O estudo da linguagem como prática social, atenta à variação, ao contato e à mudança em contextos comunitários reais.",
+    "Psicofísica": "A medida quantitativa da relação entre estímulos físicos e as sensações que eles produzem — fundadora da psicologia experimental."
+  }
+}

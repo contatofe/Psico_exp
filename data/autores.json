@@ -1,0 +1,1422 @@
+{
+  "Psicologia cognitiva": [
+    {
+      "nome": "George Miller",
+      "periodo": "1920–2012",
+      "foto": "miller.jpg",
+      "contribuicao": "Um dos fundadores da revolução cognitiva. No artigo 'The Magical Number Seven, Plus or Minus Two' (1956) propôs limites na capacidade da memória de curto prazo (≈7±2 unidades), introduzindo o conceito de *chunking* (agrupamento de informação).\n\nCo-fundou com Jerome Bruner o Center for Cognitive Studies (Harvard), institucionalizando a área.\n\nConectou psicologia com teoria da informação (influência de Claude Shannon), tratando processamento humano como canal com capacidade limitada.\n\nInfluenciou diretamente estudos posteriores de memória de trabalho (Baddeley) e carga cognitiva.",
+      "tags": [
+        "Experimental",
+        "Matemática"
+      ],
+      "influencias": [
+        "Jerome Bruner"
+      ],
+      "obras": [
+        {
+          "ano": "1956",
+          "titulo": "The Magical Number Seven, Plus or Minus Two",
+          "link": "https://psychclassics.yorku.ca/Miller/"
+        },
+        {
+          "ano": "1960",
+          "titulo": "Plans and the Structure of Behavior (com Galanter e Pribram)",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Noam Chomsky",
+      "periodo": "1928–presente",
+      "foto": "chomsky.jpg",
+      "contribuicao": "Revolucionou a linguística com a gramática gerativa e a hipótese da Gramática Universal.\n\nSua crítica a 'Verbal Behavior' de Skinner (1959) argumentou que linguagem não pode ser explicada apenas por reforço — requer estruturas mentais inatas.\n\nIntroduziu distinções como competência vs desempenho e regras recursivas (capacidade infinita com meios finitos).\n\nInfluenciou profundamente a psicologia cognitiva ao recolocar representações mentais e estruturas internas no centro da explicação.\n\nDialoga com tradição racionalista (Descartes) e influenciou Pinker, Fodor e a ciência cognitiva moderna.",
+      "tags": [
+        "Filosofia da ciência",
+        "Matemática"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1957",
+          "titulo": "Syntactic Structures",
+          "link": ""
+        },
+        {
+          "ano": "1959",
+          "titulo": "A Review of B. F. Skinner's Verbal Behavior",
+          "link": "https://chomsky.info/1967____/"
+        },
+        {
+          "ano": "1965",
+          "titulo": "Aspects of the Theory of Syntax",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Ulric Neisser",
+      "periodo": "1928–2012",
+      "foto": "neisser.jpg",
+      "contribuicao": "Autor de 'Cognitive Psychology' (1967), livro que nomeou e estruturou o campo.\n\nDefiniu cognição como todos os processos pelos quais o input sensorial é transformado, reduzido, elaborado, armazenado e recuperado.\n\nInicialmente alinhado ao paradigma do processamento de informação, depois criticou a artificialidade dos experimentos de laboratório e propôs uma abordagem ecológica (influência de James Gibson).\n\nIntroduziu preocupação com validade ecológica — antecipando debates atuais sobre generalização experimental.",
+      "tags": [
+        "Experimental",
+        "Filosofia da ciência"
+      ],
+      "influencias": [
+        "George Miller",
+        "James Gibson",
+        "Jerome Bruner"
+      ],
+      "obras": [
+        {
+          "ano": "1967",
+          "titulo": "Cognitive Psychology",
+          "link": ""
+        },
+        {
+          "ano": "1976",
+          "titulo": "Cognition and Reality",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Michael Posner",
+      "periodo": "1936–presente",
+      "foto": "posner.jpg",
+      "contribuicao": "Pioneiro no estudo experimental da atenção.\n\nDesenvolveu o Posner Cueing Task (1978), demonstrando deslocamento encoberto de atenção e efeitos de facilitação/inibição (valid vs invalid cues).\n\nPropôs modelo das três redes atencionais:\n- alerta (noradrenérgica)\n- orientação (parietal)\n- controle executivo (cingulado anterior)\n\nIntegra psicologia cognitiva com neurociência (fMRI, EEG), sendo central na neurociência da atenção.\n\nInfluenciado por estudos de tempo de reação (Donders) e processamento seriado.",
+      "tags": [
+        "Experimental",
+        "Neuroimagem"
+      ],
+      "influencias": [
+        "George Miller",
+        "Donald Broadbent"
+      ],
+      "obras": [
+        {
+          "ano": "1980",
+          "titulo": "Orienting of Attention",
+          "link": ""
+        },
+        {
+          "ano": "1990",
+          "titulo": "The attention system of the human brain (com Petersen)",
+          "link": "https://doi.org/10.1146/annurev.ne.13.030190.000325"
+        }
+      ]
+    },
+    {
+      "nome": "Allen Newell",
+      "periodo": "1927–1992",
+      "foto": "newell.jpg",
+      "contribuicao": "Pioneiro da ciência cognitiva computacional.\n\nCo-criou com Herbert Simon o Logic Theorist (1956) e o General Problem Solver (GPS), primeiros programas de IA que simulavam raciocínio humano.\n\nDesenvolveu a arquitetura cognitiva SOAR, modelando cognição como sistema de produção (if-then rules).\n\nPropôs que cognição pode ser entendida como manipulação simbólica.\n\nInfluenciado por matemática, lógica e computação; ajudou a consolidar o paradigma computacional da mente."
+    },
+    {
+      "nome": "Donald Broadbent",
+      "periodo": "1926–1993",
+      "foto": "broadbent.jpg",
+      "contribuicao": "Propôs o modelo de filtro atencional (1958), um dos primeiros modelos formais de atenção.\n\nSugeriu que processamento é serial e que um filtro precoce seleciona informação com base em características físicas.\n\nBaseado em experimentos de escuta dicótica (shadowing tasks).\n\nInfluenciou diretamente Treisman e modelos posteriores de atenção seletiva.\n\nFortemente inspirado pela teoria da informação (Shannon).",
+      "tags": [
+        "Experimental"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1958",
+          "titulo": "Perception and Communication",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Anne Treisman",
+      "periodo": "1935–2018",
+      "foto": "treisman.jpg",
+      "contribuicao": "Refinou Broadbent com a teoria de atenuação (não bloqueio total, mas redução de sinal irrelevante).\n\nDesenvolveu a Feature Integration Theory (FIT):\n- características básicas (cor, forma) são processadas em paralelo\n- atenção é necessária para 'ligar' features em objetos\n\nExplicou fenômenos como ilusões de conjunção.\n\nInfluenciada por Broadbent; influenciou estudos modernos de atenção visual e binding neural.",
+      "tags": [
+        "Experimental"
+      ],
+      "influencias": [
+        "Donald Broadbent"
+      ],
+      "obras": [
+        {
+          "ano": "1980",
+          "titulo": "A feature-integration theory of attention (com Gelade)",
+          "link": "https://doi.org/10.1016/0010-0285(80)90005-5"
+        }
+      ]
+    },
+    {
+      "nome": "Endel Tulving",
+      "periodo": "1927–2023",
+      "foto": "tulving.jpg",
+      "contribuicao": "Distinguiu memória episódica (eventos autobiográficos) de memória semântica (conhecimento geral).\n\nIntroduziu conceito de 'viagem mental no tempo' (mental time travel) e consciência autonoética.\n\nPropôs organização hierárquica da memória.\n\nSeus trabalhos influenciaram profundamente neurociência da memória (hipocampo, amnésia).\n\nDialoga com estudos de H.M. (Scoville & Milner).",
+      "tags": [
+        "Experimental",
+        "Neuropsicológico"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1972",
+          "titulo": "Episodic and Semantic Memory",
+          "link": ""
+        },
+        {
+          "ano": "1983",
+          "titulo": "Elements of Episodic Memory",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Alan Baddeley",
+      "periodo": "1934–presente",
+      "foto": "baddeley.jpg",
+      "contribuicao": "Propôs o modelo de memória de trabalho (1974, com Hitch):\n- executivo central\n- alça fonológica\n- bloco visuoespacial\n\nPosteriormente adicionou o buffer episódico.\n\nSuperou o modelo unitário de memória de curto prazo de Miller.\n\nAltamente influente em educação, neuropsicologia e ciência cognitiva.\n\nBaseado em evidências de dupla tarefa e dissociações neuropsicológicas.",
+      "tags": [
+        "Experimental",
+        "Neuropsicológico"
+      ],
+      "influencias": [
+        "George Miller"
+      ],
+      "obras": [
+        {
+          "ano": "1974",
+          "titulo": "Working Memory (com Hitch)",
+          "link": ""
+        },
+        {
+          "ano": "2000",
+          "titulo": "The episodic buffer: a new component of working memory?",
+          "link": "https://doi.org/10.1016/S1364-6613(00)01538-2"
+        }
+      ]
+    },
+    {
+      "nome": "David Marr",
+      "periodo": "1945–1980",
+      "foto": "marr.jpg",
+      "contribuicao": "Propôs os três níveis de análise da cognição:\n- computacional (qual problema é resolvido)\n- algorítmico (como é resolvido)\n- implementacional (como é fisicamente realizado)\n\nAplicou isso à visão (ex: processamento de bordas, representações intermediárias).\n\nSeu framework é central para integrar psicologia, IA e neurociência.\n\nInfluenciado por computação e neurofisiologia.",
+      "tags": [
+        "Computacional",
+        "Matemática",
+        "Filosofia da ciência"
+      ],
+      "influencias": [
+        "Herbert Simon"
+      ],
+      "obras": [
+        {
+          "ano": "1982",
+          "titulo": "Vision",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "James Gibson",
+      "periodo": "1904–1979",
+      "foto": "gibson.jpg",
+      "contribuicao": "Propôs a teoria ecológica da percepção.\n\nRejeitou processamento interno pesado, defendendo que informação está no ambiente (affordances).\n\nPercepção é direta, não inferencial.\n\nInfluenciou Neisser (fase tardia), embodied cognition e robótica.\n\nContraponto ao paradigma computacional clássico.",
+      "tags": [
+        "Experimental",
+        "Filosofia da ciência"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1979",
+          "titulo": "The Ecological Approach to Visual Perception",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Jerome Bruner",
+      "periodo": "1915–2016",
+      "foto": "bruner.jpg",
+      "contribuicao": "Co-fundador da revolução cognitiva.\n\nEstudou categorização, representação e aprendizagem.\n\nPropôs modos de representação:\n- enativa (ação)\n- icônica (imagem)\n- simbólica (linguagem)\n\nContribuiu para psicologia educacional e cultura.\n\nColaborou com Miller e influenciou abordagens construtivistas.",
+      "tags": [
+        "Experimental",
+        "Filosofia da ciência"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1956",
+          "titulo": "A Study of Thinking",
+          "link": ""
+        },
+        {
+          "ano": "1990",
+          "titulo": "Acts of Meaning",
+          "link": ""
+        }
+      ]
+    }
+  ],
+  "Análise Experimental do Comportamento": [
+    {
+      "nome": "B. F. Skinner",
+      "periodo": "1904–1990",
+      "foto": "skinner.jpg",
+      "contribuicao": "Fundador do behaviorismo radical e da análise experimental do comportamento. Desenvolveu o conceito de condicionamento operante, distinguindo comportamento respondente (Pavlov) de operante (emitido e selecionado por consequências).\n\nFormalizou contingências de três termos (SD → R → SR), onde estímulos discriminativos (SD) sinalizam a disponibilidade de reforço para respostas (R) seguidas de consequências (SR).\n\nDesenvolveu os esquemas de reforçamento (FR, VR, FI, VI), demonstrando padrões estáveis de resposta (ex: pausas pós-reforço em FR, taxas altas em VR).\n\nCriou a Skinner Box, permitindo controle experimental preciso e mensuração contínua do comportamento.\n\nEm 'Verbal Behavior' (1957), propôs uma análise funcional da linguagem (mands, tacts, intraverbais), antecipando debates sobre cognição e linguagem.\n\nInfluenciado por Pavlov, Thorndike e pelo positivismo lógico; influenciou profundamente psicologia, educação, economia comportamental e ciência do comportamento aplicada (ABA).",
+      "tags": [
+        "Experimental",
+        "Modelagem animal"
+      ],
+      "influencias": [
+        "Edward Thorndike",
+        "Ivan Pavlov",
+        "John B. Watson"
+      ],
+      "obras": [
+        {
+          "ano": "1938",
+          "titulo": "The Behavior of Organisms",
+          "link": ""
+        },
+        {
+          "ano": "1953",
+          "titulo": "Science and Human Behavior",
+          "link": ""
+        },
+        {
+          "ano": "1957",
+          "titulo": "Verbal Behavior",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Richard Herrnstein",
+      "periodo": "1930–1994",
+      "foto": "herrnstein.jpg",
+      "contribuicao": "Formulou a Lei da Igualação (Matching Law, 1961), descrevendo quantitativamente a alocação de respostas em esquemas concorrentes:\n\nB1 / (B1 + B2) = R1 / (R1 + R2)\n\nou na forma generalizada:\n\nlog(B1/B2) = a·log(R1/R2) + log k\n\nonde 'a' representa sensibilidade à razão de reforço e 'k' viés.\n\nDemonstrou que organismos distribuem comportamento proporcionalmente às taxas de reforço, estabelecendo ponte direta entre psicologia experimental e teoria econômica.\n\nAluno de Skinner, influenciou modelos de escolha, economia comportamental e neuroeconomia.\n\nTambém investigou 'melhoramento relativo' vs maximização, desafiando modelos clássicos de decisão racional.",
+      "tags": [
+        "Experimental",
+        "Matemática",
+        "Modelagem animal"
+      ],
+      "influencias": [
+        "B. F. Skinner"
+      ],
+      "obras": [
+        {
+          "ano": "1961",
+          "titulo": "Relative and absolute strength of response as a function of frequency of reinforcement",
+          "link": "https://doi.org/10.1901/jeab.1961.4-267"
+        },
+        {
+          "ano": "1970",
+          "titulo": "On the law of effect",
+          "link": "https://doi.org/10.1901/jeab.1970.13-243"
+        }
+      ]
+    },
+    {
+      "nome": "John B. Watson",
+      "periodo": "1878–1958",
+      "foto": "watson.jpg",
+      "contribuicao": "Fundador do behaviorismo metodológico. No manifesto de 1913 ('Psychology as the Behaviorist Views It'), rejeitou introspecção e propôs que a psicologia deveria estudar apenas comportamento observável.\n\nExperimento do Pequeno Albert (1920, com Rosalie Rayner) demonstrou condicionamento de respostas emocionais, generalização de estímulos e aprendizagem de medo.\n\nDefendeu que comportamento humano poderia ser moldado integralmente pelo ambiente ('dê-me uma dúzia de crianças...').\n\nInfluenciado por Pavlov; abriu caminho para Skinner e a análise experimental do comportamento.",
+      "tags": [
+        "Experimental",
+        "Filosofia da ciência"
+      ],
+      "influencias": [
+        "Ivan Pavlov",
+        "Edward Thorndike"
+      ],
+      "obras": [
+        {
+          "ano": "1913",
+          "titulo": "Psychology as the Behaviorist Views It",
+          "link": "https://psychclassics.yorku.ca/Watson/views.htm"
+        },
+        {
+          "ano": "1920",
+          "titulo": "Conditioned emotional reactions (com Rayner)",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Ivan Pavlov",
+      "periodo": "1849–1936",
+      "foto": "pavlov.jpg",
+      "contribuicao": "Descobriu o condicionamento clássico (respondente) ao estudar reflexos digestivos em cães.\n\nFormalizou a associação entre estímulo condicionado (CS) e estímulo incondicionado (US), produzindo resposta condicionada (CR).\n\nInvestigou processos fundamentais:\n- aquisição\n- extinção\n- generalização\n- discriminação\n\nIntroduziu a ideia de 'reflexos condicionados' como base da aprendizagem.\n\nSeus achados influenciaram profundamente behaviorismo, neurociência e modelos contemporâneos de aprendizagem associativa (ex: modelos de erro de previsão).\n\nRecebeu o Nobel de Fisiologia em 1904.",
+      "tags": [
+        "Experimental",
+        "Modelagem animal"
+      ],
+      "influencias": [
+        "Hermann von Helmholtz"
+      ],
+      "obras": [
+        {
+          "ano": "1927",
+          "titulo": "Conditioned Reflexes",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Edward Thorndike",
+      "periodo": "1874–1949",
+      "foto": "thorndike.jpg",
+      "contribuicao": "Formulou a Lei do Efeito (1898) a partir de experimentos com caixas-problema:\n\nRespostas seguidas de consequências satisfatórias são fortalecidas; respostas seguidas de consequências aversivas são enfraquecidas.\n\nDescreveu aprendizagem como processo gradual (trial-and-error), não insight súbito.\n\nPropôs também a Lei do Exercício (uso fortalece conexões estímulo-resposta).\n\nSeus experimentos antecipam diretamente o condicionamento operante de Skinner e influenciaram teorias de aprendizagem e educação.\n\nFoi um dos primeiros a quantificar comportamento em laboratório.",
+      "tags": [
+        "Experimental",
+        "Modelagem animal"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1898",
+          "titulo": "Animal Intelligence: An Experimental Study",
+          "link": ""
+        },
+        {
+          "ano": "1911",
+          "titulo": "Animal Intelligence",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Howard Rachlin",
+      "periodo": "1935–2021",
+      "foto": "rachlin.jpg",
+      "contribuicao": "Desenvolveu o behaviorismo teleológico, propondo que comportamento deve ser entendido em padrões estendidos no tempo, não em respostas isoladas.\n\nEstudou autocontrole e desconto temporal, mostrando que escolhas impulsivas vs autocontroladas podem ser modeladas como conflito entre recompensas imediatas e atrasadas.\n\nContribuiu para modelos de desconto hiperbólico:\n\nV = A / (1 + kD)\n\nonde V é valor subjetivo, A magnitude e D atraso.\n\nInfluenciou economia comportamental e teorias modernas de decisão.\n\nAluno de Herrnstein, ajudou a expandir análise do comportamento para fenômenos complexos como altruísmo e cooperação.",
+      "tags": [
+        "Experimental",
+        "Matemática",
+        "Filosofia da ciência"
+      ],
+      "influencias": [
+        "Richard Herrnstein",
+        "B. F. Skinner"
+      ],
+      "obras": [
+        {
+          "ano": "2000",
+          "titulo": "The Science of Self-Control",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "William Baum",
+      "periodo": "1939–presente",
+      "foto": "baum.jpg",
+      "contribuicao": "Desenvolveu a abordagem molar do comportamento, defendendo análise em escalas temporais amplas (padrões de comportamento), em oposição à análise molecular (respostas discretas).\n\nRefinou a Lei da Igualação com a Lei Generalizada da Igualação, incorporando parâmetros de sensibilidade e viés.\n\nArgumentou que comportamento é melhor compreendido como distribuição temporal de atividades.\n\nContribuiu para integrar behaviorismo com teoria de sistemas e economia comportamental.\n\nAutor de 'Understanding Behaviorism', que sistematiza o behaviorismo moderno.",
+      "tags": [
+        "Experimental",
+        "Matemática"
+      ],
+      "influencias": [
+        "Richard Herrnstein",
+        "B. F. Skinner"
+      ],
+      "obras": [
+        {
+          "ano": "1974",
+          "titulo": "On two types of deviation from the matching law",
+          "link": "https://doi.org/10.1901/jeab.1974.22-231"
+        }
+      ]
+    },
+    {
+      "nome": "Allen Neuringer",
+      "periodo": "1940–presente",
+      "foto": "neuringer.jpg",
+      "contribuicao": "Demonstrou que variabilidade comportamental pode ser operantemente condicionada.\n\nMostrou que organismos podem aprender a produzir comportamento 'aleatório' sob contingências específicas.\n\nIsso expandiu a visão clássica do behaviorismo, mostrando que não apenas respostas específicas, mas padrões de variabilidade podem ser selecionados por consequências.\n\nConecta análise do comportamento com criatividade e exploração."
+    }
+  ],
+  "Economia comportamental": [
+    {
+      "nome": "Daniel Kahneman",
+      "periodo": "1934–2024",
+      "foto": "kahneman.jpg",
+      "contribuicao": "Nobel de Economia (2002). Com Amos Tversky, desenvolveu a Teoria do Prospecto (1979), mostrando que decisões sob risco violam a utilidade esperada.\n\nFunção de valor dependente de referência e com aversão à perda:\nV(x) = { x^α, se x ≥ 0; -λ(-x)^β, se x < 0 }\ncom λ > 1 (perdas pesam mais que ganhos).\n\nIntroduziu pesos de probabilidade não lineares π(p), explicando superponderação de pequenas probabilidades.\n\nPopularizou o modelo de dois sistemas (Sistema 1 rápido/heurístico; Sistema 2 lento/deliberativo) e documentou vieses como ancoragem, disponibilidade e representatividade.\n\nFormado na tradição cognitiva (influência de Herbert Simon); influenciou finanças comportamentais, políticas públicas e neuroeconomia.",
+      "tags": [
+        "Experimental",
+        "Matemática"
+      ],
+      "influencias": [
+        "Herbert Simon",
+        "Amos Tversky",
+        "Richard Herrnstein"
+      ],
+      "obras": [
+        {
+          "ano": "1979",
+          "titulo": "Prospect Theory: An Analysis of Decision under Risk (com Tversky)",
+          "link": "https://www.jstor.org/stable/1914185"
+        },
+        {
+          "ano": "2011",
+          "titulo": "Thinking, Fast and Slow",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Amos Tversky",
+      "periodo": "1937–1996",
+      "foto": "tversky.jpg",
+      "contribuicao": "Coautor com Kahneman da heurística e vieses.\n\nDemonstrou experimentalmente:\n- representatividade (insensibilidade a tamanho de amostra, regressão à média)\n- disponibilidade (frequência julgada pela facilidade de lembrança)\n- ancoragem e ajuste\n\nCo-criou a Prospect Theory e estudos de framing (mesmo problema → decisões diferentes conforme enquadramento).\n\nInfluenciado por Herbert Simon (racionalidade limitada) e pela tradição psicofísica; seu trabalho redefiniu decisão como processo sistematicamente enviesado.",
+      "tags": [
+        "Experimental",
+        "Matemática"
+      ],
+      "influencias": [
+        "Herbert Simon",
+        "S. S. Stevens",
+        "R. Duncan Luce"
+      ],
+      "obras": [
+        {
+          "ano": "1974",
+          "titulo": "Judgment under Uncertainty: Heuristics and Biases (com Kahneman)",
+          "link": "https://doi.org/10.1126/science.185.4157.1124"
+        }
+      ]
+    },
+    {
+      "nome": "Richard Thaler",
+      "periodo": "1945–presente",
+      "foto": "thaler.jpg",
+      "contribuicao": "Nobel de Economia (2017). Integra psicologia à economia aplicada.\n\nDesenvolveu:\n- Contabilidade mental (segregação de ganhos/perdas; violação de fungibilidade)\n- Endowment effect (WTA > WTP)\n- Planejador vs executor (autocontrole)\n\nCom Cass Sunstein, criou o conceito de *Nudge* (arquitetura de escolha), influenciando políticas públicas (defaults, enquadramento, saliência).\n\nColaborou com Kahneman/Tversky; influenciou políticas de aposentadoria, saúde e finanças comportamentais.",
+      "tags": [
+        "Experimental",
+        "Matemática"
+      ],
+      "influencias": [
+        "Daniel Kahneman",
+        "Amos Tversky",
+        "Herbert Simon",
+        "Howard Rachlin"
+      ],
+      "obras": [
+        {
+          "ano": "2008",
+          "titulo": "Nudge (com Sunstein)",
+          "link": ""
+        },
+        {
+          "ano": "2015",
+          "titulo": "Misbehaving: The Making of Behavioral Economics",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Herbert Simon",
+      "periodo": "1916–2001",
+      "foto": "simon.jpg",
+      "contribuicao": "Nobel de Economia (1978). Introduziu racionalidade limitada e *satisficing*.\n\nModelou decisão como busca em espaço de estados sob restrições computacionais.\n\nPioneiro em IA (com Allen Newell: General Problem Solver) e ciência cognitiva.\n\nForneceu a base conceitual para heurísticas (Kahneman & Tversky) e para modelos de decisão realistas em economia.",
+      "tags": [
+        "Computacional",
+        "Matemática",
+        "Filosofia da ciência"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1955",
+          "titulo": "A Behavioral Model of Rational Choice",
+          "link": ""
+        },
+        {
+          "ano": "1969",
+          "titulo": "The Sciences of the Artificial",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "R. Duncan Luce",
+      "periodo": "1925–2012",
+      "foto": "luce.jpg",
+      "contribuicao": "Fundamental na psicologia matemática e teoria da decisão.\n\nFormulou o Axioma de Escolha de Luce (1959):\nP(i|S) = v_i / Σ_{j∈S} v_j\nonde v_i é o valor de utilidade do item i.\n\nBase para modelos probabilísticos de escolha (logit/softmax) e conexão com psicofísica (Lei de Thurstone–Mosteller).\n\nInfluenciou econometria, marketing quantitativo e modelos de escolha discreta.",
+      "tags": [
+        "Matemática",
+        "Experimental"
+      ],
+      "influencias": [
+        "S. S. Stevens",
+        "Gustav Fechner"
+      ],
+      "obras": [
+        {
+          "ano": "1959",
+          "titulo": "Individual Choice Behavior: A Theoretical Analysis",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Colin Camerer",
+      "periodo": "1959–presente",
+      "foto": "camerer.jpg",
+      "contribuicao": "Pioneiro da economia experimental e neuroeconomia.\n\nUsou jogos econômicos (Ultimatum, Dictator, Trust Game) para mostrar preferências sociais (equidade, reciprocidade).\n\nIntegra dados comportamentais com medidas neurais (fMRI), conectando decisão a sistemas de recompensa (estriado) e controle (PFC).\n\nInfluenciado por Kahneman/Tversky e teoria dos jogos; influenciou políticas e design de mercados."
+    },
+    {
+      "nome": "Ernst Fehr",
+      "periodo": "1956–presente",
+      "foto": "fehr.jpg",
+      "contribuicao": "Estudos experimentais de cooperação e punição altruísta.\n\nMostrou que indivíduos punem violações de normas mesmo com custo próprio, sustentando cooperação em bens públicos.\n\nCo-desenvolveu modelos de preferências sociais (inequity aversion com Schmidt):\nU_i = x_i − α_i max(x_j − x_i, 0) − β_i max(x_i − x_j, 0)\n\nIntegra psicologia social com economia; impacto em desenho institucional e políticas."
+    },
+    {
+      "nome": "David Laibson",
+      "periodo": "1966–presente",
+      "foto": "laibson.jpg",
+      "contribuicao": "Introduziu o desconto hiperbólico quase-hiperbólico (β–δ):\nU_t = u_t + β Σ_{k=1}^{∞} δ^k u_{t+k}, com 0<β≤1.\n\nExplica inconsistência temporal (preferências reversas) e problemas de autocontrole.\n\nAplicações em poupança, aposentadoria e vícios.\n\nConecta economia com psicologia do tempo (Rachlin, Ainslie)."
+    },
+    {
+      "nome": "George Loewenstein",
+      "periodo": "1955–presente",
+      "foto": "loewenstein.jpg",
+      "contribuicao": "Integra emoção e decisão.\n\n'Hot–cold empathy gap': estados emocionais alteram preferências e previsões.\n\nTeoria do *information gap* (curiosidade) e estudos sobre utilidade antecipada/experiencial.\n\nMostrou que estados afetivos (dor, fome, excitação) distorcem julgamento — ponte entre economia comportamental e neuro/afeto."
+    }
+  ],
+  "Psicologia social": [
+    {
+      "nome": "Kurt Lewin",
+      "periodo": "1890–1947",
+      "foto": "lewin.jpg",
+      "contribuicao": "Fundador da psicologia social moderna.\n\nFormulou a Teoria de Campo:\nB = f(P, E)\n(comportamento é função da pessoa e do ambiente).\n\nIntroduziu o conceito de 'espaço de vida' (life space), onde forças psicológicas atuam como vetores.\n\nPioneiro da pesquisa-ação e dinâmica de grupos (group dynamics), estudando liderança, coesão e mudança social.\n\nInfluenciado pela Gestalt; formou toda uma geração (Festinger, Cartwright, etc.).",
+      "tags": [
+        "Experimental",
+        "Filosofia da ciência"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1936",
+          "titulo": "Principles of Topological Psychology",
+          "link": ""
+        },
+        {
+          "ano": "1951",
+          "titulo": "Field Theory in Social Science",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Leon Festinger",
+      "periodo": "1919–1989",
+      "foto": "festinger.jpg",
+      "contribuicao": "Criador da Teoria da Dissonância Cognitiva (1957):\n\nIndivíduos buscam consistência entre crenças, atitudes e comportamento; inconsistências geram desconforto (dissonância), levando à mudança cognitiva.\n\nExperimento clássico (1959): participantes pagos $1 vs $20 para mentir — menos recompensa levou a maior mudança de atitude.\n\nTambém desenvolveu a Teoria da Comparação Social (1954): avaliamos nossas opiniões comparando com outros.\n\nAluno de Lewin; extremamente influente em cognição social e tomada de decisão.",
+      "tags": [
+        "Experimental"
+      ],
+      "influencias": [
+        "Kurt Lewin"
+      ],
+      "obras": [
+        {
+          "ano": "1957",
+          "titulo": "A Theory of Cognitive Dissonance",
+          "link": ""
+        },
+        {
+          "ano": "1959",
+          "titulo": "Cognitive consequences of forced compliance (com Carlsmith)",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Stanley Milgram",
+      "periodo": "1933–1984",
+      "foto": "milgram.jpg",
+      "contribuicao": "Experimentos de obediência (1961–63): participantes aplicavam choques potencialmente letais sob autoridade.\n\nMostrou alta taxa de obediência (~65%).\n\nIntroduziu conceito de 'estado agente': indivíduos veem-se como executores da vontade de uma autoridade.\n\nVariáveis críticas:\n- proximidade da vítima\n- legitimidade da autoridade\n- presença de dissenso\n\nTambém estudou redes sociais ('small world experiment' → seis graus de separação).\n\nInfluenciado por Asch.",
+      "tags": [
+        "Experimental"
+      ],
+      "influencias": [
+        "Solomon Asch"
+      ],
+      "obras": [
+        {
+          "ano": "1963",
+          "titulo": "Behavioral Study of Obedience",
+          "link": ""
+        },
+        {
+          "ano": "1974",
+          "titulo": "Obedience to Authority",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Philip Zimbardo",
+      "periodo": "1933–2024",
+      "foto": "zimbardo.jpg",
+      "contribuicao": "Experimento da Prisão de Stanford (1971): estudantes assumiram papéis de guardas/prisioneiros.\n\nMostrou rápida internalização de papéis sociais e comportamento abusivo.\n\nIntroduziu conceito de 'efeito Lúcifer': situações podem transformar comportamento moral.\n\nEstudou desindividualização (anonimato → perda de autocontrole).\n\nPosteriormente criticado por questões metodológicas, mas ainda influente conceitualmente.",
+      "tags": [
+        "Experimental",
+        "Observacional"
+      ],
+      "influencias": [
+        "Stanley Milgram"
+      ],
+      "obras": [
+        {
+          "ano": "1971",
+          "titulo": "The Stanford Prison Experiment (relatório)",
+          "link": ""
+        },
+        {
+          "ano": "2007",
+          "titulo": "The Lucifer Effect",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Solomon Asch",
+      "periodo": "1907–1996",
+      "foto": "asch.jpg",
+      "contribuicao": "Experimentos de conformidade (1951): indivíduos concordavam com respostas obviamente erradas sob pressão de grupo.\n\nDemonstrou dois tipos de influência:\n- normativa (desejo de aceitação)\n- informacional (dúvida sobre percepção)\n\nMostrou que presença de um único dissidente reduz drasticamente a conformidade.\n\nInfluenciou Milgram e toda a psicologia social experimental.",
+      "tags": [
+        "Experimental"
+      ],
+      "influencias": [
+        "Kurt Lewin"
+      ],
+      "obras": [
+        {
+          "ano": "1951",
+          "titulo": "Effects of group pressure upon the modification and distortion of judgment",
+          "link": ""
+        },
+        {
+          "ano": "1955",
+          "titulo": "Opinions and Social Pressure",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Elliot Aronson",
+      "periodo": "1932–presente",
+      "foto": "aronson.jpg",
+      "contribuicao": "Refinou a teoria da dissonância cognitiva com foco no self (self-consistency).\n\nDesenvolveu o paradigma da 'justificação insuficiente' e aplicações educacionais.\n\nCriou a técnica da 'jigsaw classroom' para reduzir preconceito via interdependência cooperativa.\n\nAutor de 'The Social Animal', síntese influente da área.\n\nAluno de Festinger.",
+      "tags": [
+        "Experimental"
+      ],
+      "influencias": [
+        "Leon Festinger"
+      ],
+      "obras": [
+        {
+          "ano": "1972",
+          "titulo": "The Social Animal",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Henri Tajfel",
+      "periodo": "1919–1982",
+      "foto": "tajfel.jpg",
+      "contribuicao": "Criador da Teoria da Identidade Social.\n\nExperimentos de grupos mínimos mostraram que mera categorização arbitrária gera favoritismo intragrupal.\n\nPropôs que identidade social contribui para autoestima.\n\nExplicou preconceito como consequência de processos cognitivos básicos (categorização).\n\nInfluenciou John Turner (Self-Categorization Theory)."
+    },
+    {
+      "nome": "John Turner",
+      "periodo": "1947–2011",
+      "foto": "turner.jpg",
+      "contribuicao": "Desenvolveu a Teoria da Autocategorização.\n\nExplicou como indivíduos alternam entre níveis de identidade (pessoal vs social).\n\nIntroduziu conceito de despersonalização: indivíduos agem como membros de grupo.\n\nComplementa e formaliza a teoria de Tajfel."
+    },
+    {
+      "nome": "Fritz Heider",
+      "periodo": "1896–1988",
+      "foto": "heider.jpg",
+      "contribuicao": "Fundador da teoria da atribuição.\n\nPropôs que indivíduos são 'cientistas ingênuos' tentando inferir causas do comportamento.\n\nIntroduziu distinção:\n- causas internas (disposicionais)\n- causas externas (situacionais)\n\nBase para todo o campo de atribuição causal."
+    },
+    {
+      "nome": "Harold Kelley",
+      "periodo": "1921–2003",
+      "foto": "kelley.jpg",
+      "contribuicao": "Desenvolveu o modelo de covariação na atribuição:\n\nCausa inferida com base em:\n- consenso\n- consistência\n- distintividade\n\nFormalizou atribuição como processo quase estatístico.\n\nExpandiu a teoria de Heider."
+    },
+    {
+      "nome": "Lee Ross",
+      "periodo": "1942–2021",
+      "foto": "ross.jpg",
+      "contribuicao": "Identificou o erro fundamental de atribuição: tendência a superestimar causas internas e subestimar o contexto.\n\nEstudou viés ator-observador e falso consenso.\n\nDemonstrou limites da introspecção (Nisbett & Wilson, 1977): pessoas não acessam causas reais de suas decisões.\n\nContribuiu para a crítica da racionalidade intuitiva."
+    },
+    {
+      "nome": "Susan Fiske",
+      "periodo": "1952–presente",
+      "foto": "fiske.jpg",
+      "contribuicao": "Modelo de Conteúdo de Estereótipos (SCM): grupos são avaliados em duas dimensões:\n- calor (intenção)\n- competência (capacidade)\n\nPrediz emoções sociais (inveja, desprezo, admiração).\n\nDesenvolveu também teoria de cognição social baseada em economia cognitiva.\n\nInfluente na psicologia social contemporânea."
+    },
+    {
+      "nome": "Anthony Greenwald",
+      "periodo": "1936–presente",
+      "foto": "greenwald.jpg",
+      "contribuicao": "Criador do Implicit Association Test (IAT).\n\nMede atitudes implícitas via tempos de reação.\n\nMostrou que vieses podem operar fora da consciência.\n\nInfluenciou estudos de preconceito implícito e políticas públicas.\n\nConectou cognição social com processos automáticos."
+    },
+    {
+      "nome": "Muzafer Sherif",
+      "periodo": "1906–1988",
+      "foto": "sherif.jpg",
+      "contribuicao": "Experimentos Robbers Cave (1954): conflito intergrupal entre grupos de meninos.\n\nMostrou que competição gera hostilidade, e metas superordenadas reduzem conflito.\n\nTambém estudou normas sociais com o efeito autocinético.\n\nPioneiro em normas sociais e dinâmica intergrupal."
+    },
+    {
+      "nome": "John Darley e Bibb Latané",
+      "periodo": "1938-2018 / 1937–presente",
+      "foto": "darley_latane.jpg",
+      "contribuicao": "Efeito espectador (1968)\n\n Eles descobriram que a presença de outras pessoas diminui a chance de um indivíduo ajudar em emergências, fenômeno conhecido como difusão de responsabilidade. Quanto maior o grupo, menor a probabilidade de intervenção, demonstrando que a apatia é um processo social, não individual."
+    }
+  ],
+  "Antropologia": [
+    {
+      "nome": "Claude Lévi-Strauss",
+      "periodo": "1908–2009",
+      "foto": "levi_strauss.jpg",
+      "contribuicao": "Fundador da antropologia estruturalista.\n\nPropôs que culturas são organizadas por estruturas mentais universais, especialmente oposições binárias (natureza/cultura, cru/cozido).\n\nAplicou métodos da linguística estrutural (influência de Ferdinand de Saussure) ao estudo de mitos e parentesco.\n\nObras centrais: 'As Estruturas Elementares do Parentesco' (1949), 'O Pensamento Selvagem' (1962), 'Mitológicas'.\n\nArgumentou que mitos de diferentes culturas compartilham transformações estruturais.\n\nInfluenciou profundamente filosofia, psicanálise (Lacan) e ciências humanas.",
+      "tags": [
+        "Etnográfico",
+        "Filosofia da ciência"
+      ],
+      "influencias": [
+        "Franz Boas"
+      ],
+      "obras": [
+        {
+          "ano": "1949",
+          "titulo": "Les Structures élémentaires de la parenté",
+          "link": ""
+        },
+        {
+          "ano": "1962",
+          "titulo": "La Pensée sauvage",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Bronisław Malinowski",
+      "periodo": "1884–1942",
+      "foto": "malinowski.jpg",
+      "contribuicao": "Fundador da etnografia moderna baseada em observação participante.\n\nRealizou trabalho de campo prolongado nas Ilhas Trobriand.\n\nObra central: 'Argonautas do Pacífico Ocidental' (1922).\n\nDesenvolveu o funcionalismo: instituições culturais existem para satisfazer necessidades humanas (biológicas e psicológicas).\n\nEstudou o sistema Kula, mostrando trocas simbólicas complexas não reduzíveis a economia utilitária.\n\nRevolucionou o método: imersão total, língua local, registro detalhado do cotidiano.",
+      "tags": [
+        "Etnográfico",
+        "Trabalho de campo",
+        "Observacional"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1922",
+          "titulo": "Argonauts of the Western Pacific",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Franz Boas",
+      "periodo": "1858–1942",
+      "foto": "boas.jpg",
+      "contribuicao": "Pai da antropologia americana.\n\nCombateu o racismo científico e o determinismo biológico.\n\nPropôs o particularismo histórico: cada cultura deve ser entendida em seus próprios termos.\n\nDefendeu o relativismo cultural.\n\nDemonstrou plasticidade biológica (estudos com imigrantes → forma craniana muda com ambiente).\n\nFormou a primeira grande geração de antropólogos nos EUA (Mead, Benedict, Sapir).\n\nInfluenciado pela geografia e física; transformou antropologia em ciência empírica.",
+      "tags": [
+        "Etnográfico",
+        "Trabalho de campo"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1911",
+          "titulo": "The Mind of Primitive Man",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Margaret Mead",
+      "periodo": "1901–1978",
+      "foto": "mead.jpg",
+      "contribuicao": "Aluna de Boas.\n\nEm 'Coming of Age in Samoa' (1928), argumentou que adolescência é culturalmente moldada, não biologicamente universal.\n\nEstudos em Nova Guiné mostraram variação de papéis de gênero (ex: Arapesh, Mundugumor, Tchambuli).\n\nPopularizou a antropologia para o público.\n\nInfluenciou debates sobre natureza vs cultura.\n\nPosteriormente criticada metodologicamente (Derek Freeman), gerando debate sobre validade etnográfica.",
+      "tags": [
+        "Etnográfico",
+        "Trabalho de campo",
+        "Observacional"
+      ],
+      "influencias": [
+        "Franz Boas"
+      ],
+      "obras": [
+        {
+          "ano": "1928",
+          "titulo": "Coming of Age in Samoa",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Clifford Geertz",
+      "periodo": "1926–2006",
+      "foto": "geertz.jpg",
+      "contribuicao": "Principal nome da antropologia interpretativa.\n\nPropôs que cultura é um sistema de significados compartilhados.\n\nMétodo de 'descrição densa' (thick description): interpretar camadas de significado.\n\nExemplo clássico: briga de galos em Bali.\n\nObra central: 'A Interpretação das Culturas' (1973).\n\nInfluenciado por Max Weber (cultura como teia de significados).\n\nMudou o foco de explicação causal para interpretação simbólica.",
+      "tags": [
+        "Etnográfico",
+        "Filosofia da ciência"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1973",
+          "titulo": "The Interpretation of Cultures",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "A. R. Radcliffe-Brown",
+      "periodo": "1881–1955",
+      "foto": "radcliffe_brown.jpg",
+      "contribuicao": "Co-fundador do estrutural-funcionalismo.\n\nDiferente de Malinowski, focou não nas necessidades individuais, mas na função das instituições para a manutenção da estrutura social.\n\nInspirado por Émile Durkheim.\n\nEstudou sistemas de parentesco e organização social como estruturas estáveis.\n\nBuscou leis gerais da organização social."
+    },
+    {
+      "nome": "Edward Tylor",
+      "periodo": "1832–1917",
+      "foto": "tylor.jpg",
+      "contribuicao": "Um dos primeiros antropólogos.\n\nDefiniu cultura como:\n'complexo que inclui conhecimento, crença, arte, moral, lei e costumes'.\n\nPropôs evolucionismo cultural unilinear (sociedades evoluem de 'primitivas' a 'civilizadas').\n\nHoje criticado por etnocentrismo, mas importante historicamente.\n\nIntroduziu conceito de animismo."
+    },
+    {
+      "nome": "Lewis Henry Morgan",
+      "periodo": "1818–1881",
+      "foto": "morgan.jpg",
+      "contribuicao": "Pioneiro do evolucionismo cultural.\n\nClassificou sociedades em estágios (selvageria, barbárie, civilização).\n\nEstudou sistemas de parentesco (Iroqueses).\n\nInfluenciou Karl Marx e Friedrich Engels.\n\nImportante para o desenvolvimento inicial da antropologia."
+    },
+    {
+      "nome": "Edward Sapir",
+      "periodo": "1884–1939",
+      "foto": "sapir.jpg",
+      "contribuicao": "Aluno de Boas.\n\nPioneiro da antropologia linguística.\n\nCoformulador da hipótese Sapir-Whorf (relatividade linguística): linguagem influencia pensamento.\n\nEstudou relação entre linguagem, cultura e cognição.\n\nInfluenciou sociolinguística e ciência cognitiva."
+    },
+    {
+      "nome": "Benjamin Lee Whorf",
+      "periodo": "1897–1941",
+      "foto": "whorf.jpg",
+      "contribuicao": "Desenvolveu a hipótese Sapir-Whorf.\n\nArgumentou que categorias linguísticas moldam percepção e pensamento.\n\nExemplos famosos (Hopi e tempo).\n\nHoje reformulada como versão fraca (influência, não determinação).\n\nImportante ponte entre antropologia e cognição."
+    },
+    {
+      "nome": "Marvin Harris",
+      "periodo": "1927–2001",
+      "foto": "harris.jpg",
+      "contribuicao": "Criador do materialismo cultural.\n\nPropôs que práticas culturais são explicadas por fatores materiais (ecologia, economia).\n\nExemplo: vacas sagradas na Índia → função ecológica/econômica.\n\nDistinguiu:\n- infraestrutura (base material)\n- estrutura\n- superestrutura\n\nBuscou explicações causais mais objetivas na antropologia."
+    },
+    {
+      "nome": "Marshall Sahlins",
+      "periodo": "1930–2021",
+      "foto": "sahlins.jpg",
+      "contribuicao": "Crítico do reducionismo econômico.\n\nMostrou que sociedades 'primitivas' não são necessariamente pobres (\"economia da abundância original\").\n\nIntegra cultura, economia e simbolismo.\n\nDebate famoso com Marvin Harris.\n\nInfluenciado por Lévi-Strauss e pela antropologia simbólica."
+    }
+  ],
+  "Neurociência": [
+    {
+      "nome": "Santiago Ramón y Cajal",
+      "periodo": "1852–1934",
+      "foto": "cajal.jpg",
+      "contribuicao": "Pai da neurociência moderna. Nobel (1906, com Golgi).\n\nEstabeleceu a doutrina do neurônio (células discretas) e o princípio da polarização dinâmica (fluxo direcional de informação: dendritos → soma → axônio).\n\nUsando a técnica de Golgi, descreveu morfologia de neurônios e circuitos (córtex, retina, cerebelo).\n\nSeus desenhos detalhados ainda são referência.\n\nRefutou a teoria reticular e fundou a neuroanatomia moderna.",
+      "tags": [
+        "Observacional"
+      ],
+      "influencias": [
+        "Camillo Golgi"
+      ],
+      "obras": [
+        {
+          "ano": "1894",
+          "titulo": "Les Nouvelles Idées sur la Structure du Système Nerveux",
+          "link": ""
+        },
+        {
+          "ano": "1899-1904",
+          "titulo": "Textura del Sistema Nervioso del Hombre y de los Vertebrados",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Camillo Golgi",
+      "periodo": "1843–1926",
+      "foto": "golgi.jpg",
+      "contribuicao": "Desenvolveu a 'reação negra' (coloração com prata), permitindo visualizar neurônios individuais em meio ao tecido.\n\nDescobriu o complexo de Golgi (organelo celular).\n\nDefendeu a teoria reticular (rede contínua), posteriormente refutada por Cajal.\n\nSua técnica foi crucial para toda a neuroanatomia do século XX.",
+      "tags": [
+        "Observacional"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1873",
+          "titulo": "Sulla struttura della sostanza grigia del cervello",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Alan Hodgkin & Andrew Huxley",
+      "periodo": "1914–1998 / 1917–2012",
+      "foto": "hodgkin_huxley.jpg",
+      "contribuicao": "Nobel (1963). Modelaram matematicamente o potencial de ação no axônio gigante de lula.\n\nSistema de equações diferenciais descrevendo correntes de Na⁺ e K⁺ dependentes de voltagem:\nC_m dV/dt = -g_Na m^3h(V - E_Na) - g_K n^4(V - E_K) - g_L(V - E_L) + I\n\nIntroduziram variáveis de porta (m, h, n) e condutâncias dinâmicas.\n\nBase da neurofisiologia e da neurociência computacional (modelos de neurônio, redes).",
+      "tags": [
+        "Experimental",
+        "Eletrofisiologia",
+        "Matemática",
+        "Computacional"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1952",
+          "titulo": "A quantitative description of membrane current... (série de 5 artigos)",
+          "link": "https://doi.org/10.1113/jphysiol.1952.sp004764"
+        }
+      ]
+    },
+    {
+      "nome": "Donald Hebb",
+      "periodo": "1904–1985",
+      "foto": "hebb.jpg",
+      "contribuicao": "Em 'The Organization of Behavior' (1949), propôs a regra hebbiana:\n'neurônios que disparam juntos se conectam'.\n\nIntroduziu 'cell assemblies' (conjuntos de neurônios que codificam representações).\n\nBase conceitual da plasticidade sináptica e de algoritmos de aprendizado em redes neurais.\n\nInfluenciou diretamente a descoberta de LTP e modelos conexionistas.",
+      "tags": [
+        "Filosofia da ciência",
+        "Computacional"
+      ],
+      "influencias": [
+        "Ivan Pavlov",
+        "Edward Thorndike"
+      ],
+      "obras": [
+        {
+          "ano": "1949",
+          "titulo": "The Organization of Behavior",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Eric Kandel",
+      "periodo": "1929–presente",
+      "foto": "kandel.jpg",
+      "contribuicao": "Nobel (2000). Demonstrou bases celulares/moleculares da aprendizagem em Aplysia.\n\nMostrou que:\n- habituação → diminuição de liberação sináptica\n- sensibilização → aumento via serotonina\n\nIdentificou cascatas de sinalização (cAMP, PKA, CREB) que levam a mudanças sinápticas duradouras.\n\nConectou memória a plasticidade sináptica.\n\nIntegra biologia molecular, comportamento e memória.",
+      "tags": [
+        "Experimental",
+        "Eletrofisiologia",
+        "Modelagem animal"
+      ],
+      "influencias": [
+        "Donald Hebb"
+      ],
+      "obras": [
+        {
+          "ano": "2001",
+          "titulo": "The molecular biology of memory storage",
+          "link": "https://doi.org/10.1126/science.1067020"
+        },
+        {
+          "ano": "2006",
+          "titulo": "In Search of Memory",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "Michael Gazzaniga",
+      "periodo": "1939–presente",
+      "foto": "gazzaniga.jpg",
+      "contribuicao": "Pioneiro nos estudos de cérebro dividido (split-brain), com Roger Sperry.\n\nMostrou lateralização funcional (linguagem no hemisfério esquerdo).\n\nPropôs o conceito de 'intérprete' — mecanismo do hemisfério esquerdo que constrói narrativas coerentes.\n\nCunhou o termo 'neurociência cognitiva'.\n\nConectou neurociência com cognição e consciência.",
+      "tags": [
+        "Experimental",
+        "Neuropsicológico",
+        "Clínico"
+      ],
+      "influencias": [],
+      "obras": [
+        {
+          "ano": "1985",
+          "titulo": "The Social Brain",
+          "link": ""
+        },
+        {
+          "ano": "2011",
+          "titulo": "Who's in Charge? Free Will and the Science of the Brain",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "nome": "James Olds",
+      "periodo": "1922–1976",
+      "foto": "olds.jpg",
+      "contribuicao": "Com Peter Milner (1954), descobriu o sistema de recompensa por autoestimulação elétrica.\n\nRatos pressionavam alavancas milhares de vezes para estimular o feixe prosencefálico medial.\n\nFundou o estudo dos circuitos de recompensa (posteriormente ligados à dopamina).\n\nBase para estudos de motivação, vício e reforço."
+    }
+  ],
+  "Psicofísica": [
+    {
+      "nome": "Ernst Weber",
+      "periodo": "1795–1878",
+      "foto": "weber_e.jpg",
+      "contribuicao": "Pioneiro da psicofísica.\n\nFormulou a Lei de Weber (ΔI/I = k).\n\nMostrou que percepção de diferença é relativa à intensidade inicial.\n\nBase experimental para Fechner."
+    },
+    {
+      "nome": "Gustav Fechner",
+      "periodo": "1801–1887",
+      "foto": "fechner.jpg",
+      "contribuicao": "Pai da psicofísica.\n\nFormulou a Lei de Fechner (S = k log I).\n\nRelacionou mundo físico (estímulo) e mental (sensação).\n\nMarco fundador da psicologia experimental (1860)."
+    },
+    {
+      "nome": "S. S. Stevens",
+      "periodo": "1906–1973",
+      "foto": "stevens.jpg",
+      "contribuicao": "Desenvolveu a Lei da Potência de Stevens (S = k Iⁿ).\n\nClassificou escalas de mensuração (nominal, ordinal, intervalar, razão).\n\nRefinou a psicofísica clássica."
+    },
+    {
+      "nome": "George A. Miller",
+      "periodo": "1920–2012",
+      "foto": "miller.jpg",
+      "contribuicao": "Aplicou teoria da informação à psicofísica.\n\nEstudou capacidade de processamento humano em bits.\n\nLigou percepção a limitações cognitivas.\n\nInfluenciado por Shannon.\n\nPonte entre psicofísica e psicologia cognitiva."
+    }
+  ],
+  "Psicologia evolutiva": [
+    {
+      "nome": "Leda Cosmides",
+      "periodo": "1957–presente",
+      "foto": "cosmides.jpg",
+      "contribuicao": "Cofundadora da psicologia evolutiva. Demonstrou que a mente possui módulos especializados moldados pela seleção natural.\n\nExperimento clássico do problema de Wason mostrou desempenho superior quando tarefas envolvem contratos sociais (detecção de trapaceiros).\n\nPropôs mecanismos cognitivos adaptativos específicos."
+    },
+    {
+      "nome": "John Tooby",
+      "periodo": "1952–presente",
+      "foto": "tooby.jpg",
+      "contribuicao": "Co-fundador da psicologia evolutiva com Cosmides.\n\nDefendeu que a mente é composta por adaptações evolutivas específicas (contra visão de mente geral).\n\nIntegra biologia evolutiva com cognição humana.\n\nInfluenciado por Hamilton, Trivers e Dawkins."
+    }
+  ],
+  "Genética populacional humana": [
+    {
+      "nome": "R. A. Fisher",
+      "periodo": "1890–1962",
+      "foto": "fisher.jpg",
+      "contribuicao": "Fundador da genética populacional moderna.\n\nEquação fundamental da seleção natural.\n\nIntroduziu máxima verossimilhança e ANOVA.\n\nIntegra genética mendeliana com seleção natural."
+    },
+    {
+      "nome": "Sewall Wright",
+      "periodo": "1889–1988",
+      "foto": "wright.jpg",
+      "contribuicao": "Desenvolveu conceito de deriva genética e paisagem adaptativa.\n\nIntroduziu coeficiente de endogamia (F).\n\nModelo de equilíbrio entre seleção, mutação e deriva."
+    }
+  ],
+  "Neuroevolução": [
+    {
+      "nome": "Paul MacLean",
+      "periodo": "1913–2007",
+      "foto": "maclean.jpg",
+      "contribuicao": "Propôs o modelo do cérebro triuno (reptiliano, límbico, neocórtex).\n\nEmbora simplificado, influenciou fortemente a compreensão evolutiva do cérebro."
+    },
+    {
+      "nome": "Terrence Deacon",
+      "periodo": "1950–presente",
+      "foto": "deacon.jpg",
+      "contribuicao": "Estudou evolução do cérebro e linguagem.\n\nMostrou coevolução entre linguagem e estrutura neural.\n\nObra: 'The Symbolic Species'."
+    }
+  ],
+  "Evolução cultural": [
+    {
+      "nome": "Joseph Henrich",
+      "periodo": "1968–presente",
+      "foto": "henrich.jpg",
+      "contribuicao": "Desenvolveu teoria da evolução cultural cumulativa.\n\nMostrou que cultura evolui por transmissão social e seleção.\n\nConceito WEIRD populations."
+    },
+    {
+      "nome": "Boyd & Richerson",
+      "periodo": "—",
+      "foto": "boyd_richerson.jpg",
+      "contribuicao": "Modelaram transmissão cultural com equações evolutivas.\n\nIntroduziram vieses de transmissão (conformista, prestígio).\n\nFundadores da teoria da evolução cultural."
+    }
+  ],
+  "Epigenética evolutiva": [
+    {
+      "nome": "Conrad Waddington",
+      "periodo": "1905–1975",
+      "foto": "waddington.jpg",
+      "contribuicao": "Introduziu o conceito de epigenética.\n\nPaisagem epigenética como metáfora do desenvolvimento.\n\nMostrou interação gene-ambiente."
+    },
+    {
+      "nome": "Eva Jablonka",
+      "periodo": "1952–presente",
+      "foto": "jablonka.jpg",
+      "contribuicao": "Defende herança epigenética como mecanismo evolutivo.\n\nPropôs múltiplos sistemas de herança (genético, epigenético, comportamental, simbólico)."
+    }
+  ],
+  "Psicologia cultural": [
+    {
+      "nome": "Richard Shweder",
+      "periodo": "1945–presente",
+      "foto": "shweder.jpg",
+      "contribuicao": "Defendeu que cognição é culturalmente moldada.\n\nCriticou universalismo da psicologia ocidental.\n\nEstudos sobre moralidade e cultura."
+    },
+    {
+      "nome": "Hazel Markus",
+      "periodo": "1949–presente",
+      "foto": "markus.jpg",
+      "contribuicao": "Teoria do self independente vs interdependente.\n\nMostrou diferenças culturais na cognição e emoção."
+    }
+  ],
+  "Sociobiologia / Ecologia comportamental": [
+    {
+      "nome": "John Maynard Smith",
+      "periodo": "1920–2004",
+      "foto": "maynard_smith.jpg",
+      "contribuicao": "Aplicou teoria dos jogos à evolução.\n\nIntroduziu ESS (estratégia evolutivamente estável)."
+    },
+    {
+      "nome": "Robert Trivers",
+      "periodo": "1943–presente",
+      "foto": "trivers.jpg",
+      "contribuicao": "Altruísmo recíproco e investimento parental.\n\nBase da evolução do comportamento social."
+    }
+  ],
+  "Sociologia": [
+    {
+      "nome": "Émile Durkheim",
+      "periodo": "1858–1917",
+      "foto": "durkheim.jpg",
+      "contribuicao": "Fundador da sociologia.\n\nIntroduziu 'fatos sociais'.\n\nEstudo clássico do suicídio como fenômeno social."
+    },
+    {
+      "nome": "Max Weber",
+      "periodo": "1864–1920",
+      "foto": "weber.jpg",
+      "contribuicao": "Sociologia interpretativa.\n\nConceito de ação social.\n\nAnálise da ética protestante e capitalismo."
+    },
+    {
+      "nome": "Karl Marx",
+      "periodo": "1818–1883",
+      "foto": "marx.jpg",
+      "contribuicao": "Teoria do materialismo histórico.\n\nAnálise de classes e conflito social.\n\nInfluência massiva em sociologia e economia."
+    },
+    {
+      "nome": "Pierre Bourdieu",
+      "periodo": "1930–2002",
+      "foto": "bourdieu.jpg",
+      "contribuicao": "Um dos sociólogos mais influentes do século XX.\n\nDesenvolveu os conceitos de:\n- habitus: disposições internalizadas que guiam percepção, pensamento e ação\n- campo: espaços sociais estruturados (arte, ciência, política) com regras próprias\n- capital: diferentes formas de poder (econômico, cultural, social, simbólico)\n\nMostrou como desigualdades sociais são reproduzidas de forma não explícita, especialmente via educação.\n\nEm 'A Distinção' (1979), demonstrou que gostos e preferências (arte, comida, estilo) funcionam como marcadores de classe.\n\nIntegra estrutura social e cognição individual: comportamento não é apenas escolha racional nem puro determinismo — é produto de disposições incorporadas em contextos estruturados.\n\nFortemente influenciado por Durkheim e Weber; influenciou antropologia, educação, psicologia social e estudos culturais."
+    }
+  ],
+  "Sociologia histórica": [
+    {
+      "nome": "Norbert Elias",
+      "periodo": "1897–1990",
+      "foto": "elias.jpg",
+      "contribuicao": "Processo civilizador.\n\nMostrou mudanças históricas no comportamento social."
+    },
+    {
+      "nome": "Charles Tilly",
+      "periodo": "1929–2008",
+      "foto": "tilly.jpg",
+      "contribuicao": "Estudo de formação do Estado e movimentos sociais.\n\nIntegra história e sociologia."
+    }
+  ],
+  "História cultural": [
+    {
+      "nome": "Michel Foucault",
+      "periodo": "1926–1984",
+      "foto": "foucault.jpg",
+      "contribuicao": "Analisou relação entre poder, saber e discurso.\n\nGenealogia das instituições (prisão, loucura)."
+    },
+    {
+      "nome": "Peter Burke",
+      "periodo": "1937–presente",
+      "foto": "burke.jpg",
+      "contribuicao": "História cultural moderna.\n\nEstudo de práticas simbólicas e comunicação."
+    }
+  ],
+  "Neurodesenvolvimento": [
+    {
+      "nome": "Patricia Kuhl",
+      "periodo": "1946–presente",
+      "foto": "kuhl.jpg",
+      "contribuicao": "Estudos sobre aquisição de linguagem em bebês.\n\nPeríodos críticos e plasticidade neural."
+    },
+    {
+      "nome": "Charles Nelson",
+      "periodo": "1951–presente",
+      "foto": "nelson.jpg",
+      "contribuicao": "Desenvolvimento cerebral e impacto de privação.\n\nEstudos com crianças institucionalizadas."
+    }
+  ],
+  "Endocrinologia do desenvolvimento": [
+    {
+      "nome": "Bruce McEwen",
+      "periodo": "1938–2020",
+      "foto": "mcewen.jpg",
+      "contribuicao": "Conceito de carga alostática.\n\nEfeitos do estresse no desenvolvimento cerebral."
+    },
+    {
+      "nome": "Robert Sapolsky",
+      "periodo": "1957–presente",
+      "foto": "sapolsky.jpg",
+      "contribuicao": "Estudos sobre estresse, cortisol e comportamento.\n\nIntegra endocrinologia com comportamento."
+    }
+  ],
+  "Psicologia do desenvolvimento": [
+    {
+      "nome": "Jean Piaget",
+      "periodo": "1896–1980",
+      "foto": "piaget.jpg",
+      "contribuicao": "Teoria dos estágios do desenvolvimento cognitivo.\n\nConstrução ativa do conhecimento."
+    },
+    {
+      "nome": "Lev Vygotsky",
+      "periodo": "1896–1934",
+      "foto": "vygotsky.jpg",
+      "contribuicao": "Zona de desenvolvimento proximal.\n\nImportância do contexto social na aprendizagem."
+    }
+  ],
+  "Educação e mídia": [
+    {
+      "nome": "Paulo Freire",
+      "periodo": "1921–1997",
+      "foto": "freire.jpg",
+      "contribuicao": "Pedagogia crítica.\n\nEducação como prática de liberdade."
+    },
+    {
+      "nome": "Marshall McLuhan",
+      "periodo": "1911–1980",
+      "foto": "mcluhan.jpg",
+      "contribuicao": "'O meio é a mensagem'.\n\nImpacto das mídias na cognição e sociedade."
+    }
+  ],
+  "Psicofisiologia": [
+    {
+      "nome": "Walter Cannon",
+      "periodo": "1871–1945",
+      "foto": "cannon.jpg",
+      "contribuicao": "Resposta luta-ou-fuga.\n\nHomeostase."
+    },
+    {
+      "nome": "Hans Selye",
+      "periodo": "1907–1982",
+      "foto": "selye.jpg",
+      "contribuicao": "Síndrome geral de adaptação.\n\nFundador do estudo do estresse."
+    }
+  ],
+  "Neuroeconomia": [
+    {
+      "nome": "Paul Glimcher",
+      "periodo": "1960–presente",
+      "foto": "glimcher.jpg",
+      "contribuicao": "Integra neurociência com teoria da decisão.\n\nCodificação neural de valor esperado."
+    },
+    {
+      "nome": "Wolfram Schultz",
+      "periodo": "1944–presente",
+      "foto": "schultz.jpg",
+      "contribuicao": "Erro de previsão de recompensa.\n\nBase neural do aprendizado por reforço."
+    }
+  ],
+  "Teoria dos jogos": [
+    {
+      "nome": "John von Neumann",
+      "periodo": "1903–1957",
+      "foto": "vonneumann.jpg",
+      "contribuicao": "Fundador da teoria dos jogos.\n\nTeorema minimax."
+    },
+    {
+      "nome": "John Nash",
+      "periodo": "1928–2015",
+      "foto": "nash.jpg",
+      "contribuicao": "Equilíbrio de Nash.\n\nBase da estratégia em jogos."
+    }
+  ],
+  "Comunicação simbólica": [
+    {
+      "nome": "Charles Peirce",
+      "periodo": "1839–1914",
+      "foto": "peirce.jpg",
+      "contribuicao": "Fundador da semiótica.\n\nModelo signo–objeto–interpretante."
+    },
+    {
+      "nome": "Ferdinand de Saussure",
+      "periodo": "1857–1913",
+      "foto": "saussure.jpg",
+      "contribuicao": "Fundador da linguística moderna.\n\nSignificante vs significado."
+    }
+  ],
+  "Mídias sociais": [
+    {
+      "nome": "Sherry Turkle",
+      "periodo": "1948–presente",
+      "foto": "turkle.jpg",
+      "contribuicao": "Estuda impacto psicológico da tecnologia.\n\nIdentidade digital e isolamento."
+    },
+    {
+      "nome": "danah boyd",
+      "periodo": "1977–presente",
+      "foto": "boyd.jpg",
+      "contribuicao": "Pesquisa redes sociais e cultura digital.\n\nFoco em jovens e comportamento online."
+    }
+  ],
+  "Antropologia evolutiva": [
+    {
+      "nome": "Richard Wrangham",
+      "periodo": "1948–presente",
+      "foto": "wrangham.jpg",
+      "contribuicao": "Primatólogo e antropólogo evolucionista.\n\nPropôs a hipótese do cozimento ('cooking hypothesis'): o uso do fogo transformou a biologia humana (digestão, cérebro maior, redução de dentes).\n\nEstudou também a hipótese da auto-domesticação humana, sugerindo que seleção contra agressividade moldou comportamento social.\n\nIntegra primatologia, evolução e comportamento humano.\n\nObra: 'Catching Fire'."
+    },
+    {
+      "nome": "Sarah Blaffer Hrdy",
+      "periodo": "1946–presente",
+      "foto": "hrdy.jpg",
+      "contribuicao": "Pioneira no estudo evolutivo da parentalidade e cooperação.\n\nPropôs a teoria da criação cooperativa (cooperative breeding): humanos evoluíram com múltiplos cuidadores, não apenas a mãe.\n\nMostrou importância da aloparentalidade para evolução da empatia e cognição social.\n\nIntegra etologia, antropologia e psicologia do desenvolvimento.\n\nObra: 'Mothers and Others'."
+    },
+    {
+      "nome": "Kim Hill",
+      "periodo": "1947–presente",
+      "foto": "hill.jpg",
+      "contribuicao": "Estudos com populações caçadoras-coletoras (Ache, etc.).\n\nMostrou padrões universais de cooperação, compartilhamento de alimentos e organização social.\n\nContribuiu para teoria do 'foraging' humano e evolução da vida social.\n\nBase empírica forte para hipóteses evolutivas sobre comportamento humano."
+    },
+    {
+      "nome": "Robin Dunbar",
+      "periodo": "1947–presente",
+      "foto": "dunbar.jpg",
+      "contribuicao": "Propôs o número de Dunbar (~150), limite cognitivo para relações sociais estáveis.\n\nRelacionou tamanho do neocórtex com tamanho de grupos sociais em primatas.\n\nSugeriu que linguagem evoluiu como substituto do grooming social.\n\nIntegra neurociência, etologia e antropologia."
+    },
+    {
+      "nome": "Joseph Henrich",
+      "periodo": "1968–presente",
+      "foto": "henrich.jpg",
+      "contribuicao": "Integra evolução cultural com antropologia evolutiva.\n\nMostrou que humanos são 'espécie cultural', altamente dependente de aprendizado social.\n\nEstudos com populações não-WEIRD revelam grande variação psicológica.\n\nConceito de evolução cultural cumulativa.\n\nObra: 'The WEIRDest People in the World'."
+    },
+    {
+      "nome": "Peter Richerson",
+      "periodo": "1943–presente",
+      "foto": "richerson.jpg",
+      "contribuicao": "Co-fundador da teoria da evolução cultural.\n\nModelou transmissão cultural usando ferramentas da biologia evolutiva.\n\nMostrou como normas sociais e cultura evoluem por seleção.\n\nColaborou extensivamente com Boyd."
+    },
+    {
+      "nome": "Robert Boyd",
+      "periodo": "1948–presente",
+      "foto": "boyd.jpg",
+      "contribuicao": "Co-fundador da evolução cultural.\n\nIntroduziu vieses de transmissão cultural:\n- conformista\n- prestígio\n- payoff-biased\n\nMostrou que cultura pode evoluir independentemente de genes.\n\nIntegra antropologia com modelagem matemática."
+    },
+    {
+      "nome": "Christopher Boehm",
+      "periodo": "1931–2021",
+      "foto": "boehm.jpg",
+      "contribuicao": "Estudou hierarquias e igualitarismo em sociedades humanas.\n\nPropôs que humanos evoluíram mecanismos de controle social contra dominância (reverse dominance hierarchy).\n\nMostrou papel de punição coletiva na manutenção de normas.\n\nIntegra etologia, antropologia e evolução social."
+    }
+  ]
+}
