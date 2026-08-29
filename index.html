@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mapa Multinível · Comportamento e Cognição</title>
+
+<!-- Fontes Google -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<!-- Estilos da Aplicação -->
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container" id="main-view">
+
+  <header class="site-header">
+    <div>
+      <div class="meta">
+        <span>Mapa multinível</span>
+      </div>
+      <h1>Comportamento e cognição humana</h1>
+    </div>
+    <div class="right-meta">
+      Inspirado nos autores<br>
+      <strong>Tinbergen e Sapolsky</strong><br>
+    </div>
+  </header>
+
+  <div class="mode-switcher">
+    <button class="mode-btn active" data-mode="matrix" onclick="setMode('matrix')">
+      <span class="mode-icon">▦</span> Matriz
+    </button>
+    <button class="mode-btn" data-mode="graph" onclick="setMode('graph')">
+      <span class="mode-icon">⌖</span> Influências
+    </button>
+    <button class="mode-btn" data-mode="timeline" onclick="setMode('timeline')">
+      <span class="mode-icon">─</span> Cronologia
+    </button>
+  </div>
+
+  <p class="intro-line" id="intro-line">
+    Um índice de disciplinas e autores organizado segundo as duas grandes coordenadas
+    da explicação científica do comportamento: a escala temporal e a proximidade causal.
+  </p>
+
+  <div class="matrix-frame" id="view-matrix">
+    <div class="matrix" id="matrix"></div>
+  </div>
+
+  <div class="graph-frame" id="view-graph" style="display:none;">
+    <div class="graph-controls">
+      <div class="graph-legend">
+        <span class="legend-title">Visualização de influências</span>
+        <span class="legend-hint">Setas: o autor influenciou o seguinte. Clique em um nó para abrir a ficha.</span>
+      </div>
+    </div>
+    <svg id="graph-svg" xmlns="http://www.w3.org/2000/svg"></svg>
+  </div>
+
+  <div class="timeline-frame" id="view-timeline" style="display:none;">
+    <div class="timeline-controls">
+      <div class="legend-title">Cronologia dos autores</div>
+      <span class="legend-hint">Cada linha é uma vida. Pontos marcam obras. Clique em um nome para abrir a ficha.</span>
+    </div>
+    <div id="timeline-container"></div>
+  </div>
+
+  <div class="legend" id="legend-block">
+    <div class="legend-block">
+      <div class="legend-title">Como ler este mapa</div>
+      <p>
+        Qualquer fenômeno humano pode, e deve, ser explicado em múltiplos níveis simultâneos.
+        As células inferiores descrevem o processo imediato. As superiores fornecem contexto,
+        origem e função. Clique em uma disciplina para ver os autores que a fundaram.
+      </p>
+    </div>
+    <div class="legend-block">
+      <div class="legend-title">Natureza da explicação</div>
+      <ul>
+        <li><span class="num">01</span><span><strong>Mecanismo</strong> <em>como funciona</em></span></li>
+        <li><span class="num">02</span><span><strong>Ontogenia</strong> <em>como se forma no indivíduo</em></span></li>
+        <li><span class="num">03</span><span><strong>Função</strong> <em>para que serve</em></span></li>
+        <li><span class="num">04</span><span><strong>Filogênese</strong> <em>como evoluiu no tempo</em></span></li>
+      </ul>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <span>Organizador de áreas</span>
+    <em>Quatro perspectivas para uma compreensão completa.</em>
+  </footer>
+</div>
+
+<div class="overlay" id="overlay-discipline">
+  <button class="overlay-close" onclick="closeAll()" aria-label="Fechar">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg>
+  </button>
+  <div class="discipline-page">
+    <div class="eyebrow" id="discipline-eyebrow">Disciplina</div>
+    <h2 id="discipline-name"></h2>
+    <p class="desc" id="discipline-desc"></p>
+
+    <div class="view-toggle" id="view-toggle">
+      <button id="toggle-authors" class="active" onclick="setView('authors')">
+        Autores <span class="toggle-count" id="count-authors">00</span>
+      </button>
+      <button id="toggle-theories" onclick="setView('theories')">
+        Teorias <span class="toggle-count" id="count-theories">00</span>
+      </button>
+    </div>
+
+    <div id="view-authors-content">
+      <div class="author-index-header">
+        <span>Nº</span>
+        <span>Nome</span>
+        <span>Período</span>
+        <span style="text-align:right">Ficha</span>
+      </div>
+      <div id="author-list"></div>
+    </div>
+
+    <div id="view-theories-content" style="display:none;">
+      <div class="theory-index-header">
+        <span>Nº</span>
+        <span>Teoria / Hipótese</span>
+        <span>Ano</span>
+        <span style="text-align:right">Ficha</span>
+      </div>
+      <div id="theory-list"></div>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" id="overlay-author">
+  <button class="overlay-close" onclick="closeAll()" aria-label="Fechar">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg>
+  </button>
+  <button class="back-link" id="author-back" onclick="backToDiscipline()">
+    ← <span id="author-back-label">voltar à disciplina</span>
+  </button>
+  <div class="author-page">
+    <div class="author-hero" id="author-hero">
+      <div class="hero-bg" id="hero-bg"></div>
+      <div class="hero-bg-fallback" id="hero-fallback"><span id="hero-fallback-letter"></span></div>
+      <div class="hero-overlay"></div>
+      <div class="hero-content">
+        <div>
+          <div class="hero-eyebrow">
+            <span id="author-discipline-tag">—</span>
+            <span class="pipe">/</span>
+            <span id="author-index-tag">—</span>
+          </div>
+          <h1 id="author-name"></h1>
+        </div>
+        <div class="hero-meta">
+          <div class="period" id="author-period"></div>
+          <div class="lifespan" id="author-lifespan"></div>
+        </div>
+      </div>
+    </div>
+    <div class="author-body">
+      <div class="section-label">
+        <span>Contribuição</span>
+        <span class="pagination" id="author-pagination"></span>
+      </div>
+      <div class="lede" id="author-lede"></div>
+      <div class="body-text" id="author-body"></div>
+    </div>
+    <div class="author-meta-section" id="author-meta-section"></div>
+    <div class="author-nav">
+      <button class="nav-prev" id="nav-prev" onclick="navAuthor(-1)">
+        <div class="nav-label">← Anterior</div>
+        <div class="nav-name" id="nav-prev-name">—</div>
+      </button>
+      <button class="nav-next" id="nav-next" onclick="navAuthor(1)">
+        <div class="nav-label">Próximo →</div>
+        <div class="nav-name" id="nav-next-name">—</div>
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" id="overlay-theory">
+  <button class="overlay-close" onclick="closeAll()" aria-label="Fechar">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg>
+  </button>
+  <button class="back-link" onclick="backToDisciplineFromTheory()">
+    ← <span id="theory-back-label">voltar à disciplina</span>
+  </button>
+  <div class="author-page">
+    <div class="theory-hero" id="theory-hero">
+      <div class="theory-hero-content">
+        <div class="theory-hero-eyebrow">
+          <span id="theory-discipline-tag">—</span>
+          <span class="pipe">/</span>
+          <span id="theory-index-tag">—</span>
+        </div>
+        <div class="theory-formula" id="theory-formula"></div>
+        <h1 class="theory-name" id="theory-name"></h1>
+        <div class="theory-meta">
+          <span id="theory-author">—</span>
+          <span class="pipe">·</span>
+          <span id="theory-year">—</span>
+        </div>
+      </div>
+    </div>
+    <div class="author-body">
+      <div class="section-label">
+        <span>Descrição</span>
+        <span class="pagination" id="theory-pagination"></span>
+      </div>
+      <div class="lede" id="theory-lede"></div>
+      <div class="body-text" id="theory-body"></div>
+    </div>
+    <div class="author-nav">
+      <button class="nav-prev" id="theory-nav-prev" onclick="navTheory(-1)">
+        <div class="nav-label">← Anterior</div>
+        <div class="nav-name" id="theory-nav-prev-name">—</div>
+      </button>
+      <button class="nav-next" id="theory-nav-next" onclick="navTheory(1)">
+        <div class="nav-label">Próxima →</div>
+        <div class="nav-name" id="theory-nav-next-name">—</div>
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- Lógica JavaScript da Aplicação -->
+<script src="script.js"></script>
+
+</body>
+</html>
