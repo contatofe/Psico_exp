@@ -31,22 +31,53 @@ let currentMode = 'matrix';   // Modo de visualização principal ('matrix' | 'g
 /* ============================================================================
    3. INICIALIZAÇÃO E CARREGAMENTO ASSÍNCRONO DOS DADOS (JSON)
    ============================================================================ */
+let isAppInitialized = false;
+
 async function initApp() {
+  if (isAppInitialized) return;
+  isAppInitialized = true;
+
   try {
-    const [matrizData, autoresData, teoriasData] = await Promise.all([
-      fetch('data/matriz.json').then(res => {
-        if (!res.ok) throw new Error('Falha ao carregar data/matriz.json');
-        return res.json();
-      }),
-      fetch('data/autores.json').then(res => {
-        if (!res.ok) throw new Error('Falha ao carregar data/autores.json');
-        return res.json();
-      }),
-      fetch('data/teorias.json').then(res => {
-        if (!res.ok) throw new Error('Falha ao carregar data/teorias.json');
-        return res.json();
-      })
-    ]);
+    let matrizData = null;
+    let autoresData = null;
+    let teoriasData = null;
+
+    // Se estiver em servidor HTTP/HTTPS, tenta carregar os arquivos JSON via fetch
+    if (window.location.protocol.startsWith('http')) {
+      try {
+        const [m, a, t] = await Promise.all([
+          fetch('data/matriz.json').then(res => {
+            if (!res.ok) throw new Error('Falha ao carregar data/matriz.json');
+            return res.json();
+          }),
+          fetch('data/autores.json').then(res => {
+            if (!res.ok) throw new Error('Falha ao carregar data/autores.json');
+            return res.json();
+          }),
+          fetch('data/teorias.json').then(res => {
+            if (!res.ok) throw new Error('Falha ao carregar data/teorias.json');
+            return res.json();
+          })
+        ]);
+        matrizData = m;
+        autoresData = a;
+        teoriasData = t;
+      } catch (fetchErr) {
+        console.warn('Aviso: Fetch dos arquivos JSON falhou. Tentando fallback local (data/dados.js)...', fetchErr);
+      }
+    }
+
+    // Fallback: se estiver abrindo diretamente via file:// ou se fetch falhar
+    if ((!matrizData || !autoresData || !teoriasData) && window.__MAPA_DADOS__) {
+      matrizData = window.__MAPA_DADOS__.matriz;
+      autoresData = window.__MAPA_DADOS__.autores;
+      teoriasData = window.__MAPA_DADOS__.teorias;
+    }
+
+    // Se mesmo após tentar ambos ainda não tiver dados
+    if (!matrizData || !autoresData || !teoriasData) {
+      throw new Error('Não foi possível carregar as bases de dados (matriz, autores, teorias).');
+    }
 
     LINHAS_TEMPO = matrizData.LINHAS_TEMPO;
     COLUNAS_PROX = matrizData.COLUNAS_PROX;
@@ -58,7 +89,21 @@ async function initApp() {
     // Constrói a Matriz de Disciplinas após o carregamento bem-sucedido dos dados
     buildMatrix();
   } catch (error) {
-    console.error('Erro no carregamento dos arquivos JSON:', error);
+    console.error('Erro no carregamento dos dados da aplicação:', error);
+    const matrix = document.getElementById('matrix');
+    if (matrix) {
+      matrix.innerHTML = `
+        <div style="grid-column: 1 / -1; padding: 48px 32px; text-align: center; background: var(--paper-pure); border: 1px dashed var(--ink-3); border-radius: 8px;">
+          <h3 style="font-family: var(--serif); font-size: 22px; color: var(--ink-12); margin-bottom: 12px;">Não foi possível carregar os dados</h3>
+          <p style="font-size: 14px; color: var(--ink-9); max-width: 580px; margin: 0 auto 16px; line-height: 1.6;">
+            Se você estiver abrindo o arquivo localmente (protocolo <code>file://</code>), as políticas de segurança do navegador (CORS) bloqueiam o carregamento de arquivos JSON externos.
+          </p>
+          <p style="font-family: var(--mono); font-size: 12px; color: var(--ink-7);">
+            Para resolver: certifique-se de que <code>data/dados.js</code> está incluído no <code>index.html</code> ou execute um servidor local (ex: <code>npx serve</code> ou Live Server).
+          </p>
+        </div>
+      `;
+    }
   }
 }
 
@@ -612,12 +657,16 @@ function setMode(mode) {
   legend.style.display = (mode === 'matrix') ? '' : 'none';
 
   if (mode === 'graph' && !graph.dataset.built) {
-    buildGraph();
-    graph.dataset.built = 'true';
+    if (Object.keys(AUTORES).length > 0) {
+      buildGraph();
+      graph.dataset.built = 'true';
+    }
   }
   if (mode === 'timeline' && !timeline.dataset.built) {
-    buildTimeline();
-    timeline.dataset.built = 'true';
+    if (Object.keys(AUTORES).length > 0) {
+      buildTimeline();
+      timeline.dataset.built = 'true';
+    }
   }
 }
 
@@ -686,7 +735,7 @@ function buildGraph() {
     return { cols, rows, w, h };
   }
 
-  const SVG_W_TARGET = svg.clientWidth || svg.parentElement.clientWidth || 1200;
+  const SVG_W_TARGET = svg.clientWidth || svg.parentElement?.clientWidth || 1200;
   const W = Math.max(SVG_W_TARGET, 1100);
   let curX = 16, curY = 16, rowMaxH = 0, totalH = 0;
   const clusterRects = [];
@@ -1145,9 +1194,8 @@ function buildTimeline() {
 /* ============================================================================
    12. INICIALIZAÇÃO DA APLICAÇÃO
    ============================================================================ */
-document.addEventListener('DOMContentLoaded', () => {
-  initApp();
-});
-if (document.readyState === 'interactive' || document.readyState === 'complete') {
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initApp);
+} else {
   initApp();
 }
