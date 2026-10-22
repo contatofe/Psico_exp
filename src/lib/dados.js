@@ -42,7 +42,7 @@ for (const d of matriz.disciplinas) (naCelula[`${d.linha},${d.coluna}`] ||= []).
 export const disciplinas = matriz.disciplinas.map(d => {
   const vizinhas = naCelula[`${d.linha},${d.coluna}`];
   const i = vizinhas.indexOf(d.nome);
-  const dentroX = 0.1 + (hash(d.nome) % 23) / 100;           // 10–32% da célula
+  const dentroX = 0.22 + (hash(d.nome) % 57) / 100;          // 22–78% da célula
   const dentroY = (i + 1) / (vizinhas.length + 1);
   return {
     ...d,

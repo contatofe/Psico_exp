@@ -1,4 +1,4 @@
-# Mapa Multinível · Comportamento e Cognição Humana
+w# Mapa Multinível · Comportamento e Cognição Humana
 
 Um site de divulgação científica que organiza autores, teorias e disciplinas ligadas ao estudo do comportamento e da cognição humana.
 
@@ -9,16 +9,16 @@ A ideia vem das quatro perguntas de Nikolaas Tinbergen e da abordagem multiníve
 
 ## O que tem no site
 
-| Página            | Endereço                 | O que mostra                                                                 |
-| ----------------- | ------------------------ | ---------------------------------------------------------------------------- |
-| Início            | `#/`                     | Só o mapa: as disciplinas como pontos num gráfico de duas coordenadas         |
-| Disciplina        | `#/disciplina/<id>`      | Endereço no mapa (ex.: C·01), descrição, autores e teorias                    |
-| Autor             | `#/autor/<id>`           | Retrato grande, biografia, obras-chave, métodos, influências                  |
-| Teoria            | `#/teoria/<id>`          | Fórmula (quando houver), explicação e autores                                 |
-| Autores / Teorias | `#/autores`, `#/teorias` | Índices com filtro                                                           |
-| Rede              | `#/influencias`          | Rede de influências entre autores                                            |
-| Cronologia        | `#/cronologia`           | Linha do tempo de vidas e obras                                              |
-| Sobre             | `#/sobre`                | Como ler o mapa e créditos                                                   |
+| Página            | Endereço                 | O que mostra                                                          |
+| ----------------- | ------------------------ | --------------------------------------------------------------------- |
+| Início            | `#/`                     | Só o mapa: as disciplinas como pontos num gráfico de duas coordenadas |
+| Disciplina        | `#/disciplina/<id>`      | Endereço no mapa (ex.: C·01), descrição, autores e teorias            |
+| Autor             | `#/autor/<id>`           | Retrato grande, biografia, obras-chave, métodos, influências          |
+| Teoria            | `#/teoria/<id>`          | Fórmula (quando houver), explicação e autores                         |
+| Autores / Teorias | `#/autores`, `#/teorias` | Índices com filtro                                                    |
+| Rede              | `#/influencias`          | Rede de influências entre autores                                     |
+| Cronologia        | `#/cronologia`           | Linha do tempo de vidas e obras                                       |
+| Sobre             | `#/sobre`                | Como ler o mapa e créditos                                            |
 
 Busca global: tecla `/` ou `⌘K`. No mapa, as setas do teclado andam entre os pontos.
 
@@ -78,7 +78,7 @@ scripts/                     validação dos dados e preparo das fotos
    - `disciplinas`: nomes exatamente como em `matriz.json`. A primeira define a posição na rede e na cronologia.
    - `influencias`: ids de outros autores do mapa. "Influenciou" é calculado automaticamente.
 
-2. Foto (opcional): salve como `src/assets/fotos/<id>.jpg` e rode `npm run fotos`. Sem foto, o site mostra uma prancha azul com o nome.
+2. Foto (opcional): salve como `src/assets/fotos/<id>.jpg` e rode `npm run fotos`. Sem foto, o site mostra uma prancha na cor da coluna da disciplina, com o nome.
 3. Rode `npm run checar` para conferir.
 
 ## Publicar

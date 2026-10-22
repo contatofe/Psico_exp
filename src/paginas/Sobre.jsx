@@ -33,9 +33,9 @@ export default function Sobre() {
           fica em C·01, interação entre indivíduos na escala do desenvolvimento.
         </p>
         <p>
-          Só a célula carrega informação: dentro dela, a posição de cada ponto serve apenas para que os nomes não se
-          sobreponham. A área do ponto é proporcional ao número de autores da disciplina, e os pontos azuis marcam as
-          disciplinas que já têm teorias descritas.
+          Só a célula carrega informação: dentro dela, a posição de cada ponto serve apenas para que eles não se
+          sobreponham. A área do ponto é proporcional ao número de autores da disciplina, e a cor indica a coluna (a
+          proximidade causal). Passe o cursor sobre um ponto para ver o nome.
         </p>
         <p>
           A ideia vem das quatro perguntas que o etólogo Nikolaas Tinbergen propôs em 1963 (mecanismo,

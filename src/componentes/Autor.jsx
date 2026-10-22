@@ -1,7 +1,9 @@
-import { iniciais } from '../lib/dados';
+import { disciplinaPorNome, iniciais } from '../lib/dados';
 import { link } from '../lib/rota';
 
-/** Retrato P&B; sem foto, a prancha vira um campo de cor com o nome (ou as iniciais, se pequena). */
+const colunaDe = autor => `col-${disciplinaPorNome[autor.disciplinas[0]].coluna}`;
+
+/** Retrato P&B; sem foto, a prancha vira um campo na cor da coluna com o nome (ou as iniciais, se pequena). */
 export function Retrato({ autor, mini = false, className = '' }) {
   const src = mini ? autor.mini : autor.foto;
   if (src) {
@@ -16,7 +18,7 @@ export function Retrato({ autor, mini = false, className = '' }) {
   const maior = Math.max(...palavras.map(p => p.length));
   const tamanho = `${Math.min(26, 84 / (maior * 0.47)).toFixed(1)}cqi`;
   return (
-    <div className={`retrato sem-foto ${className}`} aria-hidden="true">
+    <div className={`retrato sem-foto ${colunaDe(autor)} ${className}`} aria-hidden="true">
       {mini
         ? <span className="retrato-iniciais">{iniciais(autor.nome)}</span>
         : <span className="retrato-nome" style={{ fontSize: tamanho }}>{palavras.map((p, i) => <span key={i}>{p}</span>)}</span>}
@@ -24,7 +26,7 @@ export function Retrato({ autor, mini = false, className = '' }) {
   );
 }
 
-/** Prancha numerada com legenda, usada nas grades de autores. */
+/** Prancha com legenda, usada nas grades de autores. */
 export function FiguraAutor({ autor }) {
   return (
     <a className="figura-autor" href={link('autor', autor.id)}>
@@ -42,6 +44,15 @@ export function ChipAutor({ autor }) {
     <a className="chip-autor" href={link('autor', autor.id)}>
       <Retrato autor={autor} mini />
       <span>{autor.nome}</span>
+    </a>
+  );
+}
+
+/** Etiqueta de disciplina: endereço na cor da coluna + nome. */
+export function EtiquetaDisciplina({ d }) {
+  return (
+    <a className={`etiqueta col-${d.coluna}`} href={link('disciplina', d.id)}>
+      <b>{d.endereco}</b> {d.nome}
     </a>
   );
 }

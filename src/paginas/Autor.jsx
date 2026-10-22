@@ -1,7 +1,6 @@
 import { autorPorId, disciplinaPorNome, idade, influenciou, teoriasDe } from '../lib/dados';
 import { link, useTitulo } from '../lib/rota';
-import { ChipAutor, Retrato } from '../componentes/Autor';
-import { MiniMapa } from '../componentes/Mapa';
+import { ChipAutor, EtiquetaDisciplina, Retrato } from '../componentes/Autor';
 
 export default function Autor({ autor }) {
   useTitulo(autor.nome);
@@ -25,10 +24,7 @@ export default function Autor({ autor }) {
           <h1>{autor.nome}</h1>
           <p className="ficha-periodo">{autor.periodo}{idade(autor) && <> · {idade(autor)}</>}</p>
           <nav className="ficha-disciplinas" aria-label="Disciplinas">
-            {autor.disciplinas.map(nome => {
-              const d = disciplinaPorNome[nome];
-              return <a key={nome} href={link('disciplina', d.id)}><b>{d.endereco}</b> {nome}</a>;
-            })}
+            {autor.disciplinas.map(nome => <EtiquetaDisciplina key={nome} d={disciplinaPorNome[nome]} />)}
           </nav>
         </header>
 
@@ -39,13 +35,6 @@ export default function Autor({ autor }) {
         </div>
 
         <dl className="ficha-dados">
-          <div className="fd-mapa">
-            <dt>No mapa</dt>
-            <dd>
-              <MiniMapa marcadas={autor.disciplinas} />
-              <span>{autor.disciplinas.map(n => disciplinaPorNome[n].endereco).join(' · ')}</span>
-            </dd>
-          </div>
           {autor.obras.length > 0 && (
             <div>
               <dt>Obras-chave</dt>

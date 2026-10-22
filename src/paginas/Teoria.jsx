@@ -1,6 +1,6 @@
 import { autorPorId, disciplinaPorNome, teorias } from '../lib/dados';
 import { link, useTitulo } from '../lib/rota';
-import { ChipAutor } from '../componentes/Autor';
+import { ChipAutor, EtiquetaDisciplina } from '../componentes/Autor';
 import { ListaTeorias } from './Disciplina';
 
 export default function Teoria({ teoria: t }) {
@@ -15,11 +15,12 @@ export default function Teoria({ teoria: t }) {
       <header className="cabeca">
         <h1>{t.nome}</h1>
         <p className="ficha-periodo">
-          {t.autor}, {t.ano} · <a className="link-disciplina" href={link('disciplina', d.id)}><b className="endereco">{d.endereco}</b> {d.nome}</a>
+          {t.autor}, {t.ano}
         </p>
+        <p className="cabeca-etiquetas"><EtiquetaDisciplina d={d} /></p>
       </header>
 
-      {t.formula && <div className="formula" aria-label={`Fórmula: ${t.formula}`}>{t.formula}</div>}
+      {t.formula && <div className={`formula col-${d.coluna}`} aria-label={`Fórmula: ${t.formula}`}>{t.formula}</div>}
 
       <div className="teoria-corpo">
         <div className="ficha-bio">{t.descricao.map((p, k) => <p key={k}>{p}</p>)}</div>

@@ -1,20 +1,16 @@
-import { colunas, linhas } from '../lib/dados';
+import { colunas, disciplinaPorNome, linhas } from '../lib/dados';
 import { link, useTitulo } from '../lib/rota';
 import { FiguraAutor } from '../componentes/Autor';
-import { MiniMapa } from '../componentes/Mapa';
 
 export default function Disciplina({ disciplina: d }) {
   useTitulo(d.nome);
   return (
     <article className="pagina">
-      <header className="cabeca cabeca-disciplina">
-        <div>
+      <header className={`pasta-disciplina col-${d.coluna}`}>
+        <span className="aba aba-pasta"><b>{d.endereco}</b> {linhas[d.linha].nome} × {colunas[d.coluna].nome.toLowerCase()}</span>
+        <div className="pasta-corpo">
           <h1>{d.nome}</h1>
           {d.descricao && <p className="lede">{d.descricao}</p>}
-        </div>
-        <div className="cabeca-mapa">
-          <MiniMapa marcadas={[d.nome]} />
-          <p><b className="endereco">{d.endereco}</b> {linhas[d.linha].nome} × {colunas[d.coluna].nome.toLowerCase()}</p>
         </div>
       </header>
 
@@ -40,10 +36,10 @@ export default function Disciplina({ disciplina: d }) {
 export function ListaTeorias({ teorias, comDisciplina = false }) {
   return (
     <ul className="lista-teorias">
-      {teorias.map(t => (
-        <li key={t.id}>
+      {teorias.map((t, i) => (
+        <li key={t.id} className={`col-${disciplinaPorNome[t.disciplina].coluna}`} style={{ '--recuo': `${(i % 4) * 14}%` }}>
           <a href={link('teoria', t.id)}>
-            <span className="lt-ano">{t.ano}</span>
+            <span className="lt-ano aba">{t.ano}</span>
             <span className="lt-nome">{t.nome}<small>{t.autor}{comDisciplina && ` · ${t.disciplina}`}</small></span>
             {t.formula && <span className="lt-formula">{t.formula}</span>}
           </a>

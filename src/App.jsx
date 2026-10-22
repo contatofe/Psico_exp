@@ -11,8 +11,8 @@ import Influencias from './paginas/Influencias';
 import Cronologia from './paginas/Cronologia';
 import Sobre from './paginas/Sobre';
 
-const MENU = [['autores', 'Autores'], ['teorias', 'Teorias'], ['influencias', 'Rede'], ['cronologia', 'Cronologia'], ['sobre', 'Sobre']];
-const SECAO = { autor: 'autores', teoria: 'teorias' };
+const MENU = [['', 'Mapa'], ['autores', 'Autores'], ['teorias', 'Teorias'], ['influencias', 'Rede'], ['cronologia', 'Cronologia'], ['sobre', 'Sobre']];
+const SECAO = { autor: 'autores', teoria: 'teorias', disciplina: '' };
 
 function pagina(nome, id) {
   switch (nome) {
@@ -60,21 +60,23 @@ export default function App() {
         Pular para o conteúdo
       </a>
       <header className="topo">
-        <a className="marca" href="#/" aria-label="Mapa Multinível, início">
-          <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M2 1v17h17" /><circle cx="12.5" cy="8" r="3.5" /></svg>
-          Mapa Multinível
-        </a>
-        <nav className="menu" aria-label="Principal">
-          {MENU.map(([rota, rotulo]) => (
-            <a key={rota} href={link(rota)} aria-current={(SECAO[nome] || nome) === rota ? 'page' : undefined}>{rotulo}</a>
-          ))}
+        <nav className="abas" aria-label="Principal">
+          {/* por enquanto aponta para o mapa; depois será a home do projeto */}
+          <a className="aba aba-marca" href="#/" style={{ zIndex: MENU.length + 1 }}>Mapa Multinível</a>
+          {MENU.map(([rota, rotulo], i) => {
+            const atual = (SECAO[nome] ?? nome) === rota;
+            return (
+              <a key={rotulo} className="aba" href={link(rota)} aria-current={atual ? 'page' : undefined}
+                style={atual ? undefined : { zIndex: MENU.length - i }}>{rotulo}</a>
+            );
+          })}
         </nav>
         <button className="botao-busca" onClick={() => setBuscando(true)} aria-label="Buscar (atalho: /)">
           <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" /><path d="M13 13l4.5 4.5" /></svg>
         </button>
       </header>
 
-      <main id="conteudo" tabIndex={-1} className={nome === '' ? 'main-mapa' : ''}>
+      <main id="conteudo" tabIndex={-1} className="folha">
         {pagina(nome, id) || <NaoEncontrada />}
       </main>
 
