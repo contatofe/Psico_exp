@@ -55,16 +55,13 @@ export default function Influencias() {
   const ligados = foco && new Set([foco, ...arestas.flatMap(e => e.de === foco ? [e.para] : e.para === foco ? [e.de] : [])]);
 
   return (
-    <article>
-      <header className="cabeca-pagina simples">
-        <div>
-          <p className="sobrancelha">Rede</p>
+    <article className="pagina">
+      <header className="cabeca">
           <h1>Quem influenciou quem</h1>
           <p className="lede">
             {naRede.size} autores e {arestas.length} relações de influência documentadas. A seta vai de quem influenciou
             para quem foi influenciado. Passe o mouse sobre um nome para destacar suas conexões; clique para abrir a ficha.
           </p>
-        </div>
       </header>
       <div className="rede-moldura">
         <svg className="rede" viewBox={`-8 -8 ${LARGURA + 16} ${ALTURA + 16}`} role="img" aria-label="Rede de influências entre autores">
@@ -74,7 +71,7 @@ export default function Influencias() {
             </marker>
           </defs>
           {blocos.map(b => (
-            <g key={b.d.id} style={{ '--cor': `var(--c${b.d.coluna})` }}>
+            <g key={b.d.id}>
               <rect className="rede-bloco" x={b.x} y={b.y} width={b.w} height={b.h} rx="10" />
               <text className="rede-bloco-nome" x={b.x + 14} y={b.y + 22}>{b.d.nome}</text>
             </g>
@@ -89,8 +86,7 @@ export default function Influencias() {
           {Object.entries(posicoes).map(([id, p]) => (
             <a key={id} href={link('autor', id)} onMouseEnter={() => setFoco(id)} onMouseLeave={() => setFoco(null)}
               onFocus={() => setFoco(id)} onBlur={() => setFoco(null)}
-              className={'rede-no' + (foco === id ? ' foco' : ligados && !ligados.has(id) ? ' apagado' : '')}
-              style={{ '--cor': `var(--c${p.coluna})` }}>
+              className={'rede-no' + (foco === id ? ' foco' : ligados && !ligados.has(id) ? ' apagado' : '')}>
               <rect x={p.x} y={p.y} width={NO_L} height={NO_A} rx="15" />
               <text x={p.x + NO_L / 2} y={p.y + NO_A / 2}>{nomeCurto(autorPorId[id].nome)}</text>
             </a>

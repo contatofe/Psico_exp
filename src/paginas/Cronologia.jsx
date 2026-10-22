@@ -30,15 +30,12 @@ const grupos = disciplinas
 export default function Cronologia() {
   useTitulo('Cronologia');
   return (
-    <article>
-      <header className="cabeca-pagina simples">
-        <div>
-          <p className="sobrancelha">Tempo</p>
+    <article className="pagina">
+      <header className="cabeca">
           <h1>Cronologia</h1>
           <p className="lede">
             Cada barra é uma vida; cada ponto, uma obra-chave. Role para os lados para percorrer de {INICIO} até hoje.
           </p>
-        </div>
       </header>
       <div className="crono-moldura">
         <div className="crono" style={{ '--largura': LARGURA + 'px' }}>
@@ -49,7 +46,7 @@ export default function Cronologia() {
             </div>
           </div>
           {grupos.map(({ d, itens, altura }) => (
-            <section key={d.id} className="crono-grupo" style={{ '--cor': `var(--c${d.coluna})` }}>
+            <section key={d.id} className="crono-grupo">
               <a className="crono-rotulo" href={link('disciplina', d.id)}>{d.nome}<small>{itens.length}</small></a>
               <div className="crono-trilho" style={{ height: altura }}>
                 {MARCAS.map(ano => <span key={ano} className="crono-grade" style={{ left: xDe(ano) }} />)}

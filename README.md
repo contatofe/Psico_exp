@@ -9,17 +9,20 @@ A ideia vem das quatro perguntas de Nikolaas Tinbergen e da abordagem multiníve
 
 ## O que tem no site
 
-| Página | Endereço | O que mostra |
-|---|---|---|
-| Início | `#/` | Apresentação, matriz interativa, autor em destaque |
-| Disciplina | `#/disciplina/<id>` | Descrição, posição na matriz, autores e teorias |
-| Autor | `#/autor/<id>` | Biografia, obras-chave, métodos, quem influenciou e quem foi influenciado |
-| Teoria | `#/teoria/<id>` | Fórmula (quando houver), explicação e autores |
-| Autores / Teorias | `#/autores`, `#/teorias` | Índices com filtro |
-| Influências | `#/influencias` | Rede de influências entre autores |
-| Cronologia | `#/cronologia` | Linha do tempo de vidas e obras |
+| Página            | Endereço                 | O que mostra                                                                 |
+| ----------------- | ------------------------ | ---------------------------------------------------------------------------- |
+| Início            | `#/`                     | Só o mapa: as disciplinas como pontos num gráfico de duas coordenadas         |
+| Disciplina        | `#/disciplina/<id>`      | Endereço no mapa (ex.: C·01), descrição, autores e teorias                    |
+| Autor             | `#/autor/<id>`           | Retrato grande, biografia, obras-chave, métodos, influências                  |
+| Teoria            | `#/teoria/<id>`          | Fórmula (quando houver), explicação e autores                                 |
+| Autores / Teorias | `#/autores`, `#/teorias` | Índices com filtro                                                           |
+| Rede              | `#/influencias`          | Rede de influências entre autores                                            |
+| Cronologia        | `#/cronologia`           | Linha do tempo de vidas e obras                                              |
+| Sobre             | `#/sobre`                | Como ler o mapa e créditos                                                   |
 
-Busca global: tecla `/` ou `⌘K`.
+Busca global: tecla `/` ou `⌘K`. No mapa, as setas do teclado andam entre os pontos.
+
+O sistema visual está descrito em [DESIGN.md](DESIGN.md) e o propósito do produto em [PRODUCT.md](PRODUCT.md).
 
 ## Rodar localmente
 
@@ -65,14 +68,17 @@ scripts/                     validação dos dados e preparo das fotos
      "bio": ["Parágrafo 1", "Parágrafo 2", "Parágrafo 3"],
      "tags": ["Experimental", "Modelagem animal"],
      "influencias": ["edward-thorndike", "ivan-pavlov"],
-     "obras": [{ "ano": "1938", "titulo": "The Behavior of Organisms", "link": "" }]
+     "obras": [
+       { "ano": "1938", "titulo": "The Behavior of Organisms", "link": "" }
+     ]
    }
    ```
 
    - `periodo`: `AAAA–AAAA`, `AAAA–presente` ou, para duplas, `AAAA–AAAA / AAAA–AAAA` (com travessão `–`).
-   - `disciplinas`: nomes exatamente como em `matriz.json`. A primeira define a cor e a posição na rede e na cronologia.
+   - `disciplinas`: nomes exatamente como em `matriz.json`. A primeira define a posição na rede e na cronologia.
    - `influencias`: ids de outros autores do mapa. "Influenciou" é calculado automaticamente.
-2. Foto (opcional): salve como `src/assets/fotos/<id>.jpg` e rode `npm run fotos`. Sem foto, o site mostra as iniciais.
+
+2. Foto (opcional): salve como `src/assets/fotos/<id>.jpg` e rode `npm run fotos`. Sem foto, o site mostra uma prancha azul com o nome.
 3. Rode `npm run checar` para conferir.
 
 ## Publicar

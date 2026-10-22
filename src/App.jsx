@@ -9,8 +9,9 @@ import Disciplina from './paginas/Disciplina';
 import Teoria, { Teorias } from './paginas/Teoria';
 import Influencias from './paginas/Influencias';
 import Cronologia from './paginas/Cronologia';
+import Sobre from './paginas/Sobre';
 
-const MENU = [['autores', 'Autores'], ['teorias', 'Teorias'], ['influencias', 'Influências'], ['cronologia', 'Cronologia']];
+const MENU = [['autores', 'Autores'], ['teorias', 'Teorias'], ['influencias', 'Rede'], ['cronologia', 'Cronologia'], ['sobre', 'Sobre']];
 const SECAO = { autor: 'autores', teoria: 'teorias' };
 
 function pagina(nome, id) {
@@ -20,6 +21,7 @@ function pagina(nome, id) {
     case 'teorias': return <Teorias />;
     case 'influencias': return <Influencias />;
     case 'cronologia': return <Cronologia />;
+    case 'sobre': return <Sobre />;
     case 'autor': return autorPorId[id] && <Autor key={id} autor={autorPorId[id]} />;
     case 'disciplina': return disciplinaPorId[id] && <Disciplina key={id} disciplina={disciplinaPorId[id]} />;
     case 'teoria': return teoriaPorId[id] && <Teoria key={id} teoria={teoriaPorId[id]} />;
@@ -29,9 +31,9 @@ function pagina(nome, id) {
 function NaoEncontrada() {
   useTitulo('Página não encontrada');
   return (
-    <div className="nao-encontrada">
-      <h1>Página não encontrada</h1>
-      <p>Talvez o link esteja antigo. <a href="#/">Voltar ao mapa</a>.</p>
+    <div className="pagina nao-encontrada">
+      <h1>Fora do mapa</h1>
+      <p className="lede">Este endereço não existe ou mudou. <a href="#/">Voltar ao mapa</a>.</p>
     </div>
   );
 }
@@ -58,29 +60,23 @@ export default function App() {
         Pular para o conteúdo
       </a>
       <header className="topo">
-        <a className="marca" href="#/">
-          <span className="marca-grade" aria-hidden="true"><i /><i /><i /><i /></span>
-          <span>Mapa Multinível<small>Comportamento e cognição</small></span>
+        <a className="marca" href="#/" aria-label="Mapa Multinível, início">
+          <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M2 1v17h17" /><circle cx="12.5" cy="8" r="3.5" /></svg>
+          Mapa Multinível
         </a>
         <nav className="menu" aria-label="Principal">
           {MENU.map(([rota, rotulo]) => (
             <a key={rota} href={link(rota)} aria-current={(SECAO[nome] || nome) === rota ? 'page' : undefined}>{rotulo}</a>
           ))}
         </nav>
-        <button className="botao-busca" onClick={() => setBuscando(true)} aria-label="Buscar">
-          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" /><path d="M13 13l4 4" /></svg>
-          <span>Buscar</span><kbd>/</kbd>
+        <button className="botao-busca" onClick={() => setBuscando(true)} aria-label="Buscar (atalho: /)">
+          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" /><path d="M13 13l4.5 4.5" /></svg>
         </button>
       </header>
 
-      <main id="conteudo" tabIndex={-1}>{pagina(nome, id) || <NaoEncontrada />}</main>
-
-      <footer className="rodape">
-        <p>
-          Inspirado nas quatro perguntas de Nikolaas Tinbergen e na abordagem multinível de Robert Sapolsky.
-          Textos de divulgação científica; encontrou um erro? <a href="https://github.com/contatofe/Psico_exp/issues" target="_blank" rel="noopener noreferrer">Avise no GitHub</a>.
-        </p>
-      </footer>
+      <main id="conteudo" tabIndex={-1} className={nome === '' ? 'main-mapa' : ''}>
+        {pagina(nome, id) || <NaoEncontrada />}
+      </main>
 
       {buscando && <Busca onFechar={() => setBuscando(false)} />}
     </>

@@ -32,20 +32,33 @@ export const autores = Object.values(arquivos)
 
 export const teorias = teoriasJson;
 
-export const disciplinas = matriz.disciplinas.map(d => ({
-  ...d,
-  autores: autores.filter(a => a.disciplinas.includes(d.nome)),
-  teorias: teorias.filter(t => t.disciplina === d.nome),
-}));
+// Posição de cada disciplina no gráfico, em % do plano (0–100). Dentro da célula, as
+// disciplinas se espalham na vertical; o deslocamento horizontal vem de um hash do nome,
+// então é estável entre visitas e igual no mapa grande e nos mini-mapas.
+const hash = s => [...s].reduce((h, ch) => (h * 31 + ch.charCodeAt(0)) >>> 0, 7);
+const naCelula = {};
+for (const d of matriz.disciplinas) (naCelula[`${d.linha},${d.coluna}`] ||= []).push(d.nome);
+
+export const disciplinas = matriz.disciplinas.map(d => {
+  const vizinhas = naCelula[`${d.linha},${d.coluna}`];
+  const i = vizinhas.indexOf(d.nome);
+  const dentroX = 0.1 + (hash(d.nome) % 23) / 100;           // 10–32% da célula
+  const dentroY = (i + 1) / (vizinhas.length + 1);
+  return {
+    ...d,
+    endereco: `${matriz.colunas[d.coluna].letra}·${matriz.linhas[d.linha].num}`,
+    x: (d.coluna + dentroX) * 25,
+    y: (d.linha + dentroY) * 25,
+    autores: autores.filter(a => a.disciplinas.includes(d.nome)),
+    teorias: teorias.filter(t => t.disciplina === d.nome),
+  };
+});
 
 const porChave = (lista, chave) => Object.fromEntries(lista.map(x => [x[chave], x]));
 export const autorPorId = porChave(autores, 'id');
 export const teoriaPorId = porChave(teorias, 'id');
 export const disciplinaPorId = porChave(disciplinas, 'id');
 export const disciplinaPorNome = porChave(disciplinas, 'nome');
-
-/** Cor da coluna da matriz (proximidade causal) a que a disciplina pertence. */
-export const corDe = nomeDisciplina => `var(--c${disciplinaPorNome[nomeDisciplina]?.coluna ?? 0})`;
 
 /** Quem cada autor influenciou (o inverso de `influencias`). */
 export const influenciou = {};

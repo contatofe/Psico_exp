@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { autores, corDe, disciplinas, teorias } from '../lib/dados';
+import { autores, disciplinaPorNome, disciplinas, teorias } from '../lib/dados';
 import { link } from '../lib/rota';
 import { Retrato } from './Autor';
 
@@ -11,11 +11,13 @@ const INDICE = [
     texto: normalizar([a.nome, ...a.disciplinas, ...a.tags].join(' ')),
   })),
   ...teorias.map(t => ({
-    tipo: 'Teoria', titulo: t.nome, sub: `${t.autor} · ${t.ano}`, href: link('teoria', t.id), cor: corDe(t.disciplina),
+    tipo: 'Teoria', titulo: t.nome, sub: `${t.autor} · ${t.ano}`, href: link('teoria', t.id),
+    marca: disciplinaPorNome[t.disciplina].endereco,
     texto: normalizar([t.nome, t.autor, t.disciplina].join(' ')),
   })),
   ...disciplinas.map(d => ({
-    tipo: 'Disciplina', titulo: d.nome, sub: `${d.autores.length} autores`, href: link('disciplina', d.id), cor: corDe(d.nome),
+    tipo: 'Disciplina', titulo: d.nome, sub: `${d.autores.length} autores`, href: link('disciplina', d.id),
+    marca: d.endereco,
     texto: normalizar(d.nome),
   })),
 ];
@@ -33,23 +35,21 @@ export function Busca({ onFechar }) {
   return (
     <dialog ref={dialogo} className="busca" onClose={onFechar}
       onClick={e => e.target === dialogo.current && dialogo.current.close()}>
-      <div className="busca-caixa">
-        <input autoFocus type="search" placeholder="Buscar autor, teoria ou disciplina…" value={q}
-          aria-label="Buscar" onChange={e => setQ(e.target.value)}
-          onKeyDown={e => e.key === 'Enter' && resultados[0] && abrir(resultados[0].href)} />
-        <ul className="busca-resultados">
-          {resultados.map(r => (
-            <li key={r.href}>
-              <a href={r.href} onClick={onFechar}>
-                {r.autor ? <Retrato autor={r.autor} mini /> : <span className="busca-marca" style={{ '--cor': r.cor }} />}
-                <span className="busca-titulo">{r.titulo}<small>{r.sub}</small></span>
-                <span className="busca-tipo">{r.tipo}</span>
-              </a>
-            </li>
-          ))}
-          {termos.length > 0 && !resultados.length && <li className="busca-vazio">Nada encontrado para “{q}”.</li>}
-        </ul>
-      </div>
+      <input autoFocus type="search" placeholder="Autor, teoria ou disciplina" value={q}
+        aria-label="Buscar" onChange={e => setQ(e.target.value)}
+        onKeyDown={e => e.key === 'Enter' && resultados[0] && abrir(resultados[0].href)} />
+      <ul className="busca-resultados">
+        {resultados.map(r => (
+          <li key={r.href}>
+            <a href={r.href} onClick={onFechar}>
+              {r.autor ? <Retrato autor={r.autor} mini /> : <span className="busca-marca">{r.marca}</span>}
+              <span className="busca-titulo">{r.titulo}<small>{r.sub}</small></span>
+              <span className="busca-tipo">{r.tipo}</span>
+            </a>
+          </li>
+        ))}
+        {termos.length > 0 && !resultados.length && <li className="busca-vazio">Nada encontrado para “{q}”.</li>}
+      </ul>
     </dialog>
   );
 }
