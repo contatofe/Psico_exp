@@ -1,0 +1,255 @@
+{
+  "linhas": [
+    {
+      "num": "03",
+      "nome": "Evolutivo recente",
+      "sub": "100 mil a 10 milhões de anos (evolução da espécie humana)"
+    },
+    {
+      "num": "02",
+      "nome": "Histórico/cultural",
+      "sub": "1 mil a 100 mil anos (surgimento de culturas, escrita, instituições)"
+    },
+    {
+      "num": "01",
+      "nome": "Desenvolvimental",
+      "sub": "Anos a décadas (desenvolvimento individual, aprendizado)"
+    },
+    {
+      "num": "00",
+      "nome": "Imediato",
+      "sub": "segundos a minutos (processamento, interações)"
+    }
+  ],
+  "colunas": [
+    {
+      "letra": "A",
+      "nome": "Intra-biológico",
+      "sub": "dentro do organismo",
+      "classe": "col-A"
+    },
+    {
+      "letra": "B",
+      "nome": "Individual interno",
+      "sub": "dentro do indivíduo",
+      "classe": "col-B"
+    },
+    {
+      "letra": "C",
+      "nome": "Interação imediata",
+      "sub": "entre indivíduos",
+      "classe": "col-C"
+    },
+    {
+      "letra": "D",
+      "nome": "Social / cultural",
+      "sub": "estruturas e cultura",
+      "classe": "col-D"
+    }
+  ],
+  "disciplinas": [
+    {
+      "id": "genetica-populacional-humana",
+      "nome": "Genética populacional humana",
+      "linha": 0,
+      "coluna": 0,
+      "descricao": "O estudo de como as frequências de variantes genéticas mudam em populações humanas ao longo das gerações, por seleção, deriva, migração e mutação."
+    },
+    {
+      "id": "neuroevolucao",
+      "nome": "Neuroevolução",
+      "linha": 0,
+      "coluna": 0,
+      "descricao": "A investigação de como o cérebro e suas funções se transformaram ao longo da evolução, comparando espécies e reconstruindo a origem da cognição."
+    },
+    {
+      "id": "etologia",
+      "nome": "Etologia",
+      "linha": 0,
+      "coluna": 1,
+      "descricao": "O estudo do comportamento animal em seu ambiente natural, considerando causas próximas e distantes em uma perspectiva evolutiva."
+    },
+    {
+      "id": "psicologia-evolutiva",
+      "nome": "Psicologia evolutiva",
+      "linha": 0,
+      "coluna": 1,
+      "descricao": "A abordagem que entende a mente como conjunto de mecanismos moldados pela seleção natural para resolver problemas recorrentes de nossa história evolutiva."
+    },
+    {
+      "id": "evolucao-cultural",
+      "nome": "Evolução cultural",
+      "linha": 0,
+      "coluna": 3,
+      "descricao": "O estudo de como crenças, técnicas e normas se transmitem e se transformam entre gerações, com modelos inspirados na evolução biológica."
+    },
+    {
+      "id": "antropologia-evolutiva",
+      "nome": "Antropologia evolutiva",
+      "linha": 0,
+      "coluna": 3,
+      "descricao": "A investigação da origem e da diversidade humanas combinando biologia evolutiva, primatologia e estudos de sociedades de pequena escala."
+    },
+    {
+      "id": "epigenetica-evolutiva",
+      "nome": "Epigenética evolutiva",
+      "linha": 1,
+      "coluna": 0,
+      "descricao": "O estudo de como marcas que regulam a atividade dos genes, sem alterar o DNA, respondem ao ambiente e podem influenciar o desenvolvimento e a herança."
+    },
+    {
+      "id": "psicologia-cultural",
+      "nome": "Psicologia cultural",
+      "linha": 1,
+      "coluna": 1,
+      "descricao": "A investigação de como cultura e mente se constituem mutuamente, mostrando que percepção, emoção e self variam conforme os contextos culturais."
+    },
+    {
+      "id": "sociobiologia-ecologia-comportamental",
+      "nome": "Sociobiologia / Ecologia comportamental",
+      "linha": 1,
+      "coluna": 2,
+      "descricao": "O estudo do comportamento social e das estratégias de cooperação e conflito como adaptações, usando conceitos como seleção de parentesco e aptidão inclusiva."
+    },
+    {
+      "id": "antropologia",
+      "nome": "Antropologia",
+      "linha": 1,
+      "coluna": 3,
+      "descricao": "A investigação comparativa das culturas e da experiência humana, do trabalho de campo etnográfico à análise de sistemas simbólicos."
+    },
+    {
+      "id": "sociologia-historica",
+      "nome": "Sociologia histórica",
+      "linha": 1,
+      "coluna": 3,
+      "descricao": "A análise de como estruturas sociais, Estados e formas de convivência se transformam no longo prazo, combinando teoria sociológica e evidência histórica."
+    },
+    {
+      "id": "historia-cultural",
+      "nome": "História cultural",
+      "linha": 1,
+      "coluna": 3,
+      "descricao": "O estudo histórico de práticas, símbolos, saberes e representações, atento a como as pessoas deram sentido ao mundo em diferentes épocas."
+    },
+    {
+      "id": "neurodesenvolvimento",
+      "nome": "Neurodesenvolvimento",
+      "linha": 2,
+      "coluna": 0,
+      "descricao": "O estudo de como o sistema nervoso se forma e se reorganiza da gestação à vida adulta, e de como experiência precoce e janelas sensíveis moldam o cérebro."
+    },
+    {
+      "id": "endocrinologia-do-desenvolvimento",
+      "nome": "Endocrinologia do desenvolvimento",
+      "linha": 2,
+      "coluna": 0,
+      "descricao": "O estudo de como hormônios, em especial os do estresse, regulam o crescimento e o comportamento, e de como adversidades precoces deixam marcas duradouras."
+    },
+    {
+      "id": "psicologia-do-desenvolvimento",
+      "nome": "Psicologia do desenvolvimento",
+      "linha": 2,
+      "coluna": 1,
+      "descricao": "O estudo de como pensamento, linguagem, emoção e vínculos se transformam ao longo da vida, da infância ao envelhecimento."
+    },
+    {
+      "id": "psicologia-cognitiva",
+      "nome": "Psicologia cognitiva",
+      "linha": 2,
+      "coluna": 1,
+      "descricao": "O estudo dos processos mentais — atenção, memória, linguagem, raciocínio — entendidos como sistemas de processamento de informação."
+    },
+    {
+      "id": "psicologia-social",
+      "nome": "Psicologia social",
+      "linha": 2,
+      "coluna": 2,
+      "descricao": "O estudo de como pensamos, sentimos e nos comportamos em função da presença real, imaginária ou implícita de outros."
+    },
+    {
+      "id": "sociologia",
+      "nome": "Sociologia",
+      "linha": 2,
+      "coluna": 3,
+      "descricao": "O estudo científico da vida em sociedade: instituições, classes, normas e ações coletivas, e de como estruturas sociais moldam as escolhas individuais."
+    },
+    {
+      "id": "sociolinguistica",
+      "nome": "Sociolinguística",
+      "linha": 2,
+      "coluna": 3,
+      "descricao": "O estudo da linguagem como prática social, atenta à variação, ao contato e à mudança em contextos comunitários reais."
+    },
+    {
+      "id": "educacao-e-midia",
+      "nome": "Educação e mídia",
+      "linha": 2,
+      "coluna": 3,
+      "descricao": "A reflexão sobre como escolas, meios de comunicação e tecnologias moldam o modo como aprendemos, pensamos e nos relacionamos."
+    },
+    {
+      "id": "neurociencia",
+      "nome": "Neurociência",
+      "linha": 3,
+      "coluna": 0,
+      "descricao": "O estudo do sistema nervoso em seus múltiplos níveis — molecular, celular, sistêmico — como substrato da mente e do comportamento."
+    },
+    {
+      "id": "psicofisiologia",
+      "nome": "Psicofisiologia",
+      "linha": 3,
+      "coluna": 0,
+      "descricao": "O estudo das relações entre processos psicológicos e respostas do corpo, como estresse, emoção e regulação fisiológica."
+    },
+    {
+      "id": "psicofisica",
+      "nome": "Psicofísica",
+      "linha": 3,
+      "coluna": 1,
+      "descricao": "A medida quantitativa da relação entre estímulos físicos e as sensações que eles produzem — fundadora da psicologia experimental."
+    },
+    {
+      "id": "neuroeconomia",
+      "nome": "Neuroeconomia",
+      "linha": 3,
+      "coluna": 1,
+      "descricao": "A investigação dos mecanismos cerebrais da decisão, que combina neurociência, psicologia e economia para entender valor, recompensa e escolha."
+    },
+    {
+      "id": "analise-experimental-do-comportamento",
+      "nome": "Análise Experimental do Comportamento",
+      "linha": 3,
+      "coluna": 2,
+      "descricao": "A ciência das relações funcionais entre comportamento e ambiente, fundada na investigação experimental do reforçamento e da escolha."
+    },
+    {
+      "id": "economia-comportamental",
+      "nome": "Economia comportamental",
+      "linha": 3,
+      "coluna": 2,
+      "descricao": "A integração entre psicologia e economia, focada em como vieses e heurísticas moldam decisões reais sob risco e incerteza."
+    },
+    {
+      "id": "teoria-dos-jogos",
+      "nome": "Teoria dos jogos",
+      "linha": 3,
+      "coluna": 2,
+      "descricao": "O estudo matemático de decisões interdependentes, em que o resultado de cada agente depende também do que os outros escolhem."
+    },
+    {
+      "id": "comunicacao-simbolica",
+      "nome": "Comunicação simbólica",
+      "linha": 3,
+      "coluna": 3,
+      "descricao": "O estudo de como signos, linguagem e outros sistemas simbólicos produzem e transmitem significado entre pessoas e grupos."
+    },
+    {
+      "id": "midias-sociais",
+      "nome": "Mídias sociais",
+      "linha": 3,
+      "coluna": 3,
+      "descricao": "A investigação de como plataformas digitais transformam identidade, sociabilidade e comunicação, e de como pessoas se relacionam com a tecnologia."
+    }
+  ]
+}

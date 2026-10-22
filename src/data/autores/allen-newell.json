@@ -1,0 +1,49 @@
+{
+  "id": "allen-newell",
+  "nome": "Allen Newell",
+  "periodo": "1927–1992",
+  "disciplinas": [
+    "Psicologia cognitiva"
+  ],
+  "resumo": "Cientista da computação e psicólogo que, com Herbert Simon, criou os primeiros programas de IA e defendeu que a mente opera por manipulação de símbolos.",
+  "bio": [
+    "Allen Newell nasceu em San Francisco, em 1927, e passou a maior parte da carreira na Carnegie Mellon, em Pittsburgh. Formou-se em física em Stanford, trabalhou na RAND Corporation, onde participou de simulações de sistemas de defesa aérea, e ali se interessou por como pessoas e organizações processam informação. Doutorou-se em Carnegie sob orientação de Herbert Simon, com quem manteria uma parceria de décadas. A pergunta que o movia era ousada: se o pensamento é um tipo de processamento de informação, deveria ser possível escrever programas que se comportem como pensadores humanos, e comparar o que eles fazem com o que as pessoas fazem.",
+    "Em 1955 e 1956, com Simon e o programador J. C. Shaw, Newell construiu o Logic Theorist, programa que demonstrava teoremas de lógica dos Principia Mathematica, de Whitehead e Russell. Foi apresentado na conferência de Dartmouth, em 1956, que consolidou o nome inteligência artificial. Depois veio o General Problem Solver (GPS), que resolvia problemas pela análise meios-fins: comparar a situação atual com a meta e escolher operações que reduzam a diferença entre as duas. O ponto decisivo é que eles não queriam apenas máquinas que resolvessem problemas, mas teorias do raciocínio humano. Pediam a voluntários que pensassem em voz alta ao resolver quebra-cabeças e confrontavam esses relatos com o rastro do programa, método que resultou no livro Human Problem Solving (1972).",
+    "Newell e Simon formularam a hipótese do sistema de símbolos físicos: um sistema que manipula símbolos tem os meios necessários e suficientes para a ação inteligente geral. Em 1982, Newell propôs o nível do conhecimento como forma de descrever agentes por seus objetivos e saberes, independentemente do mecanismo. Com John Laird e Paul Rosenbloom, desenvolveu o Soar, uma arquitetura cognitiva baseada em regras do tipo se-então, que aprende por agrupamento (chunking) de passos de solução. Com Stuart Card e Thomas Moran, aplicou essas ideias à interação humano-computador, em The Psychology of Human-Computer Interaction (1983). Em Unified Theories of Cognition (1990), defendeu que a psicologia deveria buscar teorias unificadas da mente, em vez de acumular experimentos isolados. Newell e Simon receberam juntos o Prêmio Turing, em 1975.",
+    "O legado de Newell está na ciência cognitiva, na inteligência artificial simbólica, nas arquiteturas cognitivas e no desenho de interfaces. A abordagem foi criticada por filósofos como Hubert Dreyfus, que duvidava de que o conhecimento humano pudesse ser reduzido a regras explícitas, e pelo conexionismo dos anos 1980, que propôs modelar a mente por redes de unidades simples, sem símbolos explícitos. Mesmo assim, a ideia de testar teorias da cognição construindo modelos que funcionem continua sendo método corrente em psicologia."
+  ],
+  "tags": [
+    "Computacional",
+    "Teórico"
+  ],
+  "influencias": [
+    "herbert-simon"
+  ],
+  "obras": [
+    {
+      "ano": "1956",
+      "titulo": "The Logic Theory Machine: a complex information processing system (com Simon)",
+      "link": ""
+    },
+    {
+      "ano": "1958",
+      "titulo": "Elements of a theory of human problem solving (com Shaw e Simon)",
+      "link": ""
+    },
+    {
+      "ano": "1972",
+      "titulo": "Human Problem Solving (com Simon)",
+      "link": ""
+    },
+    {
+      "ano": "1976",
+      "titulo": "Computer science as empirical inquiry: symbols and search (com Simon)",
+      "link": ""
+    },
+    {
+      "ano": "1990",
+      "titulo": "Unified Theories of Cognition",
+      "link": ""
+    }
+  ]
+}

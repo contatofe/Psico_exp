@@ -1,0 +1,43 @@
+{
+  "id": "michael-gazzaniga",
+  "nome": "Michael Gazzaniga",
+  "periodo": "1939–presente",
+  "disciplinas": [
+    "Neurociência"
+  ],
+  "resumo": "Neurocientista norte-americano que estudou pacientes de cérebro dividido e mostrou a especialização dos hemisférios; ajudou a fundar a neurociência cognitiva.",
+  "bio": [
+    "Michael Gazzaniga nasceu em Los Angeles, em 1939, estudou no Dartmouth College e fez o doutorado no Instituto de Tecnologia da Califórnia (Caltech), em 1964, sob a orientação de Roger Sperry, que viria a receber o Nobel de Fisiologia ou Medicina em 1981. Sperry havia mostrado que, em gatos e macacos, seccionar o corpo caloso, o grande feixe de fibras que liga os dois hemisférios, deixava cada metade do cérebro aprendendo de forma independente. Faltava saber o que isso significava em humanos.",
+    "A oportunidade surgiu com pacientes com epilepsia grave que, por recomendação de cirurgiões, tiveram o corpo caloso seccionado para impedir que as crises se espalhassem. Gazzaniga e colaboradores, incluindo o neurocirurgião Joseph Bogen, passaram a testá-los de um modo engenhoso: projetavam imagens ou palavras apenas no campo visual direito ou apenas no esquerdo, de modo que a informação chegasse a só um hemisfério. Em 1962 publicaram os primeiros resultados no trabalho sobre os efeitos funcionais da secção das comissuras cerebrais. Verificaram que o hemisfério esquerdo, na maioria dos pacientes, dominava a fala, de modo que a pessoa conseguia nomear o objeto mostrado à direita, mas, diante de um objeto mostrado à esquerda, dizia não ter visto nada, embora a mão esquerda conseguisse escolher o objeto correto. O hemisfério direito, por sua vez, mostrou vantagem em tarefas espaciais e no reconhecimento de rostos.",
+    "A partir desses achados, Gazzaniga propôs o conceito de intérprete: um sistema do hemisfério esquerdo que, diante de ações do corpo cuja origem não conhece, fabrica explicações plausíveis e coerentes. Em um experimento conhecido, a mão esquerda de um paciente escolhia uma imagem coerente com o que só o hemisfério direito tinha visto, e o hemisfério esquerdo, sem acesso a essa cena, inventava um motivo para a escolha. A ideia foi usada para discutir como o senso de um eu unificado surge da atividade de módulos relativamente independentes. Ele também é associado à expressão neurociência cognitiva, que, segundo o relato corrente, surgiu em conversa com o psicólogo George Miller, no fim dos anos 1970. Fundou revistas e sociedades da área, escreveu livros de divulgação, como The Social Brain (1985) e Who's in Charge? (2011), e dirigiu centros de pesquisa em universidades norte-americanas.",
+    "Os estudos de cérebro dividido continuam a ser fonte de dados sobre lateralização, atenção e consciência. A pesquisa também recebeu críticas: a amostra de pacientes é pequena e clinicamente peculiar, parte da divulgação popular simplificou o tema em esquemas do tipo cérebro esquerdo e cérebro direito que a literatura científica não sustenta, e é debatido se esses pacientes têm de fato duas consciências ou apenas processos desconectados."
+  ],
+  "tags": [
+    "Experimental",
+    "Neuropsicológico",
+    "Clínico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1962",
+      "titulo": "Some functional effects of sectioning the cerebral commissures in man",
+      "link": ""
+    },
+    {
+      "ano": "1978",
+      "titulo": "The Integrated Mind",
+      "link": ""
+    },
+    {
+      "ano": "1985",
+      "titulo": "The Social Brain",
+      "link": ""
+    },
+    {
+      "ano": "2011",
+      "titulo": "Who's in Charge? Free Will and the Science of the Brain",
+      "link": ""
+    }
+  ]
+}

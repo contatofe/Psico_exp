@@ -1,0 +1,43 @@
+{
+  "id": "bronislaw-malinowski",
+  "nome": "Bronisław Malinowski",
+  "periodo": "1884–1942",
+  "disciplinas": [
+    "Antropologia"
+  ],
+  "resumo": "Antropólogo polonês que fez da observação participante prolongada o método da etnografia moderna e propôs o funcionalismo a partir das ilhas Trobriand.",
+  "bio": [
+    "Bronisław Malinowski nasceu em Cracóvia, em 1884, e doutorou-se em filosofia na universidade da cidade. Interessou-se por antropologia ao ler Frazer e mudou-se para a Inglaterra, onde se ligou à London School of Economics. Ao viajar para a Austrália, em 1914, foi retido pela Primeira Guerra, por ser súdito do Império Austro-Húngaro, e aproveitou o tempo para fazer trabalho de campo nas ilhas Trobriand, na Melanésia, entre 1915 e 1918. Ocupou a cátedra de antropologia da LSE e morreu em 1942, nos Estados Unidos, onde lecionava em Yale.",
+    "Seu legado mais duradouro é metodológico. Em vez de depender de relatos de missionários e administradores, passou meses morando na aldeia, aprendeu a língua local e registrou o cotidiano em detalhe, buscando o ponto de vista dos nativos. Essa observação participante tornou-se o padrão da etnografia moderna. Em Argonautas do Pacífico Ocidental (1922), descreveu o kula, um circuito cerimonial de trocas em que colares de conchas vermelhas circulam num sentido e braceletes de conchas brancas no sentido contrário, entre ilhas distantes. A troca, mostrou ele, obedecia a regras de honra, reciprocidade e prestígio, e não à lógica do lucro.",
+    "Teoricamente, Malinowski defendeu o funcionalismo: as instituições culturais existiriam para satisfazer necessidades humanas, básicas como alimentação e reprodução, e derivadas, como organização política e educação. Em outros livros, discutiu magia, mito, direito e sexualidade. Em Crime and Custom in Savage Society (1926), mostrou que as normas eram cumpridas por reciprocidade e pressão social, e não só por medo de punição. Em Sex and Repression in Savage Society (1927), questionou a aplicação universal do complexo de Édipo, o que o colocou em diálogo com a psicanálise.",
+    "Os críticos apontam que sua teoria das necessidades é frouxa e que ele dava pouca atenção à história e ao colonialismo que cercava seu trabalho. Seu diário de campo, publicado em 1967, revelou frustrações e preconceitos do pesquisador e abriu uma discussão sobre a subjetividade na etnografia. Mesmo assim, o trabalho de campo prolongado e a imersão que ele defendeu seguem como base da disciplina."
+  ],
+  "tags": [
+    "Etnográfico",
+    "Trabalho de campo",
+    "Observacional"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1922",
+      "titulo": "Argonauts of the Western Pacific",
+      "link": ""
+    },
+    {
+      "ano": "1926",
+      "titulo": "Crime and Custom in Savage Society",
+      "link": ""
+    },
+    {
+      "ano": "1929",
+      "titulo": "The Sexual Life of Savages in North-Western Melanesia",
+      "link": ""
+    },
+    {
+      "ano": "1944",
+      "titulo": "A Scientific Theory of Culture and Other Essays",
+      "link": ""
+    }
+  ]
+}

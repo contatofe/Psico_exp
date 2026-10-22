@@ -1,0 +1,43 @@
+{
+  "id": "r-a-fisher",
+  "nome": "R. A. Fisher",
+  "periodo": "1890–1962",
+  "disciplinas": [
+    "Genética populacional humana"
+  ],
+  "resumo": "Estatístico e geneticista que uniu mendelismo e seleção natural, criou a máxima verossimilhança e a ANOVA e formulou o teorema fundamental da seleção.",
+  "bio": [
+    "Ronald Aylmer Fisher foi um estatístico e geneticista britânico nascido em Londres. Estudou matemática em Cambridge e, depois de algum tempo em empregos fora da academia, trabalhou na estação experimental de Rothamsted, onde analisou décadas de dados agrícolas e desenvolveu métodos que transformaram a estatística aplicada. Mais tarde foi professor de eugenia no University College de Londres e de genética em Cambridge. Sua obra une duas carreiras: uma em estatística, outra em genética evolutiva, que se alimentavam mutuamente.",
+    "Na estatística, Fisher formalizou o método da máxima verossimilhança, que escolhe os valores dos parâmetros de um modelo que tornam os dados observados os mais prováveis, e desenvolveu a análise de variância (ANOVA), que separa a variação de um conjunto de dados em componentes atribuíveis a diferentes fontes. Em The Design of Experiments (1935), defendeu a aleatorização como base do delineamento experimental, ilustrando a ideia com o caso de uma senhora que afirmava distinguir se o leite fora colocado antes ou depois do chá. Também popularizou o uso de testes de significância e do valor p, e o limiar de 0,05 se firmou na prática científica em parte por sua influência, embora sua adoção rígida seja hoje muito criticada.",
+    "Na genética, Fisher mostrou em 1918 que a variação contínua de características como a estatura, que parecia incompatível com a herança de Mendel, pode resultar de muitos genes de pequeno efeito, reconciliando biometristas e mendelianos. Em The Genetical Theory of Natural Selection (1930), expôs o teorema fundamental da seleção natural, segundo o qual a taxa de aumento da aptidão média de uma população é proporcional à variância genética da aptidão; a interpretação exata do teorema foi muito debatida. O livro também tratou da razão sexual, explicando por que as populações tendem a produzir machos e fêmeas em proporções próximas de um para um, e da seleção sexual desenfreada, em que a preferência por um traço e o próprio traço se reforçam mutuamente. Fisher confiava em populações grandes para a evolução, o que gerou uma longa controvérsia com Sewall Wright, que enfatizava a deriva genética em populações pequenas.",
+    "O legado de Fisher é enorme: a síntese moderna da evolução, ao lado de Wright e J. B. S. Haldane, e boa parte da estatística usada nas ciências do comportamento e da saúde. A literatura registra também aspectos controversos. Fisher defendia ideias eugenistas, o que marcou parte de sua obra, e se opôs à conclusão de que o cigarro causa câncer de pulmão, posição hoje considerada equivocada. Suas disputas com Karl Pearson e, mais tarde, com Jerzy Neyman e Egon Pearson sobre a lógica da inferência estatística moldaram o debate entre abordagens que ainda dividem a área."
+  ],
+  "tags": [
+    "Matemática",
+    "Genética",
+    "Teórico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1918",
+      "titulo": "The Correlation Between Relatives on the Supposition of Mendelian Inheritance",
+      "link": ""
+    },
+    {
+      "ano": "1925",
+      "titulo": "Statistical Methods for Research Workers",
+      "link": ""
+    },
+    {
+      "ano": "1930",
+      "titulo": "The Genetical Theory of Natural Selection",
+      "link": ""
+    },
+    {
+      "ano": "1935",
+      "titulo": "The Design of Experiments",
+      "link": ""
+    }
+  ]
+}

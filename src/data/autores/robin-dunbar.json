@@ -1,0 +1,43 @@
+{
+  "id": "robin-dunbar",
+  "nome": "Robin Dunbar",
+  "periodo": "1947–presente",
+  "disciplinas": [
+    "Antropologia evolutiva"
+  ],
+  "resumo": "Antropólogo evolucionista que ligou o tamanho do neocórtex ao tamanho dos grupos sociais e propôs o chamado número de Dunbar, cerca de 150 relações estáveis.",
+  "bio": [
+    "Robin Dunbar é antropólogo e psicólogo evolucionista britânico, professor emérito da Universidade de Oxford. Começou sua carreira estudando babuínos gelada, primatas que vivem em grupos sociais grandes no planalto da Etiópia, e dali passou a se perguntar por que alguns animais vivem em grupos pequenos e outros em grupos enormes, e o que isso exige do cérebro. Ao longo das décadas, combinou observação de campo, análises comparativas entre espécies e, mais tarde, pesquisas com pessoas, sempre com foco no custo de manter relações sociais.",
+    "Seu trabalho mais famoso é a hipótese do cérebro social (social brain hypothesis). Em estudos comparativos de primatas, Dunbar mostrou que o tamanho médio dos grupos cresce com a proporção do neocórtex, a parte mais externa do cérebro, em relação ao resto do encéfalo. A ideia é que o cérebro grande evoluiu menos para encontrar comida e mais para lidar com a complexidade de acompanhar quem é amigo, quem é rival e quem se alia a quem. Aplicando a relação estatística aos humanos, chegou a um tamanho típico de grupo de cerca de 150 pessoas, que ficou conhecido como número de Dunbar. Pesquisas posteriores sugerem que as redes pessoais se organizam em camadas, com cerca de 5 relações muito íntimas, 15 próximas, 50 de amizade e 150 de conhecidos significativos.",
+    "Outro tema é a evolução da linguagem. Entre primatas, a catação (grooming) mantém os vínculos, mas exige tempo, e quando o grupo cresce não há horas suficientes para cuidar de todos os laços. Dunbar sugeriu que a linguagem teria surgido em parte como um tipo de catação à distância, que permite conversar com vários ao mesmo tempo e trocar informação sobre quem é confiável, e que a fofoca desempenharia papel central nessa função. Ele também investigou como atividades coletivas, como cantar, rir e comer juntos, contribuem para criar vínculos, possivelmente por mecanismos ligados à liberação de endorfinas, e discutiu a origem da religião como mecanismo de coesão.",
+    "O legado de Dunbar é ter feito da vida social um fator explicativo central na evolução do cérebro e do comportamento humano. A literatura também registra críticas: a precisão do valor de 150 é contestada, porque os intervalos de confiança da estimativa são largos; estudos posteriores com primatas indicaram que a dieta pode explicar o tamanho do cérebro melhor que a sociabilidade; e o número varia conforme a definição de relação. Ainda assim, a hipótese continua orientando debates sobre cognição social, redes online e evolução da linguagem."
+  ],
+  "tags": [
+    "Observacional",
+    "Histórico-comparativo",
+    "Modelagem evolutiva"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1992",
+      "titulo": "Neocortex Size as a Constraint on Group Size in Primates",
+      "link": ""
+    },
+    {
+      "ano": "1996",
+      "titulo": "Grooming, Gossip, and the Evolution of Language",
+      "link": ""
+    },
+    {
+      "ano": "1998",
+      "titulo": "The Social Brain Hypothesis",
+      "link": ""
+    },
+    {
+      "ano": "2010",
+      "titulo": "How Many Friends Does One Person Need? Dunbar's Number and Other Evolutionary Quirks",
+      "link": ""
+    }
+  ]
+}

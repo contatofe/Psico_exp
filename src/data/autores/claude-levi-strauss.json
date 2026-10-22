@@ -1,0 +1,46 @@
+{
+  "id": "claude-levi-strauss",
+  "nome": "Claude Lévi-Strauss",
+  "periodo": "1908–2009",
+  "disciplinas": [
+    "Antropologia"
+  ],
+  "resumo": "Antropólogo francês que aplicou a linguística estrutural a parentesco e mitos e defendeu que as culturas expressam estruturas mentais universais.",
+  "bio": [
+    "Claude Lévi-Strauss nasceu em Bruxelas, em 1908, de pais franceses, e estudou filosofia em Paris. Em 1935 foi lecionar sociologia na Universidade de São Paulo, e nos anos seguintes fez expedições ao interior do Brasil, entre grupos como os Bororo e os Nambikwara. Durante a Segunda Guerra, exilou-se em Nova York, onde conviveu com Franz Boas e conheceu o linguista Roman Jakobson. Mais tarde ocupou a cadeira de antropologia social do Collège de France e entrou para a Academia Francesa. Morreu em 2009, aos 100 anos.",
+    "A ideia central do estruturalismo é que o significado de práticas culturais está nas relações entre seus elementos, e não em cada elemento isolado. Inspirado na fonologia de Saussure e Jakobson, ele propôs tratar o parentesco como uma espécie de linguagem. Em As Estruturas Elementares do Parentesco (1949), argumentou que a proibição do incesto obriga os grupos a trocar parceiros de casamento, e essa troca funda alianças entre eles. O parentesco passa a ser lido como um sistema de comunicação, que opera com regras que os próprios participantes não percebem.",
+    "Nos quatro volumes das Mitológicas (1964–1971), analisou centenas de mitos ameríndios como transformações uns dos outros, organizadas por oposições como cru e cozido, natureza e cultura. Em O Pensamento Selvagem (1962), sustentou que o pensamento das sociedades sem escrita não é inferior ao científico, e sim outro modo de classificar o mundo, o da lógica do sensível. Para ele, a figura do bricoleur, que improvisa com materiais disponíveis, ilustra esse modo de pensar. Subjacente a tudo estava a hipótese de que a mente humana opera de forma semelhante em toda parte, o que aproximou sua antropologia de questões cognitivas.",
+    "Sua influência ultrapassou a antropologia e alcançou a filosofia, a crítica literária e a psicanálise. As críticas dizem que suas análises são difíceis de testar empiricamente, que a seleção dos dados parece seguir a teoria e que o estruturalismo deixa pouco espaço para a história e a ação dos sujeitos. Ainda assim, seu esforço de buscar padrões universais da mente na diversidade cultural segue como referência."
+  ],
+  "tags": [
+    "Etnográfico",
+    "Teórico",
+    "Filosofia da ciência"
+  ],
+  "influencias": [
+    "franz-boas",
+    "ferdinand-de-saussure"
+  ],
+  "obras": [
+    {
+      "ano": "1949",
+      "titulo": "Les Structures élémentaires de la parenté",
+      "link": ""
+    },
+    {
+      "ano": "1955",
+      "titulo": "Tristes Tropiques",
+      "link": ""
+    },
+    {
+      "ano": "1962",
+      "titulo": "La Pensée sauvage",
+      "link": ""
+    },
+    {
+      "ano": "1964",
+      "titulo": "Le Cru et le cuit",
+      "link": ""
+    }
+  ]
+}

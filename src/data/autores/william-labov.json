@@ -1,0 +1,43 @@
+{
+  "id": "william-labov",
+  "nome": "William Labov",
+  "periodo": "1927–2024",
+  "disciplinas": [
+    "Sociolinguística"
+  ],
+  "resumo": "Linguista que fundou a sociolinguística variacionista ao mostrar, com dados de fala real, que a variação na língua é sistemática e social.",
+  "bio": [
+    "William Labov nasceu em 1927, em Nova Jersey, e trabalhou alguns anos como químico industrial antes de seguir carreira acadêmica. Doutorou-se na Universidade Columbia em 1964, sob orientação de Uriel Weinreich, e lecionou na Universidade da Pensilvânia, onde ficou por décadas. Morreu em 2024.",
+    "Para Labov, a língua deveria ser estudada na comunidade, em uso real, e não só pela intuição do linguista. Em Martha's Vineyard, ilha de Massachusetts, observou que moradores que se identificavam fortemente com a ilha pronunciavam certos ditongos de modo mais centralizado, como marca de identidade local. Em Nova York, perguntou a funcionários de três lojas de departamentos, de público de classes sociais diferentes, onde ficava um departamento localizado no quarto andar, para provocar a pronúncia do som de r em fourth floor. Os funcionários de lojas de maior status usavam mais a pronúncia com r, o que mostrou relação sistemática entre variação linguística e estrato social. O resultado foi The Social Stratification of English in New York City (1966).",
+    "Seus estudos sobre o inglês vernáculo afro-americano, em Harlem, mostraram que essa variedade tem regras gramaticais próprias, e não é inglês errado, o que contestou teorias da chamada privação verbal, que atribuíam o fracasso escolar de crianças negras a deficiências de linguagem. Labov também desenvolveu, com Joshua Waletzky (1967), uma análise da estrutura das narrativas orais e propôs conceitos como o paradoxo do observador, a dificuldade de observar como as pessoas falam quando não estão sendo observadas, e o tempo aparente, que compara faixas etárias para detectar mudanças em curso.",
+    "Nos três volumes de Principles of Linguistic Change (1994, 2001, 2010), reuniu décadas de evidências sobre como os sons mudam ao longo das gerações. Com Sharon Ash e Charles Boberg, publicou o Atlas of North American English (2006). Labov criticou modelos que tratam a língua como sistema homogêneo, como os de Saussure e Chomsky, e mostrou que a variação é parte da estrutura. Seu trabalho é base da sociolinguística e influencia pesquisas em cognição social, educação e identidade."
+  ],
+  "tags": [
+    "Linguística",
+    "Observacional",
+    "Trabalho de campo"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1963",
+      "titulo": "The Social Motivation of a Sound Change",
+      "link": ""
+    },
+    {
+      "ano": "1966",
+      "titulo": "The Social Stratification of English in New York City",
+      "link": ""
+    },
+    {
+      "ano": "1972",
+      "titulo": "Sociolinguistic Patterns",
+      "link": ""
+    },
+    {
+      "ano": "1994",
+      "titulo": "Principles of Linguistic Change, Volume 1: Internal Factors",
+      "link": ""
+    }
+  ]
+}

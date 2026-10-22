@@ -1,0 +1,559 @@
+[
+  {
+    "id": "magical-number-seven-capacidade-da-memoria-de-curto-prazo",
+    "nome": "Magical Number Seven (capacidade da memória de curto prazo)",
+    "ano": "1956",
+    "disciplina": "Psicologia cognitiva",
+    "autor": "George Miller",
+    "autores": [
+      "george-miller"
+    ],
+    "formula": "7 ± 2",
+    "descricao": [
+      "Miller observou que a memória de curto prazo humana parece ter um limite consistente em torno de sete itens (mais ou menos dois), seja para dígitos, palavras ou outros estímulos.",
+      "A proposta é que o cérebro agrupa informações em 'chunks' (pedaços significativos), e que a capacidade limita-se ao número de chunks, não à informação bruta. Por isso lembramos números de telefone melhor quando agrupados (2-digito-2-digito) do que como sequência contínua.",
+      "Foi um dos primeiros achados a tratar a mente como sistema de processamento de informação com limites quantificáveis — marco fundador da psicologia cognitiva."
+    ]
+  },
+  {
+    "id": "gramatica-universal",
+    "nome": "Gramática Universal",
+    "ano": "1957–65",
+    "disciplina": "Psicologia cognitiva",
+    "autor": "Noam Chomsky",
+    "autores": [
+      "noam-chomsky"
+    ],
+    "formula": "",
+    "descricao": [
+      "A hipótese de que todas as línguas humanas compartilham uma estrutura profunda comum, geneticamente determinada, que torna possível a aquisição rápida de linguagem por crianças.",
+      "Chomsky argumentou que o input linguístico recebido por crianças é 'pobre' (poverty of the stimulus) — não suficiente para que elas aprendam regras gramaticais por reforçamento ou imitação. A solução: nascemos com um 'dispositivo de aquisição de linguagem' (LAD) já equipado com princípios universais.",
+      "A teoria reorientou linguística e psicologia cognitiva, embora continue debatida — abordagens construtivistas e baseadas em uso (Tomasello) oferecem alternativas."
+    ]
+  },
+  {
+    "id": "modelo-das-tres-redes-atencionais",
+    "nome": "Modelo das três redes atencionais",
+    "ano": "1990",
+    "disciplina": "Psicologia cognitiva",
+    "autor": "Michael Posner",
+    "autores": [
+      "michael-posner"
+    ],
+    "formula": "",
+    "descricao": [
+      "Posner propôs que a atenção não é uma função única, mas um sistema composto por três redes neurais distintas: alerta (manter prontidão), orientação (selecionar informação espacial) e controle executivo (resolver conflitos e gerenciar respostas).",
+      "Cada rede está associada a circuitos cerebrais específicos e neurotransmissores diferentes — alerta envolve noradrenalina, orientação envolve acetilcolina, controle executivo envolve dopamina.",
+      "O modelo articulou psicologia cognitiva e neurociência, gerando paradigmas como o Attention Network Test (ANT) que medem as três redes simultaneamente."
+    ]
+  },
+  {
+    "id": "teoria-do-fator-g-inteligencia-geral",
+    "nome": "Teoria do fator g (inteligência geral)",
+    "ano": "1904",
+    "disciplina": "Psicologia cognitiva",
+    "autor": "Charles Spearman",
+    "autores": [],
+    "formula": "g",
+    "descricao": [
+      "Spearman observou que pessoas que se saem bem em um teste cognitivo tendem a se sair bem em outros, mesmo de domínios diferentes. As correlações positivas entre testes apontariam para um fator subjacente comum: a inteligência geral, ou g.",
+      "Usando análise fatorial (técnica que ele inventou), Spearman propôs um modelo bifatorial: cada habilidade cognitiva tem um componente geral (g) e um componente específico (s) à tarefa.",
+      "O conceito é central na psicometria contemporânea, mas continua controverso — críticos questionam se g reflete uma capacidade real ou um artefato estatístico."
+    ]
+  },
+  {
+    "id": "inteligencia-fluida-e-cristalizada",
+    "nome": "Inteligência fluida e cristalizada",
+    "ano": "1963",
+    "disciplina": "Psicologia cognitiva",
+    "autor": "Raymond Cattell",
+    "autores": [],
+    "formula": "Gf · Gc",
+    "descricao": [
+      "Cattell distinguiu dois tipos de inteligência: inteligência fluida (Gf), a capacidade de raciocinar em situações novas, e inteligência cristalizada (Gc), o conhecimento acumulado pela experiência e educação.",
+      "A distinção tem suporte empírico forte: Gf tende a declinar com a idade adulta, enquanto Gc tende a se manter ou crescer até a velhice tardia.",
+      "O modelo evoluiu para a teoria CHC (Cattell-Horn-Carroll), hoje a estrutura mais aceita em psicometria contemporânea, com 9-10 fatores amplos."
+    ]
+  },
+  {
+    "id": "memoria-episodica-vs-semantica",
+    "nome": "Memória episódica vs. semântica",
+    "ano": "1972",
+    "disciplina": "Psicologia cognitiva",
+    "autor": "Endel Tulving",
+    "autores": [
+      "endel-tulving"
+    ],
+    "formula": "",
+    "descricao": [
+      "Tulving propôs que a memória declarativa (consciente) se divide em dois sistemas distintos: episódica (eventos pessoais, com contexto espaço-temporal — 'lembro de almoçar com minha mãe ontem') e semântica (conhecimento factual descontextualizado — 'sei que Paris é capital da França').",
+      "A distinção tem suporte neuropsicológico: pacientes com lesões hipocampais perdem memória episódica mas preservam a semântica. Os sistemas envolvem circuitos cerebrais parcialmente diferentes.",
+      "Tulving também propôs que a memória episódica permite 'viagem mental no tempo' — capacidade de reviver o passado e projetar o futuro."
+    ]
+  },
+  {
+    "id": "teoria-da-integracao-de-caracteristicas-fit",
+    "nome": "Teoria da Integração de Características (FIT)",
+    "ano": "1980",
+    "disciplina": "Psicologia cognitiva",
+    "autor": "Anne Treisman",
+    "autores": [
+      "anne-treisman"
+    ],
+    "formula": "",
+    "descricao": [
+      "Treisman propôs que a percepção visual ocorre em dois estágios: primeiro, características como cor, forma e orientação são processadas em paralelo, automaticamente, em mapas separados. Depois, a atenção atua como 'cola' que integra essas características em objetos coerentes.",
+      "Evidências vêm de tarefas de busca visual: encontrar um alvo definido por uma única característica (um X vermelho entre Os) é fácil e independe do número de distratores. Já encontrar um alvo definido pela conjunção de características (um X vermelho entre Xs verdes e Os vermelhos) requer atenção serial e fica mais lento conforme aumenta o número de distratores.",
+      "A teoria fundamentou décadas de pesquisa sobre atenção visual."
+    ]
+  },
+  {
+    "id": "lei-do-efeito",
+    "nome": "Lei do Efeito",
+    "ano": "1898",
+    "disciplina": "Análise Experimental do Comportamento",
+    "autor": "Edward Thorndike",
+    "autores": [
+      "edward-thorndike"
+    ],
+    "formula": "",
+    "descricao": [
+      "Thorndike formulou: respostas seguidas por consequências satisfatórias tendem a se repetir; respostas seguidas por consequências desconfortáveis tendem a diminuir.",
+      "Formulada a partir de experimentos com gatos em 'caixas-problema': os animais aprendiam a escapar não por insight, mas por tentativa-e-erro, com gradual fortalecimento das respostas bem-sucedidas.",
+      "Foi o precursor direto do conceito de reforçamento de Skinner e da própria ideia de que o comportamento é selecionado por suas consequências — paralelo darwinista entre seleção natural e seleção operante."
+    ]
+  },
+  {
+    "id": "condicionamento-classico",
+    "nome": "Condicionamento clássico",
+    "ano": "1903",
+    "disciplina": "Análise Experimental do Comportamento",
+    "autor": "Ivan Pavlov",
+    "autores": [
+      "ivan-pavlov"
+    ],
+    "formula": "EI → RI ; EC → RC",
+    "descricao": [
+      "Pavlov mostrou que um estímulo neutro (campainha), quando pareado repetidamente com um estímulo incondicionado (comida), passa a eliciar uma resposta condicionada (salivação) similar à resposta incondicionada original.",
+      "O modelo fundamenta o estudo de aprendizagem associativa e é base para entender fobias, aversões alimentares, tolerância a drogas e respostas emocionais aprendidas.",
+      "Versões modernas incluem o modelo Rescorla-Wagner, que formaliza matematicamente como força associativa muda em função de surpresa (erro de predição) — base teórica de modelos atuais de aprendizagem por reforço."
+    ]
+  },
+  {
+    "id": "condicionamento-operante",
+    "nome": "Condicionamento operante",
+    "ano": "1938",
+    "disciplina": "Análise Experimental do Comportamento",
+    "autor": "B. F. Skinner",
+    "autores": [
+      "b-f-skinner"
+    ],
+    "formula": "",
+    "descricao": [
+      "Skinner propôs uma classe de comportamentos chamada 'operante' — comportamentos voluntários que operam sobre o ambiente e são moldados por suas consequências.",
+      "Reforçamento positivo (apresentar consequência apetitiva), reforçamento negativo (remover estímulo aversivo), punição positiva e negativa formam o quadrante básico de contingências.",
+      "O trabalho com esquemas de reforçamento (intervalo fixo, razão variável, etc) revelou padrões comportamentais robustos que continuam centrais na economia comportamental, no design de interfaces e em estudos de jogos de azar."
+    ]
+  },
+  {
+    "id": "lei-da-igualacao-matching-law",
+    "nome": "Lei da Igualação (Matching Law)",
+    "ano": "1961",
+    "disciplina": "Análise Experimental do Comportamento",
+    "autor": "Richard Herrnstein",
+    "autores": [
+      "richard-herrnstein"
+    ],
+    "formula": "B₁/B₂ = R₁/R₂",
+    "descricao": [
+      "Em situações de escolha entre alternativas concorrentes, a proporção de respostas em cada alternativa iguala a proporção de reforços obtidos por ela.",
+      "Foi a primeira lei quantitativa rigorosa do comportamento de escolha, com formalização matemática limpa e suporte experimental amplo (em pombos, ratos e humanos).",
+      "A versão generalizada (Baum, 1974) introduziu parâmetros de viés e sensibilidade, ajustando a equação a desvios sistemáticos. A lei é a fundação da análise quantitativa do comportamento e tem paralelos diretos com modelos econômicos de escolha."
+    ]
+  },
+  {
+    "id": "behaviorismo-teleologico-e-desconto-temporal",
+    "nome": "Behaviorismo teleológico e desconto temporal",
+    "ano": "1992",
+    "disciplina": "Análise Experimental do Comportamento",
+    "autor": "Howard Rachlin",
+    "autores": [
+      "howard-rachlin"
+    ],
+    "formula": "V = A / (1 + k·D)",
+    "descricao": [
+      "Rachlin propôs que o valor subjetivo de uma recompensa diminui hiperbolicamente conforme aumenta o atraso até o seu recebimento. A função tem forma de hipérbole, não de exponencial — gerando reversões de preferência ao longo do tempo (impulsividade).",
+      "Na fórmula, V é o valor subjetivo, A é a magnitude da recompensa, D é o atraso e k é a taxa de desconto individual.",
+      "A proposta integra análise do comportamento com economia comportamental e neurociência da tomada de decisão. Tem aplicações em estudos sobre adicção, autocontrole e patologia psiquiátrica — taxas de k elevadas correlacionam-se com adicção, TDAH e dependência."
+    ]
+  },
+  {
+    "id": "racionalidade-limitada-bounded-rationality",
+    "nome": "Racionalidade limitada (bounded rationality)",
+    "ano": "1955",
+    "disciplina": "Economia comportamental",
+    "autor": "Herbert Simon",
+    "autores": [
+      "herbert-simon"
+    ],
+    "formula": "",
+    "descricao": [
+      "Contra o modelo do agente racional clássico que otimiza utilidade, Simon argumentou que humanos têm capacidades cognitivas limitadas e operam em ambientes complexos demais para otimização perfeita.",
+      "Na prática, buscamos soluções 'satisficing' — suficientemente boas, em vez de ótimas. Estabelecemos níveis de aspiração, buscamos sequencialmente, e paramos quando uma alternativa atende ao critério.",
+      "A proposta abriu caminho para a economia comportamental e foi pioneira em integrar psicologia cognitiva e ciências de decisão. Simon recebeu o Nobel de Economia (1978) por essas contribuições."
+    ]
+  },
+  {
+    "id": "teoria-do-prospecto",
+    "nome": "Teoria do Prospecto",
+    "ano": "1979",
+    "disciplina": "Economia comportamental",
+    "autor": "Daniel Kahneman & Amos Tversky",
+    "autores": [
+      "daniel-kahneman",
+      "amos-tversky"
+    ],
+    "formula": "v(x), π(p)",
+    "descricao": [
+      "Substitui a teoria da utilidade esperada como descrição (não prescrição) de como pessoas reais decidem sob risco.",
+      "Três insights centrais: (1) avaliamos resultados como ganhos ou perdas relativos a um ponto de referência, não em termos absolutos; (2) somos avessos a perdas — perder R$100 dói mais do que ganhar R$100 satisfaz, num fator de cerca de 2; (3) ponderamos probabilidades de forma não-linear, superestimando eventos raros e subestimando eventos comuns.",
+      "A teoria gerou o Nobel de Economia para Kahneman em 2002 (Tversky havia falecido) e fundamenta grande parte da economia comportamental atual."
+    ]
+  },
+  {
+    "id": "heuristicas-e-vieses",
+    "nome": "Heurísticas e vieses",
+    "ano": "1974",
+    "disciplina": "Economia comportamental",
+    "autor": "Tversky & Kahneman",
+    "autores": [
+      "daniel-kahneman",
+      "amos-tversky"
+    ],
+    "formula": "",
+    "descricao": [
+      "Tversky e Kahneman documentaram que humanos usam atalhos mentais (heurísticas) sistemáticos para tomar decisões sob incerteza, e que esses atalhos geram vieses previsíveis.",
+      "Heurísticas centrais: representatividade (julgar probabilidade pela semelhança a um estereótipo), disponibilidade (julgar frequência pela facilidade de lembrar exemplos), ancoragem (decisões influenciadas por números arbitrários apresentados antes).",
+      "O programa de pesquisa demonstrou que esses vieses não são erros aleatórios, mas padrões sistemáticos — abrindo caminho para o conceito de 'arquitetura de escolha' e para o uso de nudges em políticas públicas."
+    ]
+  },
+  {
+    "id": "nudge-e-arquitetura-de-escolha",
+    "nome": "Nudge e arquitetura de escolha",
+    "ano": "2008",
+    "disciplina": "Economia comportamental",
+    "autor": "Richard Thaler & Cass Sunstein",
+    "autores": [
+      "richard-thaler"
+    ],
+    "formula": "",
+    "descricao": [
+      "A forma como escolhas são apresentadas influencia profundamente as decisões — mesmo quando o conjunto de opções é idêntico. Thaler e Sunstein propõem que governos e instituições podem usar essa influência de forma deliberada e benéfica, sem restringir liberdade.",
+      "Exemplos clássicos: tornar a inscrição em planos de previdência o default (com opção de saída) aumenta dramaticamente a poupança; mudar a ordem de itens em cardápios afeta escolhas alimentares; doação de órgãos por opt-out vs opt-in muda taxas de doação em ordens de magnitude.",
+      "A proposta foi rotulada de 'paternalismo libertário' e gerou unidades de Behavioral Insights em vários governos (Reino Unido, EUA, Brasil)."
+    ]
+  },
+  {
+    "id": "axioma-de-escolha-de-luce",
+    "nome": "Axioma de escolha de Luce",
+    "ano": "1959",
+    "disciplina": "Economia comportamental",
+    "autor": "R. Duncan Luce",
+    "autores": [
+      "r-duncan-luce"
+    ],
+    "formula": "P(x|S) = v(x)/Σv(y)",
+    "descricao": [
+      "Luce propôs uma formalização probabilística da escolha: a probabilidade de escolher um item x de um conjunto S depende do valor (utilidade) de x relativo à soma dos valores de todos os itens disponíveis.",
+      "O axioma central diz que adicionar ou remover alternativas irrelevantes não deveria afetar as proporções de escolha entre alternativas existentes (independência de alternativas irrelevantes — IIA).",
+      "Forma a base matemática de modelos logit/multinomiais usados em pesquisa de mercado, escolha do consumidor e modelagem psicológica de decisão. Variantes (Tversky, McFadden) relaxam IIA para casos onde violações sistemáticas ocorrem."
+    ]
+  },
+  {
+    "id": "teoria-de-campo",
+    "nome": "Teoria de campo",
+    "ano": "1936",
+    "disciplina": "Psicologia social",
+    "autor": "Kurt Lewin",
+    "autores": [
+      "kurt-lewin"
+    ],
+    "formula": "B = f(P, E)",
+    "descricao": [
+      "Comportamento (B) é função (f) da pessoa (P) em interação com o ambiente (E). A fórmula simples encapsula uma virada conceitual: comportamento não é determinado isoladamente por traços de personalidade nem por situação, mas pela interação dinâmica entre os dois.",
+      "Lewin emprestou o conceito de campo da física: a pessoa existe num 'espaço vital' com forças (atrações, repulsões, barreiras) que estruturam o comportamento naquele momento.",
+      "A teoria fundou a psicologia social moderna e influenciou décadas de pesquisa sobre dinâmica de grupos, mudança social e pesquisa-ação."
+    ]
+  },
+  {
+    "id": "teoria-da-dissonancia-cognitiva",
+    "nome": "Teoria da dissonância cognitiva",
+    "ano": "1957",
+    "disciplina": "Psicologia social",
+    "autor": "Leon Festinger (refinado por Aronson)",
+    "autores": [
+      "leon-festinger",
+      "elliot-aronson"
+    ],
+    "formula": "",
+    "descricao": [
+      "Quando uma pessoa mantém duas cognições inconsistentes (ou cognição inconsistente com comportamento), surge um estado psicológico desconfortável — dissonância — que motiva a redução do conflito.",
+      "A redução pode ocorrer mudando atitudes ('na verdade não gostei tanto daquele emprego que rejeitei'), buscando informações justificadoras, ou minimizando a importância da cognição conflitante.",
+      "O experimento clássico (Festinger & Carlsmith, 1959) mostrou que pessoas pagas pouco para mentir mudavam mais suas atitudes do que pessoas pagas muito — quando a justificativa externa é fraca, a pressão para justificar internamente é maior. Aronson reformulou a teoria em termos de auto-conceito: dissonância surge especialmente quando o comportamento ameaça a visão de si."
+    ]
+  },
+  {
+    "id": "conformidade",
+    "nome": "Conformidade",
+    "ano": "1951",
+    "disciplina": "Psicologia social",
+    "autor": "Solomon Asch",
+    "autores": [
+      "solomon-asch"
+    ],
+    "formula": "",
+    "descricao": [
+      "Asch demonstrou experimentalmente que pessoas frequentemente concordam com julgamentos perceptuais obviamente errados quando uma maioria unânime discorda delas. Em torno de 75% dos participantes conformaram-se em pelo menos uma de várias tentativas.",
+      "O paradigma usava tarefas simples de comparação de comprimento de linhas — situações onde a resposta correta é incontroversa. A pressão social bastava para distorcer respostas.",
+      "Fatores que aumentam conformidade: tamanho do grupo (até cerca de 4-5 pessoas), unanimidade (a presença de um único 'aliado' reduz drasticamente o efeito), público vs privado. A teoria fundamentou décadas de pesquisa sobre influência social e pressão de grupo."
+    ]
+  },
+  {
+    "id": "obediencia-a-autoridade",
+    "nome": "Obediência à autoridade",
+    "ano": "1963",
+    "disciplina": "Psicologia social",
+    "autor": "Stanley Milgram",
+    "autores": [
+      "stanley-milgram"
+    ],
+    "formula": "",
+    "descricao": [
+      "Milgram demonstrou que pessoas comuns aplicam o que acreditam serem choques elétricos de até 450 volts (potencialmente letais) em estranhos quando instruídas por uma figura de autoridade — cerca de 65% dos participantes 'foram até o fim'.",
+      "O trabalho foi motivado pelo julgamento de Eichmann e pela banalidade do mal documentada por Hannah Arendt: como pessoas normais participam de atrocidades?",
+      "Milgram identificou fatores moduladores: proximidade física da vítima reduz obediência, presença de pares desobedientes reduz dramaticamente, autoridade legítima e institucional aumenta. As implicações éticas do estudo geraram reformas profundas em comitês de ética em pesquisa."
+    ]
+  },
+  {
+    "id": "poder-das-situacoes-stanford-prison-experiment",
+    "nome": "Poder das situações (Stanford Prison Experiment)",
+    "ano": "1971",
+    "disciplina": "Psicologia social",
+    "autor": "Philip Zimbardo",
+    "autores": [
+      "philip-zimbardo"
+    ],
+    "formula": "",
+    "descricao": [
+      "Zimbardo argumentou que situações têm poder dramático de moldar comportamento, sobrepondo-se a traços individuais de personalidade. Estudantes universitários atribuídos aleatoriamente a papéis de 'guardas' ou 'prisioneiros' em um cenário simulado de prisão exibiram comportamentos cruéis (guardas) ou submissos (prisioneiros) em poucos dias.",
+      "O experimento foi interrompido em 6 dias dos 14 planejados devido à deterioração psicológica dos participantes.",
+      "A interpretação 'situacionista forte' foi posteriormente questionada — análises de áudios e documentos sugerem que Zimbardo instruiu guardas explicitamente, e os participantes podem ter performado papéis sob expectativas. Ainda assim, o experimento permanece um marco no debate sobre 'maçãs ruins vs barris ruins' e tem ressonância em casos como Abu Ghraib."
+    ]
+  },
+  {
+    "id": "doutrina-do-neuronio",
+    "nome": "Doutrina do neurônio",
+    "ano": "1888",
+    "disciplina": "Neurociência",
+    "autor": "Santiago Ramón y Cajal",
+    "autores": [
+      "santiago-ramon-y-cajal"
+    ],
+    "formula": "",
+    "descricao": [
+      "Cajal established que o sistema nervoso é composto por células discretas (neurônios) que se comunicam por contato, não por continuidade. Foi uma virada conceitual contra a teoria reticular dominante (Golgi), que via o sistema nervoso como uma rede contínua.",
+      "Usando a coloração argêntica desenvolvida por Golgi, Cajal documentou a polaridade neuronal — informação flui de dendritos para o corpo celular e dali para o axônio — formulando a 'lei da polarização dinâmica'.",
+      "A doutrina foi confirmada décadas depois pela microscopia eletrônica, que revelou as fendas sinápticas. Os desenhos detalhados de Cajal continuam usados em livros-texto e sua estética influenciou a iconografia da neurociência."
+    ]
+  },
+  {
+    "id": "modelo-de-hodgkin-huxley",
+    "nome": "Modelo de Hodgkin-Huxley",
+    "ano": "1952",
+    "disciplina": "Neurociência",
+    "autor": "Alan Hodgkin & Andrew Huxley",
+    "autores": [
+      "alan-hodgkin-e-andrew-huxley"
+    ],
+    "formula": "I = Cₘ·dV/dt + ΣI_íon",
+    "descricao": [
+      "Hodgkin e Huxley descreveram matematicamente o potencial de ação como resultado da abertura e fechamento sequenciais de canais iônicos voltagem-dependentes — primeiro Na⁺ entra (despolarização), depois K⁺ sai (repolarização).",
+      "O modelo matemático reproduz com precisão notável a forma do potencial de ação medido experimentalmente no axônio gigante de lula. Cada canal é modelado por equações diferenciais com 'gating variables' que descrevem a probabilidade de abertura.",
+      "É a fundação da neurociência computacional contemporânea — modelos de redes neurais biofísicas, simulações de redes corticais (NEURON, Brian) ainda partem dele. Rendeu o Nobel de 1963."
+    ]
+  },
+  {
+    "id": "postulado-de-hebb-plasticidade-sinaptica",
+    "nome": "Postulado de Hebb (plasticidade sináptica)",
+    "ano": "1949",
+    "disciplina": "Neurociência",
+    "autor": "Donald Hebb",
+    "autores": [
+      "donald-hebb"
+    ],
+    "formula": "",
+    "descricao": [
+      "Hebb formulou: quando um axônio de um neurônio A está suficientemente próximo para excitar um neurônio B e participa repetidamente em fazê-lo disparar, alguma mudança ocorre que aumenta a eficiência de A em ativar B.",
+      "Versão popular: 'cells that fire together, wire together'.",
+      "O postulado prediz a base celular do aprendizado e foi confirmado experimentalmente com a descoberta da Long-Term Potentiation (LTP) por Bliss e Lømo (1973), que mostraram fortalecimento sináptico duradouro após estimulação correlacionada. É também a inspiração para algoritmos de aprendizado em redes neurais artificiais."
+    ]
+  },
+  {
+    "id": "centros-de-prazer-autoestimulacao-intracraniana",
+    "nome": "Centros de prazer (autoestimulação intracraniana)",
+    "ano": "1954",
+    "disciplina": "Neurociência",
+    "autor": "James Olds & Peter Milner",
+    "autores": [
+      "james-olds"
+    ],
+    "formula": "",
+    "descricao": [
+      "Olds e Milner descobriram acidentalmente que ratos com eletrodos implantados em certas regiões cerebrais (especialmente o feixe prosencefálico medial) pressionavam alavancas obsessivamente para receber estimulação elétrica — até 7000 vezes por hora, ignorando comida, água e sexo.",
+      "O achado revelou um sistema neural específico para recompensa, posteriormente identificado como o circuito mesolímbico dopaminérgico (área tegmental ventral → núcleo accumbens).",
+      "Fundamenta a neurociência contemporânea da motivação, do prazer e da adicção. Modelos atuais distinguem 'wanting' (querer, dopaminérgico) de 'liking' (gostar, opióide), refinando a interpretação original."
+    ]
+  },
+  {
+    "id": "dissociacao-memoria-declarativa-vs-procedural-paciente-h-m",
+    "nome": "Dissociação memória declarativa vs procedural (paciente H.M.)",
+    "ano": "1957",
+    "disciplina": "Neurociência",
+    "autor": "Brenda Milner",
+    "autores": [],
+    "formula": "",
+    "descricao": [
+      "O paciente Henry Molaison (H.M.) sofreu remoção bilateral do hipocampo aos 27 anos para tratar epilepsia intratável. A cirurgia eliminou suas crises, mas também sua capacidade de formar novas memórias declarativas (eventos e fatos).",
+      "Milner descobriu, no entanto, que H.M. ainda aprendia novas habilidades motoras (memória procedural), sem se lembrar de ter praticado. A dissociação demonstrou que existem múltiplos sistemas de memória, com substratos neurais distintos.",
+      "Décadas de estudos com H.M. estabeleceram a divisão fundamental entre memória explícita (hipocampal, declarativa) e implícita (estriatal/cerebelar, procedural) que estrutura a neuropsicologia moderna."
+    ]
+  },
+  {
+    "id": "quatro-questoes-de-tinbergen",
+    "nome": "Quatro questões de Tinbergen",
+    "ano": "1963",
+    "disciplina": "Etologia",
+    "autor": "Nikolaas Tinbergen",
+    "autores": [
+      "nikolaas-tinbergen"
+    ],
+    "formula": "",
+    "descricao": [
+      "Tinbergen propôs que a explicação completa de um comportamento requer responder a quatro perguntas distintas e complementares: causação (que mecanismos imediatos produzem o comportamento?), ontogenia (como o comportamento se desenvolve no indivíduo?), função (que vantagem evolutiva ele confere?) e filogênese (como evoluiu na linhagem?).",
+      "As duas primeiras são causas próximas (mecanismo e desenvolvimento), as duas últimas são causas distais (função e história evolutiva).",
+      "O esquema é a fundação metodológica da etologia e é a inspiração direta deste mapa multinível. Sua força está em prevenir o erro frequente de tomar uma resposta como suficiente — explicar o ciúme como 'estratégia evolutiva de proteção de paternidade' (função) não responde como ele funciona neurobiologicamente (mecanismo)."
+    ]
+  },
+  {
+    "id": "imprinting-impressao-filial",
+    "nome": "Imprinting (impressão filial)",
+    "ano": "1935",
+    "disciplina": "Etologia",
+    "autor": "Konrad Lorenz",
+    "autores": [
+      "konrad-lorenz"
+    ],
+    "formula": "",
+    "descricao": [
+      "Lorenz documentou que filhotes de gansos formam um vínculo rápido e irreversível com o primeiro objeto em movimento que veem após o nascimento — normalmente a mãe, mas em condições experimentais, com humanos, objetos coloridos ou outros estímulos.",
+      "O fenômeno tem três características-chave: ocorre durante um 'período crítico' restrito (primeiras horas a dias de vida), é praticamente irreversível, e direciona não só comportamento filial atual como também escolha de parceiro sexual na vida adulta.",
+      "O conceito de período crítico foi central para John Bowlby ao formular a teoria do apego em humanos, e influencia debates contemporâneos sobre janelas plásticas no neurodesenvolvimento."
+    ]
+  },
+  {
+    "id": "danca-das-abelhas",
+    "nome": "Dança das abelhas",
+    "ano": "1947",
+    "disciplina": "Etologia",
+    "autor": "Karl von Frisch",
+    "autores": [
+      "karl-von-frisch"
+    ],
+    "formula": "",
+    "descricao": [
+      "Von Frisch decodificou o sistema de comunicação de abelhas operárias: ao retornar à colmeia após encontrar uma fonte de alimento, a abelha executa uma 'dança em oito' (waggle dance) cujo ângulo em relação à vertical codifica a direção da fonte em relação ao sol, e cuja duração codifica a distância.",
+      "Abelhas-companheiras decodificam a dança e voam diretamente para a fonte sem necessidade de seguir trilhas químicas.",
+      "Foi um dos primeiros casos documentados de comunicação simbólica em invertebrados — estímulo distal (alimento longe) sendo codificado em sinal arbitrário que outras abelhas decodificam com precisão. Ganhou o Nobel em 1973 (com Lorenz e Tinbergen)."
+    ]
+  },
+  {
+    "id": "teoria-do-apego",
+    "nome": "Teoria do apego",
+    "ano": "1969",
+    "disciplina": "Etologia",
+    "autor": "John Bowlby",
+    "autores": [
+      "john-bowlby"
+    ],
+    "formula": "",
+    "descricao": [
+      "Bowlby integrou etologia, psicanálise e teoria de sistemas para argumentar que o vínculo bebê-cuidador é um sistema comportamental geneticamente moldado, evolutivamente vantajoso para a sobrevivência infantil.",
+      "O sistema de apego é ativado por ameaça (separação, medo) e busca proximidade ao cuidador como base segura. A qualidade do vínculo durante a infância forma 'modelos internos de funcionamento' (internal working models) que influenciam relacionamentos ao longo da vida.",
+      "Mary Ainsworth desenvolveu a 'Situação Estranha' para classificar estilos de apego — seguro, evitativo, ambivalente, desorganizado — operacionalizando a teoria. É hoje fundamento da psicologia do desenvolvimento e da psicoterapia."
+    ]
+  },
+  {
+    "id": "variacao-linguistica-como-pratica-social",
+    "nome": "Variação linguística como prática social",
+    "ano": "1963",
+    "disciplina": "Sociolinguística",
+    "autor": "William Labov",
+    "autores": [
+      "william-labov"
+    ],
+    "formula": "",
+    "descricao": [
+      "Labov demonstrou que variação linguística não é desordem ou erro — é estruturada e socialmente significativa. Seu estudo na ilha de Martha's Vineyard mostrou que pescadores enfatizavam pronúncias arcaicas como marca identitária contra turistas.",
+      "O estudo posterior em lojas de departamento de Nova York (Saks, Macy's, Klein's) revelou que falantes ajustavam pronúncia do /r/ pós-vocálico de acordo com contexto e classe social — variação sistemática, sensível a estilo, situação e identidade.",
+      "A proposta fundou a sociolinguística variacionista e estabeleceu métodos quantitativos rigorosos para estudo da variação. Mostrou que mudança linguística começa em variação atual, ligada a redes sociais e marcadores identitários."
+    ]
+  },
+  {
+    "id": "lei-de-weber",
+    "nome": "Lei de Weber",
+    "ano": "1834",
+    "disciplina": "Psicofísica",
+    "autor": "Ernst Weber",
+    "autores": [
+      "ernst-weber"
+    ],
+    "formula": "ΔI / I = k",
+    "descricao": [
+      "Weber observou que a menor diferença perceptível (just noticeable difference, JND) entre dois estímulos é proporcional à magnitude do estímulo de referência, com constante k específica para cada modalidade sensorial.",
+      "Na prática: se você consegue notar a diferença entre 100g e 105g (um aumento de 5%), também conseguirá notar a diferença entre 1000g e 1050g (mesmo 5%) — mas não entre 1000g e 1005g.",
+      "A lei vale aproximadamente para muitas modalidades (peso, brilho, intensidade sonora) em ranges intermediários, com desvios em extremos. Foi a primeira lei quantitativa em psicologia, abrindo caminho para a psicofísica e para o tratamento da percepção como objeto de medida."
+    ]
+  },
+  {
+    "id": "lei-de-fechner",
+    "nome": "Lei de Fechner",
+    "ano": "1860",
+    "disciplina": "Psicofísica",
+    "autor": "Gustav Fechner",
+    "autores": [
+      "gustav-fechner"
+    ],
+    "formula": "S = k · log(I)",
+    "descricao": [
+      "A partir da Lei de Weber, Fechner derivou matematicamente que a sensação percebida (S) cresce logaritmicamente com a intensidade física do estímulo (I) — duplicar a intensidade não duplica a sensação.",
+      "A lei explica fenômenos cotidianos: por que decibéis e magnitudes de estrelas usam escalas logarítmicas, por que precisamos de incrementos cada vez maiores para sentir diferenças no volume.",
+      "Fechner desenvolveu também três métodos clássicos de mensuração psicofísica (limiar, ajuste, estímulos constantes) que permanecem em uso. Sua obra 'Elementos de Psicofísica' (1860) é considerada o marco fundador da psicologia experimental — primeiro tratamento sistemático de fenômenos mentais como mensuráveis."
+    ]
+  },
+  {
+    "id": "lei-da-potencia-de-stevens",
+    "nome": "Lei da Potência de Stevens",
+    "ano": "1957",
+    "disciplina": "Psicofísica",
+    "autor": "S. S. Stevens",
+    "autores": [
+      "s-s-stevens"
+    ],
+    "formula": "S = k · Iⁿ",
+    "descricao": [
+      "Stevens contestou a Lei de Fechner usando estimação direta de magnitude — pedindo a participantes que atribuíssem números proporcionais à intensidade percebida. Os resultados ajustaram-se melhor a uma função de potência do que a uma logarítmica.",
+      "O expoente n varia por modalidade: cerca de 0.33 para brilho (sensação cresce mais lentamente que estímulo), 1.0 para comprimento, 3.5 para choque elétrico (sensação cresce muito mais rápido que estímulo).",
+      "Stevens também classificou as escalas de mensuração (nominal, ordinal, intervalar, razão), uma estrutura que continua central em estatística e metodologia de pesquisa contemporânea."
+    ]
+  }
+]

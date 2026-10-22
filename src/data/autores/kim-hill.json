@@ -1,0 +1,43 @@
+{
+  "id": "kim-hill",
+  "nome": "Kim Hill",
+  "periodo": "1947–presente",
+  "disciplinas": [
+    "Antropologia evolutiva"
+  ],
+  "resumo": "Antropólogo que, vivendo entre os Aché do Paraguai e outros povos de forrageio, mediu como caçadores-coletores dividem comida, criam filhos e se organizam.",
+  "bio": [
+    "Kim Hill é antropólogo e professor na Universidade Estadual do Arizona, ligado à Escola de Evolução Humana e Mudança Social e ao Instituto de Origens Humanas. Sua formação e sua carreira estão associadas à ecologia comportamental humana, campo que aplica a lógica da biologia evolutiva (custos, benefícios, escolhas sob restrição) ao comportamento de populações humanas reais. Em vez de especular a partir de modelos abstratos, Hill passou longos períodos em campo coletando dados quantitativos sobre o que as pessoas fazem, como gastam o tempo e com quem dividem os recursos.",
+    "O núcleo de seu trabalho está nos Aché, povo de caçadores-coletores do leste do Paraguai, que ele acompanhou por décadas em parceria com a antropóloga Magdalena Hurtado. O livro de 1996 sobre a história de vida dos Aché reuniu dados demográficos e comportamentais raros: taxas de mortalidade, fecundidade, intervalos entre nascimentos e produtividade alimentar ao longo da vida. Ele também estudou os Hiwi, da Venezuela, e outros povos de pequena escala. Seus trabalhos de campo ajudaram a testar a teoria do forrageio ótimo, que prevê quais presas e alimentos um caçador deveria buscar, e a documentar o compartilhamento de comida, no qual a carne de uma caçada bem-sucedida é distribuída para além da família imediata.",
+    "Com Hillard Kaplan e colegas, Hill contribuiu para uma teoria da evolução da história de vida humana: a combinação incomum de infância longa, grande dependência de alimentos de coleta difícil, que exigem aprendizado demorado, e vida adulta longa teria favorecido cérebros grandes e investimento prolongado dos adultos nos mais jovens. Em outra linha, estudos com dezenas de acampamentos de caçadores-coletores mostraram que os bandos reúnem muitos indivíduos sem parentesco próximo e cerca de metade de homens e mulheres, um padrão que difere do dos outros grandes primatas. Para Hill, isso indica uma estrutura social própria de nossa espécie, com laços de aliança e casamento que cruzam grupos. Ele também examinou a violência entre os Aché e os Hiwi, contribuindo para o debate sobre a guerra em sociedades de pequena escala.",
+    "O legado de Hill é fornecer uma base empírica sólida para hipóteses sobre cooperação, família e organização social. As ressalvas da literatura são conhecidas: poucas populações foram estudadas a fundo, muitas já estavam em contato com sociedades nacionais, e extrapolar para a pré-história exige cautela. Mesmo assim, seus conjuntos de dados são referência para quem constrói modelos de evolução do comportamento humano."
+  ],
+  "tags": [
+    "Trabalho de campo",
+    "Etnográfico",
+    "Modelagem evolutiva"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1982",
+      "titulo": "Hunting and Human Evolution",
+      "link": ""
+    },
+    {
+      "ano": "1996",
+      "titulo": "Ache Life History: The Ecology and Demography of a Foraging People (com A. M. Hurtado)",
+      "link": ""
+    },
+    {
+      "ano": "2000",
+      "titulo": "A Theory of Human Life History Evolution: Diet, Intelligence, and Longevity (com H. Kaplan, J. Lancaster e A. M. Hurtado)",
+      "link": ""
+    },
+    {
+      "ano": "2011",
+      "titulo": "Co-residence Patterns in Hunter-Gatherer Societies Show Unique Human Social Structure",
+      "link": ""
+    }
+  ]
+}

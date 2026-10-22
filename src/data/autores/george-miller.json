@@ -1,0 +1,53 @@
+{
+  "id": "george-miller",
+  "nome": "George Miller",
+  "periodo": "1920–2012",
+  "disciplinas": [
+    "Psicologia cognitiva",
+    "Psicofísica"
+  ],
+  "resumo": "Psicólogo que ajudou a fundar a ciência cognitiva: do limite de cerca de sete itens da memória imediata à psicolinguística, à teoria da informação e ao WordNet.",
+  "bio": [
+    "George A. Miller nasceu em Charleston, na Virgínia Ocidental, em 1920, e doutorou-se em Harvard em 1946, sob orientação de S. S. Stevens, no Laboratório de Psico-Acústica. Durante a guerra, Miller mediu, para fins de comunicação militar, como o ruído e o contexto afetam o reconhecimento da fala: palavras inseridas em frases são entendidas com mais facilidade do que palavras isoladas. Esse lado psicofísico, de medir com rigor o que as pessoas percebem, está na origem de sua visão da linguagem como um processo de informação, desenvolvida em Language and Communication (1951).",
+    "Em 1956, publicou o artigo mais citado de sua carreira. A teoria da informação, de Claude Shannon, mede a incerteza em bits, e Miller notou que, quando pedimos às pessoas que classifiquem estímulos de uma única dimensão, como tons de diferentes alturas, o desempenho satura em torno de sete categorias. A memória imediata também parecia limitada a cerca de sete itens, fossem dígitos, letras ou palavras, embora esses itens carreguem quantidades muito diferentes de informação em bits. A conclusão é que o limite está no número de unidades, os chunks, e não na quantidade de bits. Podemos ampliar a capacidade reorganizando o material em unidades maiores, como ler dígitos binários em grupos que correspondem a algarismos octais. O próprio Miller tratou o número sete com certa ironia, e estudos posteriores sugerem que o limite real para itens não relacionados é menor, perto de quatro.",
+    "Miller foi uma das figuras centrais da chamada revolução cognitiva. Em 1960, com Jerome Bruner, fundou o Centro de Estudos Cognitivos de Harvard. No mesmo ano, publicou com Eugene Galanter e Karl Pribram Plans and the Structure of Behavior, que propunha o ciclo teste-operação-teste-saída como alternativa ao esquema estímulo-resposta. Em sua reconstrução histórica, ele datou o nascimento da ciência cognitiva em um simpósio de teoria da informação no MIT, em setembro de 1956, onde ouviu a apresentação do Logic Theorist, de Newell e Simon, e um trabalho de Chomsky sobre linguagem, e percebeu que psicologia experimental, linguística teórica e simulação computacional eram partes de um mesmo projeto. Depois, colaborou com Chomsky em modelos formais da linguagem.",
+    "Em 1969, na presidência da Associação Americana de Psicologia, defendeu que a psicologia deveria ser posta a serviço do público. A partir dos anos 1980, dirigiu em Princeton o projeto WordNet, uma base de dados que organiza palavras do inglês em conjuntos de sinônimos ligados por relações de significado, amplamente usada em processamento de linguagem natural. Faleceu em 2012. Seu trabalho influenciou a pesquisa sobre memória de trabalho e carga cognitiva. Críticos consideraram simples demais a unidade teste-operação-teste-saída, e a popularização do sete mais ou menos dois foi além do que o artigo afirmava."
+  ],
+  "tags": [
+    "Experimental",
+    "Matemática",
+    "Linguística"
+  ],
+  "influencias": [
+    "s-s-stevens",
+    "jerome-bruner",
+    "noam-chomsky"
+  ],
+  "obras": [
+    {
+      "ano": "1951",
+      "titulo": "Language and Communication",
+      "link": ""
+    },
+    {
+      "ano": "1956",
+      "titulo": "The Magical Number Seven, Plus or Minus Two",
+      "link": "https://psychclassics.yorku.ca/Miller/"
+    },
+    {
+      "ano": "1960",
+      "titulo": "Plans and the Structure of Behavior (com Galanter e Pribram)",
+      "link": ""
+    },
+    {
+      "ano": "1995",
+      "titulo": "WordNet: a lexical database for English",
+      "link": ""
+    },
+    {
+      "ano": "2003",
+      "titulo": "The cognitive revolution: a historical perspective",
+      "link": ""
+    }
+  ]
+}

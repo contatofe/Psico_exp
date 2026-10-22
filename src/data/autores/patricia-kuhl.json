@@ -1,0 +1,43 @@
+{
+  "id": "patricia-kuhl",
+  "nome": "Patricia Kuhl",
+  "periodo": "1946–presente",
+  "disciplinas": [
+    "Neurodesenvolvimento"
+  ],
+  "resumo": "Neurocientista da Universidade de Washington que mostrou como bebês aprendem os sons da língua materna e por que a interação social molda esse aprendizado.",
+  "bio": [
+    "Patricia Kuhl é professora da Universidade de Washington, em Seattle, e codiretora do Instituto de Aprendizagem e Ciências do Cérebro (I-LABS). Sua pergunta é como bebês, em poucos meses, descobrem os sons da língua em que estão imersos. O ponto de partida vem de estudos clássicos: recém-nascidos conseguem distinguir muitos contrastes de fala de qualquer língua, mas, como mostraram Janet Werker e Richard Tees, entre os oito e os doze meses perdem a sensibilidade a contrastes que não existem na língua do ambiente, enquanto melhoram nos contrastes nativos. Adultos japoneses, por exemplo, têm dificuldade em distinguir os sons r e l do inglês, enquanto bebês japoneses de seis a oito meses os distinguem.",
+    "Kuhl investigou esse processo de várias maneiras. Em 1975, com James Miller, mostrou que chinchilas, sem linguagem, apresentam fronteiras de percepção semelhantes às humanas para o contraste de sonoridade entre consoantes, o que indica que parte da percepção de fala se apoia em propriedades gerais da audição. Em 1992, com colegas, mostrou que, aos seis meses, bebês americanos e suecos já tinham a percepção de vogais moldada pela língua nativa. Ela descreveu o efeito de ímã perceptivo: protótipos de categorias de som atraem sons vizinhos, o que torna as diferenças dentro da categoria menos perceptíveis. A teoria do ímã da língua nativa propõe que o aprendizado inicial deixa o cérebro comprometido com os padrões da língua materna, facilitando-a e dificultando o aprendizado de outras.",
+    "Um estudo de 2003 chamou a atenção do público. Bebês americanos de nove meses ouviram uma falante nativa de mandarim em doze sessões curtas e passaram a distinguir contrastes do mandarim, quase tão bem quanto bebês chineses. Outro grupo teve a mesma exposição por vídeo ou áudio, e não aprendeu. Kuhl concluiu que a interação social abre a porta ao aprendizado fonético. Com medidas de magnetoencefalografia e potenciais evocados, seu grupo também mostrou que a capacidade de bebês de discriminar sons nativos aos seis meses prediz o vocabulário e a linguagem em idades posteriores.",
+    "O trabalho teve efeito sobre as discussões sobre educação infantil, bilinguismo e uso de telas. Há ressalvas: estudos posteriores indicam que certas interações por vídeo, quando responsivas, podem favorecer o aprendizado, o que relativiza a ideia de que a presença física seja indispensável, e várias amostras são pequenas e pedem replicação. Outros pesquisadores preferem falar em períodos sensíveis, e não críticos, para a aprendizagem de línguas, já que a plasticidade diminui de forma gradual e não abrupta."
+  ],
+  "tags": [
+    "Experimental",
+    "Neuroimagem",
+    "Linguística"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1975",
+      "titulo": "Speech perception by the chinchilla: voiced-voiceless distinction in alveolar plosive consonants (com Miller)",
+      "link": ""
+    },
+    {
+      "ano": "1992",
+      "titulo": "Linguistic experience alters phonetic perception in infants by 6 months of age (com Williams, Lacerda, Stevens e Lindblom)",
+      "link": ""
+    },
+    {
+      "ano": "2003",
+      "titulo": "Foreign-language experience in infancy: effects of short-term exposure and social interaction on phonetic learning (com Tsao e Liu)",
+      "link": ""
+    },
+    {
+      "ano": "2004",
+      "titulo": "Early language acquisition: cracking the speech code",
+      "link": ""
+    }
+  ]
+}

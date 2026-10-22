@@ -1,0 +1,46 @@
+{
+  "id": "david-marr",
+  "nome": "David Marr",
+  "periodo": "1945–1980",
+  "disciplinas": [
+    "Psicologia cognitiva"
+  ],
+  "resumo": "Neurocientista computacional britânico, morto aos 35 anos, que propôs os três níveis de análise e uma teoria computacional da visão ainda influente.",
+  "bio": [
+    "David Marr nasceu em 1945 e estudou matemática em Cambridge, onde se doutorou em neurofisiologia teórica sob orientação de Giles Brindley. Entre 1969 e 1971, publicou três teorias sobre como o cerebelo, o neocórtex e o hipocampo poderiam funcionar como máquinas de memória e aprendizado. A mais influente tratava do cerebelo, na qual propôs que as fibras trepadeiras funcionariam como sinal de ensino que ajusta a resposta de outras células. Essa ideia estimulou décadas de pesquisa sobre aprendizado motor.",
+    "Em 1973, Marr foi para o Laboratório de Inteligência Artificial do MIT, e passou a estudar a visão. Seu incômodo era com a neurofisiologia da época, que descrevia o que células individuais faziam sem explicar para que serviam. Com Tomaso Poggio, ele defendeu que um sistema de processamento de informação deve ser entendido em três níveis. O primeiro é o computacional: qual problema o sistema resolve e por que a estratégia faz sentido. O segundo é o algorítmico: que representação e que procedimento são usados. O terceiro é o da implementação: como isso se realiza fisicamente, em circuitos ou neurônios. Ele ilustrava com a soma: o problema é o mesmo, mas o algoritmo muda se usarmos numerais arábicos ou romanos, e o hardware muda se usarmos uma caixa registradora ou os dedos.",
+    "Aplicando o método à visão, Marr descreveu uma sequência de representações. O esboço primário registra bordas, manchas e variações de luminosidade na imagem. O esboço 2½D descreve a orientação e a distância das superfícies em relação ao observador. O modelo 3D, centrado no objeto, permite reconhecê-lo de qualquer ponto de vista. Com Ellen Hildreth, propôs um algoritmo de detecção de bordas, e com Poggio, um modelo cooperativo de visão estéreo. O trabalho tem forte ancoragem matemática, mas sempre ligado a perguntas sobre o que o cérebro precisa calcular. Marr cita a distinção de Chomsky entre competência e desempenho como exemplo de uma teoria de nível computacional, e discute o trabalho de James Gibson, a quem atribui perguntas corretas, mas que subestimou a complexidade do processamento necessário.",
+    "Marr morreu em 1980, de leucemia, aos 35 anos, e seu livro Vision foi publicado em 1982. A estrutura dos três níveis tornou-se um dos pontos de apoio da ciência cognitiva e da neurociência computacional, por permitir conversar sobre psicologia, inteligência artificial e neurobiologia sem confundir as perguntas. A abordagem também é criticada: a separação rígida entre níveis é questionada, porque restrições do hardware biológico podem afetar o que é computado, e o fluxo de baixo para cima de sua teoria da visão subestima os efeitos de expectativas e contexto. Mesmo assim, o raciocínio dele continua sendo ponto de partida para discutir modelos de redes neurais e de inferência bayesiana."
+  ],
+  "tags": [
+    "Computacional",
+    "Matemática",
+    "Filosofia da ciência"
+  ],
+  "influencias": [
+    "noam-chomsky",
+    "james-gibson"
+  ],
+  "obras": [
+    {
+      "ano": "1969",
+      "titulo": "A theory of cerebellar cortex",
+      "link": ""
+    },
+    {
+      "ano": "1971",
+      "titulo": "Simple memory: a theory for archicortex",
+      "link": ""
+    },
+    {
+      "ano": "1980",
+      "titulo": "Theory of edge detection (com Hildreth)",
+      "link": ""
+    },
+    {
+      "ano": "1982",
+      "titulo": "Vision: a computational investigation into the human representation and processing of visual information",
+      "link": ""
+    }
+  ]
+}

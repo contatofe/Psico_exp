@@ -1,0 +1,42 @@
+{
+  "id": "hazel-markus",
+  "nome": "Hazel Markus",
+  "periodo": "1949–presente",
+  "disciplinas": [
+    "Psicologia cultural"
+  ],
+  "resumo": "Psicóloga social e cultural que mostrou, com Shinobu Kitayama, que o self é moldado pela cultura, com modelos independente e interdependente de pessoa.",
+  "bio": [
+    "Hazel Rose Markus, nascida em 1949, é professora de psicologia na Universidade Stanford. Doutorou-se em Michigan, onde também lecionou antes de ir para Stanford. Sua carreira começou na psicologia social do self, a forma como as pessoas pensam sobre si mesmas, e se estendeu para a psicologia cultural, que estuda como cultura e mente se moldam mutuamente.",
+    "Em um artigo de 1977, propôs a noção de autoesquema: estruturas de conhecimento sobre si mesmo que organizam como processamos informações relevantes. Em 1986, com Paula Nurius, formulou o conceito de selves possíveis, as representações do que podemos vir a ser, desejadas ou temidas, que orientam motivação e comportamento. Esses trabalhos mostraram que o self não é um conjunto fixo de traços e sim uma estrutura dinâmica ligada ao contexto.",
+    "Sua contribuição mais citada é o artigo de 1991 com Shinobu Kitayama, Culture and the Self, no Psychological Review. Eles argumentaram que culturas ocidentais, como a dos Estados Unidos, promovem um self independente, concebido como entidade separada, definida por atributos internos, e que culturas como a japonesa promovem um self interdependente, definido sobretudo por relações e papéis. Segundo os autores, a diferença afeta a cognição, a emoção e a motivação: por exemplo, o foco na expressão de preferências próprias ou na harmonia com os outros, e o modo de explicar o comportamento. O artigo estimulou uma enorme quantidade de estudos comparando países, em especial Estados Unidos e Ásia Oriental.",
+    "Mais recentemente, Markus passou a estudar como cultura se expressa em instituições e normas sociais, incluindo classe social e etnia. Com Alana Conner, escreveu Clash! (2013), voltado ao público geral, sobre choques entre modelos culturais. A literatura também traz críticas: uma meta-análise de Oyserman e colegas (2002) encontrou diferenças menores e menos consistentes do que o esquema sugeria, e há grande variação dentro de cada país. Pesquisadores também notam que comparar apenas poucos países oferece pouca base para generalizar. Esses debates ajudaram a refinar a teoria, que segue central em psicologia cultural."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1977",
+      "titulo": "Self-schemata and Processing Information about the Self",
+      "link": ""
+    },
+    {
+      "ano": "1986",
+      "titulo": "Possible Selves",
+      "link": ""
+    },
+    {
+      "ano": "1991",
+      "titulo": "Culture and the Self: Implications for Cognition, Emotion, and Motivation",
+      "link": ""
+    },
+    {
+      "ano": "2013",
+      "titulo": "Clash! 8 Cultural Conflicts That Make Us Who We Are",
+      "link": ""
+    }
+  ]
+}

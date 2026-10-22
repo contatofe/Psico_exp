@@ -1,0 +1,46 @@
+{
+  "id": "robert-boyd",
+  "nome": "Robert Boyd",
+  "periodo": "1948–presente",
+  "disciplinas": [
+    "Antropologia evolutiva",
+    "Evolução cultural"
+  ],
+  "resumo": "Antropólogo que, com Peter Richerson, formalizou a evolução cultural e mostrou, em modelos matemáticos, como vieses de imitação moldam a cooperação.",
+  "bio": [
+    "Robert Boyd é professor de antropologia na Universidade Estadual do Arizona, na Escola de Evolução Humana e Mudança Social, depois de longa carreira na Universidade da Califórnia em Los Angeles. Seu estilo é o de um modelador: ele pensa a cultura e a cooperação humana construindo modelos matemáticos explícitos, nos quais os pressupostos ficam à vista e as consequências podem ser calculadas. Foi com essa ferramenta que ele ajudou a fundar o campo da evolução cultural e, nele, a chamada teoria da herança dupla.",
+    "A parceria com Peter Richerson, iniciada nos anos 1970 e que se estende até hoje, produziu o livro Culture and the Evolutionary Process (1985) e mais tarde o texto de divulgação Not by Genes Alone (2005). Nos modelos de Boyd, aprender dos outros não é simples cópia: as pessoas imitam de forma enviesada. Há o viés de conformidade (copiar o que a maioria faz), o viés de prestígio (copiar quem é admirado) e o viés de sucesso, ou viés de recompensa (copiar quem parece estar se dando bem). Cada uma dessas regras tem consequências diferentes, e Boyd mostrou que podem ser adaptativas em ambientes variáveis, mesmo gerando erros às vezes. O ponto central é que a cultura segue sua própria dinâmica, que pode se afastar dos interesses dos genes.",
+    "Boyd também é um dos nomes centrais do estudo da cooperação. Em trabalhos com Richerson sobre grupos grandes, mostrou que a reciprocidade, que funciona bem entre poucas pessoas, tende a desmoronar quando o grupo cresce, a menos que algo mais seja somado, como a punição de quem não coopera ou a conformidade a normas. Esse argumento deu base à ideia de seleção cultural de grupos, segundo a qual normas que facilitam a cooperação ajudam grupos inteiros a prosperar e a se expandir. Em outra linha de pesquisa, escreveu com a primatóloga Joan Silk um manual de evolução humana amplamente usado em cursos de graduação, e participou de estudos sobre o nicho cultural, que explica por que aprender socialmente é tão decisivo para a adaptação humana.",
+    "Seu legado inclui formar uma geração de pesquisadores, entre eles Joseph Henrich, que levaram a evolução cultural para experimentos de campo e comparações entre sociedades. As críticas à sua obra vêm de três direções: de psicólogos evolucionistas, que acham que os vieses de aprendizado são menos gerais do que os modelos supõem; de teóricos que duvidam da força da seleção entre grupos; e de antropólogos que veem pouca ligação entre os modelos e a riqueza empírica das culturas reais."
+  ],
+  "tags": [
+    "Matemática",
+    "Modelagem evolutiva",
+    "Teórico"
+  ],
+  "influencias": [
+    "peter-richerson"
+  ],
+  "obras": [
+    {
+      "ano": "1985",
+      "titulo": "Culture and the Evolutionary Process (com P. Richerson)",
+      "link": ""
+    },
+    {
+      "ano": "1988",
+      "titulo": "The Evolution of Reciprocity in Sizable Groups (com P. Richerson)",
+      "link": ""
+    },
+    {
+      "ano": "1997",
+      "titulo": "How Humans Evolved (com J. Silk)",
+      "link": ""
+    },
+    {
+      "ano": "2005",
+      "titulo": "The Origin and Evolution of Cultures (com P. Richerson)",
+      "link": ""
+    }
+  ]
+}

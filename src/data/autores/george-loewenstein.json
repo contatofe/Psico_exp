@@ -1,0 +1,49 @@
+{
+  "id": "george-loewenstein",
+  "nome": "George Loewenstein",
+  "periodo": "1955–presente",
+  "disciplinas": [
+    "Economia comportamental"
+  ],
+  "resumo": "Integrou emoção e estados corporais à economia: lacuna de empatia quente-frio, teoria da curiosidade e valor da antecipação.",
+  "bio": [
+    "George Loewenstein é economista e psicólogo norte-americano, professor da Universidade Carnegie Mellon, onde ocupa uma cátedra de economia e psicologia. Doutorou-se em economia em Yale em 1985 e é uma das figuras fundadoras da economia comportamental. Interessa-se pelo papel de emoções, motivações e estados do corpo nas decisões.",
+    "Nos anos 1980 mostrou que a antecipação de uma experiência futura tem valor próprio. No estudo “Anticipation and the valuation of delayed consumption” (1987), estudantes aceitavam pagar mais por um beijo de uma celebridade se ele fosse adiado por alguns dias do que se fosse imediato, pois a espera permitia saborear a expectativa; e muitos preferiam receber logo um choque elétrico a esperar por ele, porque o temor da espera é desagradável. Com Drazen Prelec, documentou em 1992 anomalias do desconto temporal que o modelo exponencial não explica.",
+    "Em “Out of control: Visceral influences on behavior” (1996), sustentou que estados viscerais, como fome, dor, desejo sexual e raiva, podem dominar as escolhas e que as pessoas subestimam essa influência quando estão em estado frio. Chamou o fenômeno de lacuna de empatia quente-frio (hot–cold empathy gap): quem está calmo prevê mal o que fará sob forte excitação, e quem está excitado esquece como pensava antes. Em estudo de 2006 com Dan Ariely, a excitação sexual alterou julgamentos e disposições de estudantes homens, ilustrando o argumento.",
+    "Em 1994 propôs a teoria da lacuna de informação (information gap) da curiosidade: ela surge quando percebemos uma diferença entre o que sabemos e o que queremos saber, e é mais forte quando estamos perto de preenchê-la. Com Elke Weber, Christopher Hsee e Ned Welch, propôs em 2001 o modelo do risco como sentimento, em que reações emocionais ao risco podem divergir da avaliação cognitiva. Em 2005, com Camerer e Prelec, defendeu a neuroeconomia. Entre as críticas, modelos de estados viscerais são difíceis de quantificar e de incorporar a modelos formais, e há debate sobre como emoções devem entrar em teorias de escolha."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [
+    "richard-thaler"
+  ],
+  "obras": [
+    {
+      "ano": "1987",
+      "titulo": "Anticipation and the valuation of delayed consumption",
+      "link": ""
+    },
+    {
+      "ano": "1992",
+      "titulo": "Anomalies in intertemporal choice: Evidence and an interpretation (com Prelec)",
+      "link": ""
+    },
+    {
+      "ano": "1994",
+      "titulo": "The psychology of curiosity: A review and reinterpretation",
+      "link": ""
+    },
+    {
+      "ano": "1996",
+      "titulo": "Out of control: Visceral influences on behavior",
+      "link": ""
+    },
+    {
+      "ano": "2001",
+      "titulo": "Risk as feelings (com Weber, Hsee e Welch)",
+      "link": ""
+    }
+  ]
+}

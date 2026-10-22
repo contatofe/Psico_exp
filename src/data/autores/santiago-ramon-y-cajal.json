@@ -1,0 +1,39 @@
+{
+  "id": "santiago-ramon-y-cajal",
+  "nome": "Santiago Ramón y Cajal",
+  "periodo": "1852–1934",
+  "disciplinas": [
+    "Neurociência"
+  ],
+  "resumo": "Histologista espanhol que, com desenhos e a coloração de Golgi, demonstrou que o cérebro é feito de neurônios individuais e fundou a neurociência moderna.",
+  "bio": [
+    "Santiago Ramón y Cajal (1852–1934) nasceu em Petilla de Aragón, na Espanha, filho de um médico de interior. Foi um adolescente rebelde e talentoso para o desenho, o que seu pai tentou desviar, em vão, para a medicina. Formou-se em Zaragoza e foi professor em Valência, Barcelona e Madri. Em 1887, em uma visita a Madri, viu pela primeira vez preparações feitas com o método de Golgi, na casa do psiquiatra Luis Simarro, e, a partir daí, passou a estudar sistematicamente o sistema nervoso com ele, melhorando a técnica de impregnação com prata.",
+    "Ao observar o cerebelo, a retina, o córtex e a medula de várias espécies e em diversos estágios do desenvolvimento, Cajal concluiu que o tecido nervoso é formado por células independentes, os neurônios, que se comunicam por contato e não por continuidade. Essa é a doutrina do neurônio, defendida em oposição à teoria reticular de Camillo Golgi. O termo neurônio foi cunhado por Wilhelm von Waldeyer em 1891, e o de sinapse, por Charles Sherrington em 1897, mas a base anatômica das duas ideias vem em grande medida dos desenhos e da argumentação de Cajal. Ele propôs também o princípio da polarização dinâmica: a informação flui, na maioria dos neurônios, dos dendritos e do corpo celular para o axônio, em um sentido definido. Descreveu o cone de crescimento, a ponta do axônio em desenvolvimento, e imaginou que ele seria guiado por sinais químicos até seu alvo.",
+    "Seus desenhos, feitos a partir do que via ao microscópio, são ainda hoje usados em livros didáticos e admirados por sua exatidão e beleza. Cajal estudou ainda a degeneração e a regeneração do sistema nervoso e foi pessimista quanto à capacidade de regeneração do sistema nervoso central adulto, ideia que predominou por décadas e só foi questionada pela pesquisa sobre neurogênese. Sugeriu também que a aprendizagem poderia fortalecer conexões entre neurônios, ideia que ressurge na regra de Hebb. Em 1906, dividiu o Nobel de Fisiologia ou Medicina com Golgi, e a cerimônia em Estocolmo expôs publicamente a divergência entre os dois. Escreveu ainda Reglas y consejos sobre investigación biológica, conselhos a jovens pesquisadores que continuam sendo lidos.",
+    "Quando a microscopia eletrônica, nos anos 1950, revelou a fenda sináptica entre as células, a doutrina do neurônio foi confirmada em seus traços gerais. A literatura atual reconhece nuances: há sinapses elétricas, nas quais as células se comunicam por junções diretas, e células gliais que participam do processamento de sinais, de modo que o neurônio não é o único ator do sistema nervoso. Mesmo assim, o quadro que Cajal montou continua sendo a base da neurociência celular e de circuitos."
+  ],
+  "tags": [
+    "Observacional",
+    "Histórico-comparativo"
+  ],
+  "influencias": [
+    "camillo-golgi"
+  ],
+  "obras": [
+    {
+      "ano": "1894",
+      "titulo": "Les Nouvelles Idées sur la Structure du Système Nerveux chez l'Homme et chez les Vertébrés",
+      "link": ""
+    },
+    {
+      "ano": "1897",
+      "titulo": "Reglas y consejos sobre investigación biológica (Los tónicos de la voluntad)",
+      "link": ""
+    },
+    {
+      "ano": "1899-1904",
+      "titulo": "Textura del Sistema Nervioso del Hombre y de los Vertebrados",
+      "link": ""
+    }
+  ]
+}

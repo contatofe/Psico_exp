@@ -1,0 +1,50 @@
+{
+  "id": "daniel-kahneman",
+  "nome": "Daniel Kahneman",
+  "periodo": "1934–2024",
+  "disciplinas": [
+    "Economia comportamental"
+  ],
+  "resumo": "Psicólogo que, com Tversky, mostrou como heurísticas e a aversão à perda moldam julgamento e escolha; Nobel de Economia em 2002.",
+  "bio": [
+    "Daniel Kahneman nasceu em 1934, em Tel Aviv, mas cresceu na França, onde sua família judia sobreviveu à ocupação nazista; mudou-se para a Palestina em 1948. Formou-se em psicologia e matemática na Universidade Hebraica de Jerusalém e doutorou-se em Berkeley, em 1961. No serviço militar em Israel, ajudou a criar entrevistas para selecionar oficiais; ver avaliações confiantes preverem pouco o desempenho real o levou a estudar a ilusão de validade. Lecionou em Jerusalém, na Universidade da Colúmbia Britânica, em Berkeley e em Princeton, e morreu em 2024.",
+    "Seu trabalho com Amos Tversky, a partir de 1969, tornou-se a base do programa de heurísticas e vieses: os julgamentos seguem atalhos mentais, como a representatividade, a disponibilidade e a ancoragem, que costumam funcionar bem, mas produzem erros sistemáticos. Em 1979 publicaram a teoria do prospecto, modelo descritivo de escolha sob risco. As pessoas avaliam ganhos e perdas em relação a um ponto de referência, e não à riqueza total; perdas pesam mais do que ganhos equivalentes (aversão à perda); e probabilidades pequenas tendem a ser superestimadas. A função de valor é, em forma simplificada:\nV(x) = x^α, se x ≥ 0; −λ(−x)^β, se x < 0\ncom λ > 1. Em 1992 a teoria foi reformulada como teoria cumulativa do prospecto.",
+    "Kahneman também estudou atenção e esforço mental (Attention and Effort, 1973) e, nos anos 1990, distinguiu a utilidade da experiência, o quanto algo é bom ou ruim enquanto vivido, da utilidade de decisão. Com Donald Redelmeier e outros, mostrou que a lembrança de episódios dolorosos depende sobretudo do pico e do final, e pouco da duração, a chamada regra do pico e fim. Em Thinking, Fast and Slow (2011), sintetizou décadas de pesquisa com a distinção entre Sistema 1, rápido e intuitivo, e Sistema 2, lento e deliberado, termos propostos por Keith Stanovich e Richard West e tratados por ele como metáforas. Com Gary Klein, conduziu uma colaboração adversária para identificar quando a intuição de especialistas é confiável.",
+    "Recebeu em 2002 o Prêmio de Ciências Econômicas em memória de Alfred Nobel, que dividiu com Vernon Smith. Seu legado está na economia comportamental, nas finanças comportamentais e nas políticas públicas que usam o conhecimento sobre vieses. Entre as críticas, Gerd Gigerenzer e outros defendem que heurísticas podem ser racionais em ambientes reais, e alguns resultados de pesquisas sobre priming (efeitos de estímulos sutis sobre o comportamento) que Kahneman citou no livro de 2011 não foram replicados; ele reconheceu ter confiado demais em estudos pequenos."
+  ],
+  "tags": [
+    "Experimental",
+    "Matemática"
+  ],
+  "influencias": [
+    "herbert-simon",
+    "amos-tversky"
+  ],
+  "obras": [
+    {
+      "ano": "1973",
+      "titulo": "Attention and Effort",
+      "link": ""
+    },
+    {
+      "ano": "1974",
+      "titulo": "Judgment under Uncertainty: Heuristics and Biases (com Tversky)",
+      "link": "https://doi.org/10.1126/science.185.4157.1124"
+    },
+    {
+      "ano": "1979",
+      "titulo": "Prospect Theory: An Analysis of Decision under Risk (com Tversky)",
+      "link": "https://www.jstor.org/stable/1914185"
+    },
+    {
+      "ano": "2011",
+      "titulo": "Thinking, Fast and Slow",
+      "link": ""
+    },
+    {
+      "ano": "2021",
+      "titulo": "Noise: A Flaw in Human Judgment (com Sibony e Sunstein)",
+      "link": ""
+    }
+  ]
+}

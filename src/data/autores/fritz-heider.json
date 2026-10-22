@@ -1,0 +1,44 @@
+{
+  "id": "fritz-heider",
+  "nome": "Fritz Heider",
+  "periodo": "1896–1988",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Fundou a teoria da atribuição ao propor que as pessoas inferem causas do comportamento como cientistas ingênuos, e formulou a teoria do equilíbrio.",
+  "bio": [
+    "Fritz Heider nasceu em Viena, em 1896, e morreu nos Estados Unidos, em 1988. Doutorou-se na Universidade de Graz, em 1920, e depois passou pela Universidade de Berlim, onde conviveu com psicólogos da Gestalt, a escola que entende a percepção como organização de totalidades, e com Kurt Lewin. Na década de 1930 mudou-se para os Estados Unidos, trabalhou no Smith College e, a partir de 1947, na Universidade do Kansas. Sua pergunta de fundo era como as pessoas dão sentido ao comportamento dos outros no dia a dia.",
+    "Em 1944, Heider e Marianne Simmel mostraram a voluntários um breve filme animado em que dois triângulos e um círculo se moviam ao redor de um retângulo. Quase todos descreveram a cena como uma história com personagens, intenções e conflitos, embora fossem apenas figuras geométricas. O experimento ilustra a tendência humana de perceber causalidade e intenção no movimento. No mesmo ano, no artigo sobre percepção social e causalidade fenomenal, Heider propôs que as pessoas agem como psicólogos ingênuos (ou cientistas ingênuos): inferem causas para o que veem, separando fatores internos (disposições, esforço, habilidade) e externos (situação, dificuldade, sorte). Essa distinção entre causas disposicionais e situacionais é a base de toda a pesquisa posterior sobre atribuição.",
+    "Em 1946 ele apresentou a teoria do equilíbrio, que trata de triângulos formados por uma pessoa, outra pessoa e um objeto ou tema. Se eu gosto de você e você gosta de um filme, é mais confortável que eu também goste do filme; relações desequilibradas geram tensão e tendem a mudar. O livro The Psychology of Interpersonal Relations, de 1958, reuniu essas ideias. Elas inspiraram Harold Kelley e Edward Jones, teorias sobre motivação e atribuição de causas ao sucesso e ao fracasso (como as de Bernard Weiner) e, mais tarde, pesquisas sobre vieses de atribuição, como as de Lee Ross, e sobre consistência cognitiva, entre elas a de Festinger.",
+    "O trabalho de Heider é sobretudo conceitual e fenomenológico, apoiado em exemplos e análise de linguagem cotidiana, e menos em experimentos sistemáticos. A teoria do equilíbrio foi criticada por tratar relações apenas como positivas ou negativas, ignorando intensidade, e recebeu apoio mais claro para relações positivas do que para negativas. A imagem do observador como um cientista razoavelmente racional também foi depois nuançada por estudos que documentaram erros sistemáticos de atribuição."
+  ],
+  "tags": [
+    "Teórico",
+    "Experimental"
+  ],
+  "influencias": [
+    "kurt-lewin"
+  ],
+  "obras": [
+    {
+      "ano": "1944",
+      "titulo": "Social perception and phenomenal causality",
+      "link": ""
+    },
+    {
+      "ano": "1944",
+      "titulo": "An experimental study of apparent behavior (com Simmel)",
+      "link": ""
+    },
+    {
+      "ano": "1946",
+      "titulo": "Attitudes and cognitive organization",
+      "link": ""
+    },
+    {
+      "ano": "1958",
+      "titulo": "The Psychology of Interpersonal Relations",
+      "link": ""
+    }
+  ]
+}

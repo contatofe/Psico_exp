@@ -1,0 +1,45 @@
+{
+  "id": "eric-kandel",
+  "nome": "Eric Kandel",
+  "periodo": "1929–presente",
+  "disciplinas": [
+    "Neurociência"
+  ],
+  "resumo": "Psiquiatra e neurocientista austro-americano que mostrou, na lesma-do-mar Aplysia, como a aprendizagem altera sinapses e como a memória se consolida.",
+  "bio": [
+    "Eric Kandel nasceu em Viena, em 1929, e emigrou para os Estados Unidos em 1939, após a anexação da Áustria pela Alemanha nazista. Formou-se em medicina e iniciou a carreira como psiquiatra, com interesse inicial por psicanálise. Queria saber onde, no cérebro, ficam o ego, o id e o superego, e foi abandonando a pergunta por considerá-la grande demais para os métodos da época. Passou a procurar um sistema simples o bastante para estudar a aprendizagem célula a célula, e o encontrou na Aplysia californica, uma lesma-do-mar com poucos e grandes neurônios. Trabalhou principalmente na Universidade Columbia, em Nova York.",
+    "O foco foi o reflexo de retirada da brânquia, em que a lesma recolhe a brânquia e o sifão ao ser tocada. Esse reflexo, simples, pode ser modificado pela experiência de três formas: na habituação, toques repetidos e inofensivos reduzem a resposta; na sensibilização, um estímulo forte, como um choque, a amplifica; e no condicionamento clássico, a lesma associa um estímulo neutro a um aversivo. Kandel e colaboradores mostraram que a habituação corresponde a uma queda na liberação de neurotransmissor pelo neurônio sensorial, enquanto a sensibilização resulta de neurônios facilitadores que liberam serotonina e aumentam essa liberação. Essas mudanças são curtas quando envolvem modificações em proteínas já existentes, por meio do mensageiro AMP cíclico (cAMP) e da enzima proteína-quinase A (PKA). Para a memória de longo prazo, é preciso ativar genes, por meio de fatores como a proteína CREB, produzir novas proteínas e, por fim, formar novas conexões sinápticas.",
+    "Com isso, Kandel deu uma base celular e molecular à distinção entre memória de curto e de longo prazo e mostrou que aprender muda fisicamente o cérebro. Ele tratou o estudo da memória como ponte entre biologia molecular, psicologia e psiquiatria, e defendeu que os transtornos mentais precisam de explicações que passem pelo cérebro. Também ajudou a organizar o campo: foi coautor de Principles of Neural Science, manual de referência, e publicou em 2006 o livro de memórias científicas In Search of Memory. Recebeu o Nobel de Fisiologia ou Medicina em 2000, dividido com Arvid Carlsson e Paul Greengard, pelas descobertas sobre a transdução de sinais no sistema nervoso.",
+    "O legado de Kandel está na ideia de que a plasticidade das sinapses é o substrato da memória, que orientou décadas de pesquisa em hipocampo, amígdala e cognição. Uma limitação frequentemente lembrada é a distância entre um reflexo de invertebrado e a memória humana, que envolve circuitos corticais e o hipocampo; boa parte da generalização depende de estudos posteriores em mamíferos, nos quais o próprio Kandel trabalhou, e os mecanismos centrais mostraram-se em boa medida conservados."
+  ],
+  "tags": [
+    "Experimental",
+    "Eletrofisiologia",
+    "Modelagem animal"
+  ],
+  "influencias": [
+    "donald-hebb"
+  ],
+  "obras": [
+    {
+      "ano": "1970",
+      "titulo": "Neuronal mechanisms of habituation and dishabituation of the gill-withdrawal reflex in Aplysia",
+      "link": ""
+    },
+    {
+      "ano": "1981",
+      "titulo": "Principles of Neural Science",
+      "link": ""
+    },
+    {
+      "ano": "2001",
+      "titulo": "The molecular biology of memory storage: a dialogue between genes and synapses",
+      "link": "https://doi.org/10.1126/science.1067020"
+    },
+    {
+      "ano": "2006",
+      "titulo": "In Search of Memory",
+      "link": ""
+    }
+  ]
+}

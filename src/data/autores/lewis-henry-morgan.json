@@ -1,0 +1,38 @@
+{
+  "id": "lewis-henry-morgan",
+  "nome": "Lewis Henry Morgan",
+  "periodo": "1818–1881",
+  "disciplinas": [
+    "Antropologia"
+  ],
+  "resumo": "Advogado norte-americano e pioneiro da antropologia, estudou os iroqueses e o parentesco e propôs uma sequência evolutiva de selvageria, barbárie e civilização.",
+  "bio": [
+    "Lewis Henry Morgan nasceu em 1818, no estado de Nova York, e atuou como advogado em Rochester. Seu interesse por povos indígenas começou ao conviver com os iroqueses, em especial com Ely S. Parker, um jovem seneca que se tornou seu amigo e principal informante. O resultado foi o livro League of the Ho-dé-no-sau-nee, or Iroquois (1851), considerado um dos primeiros estudos etnográficos de uma sociedade indígena norte-americana. Morgan morreu em 1881.",
+    "Sua contribuição mais original foi o estudo comparativo do parentesco. Em Systems of Consanguinity and Affinity of the Human Family (1871), reuniu a terminologia de parentesco de numerosas sociedades, coletada por questionários e viagens. Distinguiu os sistemas descritivos, que separam pai e tio paterno, dos classificatórios, que usam o mesmo termo para ambos, como entre os iroqueses. Interpretou essas diferenças como marcas de etapas anteriores da organização social, hipótese que fundou o estudo comparativo dos sistemas de parentesco.",
+    "Em Ancient Society (1877), propôs que a humanidade passou por estágios sucessivos de selvageria, barbárie e civilização, subdivididos em estágios inferior, médio e superior e ligados a invenções como o fogo, o arco, a cerâmica, a agricultura, o ferro e a escrita. Defendeu ainda que a vida social e a ideia de propriedade evoluíram em paralelo. Marx e Engels leram Morgan com entusiasmo. Engels baseou em suas ideias e nas anotações de Marx sobre o livro o texto A Origem da Família, da Propriedade Privada e do Estado (1884).",
+    "A antropologia do século XX, em especial Franz Boas e seus alunos, rejeitou o esquema unilinear de Morgan como especulativo e etnocêntrico, e as reconstruções do passado a partir do parentesco foram abandonadas. Permanecem de seu trabalho a atenção sistemática à terminologia de parentesco e a ideia de que ela expressa a organização de uma sociedade, com influência duradoura sobre a antropologia social."
+  ],
+  "tags": [
+    "Etnográfico",
+    "Histórico-comparativo",
+    "Teórico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1851",
+      "titulo": "League of the Ho-dé-no-sau-nee, or Iroquois",
+      "link": ""
+    },
+    {
+      "ano": "1871",
+      "titulo": "Systems of Consanguinity and Affinity of the Human Family",
+      "link": ""
+    },
+    {
+      "ano": "1877",
+      "titulo": "Ancient Society",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "sewall-wright",
+  "nome": "Sewall Wright",
+  "periodo": "1889–1988",
+  "disciplinas": [
+    "Genética populacional humana"
+  ],
+  "resumo": "Geneticista que formulou deriva genética, coeficiente de endogamia e paisagem adaptativa, e criou a análise de caminhos, base da genética de populações.",
+  "bio": [
+    "Sewall Wright foi um geneticista norte-americano que viveu quase um século e trabalhou nas universidades de Chicago e de Wisconsin. Doutorou-se em Harvard e, no Departamento de Agricultura dos Estados Unidos, estudou durante anos a endogamia em cobaias, acompanhando linhagens cruzadas entre parentes próximos ao longo de gerações. Essa experiência prática, somada a um talento matemático raro, o levou a desenvolver uma teoria quantitativa de como as populações mudam, tema que ocupou toda a sua carreira.",
+    "Wright introduziu o coeficiente de endogamia (F), medida da probabilidade de que dois alelos, ou seja, duas cópias de um gene herdadas de pai e mãe, sejam idênticos por descendência. A partir dele, desenvolveu as estatísticas F, até hoje usadas para medir diferenças genéticas entre subpopulações, como o índice de fixação (FST). Também criou a análise de caminhos (path analysis), método que decompõe correlações entre variáveis em efeitos diretos e indiretos segundo um diagrama causal assumido. A técnica, apresentada em 1921, foi precursora dos modelos de equações estruturais empregados em ciências sociais e comportamentais.",
+    "Seu conceito mais associado à evolução é o de deriva genética: em populações pequenas, as frequências dos genes flutuam ao acaso de geração em geração, e algumas variantes podem desaparecer ou se fixar mesmo sem vantagem seletiva. Wright integrou a deriva com seleção, mutação e migração e propôs a imagem da paisagem adaptativa, na qual cada combinação de genes tem um valor de aptidão e as populações se movem por picos e vales. Na teoria do equilíbrio móvel (shifting balance), de 1931 e 1932, sugeriu que populações divididas em subgrupos parcialmente isolados podem explorar essa paisagem com mais eficiência: a deriva leva um subgrupo a cruzar um vale de baixa aptidão e a seleção o conduz a um novo pico, que pode se espalhar por migração. Seus resultados foram resumidos nos quatro volumes de Evolution and the Genetics of Populations (1968–1978).",
+    "Wright é, com R. A. Fisher e J. B. S. Haldane, um dos fundadores da genética de populações e da síntese moderna. Teve debates duradouros com Fisher, que dava menos peso à deriva e mais à seleção em populações grandes. Entre as ressalvas feitas à sua obra está a de que a teoria do equilíbrio móvel é difícil de testar empiricamente e que a importância evolutiva da deriva em populações naturais continua em discussão. Seus conceitos, de qualquer modo, seguem em uso diário na genética."
+  ],
+  "tags": [
+    "Matemática",
+    "Genética",
+    "Modelagem evolutiva"
+  ],
+  "influencias": [
+    "r-a-fisher"
+  ],
+  "obras": [
+    {
+      "ano": "1921",
+      "titulo": "Correlation and Causation",
+      "link": ""
+    },
+    {
+      "ano": "1931",
+      "titulo": "Evolution in Mendelian Populations",
+      "link": ""
+    },
+    {
+      "ano": "1932",
+      "titulo": "The Roles of Mutation, Inbreeding, Crossbreeding and Selection in Evolution",
+      "link": ""
+    },
+    {
+      "ano": "1968",
+      "titulo": "Evolution and the Genetics of Populations, vol. 1",
+      "link": ""
+    }
+  ]
+}

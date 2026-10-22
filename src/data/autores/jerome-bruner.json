@@ -1,0 +1,50 @@
+{
+  "id": "jerome-bruner",
+  "nome": "Jerome Bruner",
+  "periodo": "1915–2016",
+  "disciplinas": [
+    "Psicologia cognitiva"
+  ],
+  "resumo": "Psicólogo que ajudou a lançar a revolução cognitiva e levou a psicologia à educação: currículo em espiral, andaime (scaffolding) e pensamento narrativo.",
+  "bio": [
+    "Jerome Bruner nasceu em Nova York, em 1915, doutorou-se em Harvard em 1941 e trabalhou lá durante boa parte da carreira, com uma passagem por Oxford nos anos 1970 e, mais tarde, pela Universidade de Nova York. Nos anos 1940 e 1950, foi um dos líderes do movimento conhecido como New Look, que mostrava que a percepção não é um registro neutro: é influenciada por necessidades, valores e expectativas. Em um estudo clássico, com Cecile Goodman, crianças de famílias pobres tenderam a superestimar o tamanho de moedas mais do que crianças de famílias ricas. Em outro, com Leo Postman, cartas de baralho anômalas, como um quatro de copas preto, eram a princípio identificadas como cartas comuns, e só depois de exposições mais longas as pessoas percebiam a anomalia. Esses efeitos foram bastante discutidos e nem sempre replicados.",
+    "Em A Study of Thinking (1956), com Jacqueline Goodnow e George Austin, Bruner investigou como as pessoas formam conceitos. Ao pedir que identificassem a regra que define uma categoria de cartões, observou estratégias distintas, como testar uma característica de cada vez, e descreveu o pensamento como uma atividade de categorização. O livro foi um dos marcos da revolução cognitiva, que recolocou processos mentais no centro da psicologia. Em 1960, Bruner e George Miller fundaram o Centro de Estudos Cognitivos de Harvard.",
+    "Depois da conferência de Woods Hole, em 1959, convocada para repensar o ensino de ciências nos Estados Unidos, Bruner escreveu The Process of Education (1960). Defendeu que o currículo deveria girar em torno das ideias estruturantes de cada disciplina e ser revisitado em níveis crescentes de complexidade, o currículo em espiral, e que qualquer assunto pode ser ensinado, de forma honesta, a crianças de qualquer idade, se adaptado ao modo como elas representam o mundo. Distinguiu três modos de representação: enativo, pela ação, icônico, pela imagem, e simbólico, pela linguagem. Em 1976, com David Wood e Gail Ross, descreveu o scaffolding, o andaime: o apoio ajustado que um adulto oferece à criança e vai retirando à medida que ela ganha autonomia, ideia próxima da zona de desenvolvimento proximal de Vygotsky, de quem Bruner foi um dos divulgadores no Ocidente.",
+    "Nas décadas seguintes, estudou a aquisição de linguagem e as interações entre mães e bebês. Em livros como Actual Minds, Possible Worlds (1986) e Acts of Meaning (1990), argumentou que a revolução cognitiva se desviara da questão do significado ao adotar a metáfora do computador, e propôs uma psicologia cultural que dá lugar ao pensamento narrativo, pelo qual damos forma à experiência. Críticas recentes questionam a aprendizagem por descoberta quando oferecida com pouca orientação, mas muitas de suas propostas, como a ideia de scaffolding, continuam centrais na pesquisa educacional. Bruner faleceu em 2016."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [
+    "lev-vygotsky",
+    "jean-piaget"
+  ],
+  "obras": [
+    {
+      "ano": "1956",
+      "titulo": "A Study of Thinking (com Goodnow e Austin)",
+      "link": ""
+    },
+    {
+      "ano": "1960",
+      "titulo": "The Process of Education",
+      "link": ""
+    },
+    {
+      "ano": "1976",
+      "titulo": "The role of tutoring in problem solving (com Wood e Ross)",
+      "link": ""
+    },
+    {
+      "ano": "1986",
+      "titulo": "Actual Minds, Possible Worlds",
+      "link": ""
+    },
+    {
+      "ano": "1990",
+      "titulo": "Acts of Meaning",
+      "link": ""
+    }
+  ]
+}

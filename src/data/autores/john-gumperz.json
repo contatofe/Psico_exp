@@ -1,0 +1,43 @@
+{
+  "id": "john-gumperz",
+  "nome": "John Gumperz",
+  "periodo": "1922–2013",
+  "disciplinas": [
+    "Sociolinguística"
+  ],
+  "resumo": "Linguista que fundou a sociolinguística interacional e mostrou como diferenças sutis de fala geram mal-entendidos entre grupos sociais e culturais.",
+  "bio": [
+    "John Gumperz nasceu na Alemanha em 1922, em família judaica, e emigrou para os Estados Unidos antes da Segunda Guerra Mundial. Doutorou-se na Universidade de Michigan e passou a maior parte da carreira na Universidade da Califórnia em Berkeley, onde ajudou a criar uma antropologia linguística voltada para a fala em situações reais. Morreu em 2013.",
+    "Seu trabalho começou com pesquisas de campo em comunidades multilíngues, primeiro na Índia, em Khalapur, e depois na Noruega, em Hemnes. Com Jan-Petter Blom, mostrou que os falantes alternam entre variedades da língua, o chamado code-switching, de maneira regrada. Na troca situacional, a mudança acompanha a situação, como um encontro formal ou uma conversa com amigos. Na metafórica, o falante alterna dentro da mesma situação para sinalizar identidade ou atitude. Com Dell Hymes, organizou Directions in Sociolinguistics (1972), obra que consolidou a etnografia da comunicação.",
+    "Sua principal contribuição é a sociolinguística interacional, desenvolvida em Discourse Strategies (1982). Gumperz defendia que, para entender uma conversa, é preciso olhar para as pistas de contextualização, sinais como entonação, ritmo, escolha de palavras e pausas que indicam como interpretar o que é dito. Pessoas de origens diferentes aprendem convenções diferentes para essas pistas, e por isso podem se entender no nível das palavras e mesmo assim se interpretarem mal. Aplicou essa ideia em estudos nos anos 1970 sobre comunicação entre britânicos e imigrantes do sul da Ásia no Reino Unido, em contextos de trabalho e atendimento ao público, e mostrou como esses mal-entendidos reforçam estereótipos.",
+    "Para a psicologia, o interesse está na inferência: interpretar uma fala exige que os interlocutores recorram a conhecimentos culturais compartilhados e não explícitos. Críticos apontaram que a teoria depende de análises qualitativas difíceis de padronizar e que dá pouca atenção a relações de poder. Mesmo assim, seu trabalho influenciou a análise de conversas, a pesquisa em comunicação intercultural e o treinamento de profissionais para lidar com diversidade linguística."
+  ],
+  "tags": [
+    "Linguística",
+    "Etnográfico",
+    "Observacional"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1964",
+      "titulo": "Linguistic and Social Interaction in Two Communities",
+      "link": ""
+    },
+    {
+      "ano": "1972",
+      "titulo": "Directions in Sociolinguistics: The Ethnography of Communication",
+      "link": ""
+    },
+    {
+      "ano": "1982",
+      "titulo": "Discourse Strategies",
+      "link": ""
+    },
+    {
+      "ano": "1982",
+      "titulo": "Language and Social Identity",
+      "link": ""
+    }
+  ]
+}

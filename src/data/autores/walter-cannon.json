@@ -1,0 +1,38 @@
+{
+  "id": "walter-cannon",
+  "nome": "Walter Cannon",
+  "periodo": "1871–1945",
+  "disciplinas": [
+    "Psicofisiologia"
+  ],
+  "resumo": "Fisiólogo de Harvard que descreveu a reação de luta ou fuga, criou o termo homeostase e criticou a teoria das emoções de James e Lange.",
+  "bio": [
+    "Walter Bradford Cannon (1871–1945) nasceu em Wisconsin, nos Estados Unidos, estudou em Harvard e foi professor de fisiologia na Faculdade de Medicina da universidade por décadas. Ainda estudante, usou os recém-descobertos raios X e uma substância opaca, o bismuto, para observar o trajeto do alimento no aparelho digestivo de animais. Nessas observações notou algo inesperado: quando o animal ficava agitado ou assustado, os movimentos do estômago e do intestino paravam. Esse achado o levou a investigar como as emoções afetam o corpo.",
+    "Em Bodily Changes in Pain, Hunger, Fear and Rage (1915), Cannon descreveu a reação de emergência, mais tarde conhecida como luta ou fuga. Diante de uma ameaça, o sistema nervoso simpático e a medula das adrenais liberam adrenalina e noradrenalina, o coração acelera, os vasos se redistribuem, a glicose aumenta e a digestão é suspensa. Segundo ele, esse conjunto de mudanças prepara o organismo para o esforço de enfrentar ou escapar. Em 1927, Cannon publicou uma crítica à teoria de James e Lange, para a qual a emoção seria a percepção das mudanças no corpo. Argumentou que as alterações viscerais são lentas demais, parecidas entre emoções diferentes e que animais com a comunicação com as vísceras cortada ainda mostravam comportamentos emocionais. Propôs, no lugar, que o tálamo teria papel central, versão desenvolvida depois com Philip Bard, a teoria de Cannon e Bard.",
+    "A segunda grande contribuição foi o conceito de homeostase. Inspirado na ideia de meio interno estável do fisiologista francês Claude Bernard, Cannon mostrou que o corpo mantém dentro de faixas estreitas variáveis como temperatura, glicose no sangue, acidez e água, por meio de mecanismos de regulação coordenados. O termo, criado em 1926, foi difundido em The Wisdom of the Body (1932). Cannon colaborou com o mexicano Arturo Rosenblueth, e as ideias de regulação por retroalimentação influenciaram Norbert Wiener na formulação da cibernética. Em 1942 publicou também um artigo sobre a morte vodu, no qual propôs, como hipótese, que o medo intenso e prolongado poderia causar a morte por excesso de ativação simpática, tese que continua discutida.",
+    "Hans Selye reconheceu a influência de Cannon na formulação da teoria do estresse, e a pesquisa posterior ampliou a ideia: a noção de alostase, estabilidade por meio da mudança, foi proposta como complemento à homeostase, que enfatiza a constância. Cannon também é criticado por ter tratado a reação de luta ou fuga como resposta universal, quando estudos recentes sugerem que os padrões de reação ao estresse variam entre indivíduos e contextos, incluindo respostas sociais de proteção e busca de apoio."
+  ],
+  "tags": [
+    "Experimental",
+    "Modelagem animal",
+    "Teórico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1915",
+      "titulo": "Bodily Changes in Pain, Hunger, Fear and Rage",
+      "link": ""
+    },
+    {
+      "ano": "1927",
+      "titulo": "The James-Lange theory of emotions: a critical examination and an alternative theory",
+      "link": ""
+    },
+    {
+      "ano": "1932",
+      "titulo": "The Wisdom of the Body",
+      "link": ""
+    }
+  ]
+}

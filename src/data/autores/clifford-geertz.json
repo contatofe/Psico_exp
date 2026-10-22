@@ -1,0 +1,45 @@
+{
+  "id": "clifford-geertz",
+  "nome": "Clifford Geertz",
+  "periodo": "1926–2006",
+  "disciplinas": [
+    "Antropologia"
+  ],
+  "resumo": "Antropólogo norte-americano que definiu cultura como teia de significados a interpretar, método que chamou de descrição densa.",
+  "bio": [
+    "Clifford Geertz nasceu em San Francisco, em 1926, formou-se em filosofia no Antioch College e doutorou-se em antropologia em Harvard. Fez pesquisa de campo em Java e em Bali, na Indonésia, e na década de 1960 também no Marrocos. Lecionou na Universidade de Chicago e, a partir de 1970, no Institute for Advanced Study, em Princeton, onde permaneceu pelo resto da carreira. Morreu em 2006.",
+    "Geertz rejeitava a ideia de que a antropologia fosse uma ciência experimental em busca de leis. Para ele, cultura é um sistema de significados públicos, uma teia que os humanos tecem e na qual vivem, na linha do sociólogo Max Weber. A tarefa do antropólogo seria interpretá-la. Para isso, tomou de empréstimo do filósofo Gilbert Ryle o conceito de descrição densa: um piscar de olhos involuntário e uma piscadela combinada fazem o mesmo movimento físico, mas só a análise do contexto permite distinguir um do outro, e é essa camada de sentido que o etnógrafo deve descrever.",
+    "O exemplo mais famoso é o ensaio sobre a briga de galos balinesa, publicado em 1972 e reunido em A Interpretação das Culturas (1973). Geertz leu o evento como um texto em que os homens de Bali contam a si mesmos algo sobre status, rivalidade e masculinidade, e não como mero jogo de azar. Em outro ensaio desse livro, sustentou que não existe natureza humana independente da cultura: os humanos seriam animais incompletos, que se completam pela cultura. Em Negara (1980), analisou o Estado balinês do século XIX como teatro, em que o poder se exerce pelo espetáculo e pelo ritual.",
+    "A abordagem interpretativa influenciou a antropologia simbólica e pesquisas em psicologia cultural, que passaram a perguntar como significados culturais moldam pensamento e emoção. Críticos, como Talal Asad e James Clifford, apontaram que ela dá pouca atenção a relações de poder e à autoridade do próprio etnógrafo, e que suas interpretações são difíceis de verificar. Esses debates ajudaram a abrir a discussão sobre a escrita etnográfica nos anos 1980."
+  ],
+  "tags": [
+    "Etnográfico",
+    "Teórico",
+    "Filosofia da ciência"
+  ],
+  "influencias": [
+    "max-weber"
+  ],
+  "obras": [
+    {
+      "ano": "1960",
+      "titulo": "The Religion of Java",
+      "link": ""
+    },
+    {
+      "ano": "1973",
+      "titulo": "The Interpretation of Cultures",
+      "link": ""
+    },
+    {
+      "ano": "1980",
+      "titulo": "Negara: The Theatre State in Nineteenth-Century Bali",
+      "link": ""
+    },
+    {
+      "ano": "1983",
+      "titulo": "Local Knowledge",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benjamin-lee-whorf",
+  "nome": "Benjamin Lee Whorf",
+  "periodo": "1897–1941",
+  "disciplinas": [
+    "Antropologia"
+  ],
+  "resumo": "Engenheiro e linguista autodidata que, com Sapir, propôs que a estrutura da língua influencia como percebemos e pensamos o mundo (relatividade linguística).",
+  "bio": [
+    "Benjamin Lee Whorf nasceu em Massachusetts, formou-se em engenharia química no MIT e passou a vida profissional como engenheiro de prevenção de incêndios numa seguradora em Hartford. Paralelamente, estudou línguas ameríndias e a escrita maia por conta própria e, a partir de 1931, frequentou os cursos de Edward Sapir em Yale. Morreu em 1941, aos 44 anos, e boa parte de sua obra foi publicada depois, em coletâneas.",
+    "Whorf formulou o que chamou de princípio da relatividade linguística: falantes de línguas com estruturas gramaticais muito diferentes tenderiam a habituar-se a modos distintos de atentar para a realidade. Um exemplo que ele usava vinha do seu trabalho com seguros. Operários mostravam-se descuidados perto de tambores de gasolina rotulados como vazios, embora estivessem cheios de vapores inflamáveis, pois a palavra sugeria ausência de perigo. Seu caso mais célebre é o da língua hopi, do sudoeste dos Estados Unidos. Segundo ele, o hopi não organizaria o tempo em passado, presente e futuro como as línguas europeias, e isso corresponderia a uma outra concepção de tempo.",
+    "A expressão hipótese Sapir-Whorf foi criada por estudiosos posteriores e junta ideias de dois autores que nunca a enunciaram como teoria única. Ela costuma ser dividida em duas versões: a forte, o determinismo linguístico, segundo a qual a língua limita o que se pode pensar, e a fraca, segundo a qual a língua influencia certos hábitos de percepção e memória. A versão forte foi amplamente rejeitada. A análise do hopi feita por Ekkehart Malotki, em 1983, mostrou que a língua tem muitos recursos para falar de tempo, o que enfraqueceu a leitura mais radical de Whorf.",
+    "Desde os anos 1990, pesquisas experimentais retomaram a questão em forma moderada, o chamado neo-whorfianismo. Estudos sobre orientação espacial, categorização de cores e numerais, de autores como John Lucy e Stephen Levinson, sugerem que a língua pode afetar tarefas cognitivas específicas, com efeitos modestos e dependentes do contexto. Por isso Whorf é lembrado como uma das pontes entre antropologia, linguística e ciência cognitiva."
+  ],
+  "tags": [
+    "Linguística",
+    "Teórico",
+    "Filosofia da ciência"
+  ],
+  "influencias": [
+    "edward-sapir"
+  ],
+  "obras": [
+    {
+      "ano": "1940",
+      "titulo": "Science and Linguistics",
+      "link": ""
+    },
+    {
+      "ano": "1950",
+      "titulo": "An American Indian Model of the Universe",
+      "link": ""
+    },
+    {
+      "ano": "1956",
+      "titulo": "Language, Thought and Reality",
+      "link": ""
+    }
+  ]
+}

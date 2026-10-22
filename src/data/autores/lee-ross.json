@@ -1,0 +1,46 @@
+{
+  "id": "lee-ross",
+  "nome": "Lee Ross",
+  "periodo": "1942–2021",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Nomeou o erro fundamental de atribuição, descreveu o falso consenso e mostrou como vieses e crenças moldam o julgamento social e os conflitos.",
+  "bio": [
+    "Lee Ross (1942–2021) doutorou-se na Universidade Colúmbia, em 1969, sob orientação de Stanley Schachter, e passou a maior parte da carreira na Universidade Stanford. Foi um dos pesquisadores que ligaram a psicologia social à pesquisa sobre julgamento e decisão, e dedicou parte do trabalho a negociação e conflito, inclusive o israelo-palestino. Sua pergunta de fundo era por que pessoas inteligentes cometem erros previsíveis ao interpretar os outros e a si mesmas.",
+    "Em 1977, no capítulo sobre o psicólogo intuitivo e suas falhas, Ross deu nome ao erro fundamental de atribuição: a tendência a explicar o comportamento alheio por traços de personalidade, subestimando o peso da situação. Em um estudo com Teresa Amabile e Julia Steinmetz, voluntários sorteados tinham o papel de elaborar perguntas difíceis ou de responder. Embora o sorteio e a vantagem do papel de quem perguntava fossem evidentes, tanto respondentes quanto observadores consideraram os questionadores mais inteligentes. Também em 1977, com David Greene e Pamela House, descreveu o falso consenso: pessoas superestimam quanto os outros pensam e escolhem como elas. Em um dos estudos, estudantes convidados a circular pelo campus com um cartaz publicitário estimaram maior apoio dos colegas à decisão que tomaram, fosse aceitar ou recusar.",
+    "Com Charles Lord e Mark Lepper (1979), Ross mostrou a assimilação enviesada: pessoas favoráveis e contrárias à pena de morte leram dois estudos fictícios, um que apoiava e outro que contestava seu efeito dissuasivo. Cada lado considerou o estudo favorável mais convincente, e as posições ficaram mais polarizadas. Em 1980, com Richard Nisbett, publicou Human Inference, que sintetizou as pesquisas sobre heurísticas e vieses de Daniel Kahneman e Amos Tversky aplicadas à vida social. Mais tarde, com Andrew Ward, descreveu o realismo ingênuo, a crença de que vemos o mundo como ele é e quem discorda é mal informado ou enviesado, e usou essa ideia para entender impasses em negociações.",
+    "O erro fundamental de atribuição é um dos achados mais replicados da área, mas a literatura registra variações culturais: estudos com participantes indianos e asiáticos orientais encontraram atribuição situacional mais frequente do que nos Estados Unidos. Autores como Joachim Krueger e David Funder também criticaram o foco da pesquisa em erros, argumentando que ele deixa de lado o quanto os julgamentos cotidianos costumam funcionar bem."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [
+    "fritz-heider",
+    "amos-tversky",
+    "daniel-kahneman"
+  ],
+  "obras": [
+    {
+      "ano": "1977",
+      "titulo": "The intuitive psychologist and his shortcomings: Distortions in the attribution process",
+      "link": ""
+    },
+    {
+      "ano": "1977",
+      "titulo": "The false consensus effect: An egocentric bias in social perception and attribution processes (com Greene e House)",
+      "link": ""
+    },
+    {
+      "ano": "1979",
+      "titulo": "Biased assimilation and attitude polarization (com Lord e Lepper)",
+      "link": ""
+    },
+    {
+      "ano": "1980",
+      "titulo": "Human Inference: Strategies and Shortcomings of Social Judgment (com Nisbett)",
+      "link": ""
+    }
+  ]
+}

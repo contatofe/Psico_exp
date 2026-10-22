@@ -1,0 +1,40 @@
+{
+  "id": "terrence-deacon",
+  "nome": "Terrence Deacon",
+  "periodo": "1950–presente",
+  "disciplinas": [
+    "Neuroevolução"
+  ],
+  "resumo": "Antropólogo e neurocientista que propõe que linguagem e cérebro humano coevoluíram, a partir da capacidade de pensar de modo simbólico.",
+  "bio": [
+    "Terrence Deacon (nascido em 1950) formou-se em antropologia biológica em Harvard e leciona antropologia na Universidade da Califórnia em Berkeley. Sua pesquisa une neuroanatomia comparada, evolução e teoria da linguagem. Nos anos 1980 e 1990, estudou como as conexões do cérebro de primatas se organizam e como o cérebro humano difere do de outros primatas, em artigos sobre a evolução do cérebro de mamíferos nos quais criticava a ideia de uma escala de progresso evolutivo.",
+    "Em The Symbolic Species: The Co-evolution of Language and the Brain (1997), Deacon sustenta que a linguagem não é um módulo inato que simplesmente surgiu no cérebro humano, mas resultado de uma coevolução entre línguas e cérebros. A capacidade que torna a linguagem especial seria a referência simbólica. Valendo-se das categorias do filósofo Charles Peirce, ele distingue ícones, que se parecem com aquilo a que se referem, índices, que apontam para algo por associação, como fumaça para fogo, e símbolos, cuja relação com o objeto é convencional e depende de sua relação com outros símbolos. Aprender a usar símbolos exige abandonar a associação direta entre um sinal e a coisa e perceber o sistema de relações entre sinais, algo difícil para outros animais.",
+    "Segundo Deacon, a demanda cognitiva desse aprendizado teria sido uma pressão seletiva que favoreceu o aumento relativo do córtex pré-frontal, região ligada ao planejamento e ao controle de respostas. Ele defende, ainda, que as línguas teriam evoluído para se adaptar ao cérebro infantil, o que explicaria por que crianças aprendem a falar com tanta facilidade, sem recorrer a uma gramática universal inata, como propõe Noam Chomsky. Em Incomplete Nature (2012), Deacon ampliou a discussão ao tentar explicar como propósito e significado emergem de processos físicos e químicos, por meio da noção de restrições e de ausências que têm efeitos causais, proposta ambiciosa e bastante debatida.",
+    "A proposta de Deacon é influente em estudos de evolução da linguagem e antropologia. Seus críticos, como defensores de uma capacidade linguística inata, argumentam que as evidências para o cenário de coevolução são em grande parte indiretas, já que cérebros e línguas não fossilizam. A discussão, por isso, permanece aberta, mas o livro de 1997 consolidou a ideia de que a evolução da linguagem deve ser entendida como processo conjunto de biologia, cultura e cognição simbólica."
+  ],
+  "tags": [
+    "Teórico",
+    "Linguística",
+    "Modelagem evolutiva"
+  ],
+  "influencias": [
+    "charles-peirce"
+  ],
+  "obras": [
+    {
+      "ano": "1990",
+      "titulo": "Rethinking mammalian brain evolution",
+      "link": ""
+    },
+    {
+      "ano": "1997",
+      "titulo": "The Symbolic Species: The Co-evolution of Language and the Brain",
+      "link": ""
+    },
+    {
+      "ano": "2012",
+      "titulo": "Incomplete Nature: How Mind Emerged from Matter",
+      "link": ""
+    }
+  ]
+}

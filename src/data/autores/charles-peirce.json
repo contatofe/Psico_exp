@@ -1,0 +1,43 @@
+{
+  "id": "charles-peirce",
+  "nome": "Charles Peirce",
+  "periodo": "1839–1914",
+  "disciplinas": [
+    "Comunicação simbólica"
+  ],
+  "resumo": "Lógico e filósofo norte-americano, fundador do pragmatismo e de uma semiótica baseada na relação entre signo, objeto e interpretante.",
+  "bio": [
+    "Charles Sanders Peirce nasceu em Cambridge, Massachusetts, em 1839, filho do matemático Benjamin Peirce, e estudou em Harvard. Trabalhou por cerca de três décadas no Serviço Geodésico e Costeiro dos Estados Unidos, fazendo medições de gravidade, e lecionou lógica na Universidade Johns Hopkins entre 1879 e 1884. Depois disso, não conseguiu outro posto acadêmico, viveu isolado em Milford, na Pensilvânia, e morreu pobre em 1914. Deixou milhares de páginas de manuscritos, a maior parte inédita em vida.",
+    "Peirce propôs que todo pensamento se dá por meio de signos. Em sua teoria, um signo é algo que representa um objeto para um interpretante, que é o efeito de sentido produzido em quem o interpreta e que gera novos signos, num processo contínuo. Ele classificou os signos em ícones, que se parecem com o que representam, como um retrato; índices, que apontam para algo por conexão real, como a fumaça para o fogo; e símbolos, que funcionam por convenção, como as palavras. A semiótica peirceana, de base lógica e triádica, difere do modelo de dois termos de Saussure e foi muito usada na análise de imagens, gestos e outros sistemas não verbais.",
+    "Peirce é também o fundador do pragmatismo. Em How to Make Our Ideas Clear (1878), defendeu que o sentido de um conceito está nos efeitos práticos concebíveis de sua aplicação. Descreveu três formas de inferência, dedução, indução e abdução. A abdução é o raciocínio que propõe uma hipótese explicativa, e seu estudo é hoje retomado em debates sobre descoberta científica e inteligência artificial. Defendeu o falibilismo, a ideia de que nenhum conhecimento é definitivo e a ciência avança corrigindo erros. William James reconheceu sua dívida com Peirce na formulação do pragmatismo, e John Dewey também o leu.",
+    "Para a psicologia, há um episódio notável: Peirce e seu aluno Joseph Jastrow realizaram, em 1884, experimentos sobre a menor diferença perceptível de peso, publicados em 1885, em que sorteavam a ordem dos estímulos para evitar vieses. É um dos primeiros usos de randomização em pesquisa psicológica. Sua obra foi reunida nos Collected Papers (a partir de 1931), e a dificuldade de seus textos, fragmentários e com terminologia mutável, explica por que só foi amplamente reconhecido muito depois da morte."
+  ],
+  "tags": [
+    "Teórico",
+    "Filosofia da ciência",
+    "Experimental"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1867",
+      "titulo": "On a New List of Categories",
+      "link": ""
+    },
+    {
+      "ano": "1877",
+      "titulo": "The Fixation of Belief",
+      "link": ""
+    },
+    {
+      "ano": "1878",
+      "titulo": "How to Make Our Ideas Clear",
+      "link": ""
+    },
+    {
+      "ano": "1931",
+      "titulo": "Collected Papers of Charles Sanders Peirce",
+      "link": ""
+    }
+  ]
+}

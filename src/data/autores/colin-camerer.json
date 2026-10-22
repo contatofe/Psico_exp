@@ -1,0 +1,52 @@
+{
+  "id": "colin-camerer",
+  "nome": "Colin Camerer",
+  "periodo": "1959–presente",
+  "disciplinas": [
+    "Economia comportamental"
+  ],
+  "resumo": "Pioneiro da teoria dos jogos comportamental e da neuroeconomia, mostra como as pessoas decidem quando o resultado depende das escolhas de outras.",
+  "bio": [
+    "Colin Camerer é economista norte-americano e professor do Instituto de Tecnologia da Califórnia (Caltech), onde ocupa uma cátedra de economia comportamental. Doutorou-se na Universidade de Chicago em 1981 e ensinou em escolas de negócios nos Estados Unidos antes de ir para o Caltech. Sua pesquisa une teoria dos jogos, psicologia e, mais recentemente, neurociência para entender como as pessoas decidem quando o resultado depende também da decisão dos outros.",
+    "No livro Behavioral Game Theory (2003), reuniu evidências de experimentos com jogos como o ultimato, o ditador e a confiança, em que as escolhas raramente coincidem com o equilíbrio de Nash. Os resultados mostram preocupação com equidade e reciprocidade e limites no raciocínio estratégico. Com Teck Ho e Juin-Kuan Chong, propôs o modelo de hierarquia cognitiva, em que os jogadores raciocinam em um número finito de passos sobre o raciocínio dos outros. Com Ho, desenvolveu o aprendizado por atração ponderada pela experiência (EWA), que combina aprendizagem por reforço e por crenças.",
+    "Camerer também testou ideias da economia comportamental em dados do mundo real. Em estudo de 1997 com Linda Babcock, George Loewenstein e Richard Thaler, mostrou que motoristas de táxi de Nova York tendiam a trabalhar menos horas nos dias de maior movimento, padrão compatível com a fixação de metas diárias de renda e contrário ao que se esperaria se aproveitassem os dias bons. Em 1989, com Loewenstein e Martin Weber, descreveu a maldição do conhecimento: quem sabe mais tem dificuldade em prever como decidiria alguém com menos informação.",
+    "Desde os anos 2000 é referência em neuroeconomia. Em 2005, com Loewenstein e Drazen Prelec, defendeu que dados sobre o cérebro podem testar e refinar modelos econômicos. No mesmo ano, em estudo com ressonância magnética funcional liderado por Ming Hsu, mostrou que regiões como a amígdala, o córtex orbitofrontal e o estriado respondem de formas diferentes à ambiguidade e ao risco. Em 2016, coordenou um estudo que tentou replicar 18 experimentos de economia publicados em revistas de ponta e obteve resultados compatíveis em 11. Críticos questionam se resultados de laboratório e de neuroimagem generalizam para decisões reais e se é seguro inferir processos mentais específicos a partir da ativação de uma região."
+  ],
+  "tags": [
+    "Experimental",
+    "Teoria dos jogos",
+    "Neuroimagem"
+  ],
+  "influencias": [
+    "daniel-kahneman",
+    "amos-tversky",
+    "john-nash"
+  ],
+  "obras": [
+    {
+      "ano": "1997",
+      "titulo": "Labor supply of New York City cabdrivers: One day at a time (com Babcock, Loewenstein e Thaler)",
+      "link": ""
+    },
+    {
+      "ano": "1999",
+      "titulo": "Experience-weighted attraction learning in normal form games (com Ho)",
+      "link": ""
+    },
+    {
+      "ano": "2003",
+      "titulo": "Behavioral Game Theory: Experiments in Strategic Interaction",
+      "link": ""
+    },
+    {
+      "ano": "2004",
+      "titulo": "A cognitive hierarchy model of games (com Ho e Chong)",
+      "link": ""
+    },
+    {
+      "ano": "2005",
+      "titulo": "Neuroeconomics: How neuroscience can inform economics (com Loewenstein e Prelec)",
+      "link": ""
+    }
+  ]
+}

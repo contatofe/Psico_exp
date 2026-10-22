@@ -1,0 +1,51 @@
+{
+  "id": "william-baum",
+  "nome": "William Baum",
+  "periodo": "1939–presente",
+  "disciplinas": [
+    "Análise Experimental do Comportamento"
+  ],
+  "resumo": "Formulou a lei generalizada da igualação e defendeu a visão molar, em que o comportamento é entendido como atividade distribuída no tempo.",
+  "bio": [
+    "William M. Baum é psicólogo norte-americano, doutor por Harvard (1966), formado no círculo de pesquisa de Skinner e Herrnstein, e ligado à Universidade de New Hampshire. Sua obra gira em torno de uma pergunta: em que escala de tempo o comportamento deve ser analisado?",
+    "Em 1969, com Howard Rachlin, propôs ver a escolha como distribuição de tempo entre alternativas. Em 1974, em “On two types of deviation from the matching law”, mostrou que dados reais se afastam da igualação estrita de duas maneiras: a subigualação, em que o organismo é menos sensível às diferenças de reforço do que a lei prevê, e o viés, uma preferência constante por uma alternativa independente do reforço. Propôs então a lei generalizada da igualação:\nlog(B1/B2) = a·log(R1/R2) + log k\nonde a mede a sensibilidade e k o viés. Essa forma tornou-se o padrão para analisar dados de escolha.",
+    "Baum também discutiu as unidades do comportamento. Na visão molecular, a análise recai sobre respostas discretas e suas consequências imediatas; na visão molar, sobre padrões estendidos no tempo, como a taxa de uma atividade ou o tempo total dedicado a ela. Em 2002, em “From molecular to molar: A paradigm shift in behavior analysis”, defendeu que a segunda deveria substituir a primeira e que o comportamento é atividade distribuída no tempo, não soma de respostas. Mais tarde sugeriu que o reforço atua como indutor que organiza atividades relacionadas, e não como fortalecedor de respostas isoladas, e usou o paralelo com a seleção natural para pensar o comportamento como processo evolutivo.",
+    "Em Understanding Behaviorism (1994, com segunda edição em 2005), apresentou o behaviorismo contemporâneo em linguagem acessível, ligando comportamento, cultura e evolução. A visão molar é criticada por quem considera que ela não explica o processo momento a momento que dá origem aos padrões; o debate entre as duas escalas segue aberto na análise do comportamento."
+  ],
+  "tags": [
+    "Experimental",
+    "Matemática"
+  ],
+  "influencias": [
+    "richard-herrnstein",
+    "b-f-skinner",
+    "howard-rachlin"
+  ],
+  "obras": [
+    {
+      "ano": "1969",
+      "titulo": "Choice as time allocation (com Rachlin)",
+      "link": ""
+    },
+    {
+      "ano": "1974",
+      "titulo": "On two types of deviation from the matching law",
+      "link": "https://doi.org/10.1901/jeab.1974.22-231"
+    },
+    {
+      "ano": "1979",
+      "titulo": "Matching, undermatching, and overmatching in studies of choice",
+      "link": ""
+    },
+    {
+      "ano": "1994",
+      "titulo": "Understanding Behaviorism",
+      "link": ""
+    },
+    {
+      "ano": "2002",
+      "titulo": "From molecular to molar: A paradigm shift in behavior analysis",
+      "link": ""
+    }
+  ]
+}

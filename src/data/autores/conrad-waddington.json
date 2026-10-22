@@ -1,0 +1,43 @@
+{
+  "id": "conrad-waddington",
+  "nome": "Conrad Waddington",
+  "periodo": "1905–1975",
+  "disciplinas": [
+    "Epigenética evolutiva"
+  ],
+  "resumo": "Biólogo do desenvolvimento que cunhou 'epigenética', criou a imagem da paisagem epigenética e mostrou que genes e ambiente interagem na formação do organismo.",
+  "bio": [
+    "Conrad Hal Waddington foi um biólogo britânico que atravessou várias áreas: estudou geologia em Cambridge, voltou-se para a embriologia e a genética e, a partir de 1947, ocupou a cátedra de genética animal na Universidade de Edimburgo. Sua pergunta de fundo era como um óvulo fertilizado, com um único genoma, dá origem a tecidos tão diferentes entre si e como o resultado final se mantém tão estável apesar de perturbações do ambiente e de variações genéticas. Era um problema que ficava entre a embriologia, que descrevia a forma, e a genética, que descrevia a herança.",
+    "Para unir as duas, propôs na década de 1940 o termo epigenética, formado a partir de epigênese (o desenvolvimento gradual das estruturas do embrião) e genética, para designar o estudo das interações entre os genes e seus produtos que fazem surgir o fenótipo, isto é, as características observáveis do organismo. É importante notar que seu sentido é mais amplo e mais antigo que o atual, ligado a mecanismos moleculares como a metilação do DNA. Waddington pensava no desenvolvimento como um processo, não como a execução de um programa pronto.",
+    "Duas ideias suas se tornaram clássicas. A primeira é a canalização: o desenvolvimento tende a seguir trajetórias estáveis e a produzir resultados semelhantes mesmo quando há perturbações. Ele ilustrou isso com a paisagem epigenética, uma imagem em que uma bola desce por um terreno de vales e encostas, representando uma célula que se compromete, aos poucos, com um destino específico. Os vales são caminhos favorecidos e as cristas são barreiras entre destinos celulares diferentes. A metáfora, apresentada em The Strategy of the Genes (1957), é usada até hoje para falar de diferenciação de células-tronco e de redes de genes. A segunda ideia é a assimilação genética, estudada em experimentos com moscas-das-frutas, nos quais um choque de calor aplicado durante o desenvolvimento produzia moscas com alteração nas nervuras das asas. Depois de várias gerações de seleção, parte dos descendentes passou a apresentar a alteração mesmo sem o choque. Waddington argumentava que um traço inicialmente induzido pelo ambiente pode se tornar hereditário por seleção sobre a variação genética já presente, sem ser preciso invocar a herança de caracteres adquiridos.",
+    "Waddington também foi um organizador do pensamento teórico em biologia, promovendo encontros que reuniram biólogos, matemáticos e filósofos para discutir um programa de biologia teórica. Seu legado aparece na biologia evolutiva do desenvolvimento, na biologia de sistemas e nos debates sobre a síntese estendida da evolução. Parte da literatura observa, porém, que suas imagens são mais heurísticas do que quantitativas e que a relação entre seu conceito original e a epigenética molecular atual é muitas vezes superestimada."
+  ],
+  "tags": [
+    "Genética",
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1940",
+      "titulo": "Organisers and Genes",
+      "link": ""
+    },
+    {
+      "ano": "1942",
+      "titulo": "The Epigenotype",
+      "link": ""
+    },
+    {
+      "ano": "1953",
+      "titulo": "Genetic Assimilation of an Acquired Character",
+      "link": ""
+    },
+    {
+      "ano": "1957",
+      "titulo": "The Strategy of the Genes",
+      "link": ""
+    }
+  ]
+}

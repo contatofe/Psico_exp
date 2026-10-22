@@ -1,0 +1,45 @@
+{
+  "id": "alan-baddeley",
+  "nome": "Alan Baddeley",
+  "periodo": "1934–presente",
+  "disciplinas": [
+    "Psicologia cognitiva"
+  ],
+  "resumo": "Psicólogo britânico que, com Graham Hitch, propôs o modelo de memória de trabalho, hoje a referência para estudar como mantemos e manipulamos informação.",
+  "bio": [
+    "Alan Baddeley nasceu em Leeds, em 1934, e fez carreira no Reino Unido, primeiro na Unidade de Psicologia Aplicada do Conselho de Pesquisa Médica (MRC), em Cambridge, que chegou a dirigir, e depois nas universidades de Bristol e York. Começou a pesquisar memória quando o modelo dominante, o chamado modelo modal de Atkinson e Shiffrin (1968), tratava a memória de curto prazo como um único depósito, uma antessala da memória de longo prazo. Havia dois problemas: pacientes com lesão cerebral que tinham o curto prazo gravemente prejudicado, mas aprendiam e lembravam normalmente, e experimentos em que voluntários saudáveis raciocinavam sem grande prejuízo mesmo carregando vários dígitos na cabeça.",
+    "Para dar conta desses dados, Baddeley e Graham Hitch propuseram em 1974 o conceito de memória de trabalho: um sistema de capacidade limitada que mantém e manipula informação por alguns segundos enquanto fazemos algo com ela, como somar de cabeça, acompanhar uma frase longa ou seguir um raciocínio. O modelo tem um executivo central, que controla a atenção e coordena os demais componentes sem armazenar nada, uma alça fonológica, que guarda material verbal por meio da repetição subvocal, e um bloco visuoespacial, que lida com imagens e posições. A evidência vinha sobretudo de tarefas duplas: repetir em voz alta uma sílaba irrelevante atrapalha a retenção de uma lista de palavras, mas interfere pouco em tarefas visuais, e o contrário também ocorre. Outro achado clássico, o efeito do comprimento da palavra, mostra que lembramos aproximadamente o que conseguimos pronunciar em cerca de dois segundos.",
+    "Em 2000, Baddeley acrescentou o buffer episódico, um componente que integra informação da alça fonológica, do bloco visuoespacial e da memória de longo prazo em episódios coerentes. Seu trabalho vai além do laboratório: em um estudo conhecido, feito com Duncan Godden, mergulhadores aprenderam listas de palavras em terra ou debaixo d'água e lembraram melhor quando o ambiente de teste era o mesmo do aprendizado, um exemplo de memória dependente de contexto. Ele também estudou amnésia, doença de Alzheimer e efeitos do estresse ambiental sobre o desempenho, e escreveu livros de divulgação sobre como a memória funciona.",
+    "A memória de trabalho se tornou um conceito central em educação, no estudo de dificuldades de aprendizagem e de linguagem, no envelhecimento e na avaliação clínica. O modelo também recebe críticas: o executivo central foi muitas vezes acusado de ser vago, quase um homúnculo que explica tudo, e o próprio Baddeley reconheceu a necessidade de especificá-lo melhor. Modelos alternativos, como os de Nelson Cowan e Randall Engle, descrevem a memória de trabalho como a parte ativada da memória de longo prazo, controlada pela atenção, em vez de um conjunto de depósitos separados."
+  ],
+  "tags": [
+    "Experimental",
+    "Neuropsicológico"
+  ],
+  "influencias": [
+    "george-miller",
+    "donald-broadbent"
+  ],
+  "obras": [
+    {
+      "ano": "1974",
+      "titulo": "Working memory (com Hitch)",
+      "link": ""
+    },
+    {
+      "ano": "1975",
+      "titulo": "Context-dependent memory in two natural environments: on land and underwater (com Godden)",
+      "link": ""
+    },
+    {
+      "ano": "1986",
+      "titulo": "Working Memory",
+      "link": ""
+    },
+    {
+      "ano": "2000",
+      "titulo": "The episodic buffer: a new component of working memory?",
+      "link": "https://doi.org/10.1016/S1364-6613(00)01538-2"
+    }
+  ]
+}

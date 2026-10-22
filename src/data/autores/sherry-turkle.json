@@ -1,0 +1,47 @@
+{
+  "id": "sherry-turkle",
+  "nome": "Sherry Turkle",
+  "periodo": "1948–presente",
+  "disciplinas": [
+    "Mídias sociais"
+  ],
+  "resumo": "Psicóloga e socióloga do MIT que estuda como computadores, internet e robôs afetam identidade, intimidade e conversa, com viés cada vez mais crítico.",
+  "bio": [
+    "Sherry Turkle (nascida em 1948) é psicóloga clínica e socióloga. Graduou-se em Harvard e, em 1976, doutorou-se na mesma universidade em um programa conjunto de sociologia e psicologia da personalidade. Estudou ainda na França, no período em que o movimento psicanalítico francês estava em ebulição, tema de seu primeiro livro, Psychoanalytic Politics (1978). Desde 1976 é professora do MIT, onde fundou a Iniciativa sobre Tecnologia e Self, e ali conviveu com pesquisadores que construíam as tecnologias que ela estudaria.",
+    "Em The Second Self (1984), com base em entrevistas com crianças, estudantes e programadores, Turkle descreveu o computador como um objeto evocativo: uma máquina que não é só ferramenta, mas espelho em que as pessoas refletem sobre mente, memória e o que significa estar vivo. Em Life on the Screen (1995), analisou os MUDs, mundos virtuais baseados em texto, onde as pessoas criavam personagens e experimentavam identidades diferentes. Para ela, a internet permitia pensar a identidade como algo múltiplo e fluido, em diálogo com ideias da teoria pós-moderna. Nessa fase, o tom era mais otimista sobre as possibilidades de autoexploração.",
+    "Nos anos 2000, o diagnóstico mudou. Em Alone Together (2011), com base em mais de uma década de entrevistas, argumentou que a tecnologia nos faz esperar mais das máquinas e menos uns dos outros. Descreveu o eu conectado, que precisa de contato constante pelo celular, e analisou robôs de companhia oferecidos a idosos e a crianças, que simulam atenção sem sentir nada. Em Reclaiming Conversation (2015), defendeu que a conversa face a face, sem telas, é essencial para empatia, intimidade e capacidade de ficar sozinho. Em 2021, publicou um livro de memórias, The Empathy Diaries.",
+    "Críticos apontam que sua obra se apoia sobretudo em entrevistas e casos escolhidos, com pouca amostragem sistemática, e que o tom pode soar nostálgico ou alarmista diante de tecnologias que também ampliam laços sociais. Autores da própria área também observam que o contraste entre vida online e vida presencial é menos nítido do que Turkle sugere, já que as duas costumam estar entrelaçadas no cotidiano."
+  ],
+  "tags": [
+    "Etnográfico",
+    "Clínico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1978",
+      "titulo": "Psychoanalytic Politics: Freud's French Revolution",
+      "link": ""
+    },
+    {
+      "ano": "1984",
+      "titulo": "The Second Self: Computers and the Human Spirit",
+      "link": ""
+    },
+    {
+      "ano": "1995",
+      "titulo": "Life on the Screen: Identity in the Age of the Internet",
+      "link": ""
+    },
+    {
+      "ano": "2011",
+      "titulo": "Alone Together: Why We Expect More from Technology and Less from Each Other",
+      "link": ""
+    },
+    {
+      "ano": "2015",
+      "titulo": "Reclaiming Conversation: The Power of Talk in a Digital Age",
+      "link": ""
+    }
+  ]
+}

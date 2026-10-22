@@ -1,0 +1,39 @@
+{
+  "id": "james-gibson",
+  "nome": "James Gibson",
+  "periodo": "1904–1979",
+  "disciplinas": [
+    "Psicologia cognitiva"
+  ],
+  "resumo": "Psicólogo da percepção que propôs a abordagem ecológica: o ambiente oferece informação diretamente ao observador em movimento, e as affordances guiam a ação.",
+  "bio": [
+    "James J. Gibson nasceu em 1904, em McConnelsville, Ohio, e lecionou no Smith College e, a partir de 1949, na Universidade Cornell. Durante a Segunda Guerra, trabalhou no programa de psicologia da aviação das Forças Aéreas do Exército americano, estudando como pilotos julgam distâncias e fazem pousos. Percebeu que descrições clássicas da visão, baseadas em imagens estáticas e na retina como um quadro, não davam conta do que um piloto vê ao se aproximar de uma pista, e passou a décadas de pesquisa sobre percepção em um mundo em movimento.",
+    "A ideia central é que a luz que chega aos olhos não é uma imagem, mas um arranjo ótico estruturado pelas superfícies do ambiente. Quando nos movemos, esse arranjo se transforma de modo regular: ao andar em direção a um ponto, o padrão de movimento do campo visual se expande a partir dele, o que informa a direção do deslocamento. O gradiente de textura do chão informa distância e inclinação. Para Gibson, essas invariantes são informação suficiente para especificar propriedades do ambiente, e perceber é explorar ativamente e captar essa informação, sem precisar completá-la com inferências ou representações internas. Ele descreveu os sentidos como sistemas perceptivos, que incluem movimentos de cabeça, olhos e corpo, em The Senses Considered as Perceptual Systems (1966).",
+    "Em 1979, em The Ecological Approach to Visual Perception, Gibson desenvolveu o conceito de affordance: o que o ambiente oferece ao animal, para o bem ou para o mal. Uma superfície horizontal e firme, na altura certa em relação ao corpo, oferece apoio para sentar. A affordance não é nem propriedade só do objeto nem só do observador, mas uma relação entre os dois. Sua esposa, Eleanor Gibson, desenvolveu paralelamente a pesquisa sobre aprendizagem perceptiva, incluindo o célebre experimento do precipício visual, em que bebês e filhotes hesitam em cruzar uma superfície que parece cair.",
+    "A teoria é polêmica. Jerry Fodor e Zenon Pylyshyn argumentaram, em 1981, que a noção de percepção direta é vaga demais para explicar como captamos propriedades abstratas sem algum tipo de inferência, e David Marr elogiou suas perguntas, mas criticou a ausência de um relato de como a informação é extraída. Ainda assim, a abordagem ecológica deu origem a uma tradição de pesquisa viva, a psicologia ecológica, e influenciou o estudo da percepção para a ação, a robótica, a ciência do esporte e o design, onde o termo affordance foi popularizado, com sentido um pouco diferente, por Donald Norman. Gibson faleceu em 1979, pouco depois da publicação do livro."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [
+    "kurt-lewin"
+  ],
+  "obras": [
+    {
+      "ano": "1950",
+      "titulo": "The Perception of the Visual World",
+      "link": ""
+    },
+    {
+      "ano": "1966",
+      "titulo": "The Senses Considered as Perceptual Systems",
+      "link": ""
+    },
+    {
+      "ano": "1979",
+      "titulo": "The Ecological Approach to Visual Perception",
+      "link": ""
+    }
+  ]
+}

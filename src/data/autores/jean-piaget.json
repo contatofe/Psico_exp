@@ -1,0 +1,42 @@
+{
+  "id": "jean-piaget",
+  "nome": "Jean Piaget",
+  "periodo": "1896–1980",
+  "disciplinas": [
+    "Psicologia do desenvolvimento"
+  ],
+  "resumo": "Psicólogo suíço que descreveu o desenvolvimento cognitivo da criança como construção ativa do conhecimento, em estágios qualitativamente distintos.",
+  "bio": [
+    "Jean Piaget nasceu em Neuchâtel, na Suíça, em 1896, e começou como biólogo: doutorou-se em 1918 com uma tese sobre moluscos. Entre 1919 e 1921, trabalhou em Paris no laboratório fundado por Alfred Binet, aplicando testes de raciocínio a crianças. O que o fascinou foram os erros: crianças da mesma idade erravam de maneiras parecidas, e esses erros pareciam seguir uma lógica própria, e não simples falta de conhecimento. Fixou-se em Genebra, no Instituto Jean-Jacques Rousseau, a partir de 1921, e fundou em 1955 o Centro Internacional de Epistemologia Genética, cuja pergunta era como o conhecimento se constrói.",
+    "Piaget estudava crianças por entrevistas flexíveis, o chamado método clínico, e pela observação de seus três filhos, Jacqueline, Lucienne e Laurent, no primeiro ano de vida. Dessas observações, descreveu a inteligência sensório-motora: bebês coordenam percepção e ação antes de dispor de linguagem. Segundo ele, o conhecimento não é cópia da realidade nem algo inato e pronto, mas construção ativa. A criança forma esquemas, estruturas de ação e pensamento, que aplica ao mundo (assimilação) e que ajusta quando não funcionam (acomodação). O equilíbrio entre os dois processos, a equilibração, explicaria o avanço de um estágio ao seguinte.",
+    "Ele propôs quatro estágios: sensório-motor (do nascimento a cerca de dois anos), pré-operatório (até cerca de sete), operatório concreto (até cerca de onze ou doze) e operatório formal, a partir da adolescência, quando é possível raciocinar sobre hipóteses. Seus experimentos se tornaram clássicos. Na conservação, a mesma quantidade de líquido é despejada de um copo largo para um alto e estreito: uma criança pequena diz que há mais no copo alto, enquanto uma criança maior reconhece que a quantidade não mudou. Na permanência do objeto, bebês muito novos deixam de procurar um brinquedo escondido. Na tarefa das três montanhas, feita com Bärbel Inhelder, crianças pequenas escolhem como representação do que outra pessoa vê a imagem do próprio ponto de vista. Ele também estudou o julgamento moral e a linguagem infantil.",
+    "A obra de Piaget transformou a psicologia do desenvolvimento e a educação, e fundamenta as correntes construtivistas. As críticas apontam que muitas competências aparecem mais cedo do que ele previu: estudos com bebês, como os de Renée Baillargeon, indicam noções de objeto permanente em idades muito anteriores, e crianças se saem melhor quando as tarefas são adaptadas ao seu contexto, como argumentou Margaret Donaldson. Os estágios são hoje vistos de forma menos rígida, e fatores sociais e culturais, enfatizados por Vygotsky, recebem mais peso. Piaget faleceu em Genebra, em 1980."
+  ],
+  "tags": [
+    "Observacional",
+    "Teórico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1923",
+      "titulo": "Le langage et la pensée chez l'enfant",
+      "link": ""
+    },
+    {
+      "ano": "1936",
+      "titulo": "La naissance de l'intelligence chez l'enfant",
+      "link": ""
+    },
+    {
+      "ano": "1937",
+      "titulo": "La construction du réel chez l'enfant",
+      "link": ""
+    },
+    {
+      "ano": "1941",
+      "titulo": "La genèse du nombre chez l'enfant (com Szeminska)",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "elliot-aronson",
+  "nome": "Elliot Aronson",
+  "periodo": "1932–presente",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Discípulo de Festinger, ligou a dissonância cognitiva à autoimagem e criou a sala de aula quebra-cabeça (jigsaw) para reduzir preconceito entre alunos.",
+  "bio": [
+    "Elliot Aronson (nascido em 1932) graduou-se na Brandeis University, onde teve aulas com Abraham Maslow, fez mestrado em Wesleyan e doutorou-se em Stanford, em 1959, sob orientação de Leon Festinger. Lecionou em Harvard, na Universidade de Minnesota, na Universidade do Texas em Austin e na Universidade da Califórnia em Santa Cruz. É conhecido tanto pela pesquisa experimental quanto pelo esforço de levar a psicologia social ao público e à sala de aula.",
+    "Seu ponto de partida foi a teoria da dissonância cognitiva de Festinger, segundo a qual temos desconforto quando duas ideias ou uma ideia e um ato entram em conflito. Em um estudo de 1959 com Judson Mills, mulheres que passaram por uma iniciação constrangedora para entrar em um grupo de discussão acabaram avaliando esse grupo, que era propositalmente tedioso, como mais atraente do que as que passaram por uma iniciação branda. A explicação é de dissonância: depois de pagar um preço alto, é difícil admitir que o grupo não valia a pena. Aronson defendeu que a dissonância é mais forte quando o comportamento ameaça a imagem que a pessoa tem de si como alguém competente e decente. Isso ajuda a entender por que justificamos erros, em vez de corrigi-los. Ele aprofundou o tema com Carol Tavris no livro Mistakes Were Made (But Not by Me), de 2007.",
+    "Em 1971, em Austin, no Texas, escolas recém-integradas viviam tensão racial. Aronson e seus alunos criaram a técnica da sala de aula quebra-cabeça (jigsaw classroom): a turma é dividida em pequenos grupos, cada aluno recebe uma parte do conteúdo e precisa ensiná-la aos colegas, de modo que todos dependem uns dos outros para aprender a lição completa. Estudos iniciais relataram melhora nas atitudes entre colegas e no desempenho de estudantes de grupos minoritários. Em outra linha de trabalho, com Jeff Stone e Carrie Fried (1991), mostrou que lembrar pessoas de que haviam defendido o uso de preservativos e, em seguida, de situações em que elas próprias não os usaram, aumentava a intenção de usá-los. Seu livro The Social Animal, de 1972, tornou-se uma síntese muito lida da área.",
+    "Entre as ressalvas da literatura, os efeitos da técnica jigsaw variam bastante conforme a forma de aplicação, e há poucos estudos de longo prazo. Quanto à dissonância, explicações alternativas, como a teoria da autopercepção de Daryl Bem e a ideia de controle da impressão diante dos outros, foram propostas para resultados clássicos, e o debate sobre qual mecanismo é decisivo continua."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [
+    "leon-festinger"
+  ],
+  "obras": [
+    {
+      "ano": "1959",
+      "titulo": "The effect of severity of initiation on liking for a group (com Mills)",
+      "link": ""
+    },
+    {
+      "ano": "1972",
+      "titulo": "The Social Animal",
+      "link": ""
+    },
+    {
+      "ano": "1978",
+      "titulo": "The Jigsaw Classroom (com Stephan, Sikes, Blaney e Snapp)",
+      "link": ""
+    },
+    {
+      "ano": "1991",
+      "titulo": "Overcoming denial and increasing the intention to use condoms through the induction of hypocrisy (com Fried e Stone)",
+      "link": ""
+    },
+    {
+      "ano": "2007",
+      "titulo": "Mistakes Were Made (But Not by Me) (com Tavris)",
+      "link": ""
+    }
+  ]
+}

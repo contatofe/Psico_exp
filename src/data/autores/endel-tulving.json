@@ -1,0 +1,47 @@
+{
+  "id": "endel-tulving",
+  "nome": "Endel Tulving",
+  "periodo": "1927–2023",
+  "disciplinas": [
+    "Psicologia cognitiva"
+  ],
+  "resumo": "Psicólogo estoniano-canadense que distinguiu memória episódica e semântica e mostrou que lembrar é reviver o passado com consciência de si no tempo.",
+  "bio": [
+    "Endel Tulving nasceu em 1927 em Petseri, na Estônia, deixou o país durante a Segunda Guerra Mundial e emigrou para o Canadá em 1949. Estudou na Universidade de Toronto, doutorou-se em Harvard em 1957 e lecionou em Toronto por décadas, com uma passagem por Yale. Seus primeiros estudos, sobre recordação livre, mostraram que mesmo listas de palavras sem relação entre si acabam sendo organizadas pelos voluntários em grupos consistentes ao longo das tentativas, o que indicava que a memória é ativamente organizada.",
+    "Em 1972, Tulving propôs distinguir a memória episódica, que guarda eventos pessoais situados no tempo e no espaço, como o café da manhã de hoje, da memória semântica, que guarda conhecimento geral sem referência à ocasião em que foi aprendido, como saber que Lisboa é a capital de Portugal. Com Donald Thomson, formulou o princípio da especificidade de codificação (1973): lembrar depende de quanto a pista de recuperação coincide com o contexto em que o item foi codificado. Em experimentos famosos, participantes deixavam de reconhecer palavras que haviam estudado, mas as recordavam quando recebiam a pista que fora estudada junto com elas, o que mostra que ter a informação guardada não garante acessá-la em qualquer situação.",
+    "Em 1985, Tulving introduziu a ideia de consciência autonoética: lembrar um episódio envolve a consciência de si mesmo no tempo subjetivo, e é isso que permite a viagem mental no tempo, tanto para o passado quanto para o futuro imaginado. Estudou o paciente K.C., que, após uma lesão cerebral causada por um acidente de moto, perdeu a capacidade de recordar episódios de sua vida, mas conservava conhecimento semântico, um caso que sustentou a separação entre os dois tipos de memória. Em estudos de neuroimagem com PET, Tulving e colaboradores propuseram, em 1994, o modelo HERA: o córtex pré-frontal esquerdo seria mais ativado na codificação de informação episódica e o direito, na recuperação.",
+    "A distinção entre memória episódica e semântica orienta hoje a pesquisa sobre hipocampo, amnésia e doença de Alzheimer. Ela também é debatida: há quem defenda que os dois tipos formam um contínuo e não sistemas separados, e a afirmação de que a viagem mental no tempo seria exclusivamente humana foi contestada por estudos com animais, como os de aves que guardam alimento. O próprio Tulving revisou suas ideias ao longo da carreira, e sua obra permanece um dos pontos de partida da neurociência cognitiva da memória. Faleceu em 2023."
+  ],
+  "tags": [
+    "Experimental",
+    "Neuropsicológico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1972",
+      "titulo": "Episodic and semantic memory",
+      "link": ""
+    },
+    {
+      "ano": "1973",
+      "titulo": "Encoding specificity and retrieval processes in episodic memory (com Thomson)",
+      "link": ""
+    },
+    {
+      "ano": "1983",
+      "titulo": "Elements of Episodic Memory",
+      "link": ""
+    },
+    {
+      "ano": "1985",
+      "titulo": "Memory and consciousness",
+      "link": ""
+    },
+    {
+      "ano": "2002",
+      "titulo": "Episodic memory: from mind to brain",
+      "link": ""
+    }
+  ]
+}

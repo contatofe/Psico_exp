@@ -1,0 +1,42 @@
+{
+  "id": "john-darley-e-bibb-latane",
+  "nome": "John Darley e Bibb Latané",
+  "periodo": "1938–2018 / 1937–presente",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Mostraram em experimentos que a presença de outras pessoas reduz a chance de alguém ajudar em emergências, efeito explicado pela difusão de responsabilidade.",
+  "bio": [
+    "John Darley (1938–2018) e Bibb Latané (nascido em 1937) eram jovens psicólogos sociais em Nova York quando um crime ocorrido em 1964 chamou a atenção do país: a morte de Kitty Genovese, atacada perto de seu prédio, no bairro do Queens. A imprensa afirmou que dezenas de vizinhos ouviram e nada fizeram. Darley, então na Universidade de Nova York, e Latané, na Universidade Colúmbia, recusaram a explicação de que a apatia seria falta de caráter da cidade grande. Para eles, a presença de outras pessoas poderia ser a própria causa da inação.",
+    "Para testar isso, planejaram uma emergência controlada. No estudo de 1968, estudantes participavam de uma conversa por interfone, cada um em uma cabine, sobre problemas pessoais. Em dado momento, um dos interlocutores, na verdade um ator, simulava uma crise de convulsão. Quando o participante acreditava ser o único ouvinte, cerca de 85% buscavam ajuda antes de a crise terminar. Quando acreditava que havia outras quatro pessoas ouvindo, cerca de 31% faziam isso. Em outro experimento, uma sala se enchia de fumaça: pessoas sozinhas avisavam com mais frequência do que grupos, especialmente quando outros participantes permaneciam passivos. A explicação dos autores combina difusão de responsabilidade, em que cada um supõe que outro agirá, e ignorância pluralística, em que todos usam a calma dos outros como sinal de que não há perigo.",
+    "Em 1970, o livro The Unresponsive Bystander propôs um modelo de etapas para ajudar: notar o evento, interpretá-lo como emergência, assumir responsabilidade, saber como ajudar e decidir agir. Em cada passo, a presença de outros pode atrapalhar. Latané seguiu com a teoria do impacto social e com o estudo da indolência social (social loafing), mostrando que pessoas se esforçam menos em tarefas coletivas. Darley, que foi para Princeton, estudou com Daniel Batson, em 1973, seminaristas que iam dar uma palestra sobre o Bom Samaritano: os que estavam com pressa raramente paravam para ajudar um homem caído, cerca de 10%, contra mais de 60% dos sem pressa.",
+    "A literatura revisou o quadro. A cobertura original do caso Genovese exagerou o número de testemunhas e omitiu esforços de alguns vizinhos. Uma meta-análise de 2011 concluiu que o efeito espectador existe, mas é menor ou ausente em situações perigosas e quando os espectadores podem se comunicar. Um estudo de 2020 com imagens de câmeras de segurança de três países encontrou que, em conflitos reais em locais públicos, alguém intervinha na grande maioria dos casos."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1968",
+      "titulo": "Bystander intervention in emergencies: Diffusion of responsibility (Darley e Latané)",
+      "link": ""
+    },
+    {
+      "ano": "1968",
+      "titulo": "Group inhibition of bystander intervention in emergencies (Latané e Darley)",
+      "link": ""
+    },
+    {
+      "ano": "1970",
+      "titulo": "The Unresponsive Bystander: Why Doesn't He Help? (Latané e Darley)",
+      "link": ""
+    },
+    {
+      "ano": "1973",
+      "titulo": "From Jerusalem to Jericho: A study of situational and dispositional variables in helping behavior (Darley e Batson)",
+      "link": ""
+    }
+  ]
+}

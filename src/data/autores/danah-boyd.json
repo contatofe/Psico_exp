@@ -1,0 +1,42 @@
+{
+  "id": "danah-boyd",
+  "nome": "danah boyd",
+  "periodo": "1977–presente",
+  "disciplinas": [
+    "Mídias sociais"
+  ],
+  "resumo": "Estuda como adolescentes vivem as redes sociais, definiu conceitos como públicos em rede e contexto colapsado, e fundou o instituto Data & Society.",
+  "bio": [
+    "danah boyd (nascida em 1977, nome que ela grafa em minúsculas) é pesquisadora de mídias sociais e cultura digital. Formou-se em ciência da computação na Brown University, fez mestrado no MIT Media Lab e doutorou-se em 2008 na Escola de Informação da Universidade da Califórnia em Berkeley, com tese sobre a sociabilidade de adolescentes norte-americanos online. Foi pesquisadora principal na Microsoft Research e, em 2014, fundou o Data & Society, instituto independente que estuda os efeitos sociais de tecnologias como automação, vigilância e desinformação.",
+    "Seu trabalho começou nos primeiros sites de redes sociais, como Friendster e MySpace. Em 2007, com Nicole Ellison, publicou o artigo que definiu o que são sites de redes sociais: serviços em que as pessoas constroem um perfil, listam conexões e navegam pelas conexões de outras. Em suas pesquisas, boyd combinou etnografia, entrevistas e observação de milhares de perfis. Uma conclusão influente é que jovens usam as redes para fazer o que sempre fizeram, ter espaço para se encontrar, conversar e se afirmar diante dos pares, só que agora diante de plateias invisíveis. Ela chamou esses ambientes de públicos em rede e descreveu quatro características que os diferenciam de espaços físicos: persistência, visibilidade, possibilidade de espalhar conteúdo e capacidade de busca.",
+    "No livro It's Complicated (2014), baseado em centenas de entrevistas com adolescentes nos Estados Unidos, boyd argumenta que a ideia de nativos digitais esconde diferenças de acesso e habilidade, e que pânicos morais sobre predadores e vício em tecnologia desviam a atenção de desigualdades e riscos reais. Em trabalho com Alice Marwick, estudou o colapso de contextos, situação em que públicos distintos, como família, amigos e colegas, passam a ver a mesma publicação, e a esteganografia social, em que adolescentes escrevem de modo que só alguns entendam o sentido. Com Kate Crawford, publicou em 2012 uma crítica à ideia de que grandes volumes de dados bastam para explicar a vida social, chamando a atenção para vieses de amostragem e questões éticas.",
+    "A pesquisa de boyd tem como limite o recorte: trata principalmente de jovens dos Estados Unidos nos anos 2000 e 2010, em plataformas que mudaram bastante. Críticos de outras abordagens argumentam que ela dá menos peso à lógica comercial e ao modelo de negócios das plataformas, e a seu papel na organização da atenção, do que a tradição crítica da economia política da comunicação."
+  ],
+  "tags": [
+    "Etnográfico",
+    "Trabalho de campo"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "2007",
+      "titulo": "Social network sites: Definition, history, and scholarship (com Ellison)",
+      "link": ""
+    },
+    {
+      "ano": "2010",
+      "titulo": "Social network sites as networked publics: Affordances, dynamics, and implications",
+      "link": ""
+    },
+    {
+      "ano": "2012",
+      "titulo": "Critical questions for big data (com Crawford)",
+      "link": ""
+    },
+    {
+      "ano": "2014",
+      "titulo": "It's Complicated: The Social Lives of Networked Teens",
+      "link": ""
+    }
+  ]
+}

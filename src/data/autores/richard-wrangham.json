@@ -1,0 +1,43 @@
+{
+  "id": "richard-wrangham",
+  "nome": "Richard Wrangham",
+  "periodo": "1948–presente",
+  "disciplinas": [
+    "Antropologia evolutiva"
+  ],
+  "resumo": "Primatólogo que ligou a evolução humana ao fogo e ao cozimento e propôs que a seleção contra a agressividade reativa 'domesticou' nossa espécie.",
+  "bio": [
+    "Richard Wrangham é primatólogo e antropólogo biológico, professor na Universidade Harvard. Iniciou sua trajetória estudando chimpanzés selvagens em Gombe, na Tanzânia, nos anos 1970, e depois fundou o projeto de pesquisa de longo prazo com os chimpanzés da floresta de Kibale, em Uganda, que acompanha comunidades inteiras ao longo de gerações. A pergunta que atravessa sua obra é o que, na biologia humana, veio da nossa história como primatas e o que mudou ao longo da linhagem que levou a Homo sapiens.",
+    "Seu trabalho mais conhecido é a hipótese do cozimento. Segundo Wrangham, a grande transformação na evolução humana foi o domínio do fogo para cozinhar os alimentos. Alimentos cozidos são mais fáceis de mastigar e digerir e rendem mais energia com menos esforço, o que teria permitido reduzir o tamanho dos dentes e do intestino, diminuir o tempo gasto mastigando e liberar energia para sustentar um cérebro maior. Ele sugere que isso ocorreu com Homo erectus, há cerca de 1,8 milhão de anos, em parte porque as mudanças anatômicas desse grupo parecem consistentes com uma dieta mais processada. O argumento aparece em Catching Fire (2009), que também discute implicações sociais, como a divisão de tarefas entre quem caça e quem cozinha.",
+    "Em outra frente, Wrangham estudou a violência. Em Demonic Males (1996, com Dale Peterson), comparou a agressão letal entre comunidades de chimpanzés com a guerra humana. Em The Goodness Paradox (2019), distingue agressão reativa, impulsiva e em resposta a ameaça, de agressão proativa, planejada. Para ele, os humanos têm baixa agressividade reativa em comparação com chimpanzés, o que seria resultado de um processo de autodomesticação: ao longo da evolução, grupos teriam eliminado machos excessivamente agressivos por meio de coalizões, como descreve Christopher Boehm, favorecendo temperamentos mais dóceis. O paralelo com animais domesticados, que também mostram redução de agressividade, é uma das bases da ideia, mas a mesma pressão teria aumentado a capacidade de agressão proativa e coordenada.",
+    "O legado de Wrangham está em integrar observação de campo de primatas com hipóteses sobre dieta, comportamento e moralidade humana. As críticas mais citadas incidem sobre a hipótese do cozimento: as evidências arqueológicas de uso controlado do fogo, muito mais abundantes só em períodos recentes, não são consensuais para datas tão antigas. A ideia de autodomesticação, por sua vez, é debatida por comparações com outros animais e por dados genéticos e anatômicos ainda inconclusivos."
+  ],
+  "tags": [
+    "Trabalho de campo",
+    "Observacional",
+    "Histórico-comparativo"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1996",
+      "titulo": "Demonic Males: Apes and the Origins of Human Violence (com D. Peterson)",
+      "link": ""
+    },
+    {
+      "ano": "1999",
+      "titulo": "The Evolution of Coalitionary Killing",
+      "link": ""
+    },
+    {
+      "ano": "2009",
+      "titulo": "Catching Fire: How Cooking Made Us Human",
+      "link": ""
+    },
+    {
+      "ano": "2019",
+      "titulo": "The Goodness Paradox: The Strange Relationship Between Virtue and Violence in Human Evolution",
+      "link": ""
+    }
+  ]
+}

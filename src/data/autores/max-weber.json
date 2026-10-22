@@ -1,0 +1,39 @@
+{
+  "id": "max-weber",
+  "nome": "Max Weber",
+  "periodo": "1864–1920",
+  "disciplinas": [
+    "Sociologia"
+  ],
+  "resumo": "Sociólogo alemão que propôs compreender a ação social pelo sentido que lhe damos e ligou valores religiosos ao capitalismo.",
+  "bio": [
+    "Max Weber nasceu em Erfurt, na Alemanha, em 1864, formou-se em direito e lecionou em Freiburg, Heidelberg e, mais tarde, em Munique, onde morreu em 1920. Sua trajetória foi marcada por uma grave crise de saúde mental por volta de 1898, que o afastou do ensino por anos. Transitou entre economia, história, direito e sociologia, e dialogou de perto com a obra de Marx, a quem respondia sem aceitar que a economia explicasse tudo.",
+    "Para Weber, a sociologia deve ser interpretativa: seu objetivo é compreender o sentido que os indivíduos atribuem às suas ações e explicar, a partir disso, seus efeitos. Distinguiu quatro tipos de ação social: a racional com relação a fins, em que se calculam meios para alcançar um objetivo; a racional com relação a valores, guiada por convicções; a afetiva, guiada por emoções; e a tradicional, guiada pelo hábito. Propôs ainda o tipo ideal, um instrumento de pesquisa que acentua certos traços de um fenômeno para comparar casos reais, sem pretender descrevê-los como são.",
+    "Em \"A ética protestante e o espírito do capitalismo\", de 1904 e 1905, sustentou que certos valores do protestantismo ascético, como a vocação profissional e a disciplina no trabalho, tiveram afinidade com o espírito capitalista. Em sua obra sobre a dominação, distinguiu três formas de legitimidade do poder: a tradicional, a carismática e a legal-racional, esta última típica da burocracia moderna. Também descreveu o desencantamento do mundo, o processo pelo qual a racionalização reduz o espaço de explicações mágicas, e usou a imagem da jaula de ferro para falar dos riscos de uma vida regida por regras impessoais.",
+    "As ideias de Weber moldaram a sociologia da religião, das organizações e do poder, e ainda inspiram estudos sobre como crenças e motivações individuais se ligam a estruturas sociais. A tese sobre o protestantismo foi muito debatida e contestada por historiadores, que apontaram casos em que a relação não se sustenta, e seus conceitos, por serem tipos ideais, são por vezes criticados pela distância em relação aos dados empíricos."
+  ],
+  "tags": [
+    "Teórico",
+    "Histórico-comparativo"
+  ],
+  "influencias": [
+    "karl-marx"
+  ],
+  "obras": [
+    {
+      "ano": "1904",
+      "titulo": "Die protestantische Ethik und der Geist des Kapitalismus",
+      "link": ""
+    },
+    {
+      "ano": "1919",
+      "titulo": "Politik als Beruf",
+      "link": ""
+    },
+    {
+      "ano": "1922",
+      "titulo": "Wirtschaft und Gesellschaft",
+      "link": ""
+    }
+  ]
+}

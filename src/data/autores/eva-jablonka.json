@@ -1,0 +1,45 @@
+{
+  "id": "eva-jablonka",
+  "nome": "Eva Jablonka",
+  "periodo": "1952–presente",
+  "disciplinas": [
+    "Epigenética evolutiva"
+  ],
+  "resumo": "Bióloga e filósofa que defende que a hereditariedade vai além dos genes, incluindo epigenética, comportamento e símbolos, e que isso pesa na evolução.",
+  "bio": [
+    "Eva Jablonka é geneticista e filósofa da biologia, professora no Instituto Cohn de História e Filosofia da Ciência e das Ideias da Universidade de Tel Aviv. Sua formação em genética a levou a questionar um pressuposto da biologia evolutiva do século XX: o de que a única herança relevante para a evolução é a transmissão do DNA. Ela trabalha na intersecção entre biologia experimental, teoria da evolução e filosofia, e escreve em parceria com a bióloga Marion Lamb e, mais recentemente, com a pesquisadora Simona Ginsburg e outros colaboradores.",
+    "A tese central de Jablonka é que a hereditariedade tem várias dimensões. Em Evolution in Four Dimensions (2005), ela e Lamb descrevem quatro sistemas de herança que podem influenciar a evolução: o genético, o epigenético, o comportamental e o simbólico. O sistema epigenético diz respeito a variações na forma como os genes são regulados, como marcas químicas no DNA e nas proteínas associadas a ele, que podem ser copiadas na divisão celular e, em alguns organismos, transmitidas entre gerações sem mudar a sequência do DNA. O sistema comportamental inclui tradições aprendidas, como cantos de aves ou preferências alimentares passadas de mães para filhotes. O sistema simbólico, característico de humanos, depende da linguagem e de outros sistemas de signos. A proposta não nega a importância dos genes, mas pede que a teoria da evolução leve em conta outras formas de transmissão.",
+    "Jablonka também defende que algumas variações herdadas podem ser induzidas pelo ambiente e não só resultar de mutações ao acaso, posição que ela mesma descreve como uma dimensão lamarckiana da evolução, desde que entendida como complemento, e não como substituto, da seleção natural. Em trabalho com Gal Raz, revisou casos de herança epigenética transgeracional em plantas, fungos, animais e microrganismos. Mais recentemente, com Simona Ginsburg, propôs que a origem da consciência esteja ligada à capacidade de aprendizado associativo ilimitado, que teria surgido em animais por volta do período Cambriano.",
+    "Seu legado está em ter estimulado o debate sobre a síntese estendida da evolução, que busca incorporar herança não genética, plasticidade do desenvolvimento e construção de nicho à teoria clássica. As críticas são relevantes: em mamíferos, as marcas epigenéticas costumam ser apagadas na formação dos gametas e no início do embrião, o que limita a transmissão entre gerações, e muitos biólogos duvidam que a herança epigenética tenha peso evolutivo comparável ao dos genes. Ainda assim, a obra de Jablonka é referência obrigatória para quem discute os limites da herança genética."
+  ],
+  "tags": [
+    "Genética",
+    "Teórico",
+    "Filosofia da ciência"
+  ],
+  "influencias": [
+    "conrad-waddington"
+  ],
+  "obras": [
+    {
+      "ano": "1995",
+      "titulo": "Epigenetic Inheritance and Evolution: The Lamarckian Dimension (com M. Lamb)",
+      "link": ""
+    },
+    {
+      "ano": "2005",
+      "titulo": "Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life (com M. Lamb)",
+      "link": ""
+    },
+    {
+      "ano": "2009",
+      "titulo": "Transgenerational Epigenetic Inheritance: Prevalence, Mechanisms, and Implications for the Study of Heredity and Evolution (com G. Raz)",
+      "link": ""
+    },
+    {
+      "ano": "2019",
+      "titulo": "The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness (com S. Ginsburg)",
+      "link": ""
+    }
+  ]
+}

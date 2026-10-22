@@ -1,0 +1,38 @@
+{
+  "id": "paul-maclean",
+  "nome": "Paul MacLean",
+  "periodo": "1913–2007",
+  "disciplinas": [
+    "Neuroevolução"
+  ],
+  "resumo": "Neurocientista norte-americano que cunhou o termo sistema límbico e propôs o modelo do cérebro triúno, muito influente, embora hoje criticado.",
+  "bio": [
+    "Paul D. MacLean (1913–2007) formou-se em medicina em Yale, atuou como neurologista e, a partir de 1957, trabalhou no Instituto Nacional de Saúde Mental dos Estados Unidos (NIMH), onde dirigiu o Laboratório de Evolução e Comportamento do Cérebro. Interessado em epilepsia do lobo temporal, observou que crises nessa região causavam alterações emocionais e de memória intensas, e passou a estudar as estruturas profundas do cérebro ligadas à emoção.",
+    "Em 1949, propôs o conceito de cérebro visceral, referente ao conjunto de estruturas que ligam emoções a funções do corpo, e, em 1952, introduziu a expressão sistema límbico. A palavra límbico vinha da ideia do neurologista francês Paul Broca, que no século XIX havia chamado de grande lóbulo límbico a borda de tecido cortical na face interna do hemisfério. MacLean estendeu o conceito a outras regiões, como o hipocampo, a amígdala e o giro do cíngulo, e as incluiu em um circuito, que ele via como base da emoção. A ideia estendeu um circuito descrito por James Papez em 1937.",
+    "Sua ideia mais conhecida é a do cérebro triúno, desenvolvida a partir dos anos 1960 e reunida em The Triune Brain in Evolution (1990). Segundo o modelo, o cérebro de mamíferos seria formado por três camadas, acumuladas na evolução: o complexo R, ou reptiliano, formado em boa parte pelos gânglios da base e associado a comportamentos instintivos e rotineiros; o sistema límbico, ligado à emoção e a vínculos sociais, como o cuidado com a prole; e o neocórtex, associado à linguagem e ao raciocínio abstrato. MacLean propôs que esses três sistemas coexistem e às vezes entram em conflito, como se houvesse três mentalidades em um mesmo crânio. A ideia foi popularizada por autores como Arthur Koestler e Carl Sagan, e passou à cultura geral.",
+    "A neurociência comparativa atual, no entanto, rejeita boa parte do modelo. Estudos mostram que répteis e aves têm regiões homólogas ao córtex dos mamíferos, que a evolução do cérebro não ocorreu pela adição de camadas e que emoções não se restringem às estruturas límbicas. Muitos pesquisadores consideram até o conceito de sistema límbico impreciso. Mesmo assim, o trabalho de MacLean teve grande papel ao colocar a emoção no centro da neurociência e ao propor uma visão evolutiva do cérebro, e suas expressões continuam presentes na linguagem de clínicos e de divulgadores."
+  ],
+  "tags": [
+    "Teórico",
+    "Histórico-comparativo",
+    "Neuropsicológico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1949",
+      "titulo": "Psychosomatic disease and the \"visceral brain\"",
+      "link": ""
+    },
+    {
+      "ano": "1952",
+      "titulo": "Some psychiatric implications of physiological studies on frontotemporal portion of limbic system (visceral brain)",
+      "link": ""
+    },
+    {
+      "ano": "1990",
+      "titulo": "The Triune Brain in Evolution: Role in Paleocerebral Functions",
+      "link": ""
+    }
+  ]
+}

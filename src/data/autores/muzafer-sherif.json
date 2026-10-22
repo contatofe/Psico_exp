@@ -1,0 +1,42 @@
+{
+  "id": "muzafer-sherif",
+  "nome": "Muzafer Sherif",
+  "periodo": "1906–1988",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Mostrou como normas de grupo se formam (efeito autocinético) e, no estudo de Robbers Cave, como competição gera hostilidade e metas comuns a reduzem.",
+  "bio": [
+    "Muzafer Sherif nasceu em 1906 na Turquia e estudou em Istambul e, nos Estados Unidos, em Harvard e na Universidade Colúmbia, onde se doutorou em 1935 com Gardner Murphy. Trabalhou em Princeton, Yale, na Universidade de Oklahoma e na Pennsylvania State University. Sua companheira de vida e colaboradora, a psicóloga Carolyn Wood Sherif, participou de boa parte de sua pesquisa. Interessava-lhe entender como atitudes e normas sociais surgem das interações entre pessoas.",
+    "Em seu doutorado, estudou o efeito autocinético, uma ilusão em que um ponto luminoso estático em uma sala escura parece se mover. Sozinhas, as pessoas estabeleciam estimativas pessoais estáveis para a distância do movimento. Em grupo, as estimativas convergiam para um valor comum, e a norma criada persistia quando elas voltavam a ser testadas sozinhas. Em 1936, no livro The Psychology of Social Norms, Sherif interpretou isso como a formação de uma norma social em situações ambíguas, em que ninguém sabe a resposta certa e usa os outros como referência. O trabalho influenciou as pesquisas de Solomon Asch sobre conformidade, que buscavam uma situação sem ambiguidade.",
+    "O estudo mais famoso é o de Robbers Cave, realizado em 1954 em um parque estadual de Oklahoma. Vinte e dois meninos de cerca de 11 e 12 anos, sem se conhecerem, foram levados a um acampamento de verão e divididos em dois grupos que, no início, não sabiam da existência um do outro. Quando os grupos se encontraram em uma série de competições com prêmios, surgiram insultos, ataques a alojamentos e hostilidade aberta. Atividades de contato simples, como refeições juntos, não reduziram a tensão. A hostilidade diminuiu quando os pesquisadores criaram metas superordenadas, que exigiam cooperação, como restabelecer o abastecimento de água do acampamento ou desatolar o caminhão. O resultado sustenta a teoria do conflito realista: a hostilidade entre grupos nasce de interesses incompatíveis.",
+    "Gina Perry, em 2018, revisitou arquivos e mostrou que um estudo anterior de Sherif, em 1953, em Middle Grove, não produziu os resultados esperados: os meninos perceberam a manipulação e se voltaram contra os adultos. A pesquisadora também aponta que, em Robbers Cave, a equipe, disfarçada de funcionários, teve papel ativo ao criar as condições de conflito. Henri Tajfel mostrou depois que a hostilidade pode surgir mesmo sem conflito de interesses, e o estudo é criticado por questões éticas, já que os meninos não sabiam que eram objeto de um experimento."
+  ],
+  "tags": [
+    "Experimental",
+    "Trabalho de campo"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1935",
+      "titulo": "A study of some social factors in perception",
+      "link": ""
+    },
+    {
+      "ano": "1936",
+      "titulo": "The Psychology of Social Norms",
+      "link": ""
+    },
+    {
+      "ano": "1961",
+      "titulo": "Intergroup Conflict and Cooperation: The Robbers Cave Experiment (com Harvey, White, Hood e Sherif)",
+      "link": ""
+    },
+    {
+      "ano": "1966",
+      "titulo": "In Common Predicament: Social Psychology of Intergroup Conflict and Cooperation",
+      "link": ""
+    }
+  ]
+}

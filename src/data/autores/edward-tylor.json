@@ -1,0 +1,38 @@
+{
+  "id": "edward-tylor",
+  "nome": "Edward Tylor",
+  "periodo": "1832–1917",
+  "disciplinas": [
+    "Antropologia"
+  ],
+  "resumo": "Considerado o fundador da antropologia acadêmica britânica, definiu cultura como objeto de ciência e propôs o animismo como origem da religião.",
+  "bio": [
+    "Edward Burnett Tylor nasceu em Londres, em 1832, em uma família quaker, e não frequentou a universidade. Uma viagem ao México, em 1856, na companhia do colecionador Henry Christy, despertou seu interesse pelas sociedades não europeias. Tornou-se o primeiro a ocupar um posto de antropologia em Oxford, como conservador do museu universitário e depois como professor, e foi nomeado cavaleiro em 1912. Morreu em 1917.",
+    "Em Primitive Culture (1871), Tylor apresentou uma definição de cultura que se tornou clássica: um conjunto complexo que inclui conhecimento, crenças, arte, moral, direito, costumes e outras capacidades adquiridas pelo ser humano como membro da sociedade. Ao tratá-la como algo aprendido, e não herdado, abriu caminho para estudá-la de forma sistemática e comparativa. Ele defendia a unidade psíquica da humanidade, a ideia de que todos os povos compartilham as mesmas capacidades mentais básicas e diferem sobretudo em estágios de desenvolvimento.",
+    "Sua teoria da religião parte do conceito de animismo, a crença em seres espirituais. Para Tylor, a ideia de alma teria surgido da reflexão de povos antigos sobre experiências como sonhos, visões e a morte, que sugeririam a existência de algo separável do corpo. A crença em almas teria sido estendida a animais, plantas e objetos, dando origem a espíritos e deuses. Ele propôs ainda o conceito de sobrevivências, costumes que persistem depois de perder seu sentido original e que permitiriam reconstituir etapas anteriores de uma sociedade.",
+    "O quadro geral de Tylor era evolucionista e unilinear: as sociedades passariam por etapas de selvageria, barbárie e civilização, com a sociedade europeia no topo. A antropologia posterior, especialmente a de Franz Boas, criticou essa hierarquia como etnocêntrica e a metodologia de comparar costumes fora de seus contextos. Ainda assim, a definição de cultura e a ideia de que crenças têm origens em processos mentais compreensíveis fazem de Tylor uma referência para quem estuda cultura e cognição."
+  ],
+  "tags": [
+    "Teórico",
+    "Histórico-comparativo",
+    "Filosofia da ciência"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1865",
+      "titulo": "Researches into the Early History of Mankind and the Development of Civilization",
+      "link": ""
+    },
+    {
+      "ano": "1871",
+      "titulo": "Primitive Culture",
+      "link": ""
+    },
+    {
+      "ano": "1881",
+      "titulo": "Anthropology: An Introduction to the Study of Man and Civilization",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kurt-lewin",
+  "nome": "Kurt Lewin",
+  "periodo": "1890–1947",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Considerado o fundador da psicologia social moderna, criou a teoria de campo, a dinâmica de grupo e a pesquisa-ação, formando toda uma geração de pesquisadores.",
+  "bio": [
+    "Kurt Lewin nasceu em 1890 em Mogilno, então território da Prússia, e doutorou-se em Berlim, em 1916. Trabalhou ali no círculo da psicologia da Gestalt, que enfatiza a organização da percepção em totalidades. Como judeu, deixou a Alemanha com a ascensão do nazismo e emigrou para os Estados Unidos em 1933. Lecionou em Cornell, na Universidade de Iowa e, a partir de 1944, no MIT, onde fundou o Centro de Pesquisa em Dinâmica de Grupo. Morreu em 1947, aos 56 anos, no auge da carreira.",
+    "Sua ideia central é a teoria de campo, resumida na fórmula B = f(P, E): o comportamento é função da pessoa e do ambiente tal como ela os percebe. O conjunto dessa pessoa e de seu mundo percebido forma o espaço de vida, onde há objetivos atraentes, barreiras e forças que empurram ou puxam, desenhadas por Lewin como vetores e regiões. Esse modo de pensar rompeu com a ideia de que o comportamento é ditado só por traços internos ou só pelo ambiente. Em seu laboratório, estudantes exploraram o que isso significa na prática. Bluma Zeigarnik observou que tarefas interrompidas são lembradas melhor do que as concluídas, e Tamara Dembo estudou a frustração e a raiva.",
+    "No estudo clássico com Ronald Lippitt e Ralph White (1939), grupos de meninos em clubes de atividades eram conduzidos por adultos que adotavam estilos de liderança autoritário, democrático ou laissez-faire. O clima autoritário produzia mais agressividade ou apatia, e o democrático, maior cooperação e iniciativa. Durante a Segunda Guerra, Lewin mostrou que discussões em grupo mudavam hábitos alimentares com mais eficácia do que palestras. Dessas experiências nasceram a pesquisa-ação, em que pesquisar e transformar um problema social andam juntos, e a ideia de que mudança envolve descongelar práticas antigas, mover-se e recongelar a nova prática. Entre seus alunos e colaboradores estão Leon Festinger, Dorwin Cartwright, Harold Kelley e Morton Deutsch.",
+    "Críticos observam que a formalização matemática que Lewin tentou, inspirada na topologia, serviu mais como metáfora do que como sistema com predições quantitativas, e que o espaço de vida é difícil de medir. O modelo de mudança em três etapas também é considerado simples demais para organizações complexas. Ainda assim, a combinação de teoria, experimento e relevância social tornou-se marca da psicologia social posterior."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico",
+    "Filosofia da ciência"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1936",
+      "titulo": "Principles of Topological Psychology",
+      "link": ""
+    },
+    {
+      "ano": "1939",
+      "titulo": "Patterns of aggressive behavior in experimentally created social climates (com Lippitt e White)",
+      "link": ""
+    },
+    {
+      "ano": "1946",
+      "titulo": "Action research and minority problems",
+      "link": ""
+    },
+    {
+      "ano": "1951",
+      "titulo": "Field Theory in Social Science",
+      "link": ""
+    }
+  ]
+}

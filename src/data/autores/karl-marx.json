@@ -1,0 +1,42 @@
+{
+  "id": "karl-marx",
+  "nome": "Karl Marx",
+  "periodo": "1818–1883",
+  "disciplinas": [
+    "Sociologia"
+  ],
+  "resumo": "Filósofo alemão que explicou a história pelas condições materiais e pela luta de classes, com enorme efeito nas ciências sociais.",
+  "bio": [
+    "Karl Marx nasceu em Trier, na Alemanha, em 1818, estudou direito e filosofia em Bonn e Berlim e doutorou-se em 1841. Trabalhou como jornalista e, por causa de seu engajamento político, viveu exilado em Paris, Bruxelas e, a partir de 1849, em Londres, onde morreu em 1883. Sua parceria intelectual com Friedrich Engels produziu, entre outros textos, o \"Manifesto Comunista\", de 1848.",
+    "A ideia central do que veio a ser chamado de materialismo histórico é que a maneira como uma sociedade organiza a produção de seus meios de vida condiciona suas instituições, leis e formas de pensar. Marx descreveu esse esquema com a imagem de uma base econômica sobre a qual se ergue uma superestrutura jurídica, política e ideológica. Na história, as mudanças viriam do conflito entre grupos com interesses opostos em relação à produção, a luta de classes. Para o capitalismo, ele identificou a oposição entre a burguesia, que possui os meios de produção, e o proletariado, que precisa vender sua força de trabalho.",
+    "Em \"O Capital\", de 1867, analisou o funcionamento da economia capitalista: a mercadoria, a mais-valia (o valor produzido pelo trabalhador além do que recebe como salário) e a tendência à acumulação. Em textos anteriores, desenvolveu o conceito de alienação, a ideia de que, no trabalho assalariado, o trabalhador se distancia do que produz, da atividade que realiza e de outras pessoas. Também discutiu como ideias dominantes de uma época tendem a refletir os interesses de quem domina, o que deu origem ao debate sobre ideologia.",
+    "A influência de Marx se estende por sociologia, economia, história, antropologia e psicologia. Alienação, ideologia e consciência de classe foram retomadas em pesquisas sobre trabalho, desigualdade e identidade social, e a ideia de que a mente se forma em condições históricas e sociais alimentou autores como Lev Vygotsky. A obra recebeu críticas, entre elas sobre a teoria do valor-trabalho, sobre previsões que não se confirmaram e sobre o peso dado à economia na explicação da história, e seu nome foi associado a regimes políticos que tiveram pouca relação com a análise original."
+  ],
+  "tags": [
+    "Teórico",
+    "Histórico-comparativo"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1848",
+      "titulo": "Manifest der Kommunistischen Partei",
+      "link": ""
+    },
+    {
+      "ano": "1852",
+      "titulo": "Der achtzehnte Brumaire des Louis Bonaparte",
+      "link": ""
+    },
+    {
+      "ano": "1859",
+      "titulo": "Zur Kritik der politischen Ökonomie",
+      "link": ""
+    },
+    {
+      "ano": "1867",
+      "titulo": "Das Kapital, Band 1",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "a-r-radcliffe-brown",
+  "nome": "A. R. Radcliffe-Brown",
+  "periodo": "1881–1955",
+  "disciplinas": [
+    "Antropologia"
+  ],
+  "resumo": "Antropólogo britânico que, inspirado em Durkheim, definiu a sociedade como estrutura de relações e fundou o estrutural-funcionalismo.",
+  "bio": [
+    "Alfred Reginald Radcliffe-Brown nasceu na Inglaterra e estudou em Cambridge, onde teve contato com W. H. R. Rivers e A. C. Haddon. Fez trabalho de campo nas ilhas Andamão, no oceano Índico (1906–1908), e na Austrália Ocidental (1910–1912). Lecionou na Cidade do Cabo, em Sydney, em Chicago e em Oxford, e influenciou uma geração inteira de antropólogos britânicos, como Meyer Fortes e E. E. Evans-Pritchard.",
+    "Sua contribuição central é o estrutural-funcionalismo. Leitor de Émile Durkheim, ele tratava a sociedade como uma rede de relações estáveis entre pessoas e grupos, a chamada estrutura social, e perguntava qual é a função de cada instituição para manter essa rede, numa analogia com os órgãos de um organismo. Isso o separa de Malinowski, que explicava costumes pelas necessidades biológicas e psicológicas dos indivíduos. Para Radcliffe-Brown, o que importava era a contribuição de um rito, de uma regra de casamento ou de uma norma de respeito para a continuidade da ordem coletiva. Em seu estudo sobre os andamaneses, por exemplo, os rituais aparecem como meios de expressar e reforçar sentimentos e valores compartilhados.",
+    "Ele dedicou atenção especial ao parentesco. Descreveu as chamadas relações de brincadeira (joking relationships), em que certos parentes trocam zombarias e provocações ritualizadas, o que ajuda a administrar tensões em vínculos ambíguos. Analisou também o avunculado, a relação privilegiada entre o irmão da mãe e o filho da irmã em muitas sociedades. Sua ambição era construir uma ciência natural da sociedade, comparativa, capaz de formular leis gerais da organização social.",
+    "O estrutural-funcionalismo dominou a antropologia britânica até meados do século XX e perdeu força depois, sob críticas de que descrevia sociedades como sistemas estáticos, com pouco espaço para conflito, história e mudança. Ainda assim, a ideia de estrutura social e o estudo sistemático dos sistemas de parentesco permanecem como parte do repertório da antropologia e da sociologia."
+  ],
+  "tags": [
+    "Teórico",
+    "Histórico-comparativo",
+    "Trabalho de campo"
+  ],
+  "influencias": [
+    "emile-durkheim"
+  ],
+  "obras": [
+    {
+      "ano": "1922",
+      "titulo": "The Andaman Islanders",
+      "link": ""
+    },
+    {
+      "ano": "1935",
+      "titulo": "On the Concept of Function in Social Science",
+      "link": ""
+    },
+    {
+      "ano": "1950",
+      "titulo": "African Systems of Kinship and Marriage",
+      "link": ""
+    },
+    {
+      "ano": "1952",
+      "titulo": "Structure and Function in Primitive Society",
+      "link": ""
+    }
+  ]
+}

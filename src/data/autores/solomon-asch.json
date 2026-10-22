@@ -1,0 +1,49 @@
+{
+  "id": "solomon-asch",
+  "nome": "Solomon Asch",
+  "periodo": "1907–1996",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Mostrou em experimentos com linhas que muita gente concorda com o grupo contra a própria percepção e que um único dissidente reduz bastante a conformidade.",
+  "bio": [
+    "Solomon Asch nasceu em 1907 em Varsóvia, emigrou para os Estados Unidos aos 13 anos e doutorou-se na Universidade Colúmbia, em 1932. Lecionou no Brooklyn College e, de 1947 a 1966, no Swarthmore College, onde trabalhou perto de Wolfgang Köhler, um dos fundadores da Gestalt. Foi um psicólogo gestaltista: acreditava que pessoas percebem outras como totalidades organizadas, e não como somas de características isoladas.",
+    "Em um estudo de 1946, mostrou a participantes listas de traços atribuídos a uma pessoa fictícia. Quando a lista incluía caloroso, a impressão geral era bem diferente da lista com frio, mesmo mantendo os demais traços, o que indicou que alguns traços são centrais e reorganizam o sentido dos outros. O trabalho mais conhecido, porém, é sobre conformidade, apresentado em 1951 e detalhado em 1956. Em grupos de sete a nove pessoas, todas combinadas com o pesquisador, exceto uma, os participantes comparavam o comprimento de uma linha com três outras, em uma tarefa em que a resposta correta era óbvia. Nas tentativas críticas, os colaboradores davam unanimemente uma resposta errada. Cerca de três quartos dos participantes acompanharam o grupo em pelo menos uma tentativa, e cerca de um terço das respostas nas tentativas críticas foi errada, embora muitos nunca tenham cedido.",
+    "Asch distinguiu razões diferentes para a conformidade, que Morton Deutsch e Harold Gerard formalizariam em 1955 como influência normativa (desejo de aceitação) e informacional (dúvida sobre o próprio juízo). Mostrou também que a presença de um único aliado que dava a resposta correta reduzia drasticamente a conformidade, e que o grupo exercia mais pressão quando era unânime do que quando era numeroso. Para ele, o estudo era sobretudo sobre independência: o que permite a alguém manter a própria percepção diante da pressão. Em Social Psychology (1952), defendeu uma psicologia social que valorizava o significado das situações para as pessoas. Stanley Milgram, que trabalhou com ele em Princeton, foi um de seus herdeiros intelectuais.",
+    "As críticas incluem a replicação britânica de Perrin e Spencer (1980) com estudantes de engenharia, na qual quase não houve conformidade, o que levou a dúvidas sobre a estabilidade do efeito. Uma meta-análise de Bond e Smith (1996) apontou que a conformidade varia entre culturas e que diminuiu nos Estados Unidos após os anos 1950. Há também questões éticas, pelo uso de engano, e metodológicas, pois os participantes eram só homens universitários."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [
+    "muzafer-sherif"
+  ],
+  "obras": [
+    {
+      "ano": "1946",
+      "titulo": "Forming impressions of personality",
+      "link": ""
+    },
+    {
+      "ano": "1951",
+      "titulo": "Effects of group pressure upon the modification and distortion of judgment",
+      "link": ""
+    },
+    {
+      "ano": "1952",
+      "titulo": "Social Psychology",
+      "link": ""
+    },
+    {
+      "ano": "1955",
+      "titulo": "Opinions and social pressure",
+      "link": ""
+    },
+    {
+      "ano": "1956",
+      "titulo": "Studies of independence and conformity: I. A minority of one against a unanimous majority",
+      "link": ""
+    }
+  ]
+}

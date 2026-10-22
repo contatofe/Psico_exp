@@ -1,0 +1,37 @@
+{
+  "id": "ivan-pavlov",
+  "nome": "Ivan Pavlov",
+  "periodo": "1849–1936",
+  "disciplinas": [
+    "Análise Experimental do Comportamento"
+  ],
+  "resumo": "Fisiólogo russo que, estudando a digestão de cães, descobriu o condicionamento clássico e abriu o estudo experimental da aprendizagem associativa.",
+  "bio": [
+    "Ivan Petrovich Pavlov nasceu em Riazan, na Rússia, em 1849, e formou-se em fisiologia, não em psicologia. Estudou em São Petersburgo, passou por laboratórios na Alemanha e dirigiu por décadas o departamento de fisiologia do Instituto de Medicina Experimental, em São Petersburgo. Pesquisava a digestão: como o estômago, o pâncreas e as glândulas salivares respondem ao alimento. Esse trabalho lhe rendeu o Nobel de Fisiologia ou Medicina de 1904, concedido pelas pesquisas sobre digestão, e não pelos reflexos condicionados.",
+    "Ao medir a salivação de cães, notou que os animais salivavam antes de receber a comida, por exemplo ao ver o tratador. Pavlov chamou o fenômeno de secreção psíquica e passou a investigar o que o causava. Em experimentos controlados, associava um estímulo neutro, como o som de um metrônomo ou de um sino, à comida. Depois de algumas repetições, o som sozinho passava a provocar salivação. O alimento é o estímulo incondicionado (US) e a salivação a ele é a resposta incondicionada; o som torna-se estímulo condicionado (CS) e a salivação a ele, resposta condicionada (CR).",
+    "Pavlov descreveu processos que continuam sendo estudados: a aquisição, quando a associação se forma; a extinção, quando o CS é apresentado repetidamente sem o US e a resposta diminui; a recuperação espontânea, quando a resposta reaparece após um intervalo; a generalização, quando estímulos parecidos com o CS também eliciam a resposta; e a discriminação, quando o animal aprende a responder só a um estímulo específico. Em seu laboratório observou ainda a neurose experimental, em cães submetidos a discriminações muito difíceis, e propôs que a linguagem humana funcionaria como um segundo sistema de sinais.",
+    "A obra de Pavlov serviu de base para Watson e Skinner, que a incorporaram a versões distintas de behaviorismo, e para terapias comportamentais, como a exposição no tratamento de fobias. Na neurociência, a aprendizagem associativa é hoje descrita por modelos de erro de previsão, como o de Rescorla e Wagner (1972), e relacionada à atividade dopaminérgica estudada por Wolfram Schultz. Entre as críticas, destacam-se a simplificação excessiva de sua teoria dos reflexos, a ênfase quase exclusiva em respostas fisiológicas e o fato de a imagem popular do sino reduzir a variedade de estímulos e procedimentos que ele usou."
+  ],
+  "tags": [
+    "Experimental",
+    "Modelagem animal"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1897",
+      "titulo": "Lektsii o rabote glavnykh pishchevaritelnykh zhelez",
+      "link": ""
+    },
+    {
+      "ano": "1906",
+      "titulo": "The scientific investigation of the psychical faculties or processes in the higher animals",
+      "link": ""
+    },
+    {
+      "ano": "1927",
+      "titulo": "Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex",
+      "link": ""
+    }
+  ]
+}

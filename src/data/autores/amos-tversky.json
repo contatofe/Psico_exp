@@ -1,0 +1,51 @@
+{
+  "id": "amos-tversky",
+  "nome": "Amos Tversky",
+  "periodo": "1937–1996",
+  "disciplinas": [
+    "Economia comportamental"
+  ],
+  "resumo": "Psicólogo matemático que, com Kahneman, mostrou que julgamento e escolha seguem heurísticas e vieses sistemáticos, base da economia comportamental.",
+  "bio": [
+    "Amos Tversky nasceu em Haifa, em 1937, serviu como oficial paraquedista no exército israelense e estudou psicologia na Universidade Hebraica de Jerusalém. Doutorou-se na Universidade de Michigan, em 1965, em psicologia matemática. Voltou à Hebraica e, em 1978, mudou-se para Stanford, onde ficou até morrer, em 1996, de melanoma.",
+    "Antes da parceria com Kahneman, Tversky já era conhecido por trabalhos sobre medida e escolha. Foi coautor de Foundations of Measurement (1971), com David Krantz, R. Duncan Luce e Patrick Suppes, e propôs o modelo de eliminação por aspectos (1972): a pessoa descarta alternativas que não têm um atributo importante até restar uma, o que contorna limites do axioma de escolha de Luce. Em “Features of similarity” (1977), argumentou que julgamentos de semelhança não são simétricos nem seguem distância geométrica, pois dependem dos traços comuns e distintivos.",
+    "Com Daniel Kahneman, a partir do fim dos anos 1960, estudou como pessoas julgam probabilidades. Em 1974, na Science, descreveram três heurísticas: a representatividade (julgar pela semelhança com um protótipo, ignorando taxas de base e tamanho da amostra), a disponibilidade (julgar a frequência pela facilidade de lembrar exemplos) e a ancoragem e ajuste (partir de um valor inicial e ajustar pouco). No problema de Linda (1983), muitos participantes julgam mais provável que ela seja bancária e feminista do que simplesmente bancária, o que viola a lógica da conjunção.",
+    "Com a teoria do prospecto (1979) e os estudos de enquadramento (1981), os dois mostraram que a escolha depende da descrição do problema. No “problema da doença asiática”, a mesma situação, apresentada como vidas salvas ou como vidas perdidas, inverte a preferência entre as opções. O Nobel de Economia de 2002 foi dado a Kahneman; Tversky já havia morrido e o prêmio não é concedido postumamente. Entre as críticas, Gerd Gigerenzer e outros argumentam que heurísticas podem ser eficientes em ambientes reais, e a pesquisa sobre a “mão quente” no basquete, da qual Tversky participou em 1985, foi revisada por estudos posteriores."
+  ],
+  "tags": [
+    "Experimental",
+    "Matemática"
+  ],
+  "influencias": [
+    "herbert-simon",
+    "r-duncan-luce",
+    "daniel-kahneman"
+  ],
+  "obras": [
+    {
+      "ano": "1972",
+      "titulo": "Elimination by aspects: A theory of choice",
+      "link": ""
+    },
+    {
+      "ano": "1974",
+      "titulo": "Judgment under Uncertainty: Heuristics and Biases (com Kahneman)",
+      "link": "https://doi.org/10.1126/science.185.4157.1124"
+    },
+    {
+      "ano": "1977",
+      "titulo": "Features of similarity",
+      "link": ""
+    },
+    {
+      "ano": "1979",
+      "titulo": "Prospect Theory: An Analysis of Decision under Risk (com Kahneman)",
+      "link": "https://www.jstor.org/stable/1914185"
+    },
+    {
+      "ano": "1981",
+      "titulo": "The framing of decisions and the psychology of choice (com Kahneman)",
+      "link": ""
+    }
+  ]
+}

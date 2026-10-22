@@ -1,0 +1,51 @@
+{
+  "id": "harold-kelley",
+  "nome": "Harold Kelley",
+  "periodo": "1921–2003",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Formalizou a atribuição causal como um processo quase estatístico (covariação) e, com Thibaut, criou a teoria da interdependência nas relações sociais.",
+  "bio": [
+    "Harold Kelley (1921–2003) doutorou-se em 1948 no MIT, no Centro de Pesquisa em Dinâmica de Grupo ligado ao legado de Kurt Lewin. Trabalhou em Yale com Carl Hovland em pesquisas sobre persuasão e atitudes e, a partir de 1961, na Universidade da Califórnia em Los Angeles (UCLA). Sua obra se divide em duas frentes, ambas interessadas em como as pessoas interpretam o que acontece entre elas: a atribuição causal e a interdependência em relações.",
+    "Em 1967, Kelley propôs o modelo de covariação, segundo o qual o observador funciona como um estatístico intuitivo que compara condições em que um comportamento aparece ou não. Três informações pesam na decisão. O consenso é se outras pessoas reagem do mesmo modo ao mesmo estímulo. A consistência é se essa pessoa reage assim ao longo do tempo. A distintividade é se ela reage assim a outros estímulos. Se Ana ri de um comediante e todos riem dele (alto consenso), Ana sempre ri dele (alta consistência) e não ri de outros comediantes (alta distintividade), a causa tende a ser atribuída ao comediante. Se só Ana ri, e de qualquer comediante, a causa tende a ser atribuída a ela. Em 1973, ele acrescentou os esquemas causais, atalhos usados quando só há uma observação, como o princípio do desconto: uma causa parece menos provável quando há outra causa plausível disponível.",
+    "Com John Thibaut, Kelley publicou em 1959 The Social Psychology of Groups e, em 1978, a versão ampliada da teoria da interdependência, em que as interações são descritas por matrizes de ganhos e custos, de forma próxima à teoria dos jogos. A satisfação em uma relação depende de comparar o resultado obtido com o que se espera e com as alternativas disponíveis, o que ajuda a explicar por que pessoas permanecem em relações insatisfatórias ou saem de relações boas. Também participou, com Hovland e Irving Janis, do livro Communication and Persuasion (1953).",
+    "Quanto às críticas, os estudos mostraram que as pessoas usam a informação de consenso menos do que o modelo prevê, e que raramente têm todos os dados necessários, fazendo atribuições com base em poucos casos. Modelos posteriores, como o do foco em condições anormais, defendem que explicamos eventos sobretudo pelo que os distingue do normal. A imagem do estatístico racional foi, assim, nuançada, mas o modelo continua sendo o ponto de partida de quase todos os manuais."
+  ],
+  "tags": [
+    "Teórico",
+    "Experimental",
+    "Teoria dos jogos"
+  ],
+  "influencias": [
+    "fritz-heider",
+    "kurt-lewin"
+  ],
+  "obras": [
+    {
+      "ano": "1953",
+      "titulo": "Communication and Persuasion (com Hovland e Janis)",
+      "link": ""
+    },
+    {
+      "ano": "1959",
+      "titulo": "The Social Psychology of Groups (com Thibaut)",
+      "link": ""
+    },
+    {
+      "ano": "1967",
+      "titulo": "Attribution theory in social psychology",
+      "link": ""
+    },
+    {
+      "ano": "1973",
+      "titulo": "The processes of causal attribution",
+      "link": ""
+    },
+    {
+      "ano": "1978",
+      "titulo": "Interpersonal Relations: A Theory of Interdependence (com Thibaut)",
+      "link": ""
+    }
+  ]
+}

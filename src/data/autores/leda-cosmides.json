@@ -1,0 +1,47 @@
+{
+  "id": "leda-cosmides",
+  "nome": "Leda Cosmides",
+  "periodo": "1957–presente",
+  "disciplinas": [
+    "Psicologia evolutiva"
+  ],
+  "resumo": "Psicóloga que, com John Tooby, fundou a psicologia evolutiva e mostrou que raciocinamos melhor quando a tarefa envolve trocas sociais e detecção de trapaceiros.",
+  "bio": [
+    "Leda Cosmides é psicóloga e professora da Universidade da Califórnia em Santa Bárbara, onde codirige o Centro de Psicologia Evolutiva ao lado de John Tooby. Formou-se em Harvard e construiu sua carreira na fronteira entre a psicologia cognitiva, que investiga como a mente processa informação, e a biologia evolutiva, que pergunta por que a mente tem o desenho que tem. A ideia que orienta sua pesquisa é a de que a mente é composta por mecanismos especializados, moldados pela seleção natural para resolver problemas recorrentes da vida social e ecológica de nossos ancestrais.",
+    "Seu estudo mais famoso usa a tarefa de seleção de Wason, um clássico da psicologia do raciocínio. Na versão abstrata, o participante vê quatro cartas e deve virar apenas as necessárias para testar uma regra do tipo se uma carta tem uma vogal, então o outro lado tem um número par. A maioria das pessoas erra, escolhendo cartas desnecessárias e deixando de virar a que realmente testa a regra. Cosmides mostrou que o desempenho melhora muito quando a mesma estrutura lógica é apresentada como um contrato social, uma regra do tipo se você pega o benefício, deve pagar o custo (por exemplo, se alguém usa o carro, então precisa abastecê-lo). Nesse caso, as pessoas escolhem corretamente as cartas que revelam quem pode estar trapaceando. Ela interpretou o resultado como evidência de um mecanismo especializado de detecção de trapaceiros, que teria evoluído porque a cooperação por trocas, como a descrita por Robert Trivers, só se sustenta se for possível identificar quem recebe sem retribuir.",
+    "A teoria do contrato social que Cosmides e Tooby desenvolveram inclui hipóteses sobre os processos de raciocínio envolvidos na troca social e foi testada em várias populações, inclusive entre horticultores da Amazônia equatoriana, com resultados que os autores consideram consistentes com a tese. Mais amplamente, ela contribuiu para a formulação do programa da psicologia evolutiva, inspirado também pela abordagem computacional de David Marr e pela linguística de Noam Chomsky, e escreveu, com Tooby, textos introdutórios que ajudaram a difundir a área.",
+    "As críticas dirigidas a Cosmides são importantes. Pesquisadores como Dan Sperber e outros propuseram explicações alternativas para o efeito do contrato social, baseadas em relevância, raciocínio pragmático ou regras de permissão, argumentando que não é preciso um módulo evoluído exclusivo para trapaceiros. Há ainda debate sobre a modularidade da mente e sobre a dificuldade de testar hipóteses sobre o passado evolutivo. Seu legado, de todo modo, é ter demonstrado que hipóteses evolutivas podem gerar previsões experimentais precisas sobre cognição."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [
+    "john-tooby",
+    "robert-trivers",
+    "noam-chomsky",
+    "david-marr"
+  ],
+  "obras": [
+    {
+      "ano": "1989",
+      "titulo": "The Logic of Social Exchange: Has Natural Selection Shaped How Humans Reason? Studies with the Wason Selection Task",
+      "link": ""
+    },
+    {
+      "ano": "1992",
+      "titulo": "The Adapted Mind: Evolutionary Psychology and the Generation of Culture (org., com J. Barkow e J. Tooby)",
+      "link": ""
+    },
+    {
+      "ano": "1997",
+      "titulo": "Evolutionary Psychology: A Primer (com J. Tooby)",
+      "link": ""
+    },
+    {
+      "ano": "2013",
+      "titulo": "Evolutionary Psychology: New Perspectives on Cognition and Motivation (com J. Tooby)",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "marvin-harris",
+  "nome": "Marvin Harris",
+  "periodo": "1927–2001",
+  "disciplinas": [
+    "Antropologia"
+  ],
+  "resumo": "Antropólogo norte-americano criador do materialismo cultural, que explica costumes por condições materiais, como ecologia, tecnologia e economia.",
+  "bio": [
+    "Marvin Harris nasceu no Brooklyn, em Nova York, em 1927. Doutorou-se em Columbia, onde estudou com Charles Wagley, e fez pesquisa de campo no Brasil, em Moçambique e no Equador. Lecionou em Columbia por décadas e, a partir de 1980, na Universidade da Flórida. Morreu em 2001. Seu manifesto teórico foi The Rise of Anthropological Theory (1968), uma história crítica da disciplina que defendia uma abordagem científica e materialista.",
+    "O materialismo cultural parte da ideia de que o modo como um grupo produz e se reproduz, em um ambiente com certas tecnologias, explica em grande parte sua organização social e suas crenças. Harris dividiu a sociedade em três níveis: a infraestrutura, formada por tecnologia, ambiente, produção e demografia; a estrutura, que reúne a organização doméstica e política; e a superestrutura, com arte, religião e ideologia. Seu princípio de determinismo infraestrutural sustenta que mudanças na base tendem a alterar os outros níveis. Ele inspirou-se em Marx, mas descartou a dialética e deu mais peso à ecologia e à população.",
+    "Harris popularizou na antropologia a distinção entre as perspectivas êmica, a do participante da cultura, e ética, a do observador externo, vinda do linguista Kenneth Pike, e defendia explicações éticas e causais. Seu exemplo mais conhecido é o das vacas sagradas da Índia. Em artigo de 1966, mostrou que o zebu fornece esterco para combustível e adubo, tração para o arado e leite, e que a proibição de abatê-lo teria raízes ecológicas e econômicas, não só religiosas. Em Cows, Pigs, Wars and Witches (1974), aplicou o mesmo raciocínio ao tabu do porco, à guerra em sociedades tribais e à caça às bruxas na Europa.",
+    "Críticos dizem que o materialismo cultural é reducionista, trata ideias como efeito secundário e usa explicações funcionais difíceis de refutar. Marshall Sahlins foi um dos adversários mais ativos. Em contrapartida, Harris insistiu em hipóteses testáveis e em comparação entre sociedades, o que o aproxima de uma tradição de ecologia cultural e de abordagens evolutivas, inclusive nos debates recentes sobre cultura e adaptação."
+  ],
+  "tags": [
+    "Teórico",
+    "Histórico-comparativo",
+    "Filosofia da ciência"
+  ],
+  "influencias": [
+    "karl-marx"
+  ],
+  "obras": [
+    {
+      "ano": "1966",
+      "titulo": "The Cultural Ecology of India's Sacred Cattle",
+      "link": ""
+    },
+    {
+      "ano": "1968",
+      "titulo": "The Rise of Anthropological Theory",
+      "link": ""
+    },
+    {
+      "ano": "1974",
+      "titulo": "Cows, Pigs, Wars and Witches",
+      "link": ""
+    },
+    {
+      "ano": "1979",
+      "titulo": "Cultural Materialism",
+      "link": ""
+    }
+  ]
+}

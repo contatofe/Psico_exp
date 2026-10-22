@@ -1,0 +1,41 @@
+{
+  "id": "paul-glimcher",
+  "nome": "Paul Glimcher",
+  "periodo": "1961–presente",
+  "disciplinas": [
+    "Neuroeconomia"
+  ],
+  "resumo": "Neurocientista norte-americano, um dos fundadores da neuroeconomia, que estuda como o cérebro representa valor e toma decisões.",
+  "bio": [
+    "Paul Glimcher (nascido em 1961) é professor da Universidade de Nova York (NYU) e dirige o Instituto de Neurociência do NYU Langone Health. Formou-se como neurocientista e começou estudando como o cérebro de primatas controla os movimentos rápidos dos olhos, as sacadas, tema tradicionalmente tratado como reflexo: um estímulo chega ao cérebro e uma resposta motora sai. A pergunta de Glimcher era se esse modelo bastava para explicar como o cérebro escolhe para onde olhar quando há várias opções com recompensas diferentes.",
+    "Em um estudo de 1999 com Michael Platt, registrou a atividade de neurônios da área intraparietal lateral (LIP), no córtex parietal de macacos, enquanto os animais escolhiam entre dois alvos com diferentes quantidades de suco como recompensa. Os neurônios variavam sua atividade conforme o ganho esperado de cada alvo, e não apenas em função de onde o estímulo aparecia ou de onde o animal olharia. Os dados sugeriam que o cérebro representa variáveis de decisão, como o valor esperado, e contrariavam a visão de que essa região era apenas sensorial ou motora. Estudos seguintes testaram se esses sinais obedecem a princípios previstos por teorias econômicas e de jogos.",
+    "Em Decisions, Uncertainty, and the Brain (2003), Glimcher argumentou que a neurociência deveria abandonar o modelo do reflexo e usar a teoria econômica como referência para formular hipóteses sobre o que o cérebro calcula, como a utilidade esperada e a estratégia ótima em situações de incerteza. Defendeu depois, em Foundations of Neuroeconomic Analysis (2011), uma abordagem que combina neurociência, psicologia e economia, e ajudou a organizar o campo, inclusive como coeditor de Neuroeconomics: Decision Making and the Brain, com Colin Camerer, Ernst Fehr e Russell Poldrack. Seu grupo estudou também humanos, com neuroimagem, e descreveu sinais de valor em regiões como o córtex pré-frontal ventromedial e o estriado, além de mecanismos de normalização, pelos quais o valor de uma opção é escalonado em função das demais opções disponíveis. Assumiu como base os trabalhos de Wolfram Schultz sobre dopamina e erro de previsão de recompensa.",
+    "A neuroeconomia segue gerando debate. Alguns economistas questionam a utilidade de dados neurais para teorias baseadas em escolhas observadas, e há controvérsia sobre a ideia de que o cérebro represente o valor em uma única moeda comum ou em sistemas diversos. Mesmo assim, o trabalho de Glimcher ajudou a firmar a decisão como problema legítimo da neurociência e a aproximar economia e biologia."
+  ],
+  "tags": [
+    "Eletrofisiologia",
+    "Modelagem animal",
+    "Neuroimagem",
+    "Teórico"
+  ],
+  "influencias": [
+    "wolfram-schultz"
+  ],
+  "obras": [
+    {
+      "ano": "1999",
+      "titulo": "Neural correlates of decision variables in parietal cortex",
+      "link": ""
+    },
+    {
+      "ano": "2003",
+      "titulo": "Decisions, Uncertainty, and the Brain: The Science of Neuroeconomics",
+      "link": ""
+    },
+    {
+      "ano": "2011",
+      "titulo": "Foundations of Neuroeconomic Analysis",
+      "link": ""
+    }
+  ]
+}

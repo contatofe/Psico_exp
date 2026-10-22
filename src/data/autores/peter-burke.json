@@ -1,0 +1,50 @@
+{
+  "id": "peter-burke",
+  "nome": "Peter Burke",
+  "periodo": "1937–presente",
+  "disciplinas": [
+    "História cultural"
+  ],
+  "resumo": "Historiador britânico que estudou cultura popular, símbolos e circulação de saberes e aproximou a história cultural da antropologia.",
+  "bio": [
+    "Peter Burke nasceu em Londres, em 1937, e estudou história em Oxford. Lecionou na Universidade de Sussex e, depois, na Universidade de Cambridge, onde se tornou professor de história cultural. Especialista em Europa do início da era moderna, em particular da Itália, escreveu sobre temas variados, da cultura popular às imagens de reis, e é um dos principais intérpretes da história cultural como campo de estudo.",
+    "Em \"Popular Culture in Early Modern Europe\", de 1978, analisou como camponeses e artesãos europeus festejavam, cantavam e contavam histórias, e como essas práticas se relacionavam com a cultura das elites. Mostrou que a fronteira entre as duas era permeável e que as camadas sociais compartilhavam parte de seus símbolos. O livro ajudou a transformar a cultura popular em tema de pesquisa histórica, com o auxílio de ferramentas da antropologia, como a atenção ao ritual e à interpretação de símbolos, que ele já associava a autores como Clifford Geertz.",
+    "Em \"The Fabrication of Louis XIV\", de 1992, tratou da imagem pública do rei francês como resultado de um trabalho de comunicação feito por poetas, pintores, historiadores e arquitetos, um estudo de como o poder se fabrica por meio de práticas simbólicas. Em \"A Social History of Knowledge\", de 2000, passou ao estudo de como o conhecimento é produzido, organizado e circulado, e como universidades, bibliotecas e instituições o moldam. Também escreveu sobre a história da escola dos Annales e sobre o papel das imagens como fonte histórica.",
+    "Em \"What is Cultural History?\", de 2004, Burke apresenta uma visão panorâmica do campo, discutindo a influência de autores como Norbert Elias, Pierre Bourdieu e Michel Foucault, e as críticas de que a história cultural, ao enfatizar o simbólico, correria o risco de perder a dimensão material e econômica. Sua obra é lida por psicólogos e cientistas sociais interessados em ver como práticas, símbolos e conhecimentos se constroem em contextos históricos concretos."
+  ],
+  "tags": [
+    "Histórico-comparativo",
+    "Teórico"
+  ],
+  "influencias": [
+    "norbert-elias",
+    "clifford-geertz"
+  ],
+  "obras": [
+    {
+      "ano": "1978",
+      "titulo": "Popular Culture in Early Modern Europe",
+      "link": ""
+    },
+    {
+      "ano": "1990",
+      "titulo": "The French Historical Revolution: The Annales School, 1929–1989",
+      "link": ""
+    },
+    {
+      "ano": "1992",
+      "titulo": "The Fabrication of Louis XIV",
+      "link": ""
+    },
+    {
+      "ano": "2000",
+      "titulo": "A Social History of Knowledge",
+      "link": ""
+    },
+    {
+      "ano": "2004",
+      "titulo": "What Is Cultural History?",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "john-turner",
+  "nome": "John Turner",
+  "periodo": "1947–2011",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Cofundador da Teoria da Identidade Social e criador da Teoria da Autocategorização, que explica como passamos de agir como indivíduos a agir como grupo.",
+  "bio": [
+    "John Turner (1947–2011) foi psicólogo social britânico. Doutorou-se na Universidade de Bristol sob orientação de Henri Tajfel, com quem desenvolveu a Teoria da Identidade Social. Fez carreira em Bristol e depois na Austrália, na Universidade Nacional Australiana (ANU), onde permaneceu até a morte. Trabalhou com um grupo de colaboradores, entre eles Michael Hogg, Penelope Oakes, Stephen Reicher, Margaret Wetherell e Alexander Haslam, que desenvolveram a chamada abordagem da identidade social em psicologia dos grupos.",
+    "Com Tajfel, Turner escreveu em 1979 o texto de referência da Teoria da Identidade Social, que explica conflito entre grupos por categorização, identificação e comparação social. Mas ele sentiu que faltava explicar como o indivíduo passa a se enxergar como membro de um grupo. A resposta veio na Teoria da Autocategorização, apresentada no início dos anos 1980 e desenvolvida no livro Rediscovering the Social Group (1987). A ideia central é que a autoimagem funciona em níveis. Em um nível, nos vemos como pessoas únicas, diferentes das outras. Em outro, nos vemos como membros de uma categoria, como torcedores, nação ou profissão, semelhantes a quem pertence ao mesmo grupo. Qual nível aparece depende do contexto: em um estádio, a identidade de torcedor fica em evidência.",
+    "Quando o nível social assume o controle, ocorre a despersonalização, termo que Turner usa sem sentido pejorativo: a pessoa passa a se perceber e a agir em termos das características típicas do grupo, em vez de suas singularidades. Isso permite entender coordenação, solidariedade e também comportamentos coletivos intensos, sem recorrer à ideia de que a multidão faz as pessoas perderem a razão. A categoria que se destaca em cada situação depende do princípio do metacontraste: tende a ser a que maximiza a diferença percebida entre grupos em relação às diferenças dentro de cada um. Turner usou essa lógica para repensar a influência social. Em Social Influence (1991), sustentou que a pessoa é influenciada sobretudo por quem considera membro do próprio grupo, a chamada influência informacional referente, e não pela mera pressão da maioria.",
+    "A abordagem é muito citada, mas também criticada. O conceito de metacontraste é difícil de operacionalizar com precisão, e a relação entre o componente motivacional da identidade social (busca de autoestima positiva) e o componente cognitivo da autocategorização é debatida. Pesquisadores como Rupert Brown apontam que a teoria dá pouca atenção a diferenças individuais e a variações culturais."
+  ],
+  "tags": [
+    "Teórico",
+    "Experimental"
+  ],
+  "influencias": [
+    "henri-tajfel"
+  ],
+  "obras": [
+    {
+      "ano": "1979",
+      "titulo": "An integrative theory of intergroup conflict (com Tajfel)",
+      "link": ""
+    },
+    {
+      "ano": "1982",
+      "titulo": "Towards a cognitive redefinition of the social group",
+      "link": ""
+    },
+    {
+      "ano": "1987",
+      "titulo": "Rediscovering the Social Group: A Self-Categorization Theory (com Hogg, Oakes, Reicher e Wetherell)",
+      "link": ""
+    },
+    {
+      "ano": "1991",
+      "titulo": "Social Influence",
+      "link": ""
+    }
+  ]
+}

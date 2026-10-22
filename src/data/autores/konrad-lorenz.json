@@ -1,0 +1,43 @@
+{
+  "id": "konrad-lorenz",
+  "nome": "Konrad Lorenz",
+  "periodo": "1903–1989",
+  "disciplinas": [
+    "Etologia"
+  ],
+  "resumo": "Zoólogo austríaco que descreveu a impressão (imprinting) e ajudou a fundar a etologia; sua obra é indissociável do debate sobre o nazismo.",
+  "bio": [
+    "Konrad Lorenz nasceu em Viena em 1903, formou-se em medicina em 1928 e doutorou-se em zoologia em 1933. Cresceu cercado de animais e, ao longo da carreira, criou gansos, gralhas e peixes em condições de grande proximidade, observando-os dia após dia. Foi professor em Königsberg a partir de 1940 e, depois da guerra, fundou grupos de pesquisa na Alemanha e, a partir dos anos 1950, no Instituto Max Planck de Seewiesen, na Baviera.",
+    "Seu conceito mais conhecido é a impressão (imprinting): em certo período curto do início da vida, filhotes de aves como o ganso-bravo fixam-se no primeiro objeto em movimento que veem, em geral a mãe, e passam a segui-lo. Lorenz mostrou que, se ele mesmo estivesse presente nesse momento, os gansinhos o tratavam como mãe. Também descreveu os padrões fixos de ação, sequências de movimentos típicas da espécie que, uma vez desencadeadas por um estímulo-chave, se desenrolam de forma quase automática, como o rolar do ovo de volta ao ninho que ele e Tinbergen estudaram em gansos. Propôs ainda um modelo de motivação inspirado na hidráulica, em que uma energia específica se acumularia até ser descarregada.",
+    "Lorenz popularizou a etologia com livros de grande alcance, como \"Er redete mit dem Vieh, den Vögeln und den Fischen\", e depois com \"Das sogenannte Böse\", sobre a agressão, em que a tratava como impulso com função evolutiva. Mais tarde, escreveu sobre uma epistemologia evolutiva, segundo a qual as categorias do conhecimento humano seriam adaptações moldadas pela seleção natural. Em 1973, dividiu o Prêmio Nobel de Fisiologia ou Medicina com Nikolaas Tinbergen e Karl von Frisch.",
+    "A biografia de Lorenz não pode ser contada sem um capítulo difícil. Ele se filiou ao partido nazista em 1938 e, em textos do início dos anos 1940, aplicou a linguagem da biologia a questões de pureza racial, em termos hoje considerados inaceitáveis. Foi médico do exército alemão e prisioneiro de guerra na União Soviética até 1948. Depois da guerra, distanciou-se desse passado, mas historiadores seguem discutindo a extensão de seu envolvimento e a sinceridade de sua reavaliação. No plano científico, o modelo hidráulico e a generalização de suas ideias sobre agressão para os seres humanos foram muito criticados, e a etologia posterior deu mais peso ao aprendizado e à variação."
+  ],
+  "tags": [
+    "Observacional",
+    "Trabalho de campo",
+    "Teórico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1935",
+      "titulo": "Der Kumpan in der Umwelt des Vogels",
+      "link": ""
+    },
+    {
+      "ano": "1949",
+      "titulo": "Er redete mit dem Vieh, den Vögeln und den Fischen",
+      "link": ""
+    },
+    {
+      "ano": "1963",
+      "titulo": "Das sogenannte Böse",
+      "link": ""
+    },
+    {
+      "ano": "1973",
+      "titulo": "Die Rückseite des Spiegels",
+      "link": ""
+    }
+  ]
+}

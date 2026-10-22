@@ -1,0 +1,46 @@
+{
+  "id": "peter-richerson",
+  "nome": "Peter Richerson",
+  "periodo": "1943–presente",
+  "disciplinas": [
+    "Antropologia evolutiva",
+    "Evolução cultural"
+  ],
+  "resumo": "Ecólogo que, com Robert Boyd, criou modelos matemáticos de evolução cultural e defendeu que o clima do Pleistoceno favoreceu o aprendizado social.",
+  "bio": [
+    "Peter Richerson é professor emérito de Ciência e Política Ambiental na Universidade da Califórnia em Davis. Começou a carreira como ecólogo, estudando ecossistemas aquáticos, e foi dessa formação em dinâmica de populações e modelagem que veio sua abordagem à cultura: tratá-la como um sistema de herança com regras próprias, que pode ser descrito com a mesma matemática usada para genes. Essa guinada resultou numa das parcerias mais duradouras da ciência social evolutiva, com o antropólogo Robert Boyd, com quem escreveu ao longo de décadas.",
+    "Richerson é um dos fundadores da chamada teoria da herança dupla (dual inheritance theory), segundo a qual o comportamento humano resulta da interação entre dois sistemas evolutivos, o genético e o cultural, que podem reforçar um ao outro (coevolução gene-cultura). Em Culture and the Evolutionary Process (1985), escrito com Boyd, a transmissão cultural é formalizada em modelos matemáticos. Nessa linguagem, perguntas antes vagas, como por que as pessoas copiam os outros e o que acontece quando copiam de certas maneiras, passam a ter respostas testáveis.",
+    "Uma contribuição própria de Richerson, desenvolvida com Boyd, foi a hipótese de que a instabilidade climática do Pleistoceno, com oscilações rápidas de temperatura ao longo de centenas de milhares de anos, favoreceu a evolução de uma capacidade ampliada de aprender socialmente. Em ambientes que mudam rápido, aprender com os outros é mais barato do que redescobrir tudo por conta própria. Outro de seus temas é a hipótese dos instintos sociais tribais: a evolução cultural teria moldado, em populações humanas, predisposições psicológicas para reconhecer o próprio grupo, seguir suas normas e punir quem as viola, o que torna possível a cooperação em larga escala. Em obras posteriores, aplicou essas ideias à tecnologia, à linguagem, à religião e à história das instituições.",
+    "O legado de Richerson é ter ajudado a tornar a cultura um objeto legítimo de explicação evolutiva e quantitativa, abrindo caminho para pesquisadores como Joseph Henrich. As críticas vêm de lados opostos: psicólogos evolucionistas acham que o peso dado à cultura subestima mecanismos psicológicos inatos, enquanto antropólogos interpretativos veem nos modelos uma simplificação excessiva da vida cultural. Há também discussão sobre quanto a seleção entre grupos culturais, defendida por ele, explica a cooperação em comparação com mecanismos individuais."
+  ],
+  "tags": [
+    "Matemática",
+    "Modelagem evolutiva",
+    "Teórico"
+  ],
+  "influencias": [
+    "robert-boyd"
+  ],
+  "obras": [
+    {
+      "ano": "1985",
+      "titulo": "Culture and the Evolutionary Process (com R. Boyd)",
+      "link": ""
+    },
+    {
+      "ano": "2000",
+      "titulo": "Climate, Culture, and the Evolution of Cognition (com R. Boyd)",
+      "link": ""
+    },
+    {
+      "ano": "2005",
+      "titulo": "Not by Genes Alone: How Culture Transformed Human Evolution (com R. Boyd)",
+      "link": ""
+    },
+    {
+      "ano": "2013",
+      "titulo": "Cultural Evolution: Society, Technology, Language, and Religion (org., com M. H. Christiansen)",
+      "link": ""
+    }
+  ]
+}

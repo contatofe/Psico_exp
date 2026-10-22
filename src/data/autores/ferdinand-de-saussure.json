@@ -1,0 +1,38 @@
+{
+  "id": "ferdinand-de-saussure",
+  "nome": "Ferdinand de Saussure",
+  "periodo": "1857–1913",
+  "disciplinas": [
+    "Comunicação simbólica"
+  ],
+  "resumo": "Linguista suíço cuja ideia de língua como sistema de signos, feitos de significante e significado, fundou a linguística moderna e o estruturalismo.",
+  "bio": [
+    "Ferdinand de Saussure nasceu em Genebra, em 1857, em uma família de cientistas. Estudou em Leipzig e Berlim e, aos 21 anos, publicou a Mémoire sur le système primitif des voyelles dans les langues indo-européennes, que propôs reconstruir elementos do proto-indo-europeu por análise estrutural. A hipótese foi confirmada décadas depois, após a decifração do hitita. Ele lecionou em Paris, de 1881 a 1891, e depois na Universidade de Genebra, onde morreu em 1913.",
+    "Saussure quase não publicou em vida a teoria que o tornou famoso. O Cours de linguistique générale (1916) foi montado por seus alunos Charles Bally e Albert Sechehaye a partir de anotações de três cursos dados em Genebra entre 1907 e 1911. Nele, o signo linguístico aparece como a união de um significante, a imagem acústica, e de um significado, o conceito. A relação entre eles é arbitrária, isto é, não há motivo natural para que a sequência de sons usada em português para árvore designe esse conceito, o que explica a variedade entre línguas.",
+    "O valor de cada signo, segundo Saussure, vem das diferenças em relação aos demais signos do sistema, e não de uma correspondência direta com as coisas. Ele distinguiu a língua (langue), sistema social e abstrato compartilhado pela comunidade, da fala (parole), uso individual e concreto. Distinguiu também a análise sincrônica, que descreve a língua em um momento, da diacrônica, que acompanha sua mudança no tempo. Propôs ainda uma ciência geral dos signos, que chamou de semiologia, da qual a linguística seria uma parte.",
+    "O Cours inspirou o estruturalismo na linguística, com Roman Jakobson, e nas ciências humanas, com Lévi-Strauss e Roland Barthes. Foi criticado por separar língua e fala e por deixar de fora a variação e a mudança em curso, que Labov e a sociolinguística colocaram no centro. Noam Chomsky substituiu a ideia de um sistema social por uma competência mental individual. Ainda assim, a visão de que a língua é um sistema de categorias mantém influência sobre estudos de linguagem e cognição."
+  ],
+  "tags": [
+    "Linguística",
+    "Teórico",
+    "Histórico-comparativo"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1879",
+      "titulo": "Mémoire sur le système primitif des voyelles dans les langues indo-européennes",
+      "link": ""
+    },
+    {
+      "ano": "1916",
+      "titulo": "Cours de linguistique générale",
+      "link": ""
+    },
+    {
+      "ano": "1922",
+      "titulo": "Recueil des publications scientifiques de Ferdinand de Saussure",
+      "link": ""
+    }
+  ]
+}

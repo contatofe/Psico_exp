@@ -1,0 +1,20 @@
+{
+  "name": "mapa-psicoexp",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/checar.mjs && vite build",
+    "preview": "vite preview",
+    "checar": "node scripts/checar.mjs",
+    "fotos": "sh scripts/fotos.sh"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.5"
+  }
+}

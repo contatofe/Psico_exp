@@ -1,0 +1,42 @@
+{
+  "id": "marshall-mcluhan",
+  "nome": "Marshall McLuhan",
+  "periodo": "1911–1980",
+  "disciplinas": [
+    "Educação e mídia"
+  ],
+  "resumo": "Teórico canadense da comunicação que argumentou que as tecnologias de mídia moldam a percepção e a sociedade mais do que o conteúdo que transmitem.",
+  "bio": [
+    "Marshall McLuhan nasceu em Edmonton, no Canadá, em 1911, e formou-se em literatura inglesa, com doutorado em Cambridge, em 1943. Lecionou na Universidade de Toronto a partir de 1946 e dirigiu, a partir de 1963, o Centro de Cultura e Tecnologia. Não era psicólogo, mas seu trabalho entrou no debate sobre cognição por afirmar que tecnologias de comunicação reorganizam a atenção, os sentidos e as formas de pensar. Começou analisando propaganda e cultura popular em The Mechanical Bride (1951).",
+    "Em The Gutenberg Galaxy (1962), argumentou que a imprensa, ao difundir textos uniformes e lidos em silêncio, favoreceu uma cultura linear e visual, com efeitos sobre o individualismo, o nacionalismo e a especialização, enquanto as mídias eletrônicas trariam de volta formas mais simultâneas e participativas de experiência. Em Understanding Media (1964), apresentou as mídias como extensões do corpo: o livro e a roda ampliam o olho e o pé, e as mídias elétricas ampliam o sistema nervoso. Sua tese mais célebre, a de que o meio é a mensagem, diz que o efeito de uma tecnologia vem de sua forma, escala e ritmo, e não apenas do que ela transmite. O exemplo que ele usava era a luz elétrica, que não tem conteúdo, mas transforma o que se pode fazer à noite.",
+    "McLuhan também propôs distinguir mídias quentes, que oferecem muita informação e pedem pouca participação, como o rádio, e mídias frias, que exigem que o público complete a mensagem, como a televisão. Popularizou a ideia de aldeia global. Com o designer Quentin Fiore, publicou The Medium is the Massage (1967), livro de forte apelo gráfico que o tornou uma celebridade. Seu trabalho dialoga com o do economista Harold Innis, que analisou como os meios de comunicação moldam impérios, e com estudos sobre oralidade e escrita, como os de Walter Ong.",
+    "McLuhan inaugurou a chamada ecologia das mídias, continuada por autores como Neil Postman, e suas perguntas voltaram com força nas discussões sobre internet, redes sociais e atenção. As críticas são frequentes: ele foi acusado de determinismo tecnológico, como fez Raymond Williams, de basear-se em aforismos e analogias com pouca evidência empírica, e de usar de modo inconsistente categorias como quente e frio. Suas afirmações sobre o equilíbrio entre os sentidos não foram sustentadas por pesquisas de psicologia experimental. Mesmo assim, sua obra ainda funciona como provocação para investigar como as ferramentas de comunicação transformam hábitos mentais. Faleceu em Toronto, em 1980."
+  ],
+  "tags": [
+    "Teórico",
+    "Histórico-comparativo"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1951",
+      "titulo": "The Mechanical Bride: Folklore of Industrial Man",
+      "link": ""
+    },
+    {
+      "ano": "1962",
+      "titulo": "The Gutenberg Galaxy: The Making of Typographic Man",
+      "link": ""
+    },
+    {
+      "ano": "1964",
+      "titulo": "Understanding Media: The Extensions of Man",
+      "link": ""
+    },
+    {
+      "ano": "1967",
+      "titulo": "The Medium is the Massage (com Quentin Fiore)",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gustav-fechner",
+  "nome": "Gustav Fechner",
+  "periodo": "1801–1887",
+  "disciplinas": [
+    "Psicofísica"
+  ],
+  "resumo": "Físico e filósofo alemão que fundou a psicofísica ao propor medir a relação entre estímulo físico e sensação, marco inicial da psicologia experimental.",
+  "bio": [
+    "Gustav Theodor Fechner (1801–1887) estudou medicina em Leipzig, mas se dedicou à física, área em que traduziu textos franceses e fez experimentos sobre corrente elétrica, tornando-se professor de física em Leipzig em 1834. Por volta de 1839, uma crise de saúde, associada aos estudos sobre pós-imagens em que ele olhou para o Sol e danificou a visão, o afastou do trabalho por alguns anos. Ao se recuperar, voltou-se a questões filosóficas, entre elas a relação entre corpo e mente, que o ocupou pelo resto da vida.",
+    "Segundo seu próprio relato, a ideia central lhe ocorreu na manhã de 22 de outubro de 1850, data que psicofísicos ainda lembram como o Dia de Fechner: se não se pode medir a sensação diretamente, pode-se medi-la por meio do estímulo físico que a provoca. Em Elemente der Psychophysik (1860), ele partiu da lei de Weber, segundo a qual a menor diferença perceptível entre dois estímulos é uma proporção constante do estímulo inicial, e assumiu que cada diferença apenas perceptível corresponde a um mesmo pequeno aumento de sensação. Somando esses passos, concluiu que a intensidade da sensação cresce com o logaritmo da intensidade do estímulo (S = k log I): para a sensação aumentar em passos iguais, o estímulo precisa aumentar em proporções iguais. Fechner sistematizou também os métodos que sustentaram a psicofísica por mais de um século: o dos limites, o dos estímulos constantes e o do erro médio, usados para estimar limiares de detecção.",
+    "Fechner aplicou seu método ao que chamou de estética experimental. Em Vorschule der Ästhetik (1876), testou em pessoas comuns, por escolhas entre retângulos, se havia preferência pela proporção áurea. Sua metafísica, porém, era muito diferente do seu rigor de laboratório: defendia o panpsiquismo, a ideia de que a consciência está presente em toda a natureza, tema de Zend-Avesta (1851). O trabalho psicofísico influenciou Wilhelm Wundt, que abriu em Leipzig, em 1879, o laboratório geralmente considerado o marco da psicologia experimental, e Hermann Ebbinghaus, e Freud reconheceu a influência de ideias de Fechner sobre prazer e desprazer.",
+    "A psicofísica de Fechner permanece como base da medição de limiares em visão, audição e outros sentidos, embora a teoria de detecção de sinais, desenvolvida no século XX, tenha questionado a ideia de um limiar fixo. Sua lei logarítmica é criticada por depender de uma suposição não testada, a de que as diferenças apenas perceptíveis são unidades iguais de sensação, e foi em parte substituída pela lei de potência de S. S. Stevens, que descreve melhor dados obtidos com estimativas diretas de magnitude. Ainda assim, a proposta de tornar mente e mundo físico comparáveis por medidas é o gesto fundador da psicologia quantitativa."
+  ],
+  "tags": [
+    "Experimental",
+    "Matemática",
+    "Filosofia da ciência"
+  ],
+  "influencias": [
+    "ernst-weber"
+  ],
+  "obras": [
+    {
+      "ano": "1851",
+      "titulo": "Zend-Avesta oder über die Dinge des Himmels und des Jenseits",
+      "link": ""
+    },
+    {
+      "ano": "1860",
+      "titulo": "Elemente der Psychophysik",
+      "link": ""
+    },
+    {
+      "ano": "1876",
+      "titulo": "Vorschule der Ästhetik",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "alan-hodgkin-e-andrew-huxley",
+  "nome": "Alan Hodgkin & Andrew Huxley",
+  "periodo": "1914–1998 / 1917–2012",
+  "disciplinas": [
+    "Neurociência"
+  ],
+  "resumo": "Dupla britânica que explicou, com experimentos no axônio de lula e um modelo matemático, como o neurônio gera e propaga o potencial de ação.",
+  "bio": [
+    "Alan Hodgkin (1914–1998) e Andrew Huxley (1917–2012) formaram uma parceria rara entre um fisiologista experimental e um pesquisador com formação em física e fisiologia, ambos ligados à Universidade de Cambridge. A pergunta que os movia era como o neurônio transmite um sinal elétrico ao longo do axônio sem que ele se enfraqueça. Em 1939, no laboratório marinho de Plymouth, registraram o potencial de ação com um eletrodo introduzido dentro de uma fibra nervosa e viram que o interior da célula chegava a ficar positivo em relação ao exterior, algo que as teorias da época não previam.",
+    "O trabalho decisivo veio depois da Segunda Guerra, entre 1947 e 1952, de novo no axônio gigante da lula, grosso o bastante para receber eletrodos. Usando a técnica de fixação de voltagem (voltage clamp), desenvolvida por Kenneth Cole e George Marmont, que mantém o potencial da membrana em um valor escolhido e mede a corrente que a atravessa, eles separaram a corrente de sódio (Na⁺) da de potássio (K⁺). Quando a membrana se despolariza, o sódio entra rapidamente; logo depois a entrada de sódio cessa e o potássio sai, restaurando o potencial de repouso. Em 1952 reuniram esses resultados em um sistema de equações diferenciais, com variáveis de porta (m, h e n) que descrevem a fração de canais abertos ou fechados em função da voltagem e do tempo. O modelo reproduziu a forma do potencial de ação e a velocidade de sua propagação com boa concordância com os dados.",
+    "Os cálculos foram feitos à mão, com uma calculadora mecânica, e cada potencial de ação simulado exigia dias de trabalho. Hodgkin colaborou ainda com Bernard Katz na demonstração do papel do sódio no potencial de ação, e Huxley, mais tarde, voltou-se ao músculo e propôs, com Rolf Niedergerke, o modelo dos filamentos deslizantes da contração muscular. Em 1963, a dupla dividiu o Nobel de Fisiologia ou Medicina com John Eccles, premiado por seus estudos sobre a transmissão sináptica.",
+    "O modelo de Hodgkin e Huxley é considerado o primeiro modelo biofísico quantitativo de um neurônio e a base da neurociência computacional: simuladores modernos ainda partem de suas equações. Os canais iônicos que eles apenas postularam foram depois isolados e estudados diretamente, com a técnica de patch clamp e com a determinação de suas estruturas moleculares. Como limitação, o modelo descreve um axônio de lula; neurônios de mamíferos têm muitos outros tipos de canais, e o comportamento de redes inteiras exige modelos bem mais complexos."
+  ],
+  "tags": [
+    "Experimental",
+    "Eletrofisiologia",
+    "Matemática",
+    "Computacional"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1939",
+      "titulo": "Action potentials recorded from inside a nerve fibre",
+      "link": ""
+    },
+    {
+      "ano": "1952",
+      "titulo": "A quantitative description of membrane current and its application to conduction and excitation in nerve",
+      "link": "https://doi.org/10.1113/jphysiol.1952.sp004764"
+    },
+    {
+      "ano": "1964",
+      "titulo": "The Conduction of the Nervous Impulse",
+      "link": ""
+    }
+  ]
+}

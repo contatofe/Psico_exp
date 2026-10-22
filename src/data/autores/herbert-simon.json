@@ -1,0 +1,45 @@
+{
+  "id": "herbert-simon",
+  "nome": "Herbert Simon",
+  "periodo": "1916–2001",
+  "disciplinas": [
+    "Economia comportamental"
+  ],
+  "resumo": "Introduziu a racionalidade limitada e o conceito de satisficing e foi pioneiro da inteligência artificial; Nobel de Economia em 1978.",
+  "bio": [
+    "Herbert Alexander Simon nasceu em Milwaukee, em 1916, doutorou-se em ciência política na Universidade de Chicago, em 1943, e passou a maior parte da carreira na Universidade Carnegie Mellon, de 1949 até a morte, em 2001. Interessado em como organizações decidem, publicou Administrative Behavior (1947), em que contestou a imagem do administrador onisciente e perfeitamente racional.",
+    "Para Simon, indivíduos têm informação incompleta e capacidade limitada de processamento, de modo que não otimizam: escolhem uma alternativa satisfatória, o que ele chamou de satisficing, junção de satisfy e suffice. Em 1955 e 1956, formalizou a racionalidade limitada: os decisores simplificam o problema, estabelecem níveis de aspiração e buscam alternativas até achar uma que os atinja. Mais tarde distinguiu a racionalidade substantiva, em que o resultado é ótimo, da racionalidade procedimental, em que o processo de decisão é razoável.",
+    "Nos anos 1950, com Allen Newell e Cliff Shaw, criou programas de computador que simulavam o raciocínio humano: o Logic Theorist (1956), que provou teoremas de lógica, e o General Problem Solver (1957), que comparava o estado atual de um problema com a meta e aplicava operações para reduzir a diferença. Em Human Problem Solving (1972), com Newell, descreveram a mente como um processador de informação que busca soluções em um espaço de estados. Estudos sobre xadrez, com William Chase (1973), indicaram que mestres percebem as posições em blocos (chunks). Newell e Simon receberam o Prêmio Turing em 1975.",
+    "Simon recebeu o Nobel de Economia em 1978 por suas pesquisas sobre o processo de decisão em organizações econômicas. Seu legado forneceu base para a economia comportamental e para as heurísticas de Kahneman e Tversky, embora estes tenham enfatizado erros sistemáticos e Simon, a adaptação ao ambiente. Gerd Gigerenzer desenvolveu a ideia de heurísticas rápidas e frugais. Entre as críticas, a economia dominante manteve a otimização como padrão, e o conceito de satisficing é considerado difícil de testar, pois depende do nível de aspiração adotado."
+  ],
+  "tags": [
+    "Computacional",
+    "Teórico",
+    "Matemática"
+  ],
+  "influencias": [
+    "allen-newell"
+  ],
+  "obras": [
+    {
+      "ano": "1947",
+      "titulo": "Administrative Behavior",
+      "link": ""
+    },
+    {
+      "ano": "1955",
+      "titulo": "A Behavioral Model of Rational Choice",
+      "link": ""
+    },
+    {
+      "ano": "1969",
+      "titulo": "The Sciences of the Artificial",
+      "link": ""
+    },
+    {
+      "ano": "1972",
+      "titulo": "Human Problem Solving (com Newell)",
+      "link": ""
+    }
+  ]
+}

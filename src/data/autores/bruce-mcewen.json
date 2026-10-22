@@ -1,0 +1,46 @@
+{
+  "id": "bruce-mcewen",
+  "nome": "Bruce McEwen",
+  "periodo": "1938–2020",
+  "disciplinas": [
+    "Endocrinologia do desenvolvimento"
+  ],
+  "resumo": "Neuroendocrinologista da Universidade Rockefeller que mostrou como hormônios do estresse moldam o cérebro e formulou o conceito de carga alostática.",
+  "bio": [
+    "Bruce McEwen (1938–2020) fez o doutorado na Universidade Rockefeller, em Nova York, em 1964, e passou a maior parte da carreira ali, à frente do Laboratório de Neuroendocrinologia. Sua pergunta era como os hormônios, produzidos pelas glândulas e carregados pelo sangue, agem sobre o cérebro e como o cérebro, por sua vez, controla esses hormônios. Até a década de 1960, imaginava-se o cérebro como um órgão que comandava as glândulas, mas era pouco estudado como alvo delas.",
+    "No fim dos anos 1960, McEwen mostrou que o hipocampo, região associada à memória, retém o hormônio do estresse (corticosterona, em ratos) e possui receptores para ele, o que indicava que o cérebro era também alvo dos hormônios. Ao longo de décadas, seu grupo mostrou que o estresse crônico faz retrair os dendritos, as ramificações dos neurônios que recebem sinais, em áreas do hipocampo e reduz a formação de novos neurônios, ao mesmo tempo em que amplia conexões na amígdala, ligada ao medo. Mostrou também que os hormônios sexuais, como o estrogênio, alteram a densidade de sinapses no hipocampo, o que o levou a estudar diferenças entre os sexos. O cérebro, concluiu, é plástico e remodelado pela experiência, para o bem e para o mal.",
+    "Em 1993, com Eliot Stellar, McEwen formalizou o conceito de carga alostática, a partir do termo alostase, proposto por Peter Sterling e Joseph Eyer em 1988. Alostase é a estabilidade obtida pela mudança: o corpo ajusta seus parâmetros, como pressão arterial e hormônios, às demandas do ambiente. Esse ajuste é útil no curto prazo, mas, quando os sistemas de resposta ficam ativados de forma repetida ou prolongada, sobrevém um desgaste cumulativo, a carga alostática, associado a doenças cardiovasculares, metabólicas e a transtornos como a depressão. Em 1998, resumiu no New England Journal of Medicine os efeitos protetores e danosos dos mediadores do estresse. McEwen também destacou que experiências precoces e desigualdades sociais podem aumentar essa carga ao longo da vida.",
+    "Entre seus alunos esteve Robert Sapolsky, com quem formulou a hipótese da cascata de glicocorticoides, segundo a qual o excesso prolongado do hormônio pode lesar neurônios do hipocampo e enfraquecer o próprio controle da resposta ao estresse. Como a literatura reconhece, parte dessas hipóteses foi revista, e a relação entre estresse, volume do hipocampo e doença psiquiátrica é mais complexa e varia entre indivíduos. Ainda assim, o conceito de carga alostática tornou-se uma referência para ligar estresse, cérebro e saúde."
+  ],
+  "tags": [
+    "Experimental",
+    "Modelagem animal",
+    "Teórico"
+  ],
+  "influencias": [
+    "walter-cannon",
+    "hans-selye"
+  ],
+  "obras": [
+    {
+      "ano": "1968",
+      "titulo": "Selective retention of corticosterone by limbic structures in rat brain",
+      "link": ""
+    },
+    {
+      "ano": "1993",
+      "titulo": "Stress and the individual: mechanisms leading to disease",
+      "link": ""
+    },
+    {
+      "ano": "1998",
+      "titulo": "Protective and damaging effects of stress mediators",
+      "link": ""
+    },
+    {
+      "ano": "2002",
+      "titulo": "The End of Stress as We Know It",
+      "link": ""
+    }
+  ]
+}

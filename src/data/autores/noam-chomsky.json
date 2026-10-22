@@ -1,0 +1,43 @@
+{
+  "id": "noam-chomsky",
+  "nome": "Noam Chomsky",
+  "periodo": "1928–presente",
+  "disciplinas": [
+    "Psicologia cognitiva"
+  ],
+  "resumo": "Linguista do MIT que propôs a gramática gerativa e a ideia de capacidade linguística inata, afastando a psicologia do behaviorismo.",
+  "bio": [
+    "Noam Chomsky nasceu na Filadélfia, em 1928, e doutorou-se pela Universidade da Pensilvânia, sob influência do linguista Zellig Harris, após um período como pesquisador júnior em Harvard. Leciona no MIT desde 1955 e, a partir de 2017, também na Universidade do Arizona. Sua questão central é como crianças, a partir de dados limitados e imperfeitos, adquirem uma língua com tanta rapidez e uniformidade, e como os falantes produzem e compreendem uma quantidade ilimitada de frases novas.",
+    "Em Syntactic Structures (1957), Chomsky tratou a língua como um conjunto infinito de frases geradas por um sistema finito de regras e mostrou que modelos que apenas encadeiam palavras segundo probabilidades, como os inspirados na teoria da informação, não dão conta de propriedades básicas da sintaxe. Sua frase-exemplo, sobre ideias verdes incolores que dormem furiosamente, é gramatical embora sem sentido, o que ilustra que gramaticalidade e significado ou probabilidade são coisas distintas. Ele também propôs uma hierarquia de gramáticas formais, que se tornou base da teoria de linguagens formais na ciência da computação, e, em Aspects of the Theory of Syntax (1965), distinguiu competência, o conhecimento implícito da língua, e desempenho, o uso concreto em situações reais.",
+    "Em 1959, publicou uma resenha do livro Verbal Behavior, de B. F. Skinner, que se tornou um marco na queda do behaviorismo na psicologia. Ele argumentou que conceitos como estímulo e reforço, rigorosos no laboratório com pombos e ratos, perdiam precisão quando aplicados à linguagem, e que o comportamento verbal humano é criativo demais para ser explicado por histórias de reforço. Propôs que os humanos têm uma predisposição biológica para a linguagem, a Gramática Universal, que restringe os tipos de língua que uma criança pode aprender. Nas décadas seguintes, a teoria passou por revisões, com o modelo de princípios e parâmetros, a partir dos anos 1980, e o Programa Minimalista, de 1995, e, em 2002, com Marc Hauser e Tecumseh Fitch, Chomsky sugeriu que a recursão seria o núcleo da capacidade exclusivamente humana de linguagem.",
+    "A influência de Chomsky sobre a linguística, a psicologia cognitiva e a ciência da computação é enorme, e inspirou psicolinguistas como Steven Pinker. A teoria também recebe críticas persistentes. Abordagens baseadas no uso, como a de Michael Tomasello, argumentam que as crianças aprendem a língua por mecanismos gerais de aprendizagem, e modelos estatísticos e redes neurais de linguagem mostram desempenho notável sem regras gramaticais explícitas. Outros apontam que a Gramática Universal foi reformulada tantas vezes que se torna difícil de testar. A resenha sobre Skinner também foi contestada, por exemplo por Kenneth MacCorquodale, que sustentou que ela não captava a posição real do autor."
+  ],
+  "tags": [
+    "Linguística",
+    "Matemática",
+    "Filosofia da ciência"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1957",
+      "titulo": "Syntactic Structures",
+      "link": ""
+    },
+    {
+      "ano": "1959",
+      "titulo": "A Review of B. F. Skinner's Verbal Behavior",
+      "link": "https://chomsky.info/1967____/"
+    },
+    {
+      "ano": "1965",
+      "titulo": "Aspects of the Theory of Syntax",
+      "link": ""
+    },
+    {
+      "ano": "1995",
+      "titulo": "The Minimalist Program",
+      "link": ""
+    }
+  ]
+}

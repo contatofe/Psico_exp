@@ -1,0 +1,40 @@
+{
+  "id": "lev-vygotsky",
+  "nome": "Lev Vygotsky",
+  "periodo": "1896–1934",
+  "disciplinas": [
+    "Psicologia do desenvolvimento"
+  ],
+  "resumo": "Psicólogo soviético que, em dez anos de carreira, mostrou que o pensamento se desenvolve pela mediação social e propôs a zona de desenvolvimento proximal.",
+  "bio": [
+    "Lev Semionovitch Vygotsky nasceu em 1896, em Orsha, na atual Bielorrússia, e cresceu em Gomel, numa família judaica. Estudou direito, história e filosofia em Moscou e deu aulas de literatura e psicologia antes de ir para o Instituto de Psicologia de Moscou, em 1924. Ali formou, com Alexander Luria e Alexei Leontiev, o grupo que fundou a escola histórico-cultural. Morreu de tuberculose em 1934, aos 37 anos, depois de uma carreira de apenas uma década, mas muito produtiva, que incluiu psicologia da arte, pedagogia e o estudo de crianças com deficiências.",
+    "A tese central de Vygotsky é que as funções mentais superiores, como atenção voluntária, memória lógica e formação de conceitos, nascem das relações sociais. Aparecem primeiro entre pessoas, em interação, e só depois são internalizadas pela criança. O que medeia essa passagem são instrumentos e signos, principalmente a linguagem. Ele se opôs a Piaget quanto à fala que as crianças dirigem a si mesmas durante atividades. Para Piaget, essa fala egocêntrica seria sinal de imaturidade e desapareceria. Para Vygotsky, é uma ferramenta de planejamento e solução de problemas, que se origina na comunicação social e se interioriza como fala interna, ou pensamento verbal. Ele relatou que essa fala aumenta quando a tarefa fica difícil, por exemplo quando surgem obstáculos durante um desenho.",
+    "Seu conceito mais conhecido é a zona de desenvolvimento proximal: a distância entre o que a criança consegue resolver sozinha e o que consegue resolver com a ajuda de um adulto ou de colegas mais experientes. Para ele, o bom ensino se dirige ao que está amadurecendo, e não apenas ao que já foi consolidado, e a avaliação deve considerar o potencial, além do desempenho independente. Defendeu também que o brinquedo, sobretudo de faz de conta, cria uma zona em que a criança age além de seu comportamento habitual, e que crianças com deficiência seguem caminhos de desenvolvimento diferentes, e não apenas deficitários, desde que recebam apoio adequado.",
+    "Na União Soviética, o trabalho foi censurado a partir de 1936, quando a pedologia foi proibida, e só voltou a circular amplamente nos anos 1950. No Ocidente, tornou-se conhecido com a edição inglesa de Pensamento e Linguagem, em 1962, com prefácio de Jerome Bruner, e com a coletânea Mind in Society, em 1978. Sua influência é grande em educação, em psicologia cultural e em teorias da aprendizagem situada. As críticas apontam que seus textos são fragmentários e foram publicados após a morte, em edições e traduções discutidas, que a zona de desenvolvimento proximal às vezes é usada de maneira vaga e que a teoria oferece poucos detalhes sobre mecanismos, e se baseia em um número limitado de estudos empíricos."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [
+    "jean-piaget",
+    "karl-marx"
+  ],
+  "obras": [
+    {
+      "ano": "1934",
+      "titulo": "Мышление и речь (Pensamento e linguagem)",
+      "link": ""
+    },
+    {
+      "ano": "1960",
+      "titulo": "История развития высших психических функций (História do desenvolvimento das funções psíquicas superiores)",
+      "link": ""
+    },
+    {
+      "ano": "1978",
+      "titulo": "Mind in Society: the development of higher psychological processes",
+      "link": ""
+    }
+  ]
+}

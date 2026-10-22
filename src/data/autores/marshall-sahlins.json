@@ -1,0 +1,45 @@
+{
+  "id": "marshall-sahlins",
+  "nome": "Marshall Sahlins",
+  "periodo": "1930–2021",
+  "disciplinas": [
+    "Antropologia"
+  ],
+  "resumo": "Antropólogo norte-americano que criticou explicações utilitárias, descreveu caçadores-coletores como sociedades de abundância e destacou o simbolismo.",
+  "bio": [
+    "Marshall Sahlins nasceu em Chicago, em 1930. Estudou na Universidade de Michigan, onde teve contato com o antropólogo Leslie White e com abordagens evolucionistas e materialistas, e doutorou-se em Columbia. Lecionou em Michigan e, depois, durante muitos anos, na Universidade de Chicago. Fez pesquisa de campo em Fiji e estudou a história do Havaí. Morreu em 2021.",
+    "Em Stone Age Economics (1972), reuniu ensaios que questionavam a imagem de que sociedades de caçadores-coletores viviam em penúria constante. Um deles, apresentado em um simpósio sobre caçadores-coletores em 1966, propôs a ideia de sociedade de abundância original: se as pessoas têm poucos desejos materiais e meios para satisfazê-los, não são pobres. Sahlins usou dados sobre grupos como os !Kung da África austral e aborígines australianos, que dedicavam poucas horas diárias à subsistência. Mais tarde, outros estudos questionaram a generalização, mas o texto continua a ser lido como crítica à ideia de que desenvolvimento econômico é medida universal de bem-estar. No mesmo livro, discutiu reciprocidade e troca em diferentes sociedades.",
+    "Seu livro seguinte, Culture and Practical Reason (1976), criticou explicações materialistas e utilitárias, incluindo o marxismo e o materialismo cultural de Marvin Harris, com quem manteve debate duradouro. Para Sahlins, a razão prática está sempre inserida em esquemas simbólicos, e a cultura precede e organiza a forma de interpretar interesses materiais. Em The Use and Abuse of Biology (1976), rejeitou a sociobiologia como explicação do comportamento social humano. Em Islands of History (1985), estudou o encontro entre havaianos e europeus e a morte do capitão Cook, mostrando como estruturas culturais e eventos históricos se influenciam. Esse trabalho gerou uma controvérsia com o antropólogo Gananath Obeyesekere, nos anos 1990.",
+    "Sahlins integra economia, cultura e história, com influência do estruturalismo de Lévi-Strauss, e sua obra é referência para quem discute a relação entre cultura e natureza humana, inclusive nas críticas à biologização do social. Críticos acham que ele minimiza a importância de fatores ecológicos e demográficos em explicações da variação cultural."
+  ],
+  "tags": [
+    "Etnográfico",
+    "Teórico",
+    "Histórico-comparativo"
+  ],
+  "influencias": [
+    "claude-levi-strauss"
+  ],
+  "obras": [
+    {
+      "ano": "1972",
+      "titulo": "Stone Age Economics",
+      "link": ""
+    },
+    {
+      "ano": "1976",
+      "titulo": "Culture and Practical Reason",
+      "link": ""
+    },
+    {
+      "ano": "1976",
+      "titulo": "The Use and Abuse of Biology",
+      "link": ""
+    },
+    {
+      "ano": "1985",
+      "titulo": "Islands of History",
+      "link": ""
+    }
+  ]
+}
