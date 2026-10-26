@@ -13,9 +13,10 @@ const MARCAS = Array.from({ length: (FIM - INICIO) / 20 + 1 }, (_, i) => INICIO 
 const ZOOM_PADRAO = 7, ZOOM_MIN = 2.5, ZOOM_MAX = 24;
 const limitar = z => Math.min(ZOOM_MAX, Math.max(ZOOM_MIN, z));
 
-function montar(px) {
+function montar(px, filtro) {
   const xDe = ano => (ano - INICIO) * px + FOLGA;
   const grupos = disciplinas
+    .filter(d => !filtro || d.id === filtro)
     .map(d => {
       const lista = d.autores.filter(a => a.disciplinas[0] === d.nome);
       const faixas = [];
@@ -36,9 +37,10 @@ function montar(px) {
 export default function Cronologia() {
   useTitulo('Cronologia');
   const [px, setPx] = useState(ZOOM_PADRAO);
+  const [filtro, setFiltro] = useState('');
   const moldura = useRef(null);
   const ancora = useRef(null);   // { ano, desvio }: o ano que deve continuar sob o mesmo ponto da tela
-  const { xDe, grupos, largura } = useMemo(() => montar(px), [px]);
+  const { xDe, grupos, largura } = useMemo(() => montar(px, filtro), [px, filtro]);
 
   // muda o zoom mantendo o ano sob o cursor (ou no centro da moldura)
   const zoom = (fator, clienteX) => {
@@ -74,13 +76,14 @@ export default function Cronologia() {
   return (
     <article className="pagina">
       <header className="cabeca">
-        <h1>Cronologia</h1>
+        <h1>Cronologia<span className="titulo-ponto">.</span></h1>
         <p className="lede">
           Cada barra é uma vida; cada ponto, uma obra-chave, de {INICIO} até hoje. Use o zoom para ver as
           décadas de perto ou o século inteiro.
         </p>
       </header>
 
+      <label className="campo crono-filtro"><span>Disciplina</span><select value={filtro} onChange={e => setFiltro(e.target.value)}><option value="">Todas as disciplinas</option>{disciplinas.filter(d => d.autores.some(a => a.disciplinas[0] === d.nome)).map(d => <option key={d.id} value={d.id}>{d.nome}</option>)}</select></label>
       <div className="crono-ferramentas" role="group" aria-label="Zoom da linha do tempo">
         <button type="button" onClick={() => zoom(1 / 1.35)} disabled={px <= ZOOM_MIN} aria-label="Reduzir zoom">−</button>
         <output aria-live="polite">{Math.round((px / ZOOM_PADRAO) * 100)}%</output>
@@ -89,7 +92,7 @@ export default function Cronologia() {
         <span className="crono-dica">Ctrl ou ⌘ + roda do mouse também funciona</span>
       </div>
 
-      <div className="crono-moldura" ref={moldura}>
+      <div className="crono-moldura" ref={moldura} tabIndex={0} aria-label="Linha do tempo. Use as setas para rolar.">
         <div className="crono" style={{ '--largura': largura + 'px' }}>
           <div className="crono-eixo">
             <div className="crono-rotulo">Disciplina</div>

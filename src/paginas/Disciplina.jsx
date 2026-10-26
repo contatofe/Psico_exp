@@ -1,11 +1,13 @@
 import { colunas, disciplinaPorNome, linhas } from '../lib/dados';
 import { link, useTitulo } from '../lib/rota';
 import { FiguraAutor } from '../componentes/Autor';
+import { Icone, Voltar } from '../componentes/Interface';
 
 export default function Disciplina({ disciplina: d }) {
   useTitulo(d.nome);
   return (
-    <article className="pagina">
+    <article className="pagina disciplina-pagina">
+      <Voltar />
       <header className={`pasta-disciplina col-${d.coluna}`}>
         <span className="aba aba-pasta"><b>{d.endereco}</b> {linhas[d.linha].nome} × {colunas[d.coluna].nome.toLowerCase()}</span>
         <div className="pasta-corpo">
@@ -40,8 +42,10 @@ export function ListaTeorias({ teorias, comDisciplina = false }) {
         <li key={t.id} className={`col-${disciplinaPorNome[t.disciplina].coluna}`} style={{ '--recuo': `${(i % 4) * 14}%` }}>
           <a href={link('teoria', t.id)}>
             <span className="lt-ano aba">{t.ano}</span>
+            <span className="lt-endereco">{disciplinaPorNome[t.disciplina].endereco}</span>
             <span className="lt-nome">{t.nome}<small>{t.autor}{comDisciplina && ` · ${t.disciplina}`}</small></span>
             {t.formula && <span className="lt-formula">{t.formula}</span>}
+            <Icone className="lt-seta" />
           </a>
         </li>
       ))}

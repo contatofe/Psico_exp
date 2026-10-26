@@ -9,13 +9,18 @@ const semMovimento = () => matchMedia('(prefers-reduced-motion: reduce)').matche
 export function useRota() {
   const [hash, setHash] = useState(location.hash);
   useEffect(() => {
+    let teclado = false;
+    const porTeclado = () => { teclado = true; };
+    const porPonteiro = () => { teclado = false; };
     const mudou = () => {
-      const aplicar = () => { flushSync(() => setHash(location.hash)); window.scrollTo(0, 0); };
-      if (document.startViewTransition && !semMovimento()) document.startViewTransition(aplicar);
+      const aplicar = () => { flushSync(() => setHash(location.hash)); window.scrollTo(0, 0); document.getElementById('conteudo')?.focus({ preventScroll: true }); };
+      if (document.startViewTransition && !semMovimento() && !teclado) document.startViewTransition(aplicar);
       else aplicar();
     };
+    addEventListener('keydown', porTeclado);
+    addEventListener('pointerdown', porPonteiro);
     addEventListener('hashchange', mudou);
-    return () => removeEventListener('hashchange', mudou);
+    return () => { removeEventListener('hashchange', mudou); removeEventListener('keydown', porTeclado); removeEventListener('pointerdown', porPonteiro); };
   }, []);
   return hash.replace(/^#\/?/, '').split('/').map(decodeURIComponent);
 }

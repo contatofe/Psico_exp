@@ -1,5 +1,6 @@
 import { disciplinaPorNome, iniciais } from '../lib/dados';
 import { link } from '../lib/rota';
+import { Icone } from './Interface';
 
 const colunaDe = autor => `col-${disciplinaPorNome[autor.disciplinas[0]].coluna}`;
 
@@ -16,7 +17,7 @@ export function Retrato({ autor, mini = false, className = '' }) {
   const palavras = autor.nome.replace(/ & | e /, ' & ').split(' ');
   // a maior palavra ocupa a largura útil da prancha (~0.47em por letra na condensada)
   const maior = Math.max(...palavras.map(p => p.length));
-  const tamanho = `${Math.min(26, 84 / (maior * 0.47)).toFixed(1)}cqi`;
+  const tamanho = `${Math.min(24, 84 / (maior * 0.62)).toFixed(1)}cqi`;
   return (
     <div className={`retrato sem-foto ${colunaDe(autor)} ${className}`} aria-hidden="true">
       {mini
@@ -28,8 +29,10 @@ export function Retrato({ autor, mini = false, className = '' }) {
 
 /** Prancha com legenda, usada nas grades de autores. */
 export function FiguraAutor({ autor }) {
+  const d = disciplinaPorNome[autor.disciplinas[0]];
   return (
-    <a className="figura-autor" href={link('autor', autor.id)}>
+    <a className={`figura-autor col-${d.coluna}`} href={link('autor', autor.id)}>
+      <span className="fa-aba"><b>{d.endereco}</b><Icone /></span>
       <Retrato autor={autor} />
       <span className="fa-legenda">
         <span className="fa-nome">{autor.nome}</span>

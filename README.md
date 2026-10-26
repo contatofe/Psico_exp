@@ -11,8 +11,9 @@ A ideia vem das quatro perguntas de Nikolaas Tinbergen e da abordagem multiníve
 
 | Página            | Endereço                 | O que mostra                                                          |
 | ----------------- | ------------------------ | --------------------------------------------------------------------- |
-| Início            | `#/`                     | Só o mapa: as disciplinas como pontos num gráfico de duas coordenadas |
-| Disciplina        | `#/disciplina/<id>`      | Endereço no mapa (ex.: C·01), descrição, autores e teorias            |
+| Início            | `#/`                     | Capa com o título e o fichário ilustrado                              |
+| Mapa              | `#/mapa`                 | As disciplinas como pontos num gráfico de duas coordenadas            |
+| Disciplina        | `#/disciplina/<id>`      | Endereço no mapa (ex.: C·02), descrição, autores e teorias            |
 | Autor             | `#/autor/<id>`           | Retrato grande, biografia, obras-chave, métodos, influências          |
 | Teoria            | `#/teoria/<id>`          | Fórmula (quando houver), explicação e autores                         |
 | Autores / Teorias | `#/autores`, `#/teorias` | Índices com filtro                                                    |

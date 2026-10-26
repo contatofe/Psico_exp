@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { autorPorId, disciplinaPorId, teoriaPorId } from './lib/dados';
 import { link, useRota, useTitulo } from './lib/rota';
 import { Busca } from './componentes/Busca';
-import Inicio from './paginas/Inicio';
+import Inicio, { PaginaMapa } from './paginas/Inicio';
 import Autores from './paginas/Autores';
 import Autor from './paginas/Autor';
 import Disciplina from './paginas/Disciplina';
@@ -10,13 +10,15 @@ import Teoria, { Teorias } from './paginas/Teoria';
 import Influencias from './paginas/Influencias';
 import Cronologia from './paginas/Cronologia';
 import Sobre from './paginas/Sobre';
+import { Icone } from './componentes/Interface';
 
-const MENU = [['', 'Mapa'], ['autores', 'Autores'], ['teorias', 'Teorias'], ['influencias', 'Rede'], ['cronologia', 'Cronologia'], ['sobre', 'Sobre']];
-const SECAO = { autor: 'autores', teoria: 'teorias', disciplina: '' };
+const MENU = [['mapa', 'mapa'], ['autores', 'autores'], ['teorias', 'teorias'], ['influencias', 'redes'], ['cronologia', 'crono'], ['sobre', 'sobre']];
+const SECAO = { autor: 'autores', teoria: 'teorias', disciplina: 'mapa' };
 
 function pagina(nome, id) {
   switch (nome) {
     case '': return <Inicio />;
+    case 'mapa': return <PaginaMapa key={id || 'todos'} coluna={id} />;
     case 'autores': return <Autores />;
     case 'teorias': return <Teorias />;
     case 'influencias': return <Influencias />;
@@ -33,7 +35,7 @@ function NaoEncontrada() {
   return (
     <div className="pagina nao-encontrada">
       <h1>Fora do mapa</h1>
-      <p className="lede">Este endereço não existe ou mudou. <a href="#/">Voltar ao mapa</a>.</p>
+      <p className="lede">Este endereço não existe ou mudou. <a href="#/mapa">Voltar ao mapa</a>.</p>
     </div>
   );
 }
@@ -44,8 +46,8 @@ export default function App() {
 
   useEffect(() => {
     const atalho = e => {
-      const digitando = /^(INPUT|SELECT|TEXTAREA)$/.test(e.target.tagName);
-      if (!digitando && (e.key === '/' || (e.key === 'k' && (e.metaKey || e.ctrlKey)))) {
+      const digitando = /^(INPUT|SELECT|TEXTAREA)$/.test(e.target.tagName) || e.target.isContentEditable;
+      if ((!digitando && e.key === '/') || (e.key.toLowerCase() === 'k' && (e.metaKey || e.ctrlKey))) {
         e.preventDefault();
         setBuscando(true);
       }
@@ -54,31 +56,38 @@ export default function App() {
     return () => removeEventListener('keydown', atalho);
   }, []);
 
+  useEffect(() => {
+    document.querySelector('.orelha[aria-current]')?.scrollIntoView({ block: 'nearest', inline: 'nearest' });
+  }, [nome]);
+
   return (
     <>
       <a className="pular" href="#conteudo" onClick={e => { e.preventDefault(); document.getElementById('conteudo').focus(); }}>
         Pular para o conteúdo
       </a>
+      <div className="masthead"><a href={link('')}>mapa multinível<span aria-hidden="true"> / </span><span>comportamento e cognição</span></a><span>arquivo aberto</span></div>
       <header className="topo">
         <nav className="abas" aria-label="Principal">
-          {/* por enquanto aponta para o mapa; depois será a home do projeto */}
-          <a className="aba aba-marca" href="#/" style={{ zIndex: MENU.length + 1 }}>Mapa Multinível</a>
-          {MENU.map(([rota, rotulo], i) => {
+          {[['', ''], ...MENU].map(([rota, rotulo], i) => {
             const atual = (SECAO[nome] ?? nome) === rota;
             return (
-              <a key={rotulo} className="aba" href={link(rota)} aria-current={atual ? 'page' : undefined}
-                style={atual ? undefined : { zIndex: MENU.length - i }}>{rotulo}</a>
+              <a key={rota} className="orelha" href={link(rota)} aria-current={atual ? 'page' : undefined}
+                aria-label={rota ? undefined : 'Início'} style={atual ? undefined : { zIndex: MENU.length - i }}>
+                {rotulo ? (atual ? '_' : '.') + rotulo : <span className="marca-capa">//</span>}
+              </a>
             );
           })}
         </nav>
         <button className="botao-busca" onClick={() => setBuscando(true)} aria-label="Buscar (atalho: /)">
-          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" /><path d="M13 13l4.5 4.5" /></svg>
+          <Icone nome="busca" /><span>buscar</span><kbd>/</kbd>
         </button>
       </header>
 
-      <main id="conteudo" tabIndex={-1} className="folha">
+      <main id="conteudo" tabIndex={-1} className={'folha' + (nome === '' ? ' folha-capa' : '')}>
         {pagina(nome, id) || <NaoEncontrada />}
       </main>
+
+      <footer className="rodape"><a href={link('')}>mapa multi_nível</a><a href={link('sobre')}>Como ler este mapa <Icone /></a></footer>
 
       {buscando && <Busca onFechar={() => setBuscando(false)} />}
     </>

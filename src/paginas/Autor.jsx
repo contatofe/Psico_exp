@@ -1,6 +1,7 @@
 import { autorPorId, disciplinaPorNome, idade, influenciou, teoriasDe } from '../lib/dados';
 import { link, useTitulo } from '../lib/rota';
 import { ChipAutor, EtiquetaDisciplina, Retrato } from '../componentes/Autor';
+import { Voltar } from '../componentes/Interface';
 
 export default function Autor({ autor }) {
   useTitulo(autor.nome);
@@ -13,13 +14,14 @@ export default function Autor({ autor }) {
   const suasTeorias = teoriasDe(autor.id);
 
   return (
-    <article className="ficha">
+    <article className={`ficha col-${principal.coluna}`}>
       <figure className="ficha-prancha">
         <Retrato autor={autor} />
         <figcaption>{autor.nome}, {autor.periodo}</figcaption>
       </figure>
 
       <div className="ficha-texto">
+        <Voltar para="autores">Todos os autores</Voltar>
         <header className="ficha-cabeca">
           <h1>{autor.nome}</h1>
           <p className="ficha-periodo">{autor.periodo}{idade(autor) && <> · {idade(autor)}</>}</p>
@@ -30,11 +32,11 @@ export default function Autor({ autor }) {
 
         {autor.resumo && <p className="ficha-resumo">{autor.resumo}</p>}
 
-        <div className="ficha-bio">
+        <div className="ficha-bio" id="biografia">
           {autor.bio.length ? autor.bio.map((p, k) => <p key={k}>{p}</p>) : <p className="pendente">Ficha em preparação.</p>}
         </div>
 
-        <dl className="ficha-dados">
+        <dl className="ficha-dados" id="obras-e-relacoes">
           {autor.obras.length > 0 && (
             <div>
               <dt>Obras-chave</dt>

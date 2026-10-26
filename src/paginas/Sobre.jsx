@@ -7,7 +7,7 @@ export default function Sobre() {
   return (
     <article className="pagina sobre">
       <header className="cabeca">
-        <h1>Como ler este mapa</h1>
+        <h1>Como ler<br />este mapa<span className="titulo-ponto">.</span></h1>
         <p className="lede">
           Um comportamento humano tem causas em várias escalas ao mesmo tempo. O mapa posiciona cada disciplina
           pelo tipo de causa que ela costuma investigar, em duas coordenadas.
@@ -18,7 +18,7 @@ export default function Sobre() {
         <section>
           <h2>Eixo vertical: escala temporal</h2>
           <p>Quanto tempo atrás está a causa.</p>
-          <ol>{[...linhas].reverse().map(l => <li key={l.num}><b>{l.num}</b> {l.nome}<small>{l.sub}</small></li>)}</ol>
+          <ol>{linhas.map(l => <li key={l.num}><b>{l.num}</b> {l.nome}<small>{l.sub}</small></li>)}</ol>
         </section>
         <section>
           <h2>Eixo horizontal: proximidade causal</h2>
@@ -30,7 +30,7 @@ export default function Sobre() {
       <div className="ficha-bio sobre-texto">
         <p>
           Cada disciplina recebe um endereço: a letra da coluna e o número da linha. Psicologia social, por exemplo,
-          fica em C·01, interação entre indivíduos na escala do desenvolvimento.
+          fica em C·02, interação entre indivíduos na escala do desenvolvimento.
         </p>
         <p>
           Só a célula carrega informação: dentro dela, a posição de cada ponto serve apenas para que eles não se

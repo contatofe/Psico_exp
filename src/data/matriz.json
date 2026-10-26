@@ -1,22 +1,22 @@
 {
   "linhas": [
     {
-      "num": "03",
+      "num": "00",
       "nome": "Evolutivo recente",
       "sub": "100 mil a 10 milhões de anos (evolução da espécie humana)"
     },
     {
-      "num": "02",
+      "num": "01",
       "nome": "Histórico/cultural",
       "sub": "1 mil a 100 mil anos (surgimento de culturas, escrita, instituições)"
     },
     {
-      "num": "01",
+      "num": "02",
       "nome": "Desenvolvimental",
       "sub": "Anos a décadas (desenvolvimento individual, aprendizado)"
     },
     {
-      "num": "00",
+      "num": "03",
       "nome": "Imediato",
       "sub": "segundos a minutos (processamento, interações)"
     }
