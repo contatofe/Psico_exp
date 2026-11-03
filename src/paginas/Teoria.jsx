@@ -50,16 +50,12 @@ export function Teorias() {
   const [disc, setDisc] = useState('');
   const ordenadas = teorias.filter(t => (!disc || t.disciplina === disc) && normalizar(`${t.nome} ${t.autor}`).includes(normalizar(q))).sort((a, b) => parseInt(a.ano) - parseInt(b.ano));
   return (
-    <article className="pagina teorias-pagina">
-      <header className="cabeca">
-        <h1>Teorias<span className="titulo-ponto">.</span></h1>
-        <p className="lede">{teorias.length} leis, modelos e hipóteses, da lei de Weber (1834) às explicações evolutivas.</p>
-      </header>
+    <article className="pagina pagina-indice teorias-pagina" aria-label="Teorias">
       <div className="filtros">
         <label className="campo campo-busca"><span>Teoria ou autor</span><div><Icone nome="busca" /><input type="search" placeholder="Encontrar uma teoria" value={q} onChange={e => setQ(e.target.value)} /></div></label>
         <label className="campo"><span>Disciplina</span><select value={disc} onChange={e => setDisc(e.target.value)}><option value="">Todas as disciplinas</option>{disciplinas.filter(d => d.teorias.length).map(d => <option key={d.id} value={d.nome}>{d.nome}</option>)}</select></label>
       </div>
-      <div className="resultado-barra"><span role="status">{ordenadas.length} de {teorias.length} teorias</span>{(q || disc) && <button className="botao-texto" onClick={() => { setQ(''); setDisc(''); }}>Limpar filtros</button>}</div>
+      {(q || disc) && <div className="resultado-barra"><button className="botao-texto" onClick={() => { setQ(''); setDisc(''); }}>Limpar filtros</button></div>}
       {ordenadas.length ? <ListaTeorias teorias={ordenadas} comDisciplina /> : <p className="vazio">Nenhuma teoria encontrada. Tente outro nome ou disciplina.</p>}
     </article>
   );

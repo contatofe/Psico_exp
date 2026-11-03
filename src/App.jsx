@@ -65,7 +65,6 @@ export default function App() {
       <a className="pular" href="#conteudo" onClick={e => { e.preventDefault(); document.getElementById('conteudo').focus(); }}>
         Pular para o conteúdo
       </a>
-      <div className="masthead"><a href={link('')}>mapa multinível<span aria-hidden="true"> / </span><span>comportamento e cognição</span></a><span>arquivo aberto</span></div>
       <header className="topo">
         <nav className="abas" aria-label="Principal">
           {[['', ''], ...MENU].map(([rota, rotulo], i) => {
@@ -79,15 +78,13 @@ export default function App() {
           })}
         </nav>
         <button className="botao-busca" onClick={() => setBuscando(true)} aria-label="Buscar (atalho: /)">
-          <Icone nome="busca" /><span>buscar</span><kbd>/</kbd>
+          <Icone nome="busca" />
         </button>
       </header>
 
       <main id="conteudo" tabIndex={-1} className={'folha' + (nome === '' ? ' folha-capa' : '')}>
         {pagina(nome, id) || <NaoEncontrada />}
       </main>
-
-      <footer className="rodape"><a href={link('')}>mapa multi_nível</a><a href={link('sobre')}>Como ler este mapa <Icone /></a></footer>
 
       {buscando && <Busca onFechar={() => setBuscando(false)} />}
     </>

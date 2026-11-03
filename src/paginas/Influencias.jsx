@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { autores, autorPorId, disciplinas } from '../lib/dados';
 import { link, useTitulo } from '../lib/rota';
-import { AlternarVista, Icone } from '../componentes/Interface';
+import { Icone } from '../componentes/Interface';
 
 // Layout calculado uma vez: um bloco por disciplina (ordenado por coluna da matriz),
 // autores em grade dentro do bloco, arestas como curvas de Bézier entre as caixas.
@@ -64,26 +64,16 @@ export default function Influencias() {
   useTitulo('Influências');
   const [hover, setHover] = useState(null);
   const [selecionado, setSelecionado] = useState('');
-  const [vista, setVista] = useState('rede');
   const foco = hover || selecionado;
-  const conexoes = selecionado ? arestas.filter(e => e.de === selecionado || e.para === selecionado) : arestas;
   const ligados = foco && new Set([foco, ...arestas.flatMap(e => e.de === foco ? [e.para] : e.para === foco ? [e.de] : [])]);
 
   return (
-    <article className="pagina">
-      <header className="cabeca">
-          <h1>Quem influenciou<br />quem<span className="titulo-ponto">.</span></h1>
-          <p className="lede">
-            {naRede.size} autores e {arestas.length} relações de influência documentadas. A seta vai de quem influenciou
-            para quem foi influenciado. Passe o mouse sobre um nome para destacar suas conexões; clique para abrir a ficha.
-          </p>
-      </header>
+    <article className="pagina pagina-indice" aria-label="Rede de influências">
       <div className="rede-ferramentas">
         <label className="campo"><span>Explorar as conexões de</span><select value={selecionado} onChange={e => setSelecionado(e.target.value)}><option value="">Todos os autores</option>{autores.filter(a => naRede.has(a.id)).map(a => <option key={a.id} value={a.id}>{a.nome}</option>)}</select></label>
-        <AlternarVista valor={vista} onChange={setVista} opcoes={[[ 'rede', 'Rede', 'mapa' ], [ 'lista', 'Relações', 'lista' ]]} />
       </div>
       <div className="rede-leitura" aria-live="polite">{foco ? <><strong>{autorPorId[foco].nome}</strong><span>{arestas.filter(e => e.para === foco).length} influências recebidas · {arestas.filter(e => e.de === foco).length} autores influenciados</span><a href={link('autor', foco)}>Abrir ficha <Icone /></a></> : <span>Selecione um autor ou passe o cursor sobre a rede para acompanhar suas conexões.</span>}</div>
-      {vista === 'rede' ? <div className="rede-moldura" tabIndex={0} aria-label="Rede de influências. Role horizontalmente para explorar.">
+      <div className="rede-moldura" tabIndex={0} aria-label="Rede de influências. Role horizontalmente para explorar.">
         <svg className="rede" viewBox={`-8 -8 ${LARGURA + 16} ${ALTURA + 16}`} role="img" aria-label="Rede de influências entre autores">
           <defs>
             <marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
@@ -113,7 +103,7 @@ export default function Influencias() {
             </a>
           ))}
         </svg>
-      </div> : <ul className="lista-relacoes">{conexoes.map(e => <li key={e.de + e.para}><a href={link('autor', e.de)}>{autorPorId[e.de].nome}</a><span aria-label="influenciou"><Icone /></span><a href={link('autor', e.para)}>{autorPorId[e.para].nome}</a></li>)}</ul>}
+      </div>
     </article>
   );
 }

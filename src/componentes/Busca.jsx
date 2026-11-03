@@ -35,7 +35,7 @@ export function Busca({ onFechar }) {
     if (e.key === 'ArrowUp' && i === 0) campo.current.focus();
     else itens[(i + (e.key === 'ArrowDown' ? 1 : -1) + itens.length) % itens.length].focus();
   };
-  return <dialog ref={dialogo} className="busca" aria-labelledby="busca-titulo" onClose={onFechar} onKeyDown={teclado} onClick={e => e.target === dialogo.current && dialogo.current.close()}>
+  return <dialog ref={dialogo} className="busca" aria-labelledby="busca-titulo" onCancel={onFechar} onKeyDown={teclado} onClick={e => e.target === dialogo.current && onFechar()}>
     <header className="busca-cabeca"><h2 id="busca-titulo">Buscar no arquivo</h2><button type="button" onClick={onFechar} aria-label="Fechar busca"><Icone nome="fechar" /></button></header>
     <div className="busca-campo"><Icone nome="busca" /><input ref={campo} autoFocus type="search" placeholder="Autor, teoria ou disciplina" value={q} aria-label="Buscar" onChange={e => setQ(e.target.value)} onKeyDown={e => e.key === 'Enter' && resultados[0] && abrir(resultados[0].href)} /></div>
     {termos.length ? <>

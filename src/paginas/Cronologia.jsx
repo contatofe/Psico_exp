@@ -74,15 +74,7 @@ export default function Cronologia() {
   }, []);
 
   return (
-    <article className="pagina">
-      <header className="cabeca">
-        <h1>Cronologia<span className="titulo-ponto">.</span></h1>
-        <p className="lede">
-          Cada barra é uma vida; cada ponto, uma obra-chave, de {INICIO} até hoje. Use o zoom para ver as
-          décadas de perto ou o século inteiro.
-        </p>
-      </header>
-
+    <article className="pagina pagina-indice" aria-label="Cronologia">
       <label className="campo crono-filtro"><span>Disciplina</span><select value={filtro} onChange={e => setFiltro(e.target.value)}><option value="">Todas as disciplinas</option>{disciplinas.filter(d => d.autores.some(a => a.disciplinas[0] === d.nome)).map(d => <option key={d.id} value={d.id}>{d.nome}</option>)}</select></label>
       <div className="crono-ferramentas" role="group" aria-label="Zoom da linha do tempo">
         <button type="button" onClick={() => zoom(1 / 1.35)} disabled={px <= ZOOM_MIN} aria-label="Reduzir zoom">−</button>
