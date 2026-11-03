@@ -1,0 +1,48 @@
+{
+  "id": "ernst-fehr",
+  "nome": "Ernst Fehr",
+  "periodo": "1956–presente",
+  "disciplinas": [
+    "Economia comportamental"
+  ],
+  "resumo": "Mostrou com experimentos que preferências sociais, como equidade, reciprocidade e punição altruísta, sustentam a cooperação humana.",
+  "bio": [
+    "Ernst Fehr, nascido em 1956, na Áustria, é professor de economia da Universidade de Zurique e doutorou-se na Universidade de Viena. Sua pergunta central é por que humanos cooperam com estranhos, punem quem viola normas e se importam com equidade, comportamentos que o modelo do agente puramente egoísta não prevê.",
+    "Fehr usa jogos experimentais com dinheiro real. No jogo do ultimato, introduzido por Güth e colegas em 1982, um proponente divide uma quantia e o respondente aceita ou rejeita a oferta; se rejeita, ninguém recebe nada. O modelo egoísta prevê que qualquer oferta positiva seja aceita, mas ofertas baixas costumam ser rejeitadas. Fehr e colaboradores observaram padrões parecidos em muitos contextos, inclusive em jogos de troca de presentes, nos quais trabalhadores respondem a salários mais altos com mais esforço, mesmo sem punição para quem trabalha pouco.",
+    "Em 1999, com Klaus Schmidt, formulou um modelo de aversão à desigualdade: cada pessoa se importa com o próprio ganho e com a diferença em relação aos outros, e se incomoda mais em ficar atrás do que em ficar à frente. Para dois jogadores:\nU_i = x_i − α_i max(x_j − x_i, 0) − β_i max(x_i − x_j, 0)\ncom α_i ≥ β_i. O modelo explica as rejeições no ultimato. Com Simon Gächter, mostrou em 2000 e 2002 que, em jogos de bens públicos, a possibilidade de punir quem contribui pouco, mesmo com custo para quem pune e sem benefício futuro, eleva a cooperação; chamaram o fenômeno de punição altruísta.",
+    "O grupo de Fehr também ligou comportamento social e biologia. Em 2004, Dominique de Quervain e colegas mostraram que punir quem violou uma norma ativa o estriado, região associada à recompensa. Em 2005, Michael Kosfeld e colegas mostraram que oxitocina administrada por via nasal aumenta a confiança em um jogo de investimento. Em 2006, estimulação magnética sobre o córtex pré-frontal dorsolateral direito reduziu a rejeição de ofertas injustas, sem mudar o julgamento de que eram injustas. Entre as críticas, estudos transculturais, como o de Herrmann, Thöni e Gächter (2008), encontraram punição dirigida a quem cooperava em algumas sociedades, e modelos baseados em intenções, como os de Rabin e de Falk e Fischbacher, oferecem explicações alternativas para a reciprocidade."
+  ],
+  "tags": [
+    "Experimental",
+    "Teoria dos jogos",
+    "Neuroimagem"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1999",
+      "titulo": "A theory of fairness, competition, and cooperation (com Schmidt)",
+      "link": ""
+    },
+    {
+      "ano": "2000",
+      "titulo": "Cooperation and punishment in public goods experiments (com Gächter)",
+      "link": ""
+    },
+    {
+      "ano": "2002",
+      "titulo": "Altruistic punishment in humans (com Gächter)",
+      "link": ""
+    },
+    {
+      "ano": "2004",
+      "titulo": "The neural basis of altruistic punishment (com de Quervain et al.)",
+      "link": ""
+    },
+    {
+      "ano": "2005",
+      "titulo": "Oxytocin increases trust in humans (com Kosfeld et al.)",
+      "link": ""
+    }
+  ]
+}

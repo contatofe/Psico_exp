@@ -1,0 +1,42 @@
+{
+  "id": "michel-foucault",
+  "nome": "Michel Foucault",
+  "periodo": "1926–1984",
+  "disciplinas": [
+    "História cultural"
+  ],
+  "resumo": "Filósofo francês que mostrou como saber, poder e instituições como a prisão e o hospício produzem o que tomamos por normal.",
+  "bio": [
+    "Michel Foucault nasceu em Poitiers, na França, em 1926, formou-se em filosofia e psicologia e transitou entre a filosofia, a história e a crítica das ciências humanas. Em 1970 assumiu no Collège de France a cadeira de História dos Sistemas de Pensamento, onde lecionou até sua morte, em 1984. Sua pergunta era como certos saberes e práticas, como a psiquiatria ou a criminologia, se formaram e passaram a definir o que é normal ou anormal, sadio ou doente.",
+    "Em \"História da loucura\", de 1961, Foucault investigou como a sociedade europeia tratou a loucura desde a Idade Média até o início do século XIX, mostrando que a ideia de doença mental e a prática do asilo surgiram em condições históricas específicas. Em \"As palavras e as coisas\", de 1966, aplicou o que chamou de arqueologia: o estudo das regras que, em cada época, determinam o que pode ser dito e pensado em campos como a biologia, a economia e a linguagem.",
+    "A partir dos anos 1970, passou ao método genealógico e à análise do poder. Em \"Vigiar e punir\", de 1975, descreveu a passagem do castigo público e corporal para a disciplina das prisões, escolas, hospitais e quartéis, que controlam por meio da vigilância, do exame e do treino do corpo, e usou o modelo arquitetônico do panóptico, projetado por Jeremy Bentham, como imagem desse poder. Para ele, o poder não é apenas repressivo: produz saberes, categorias e sujeitos, e saber e poder se implicam mutuamente. Em \"História da sexualidade\", cujo primeiro volume é de 1976, estendeu essa análise às formas de falar do sexo e discutiu o biopoder, a gestão da vida das populações.",
+    "Foucault influenciou a história, a sociologia, a antropologia, os estudos de gênero e a crítica da psicologia e da psiquiatria, ao sugerir que as ciências do humano participam da construção dos sujeitos que estudam. Historiadores questionaram a precisão de alguns de seus relatos, em especial sobre a loucura, e outros criticaram a ausência de uma base normativa clara para sua crítica. Seus conceitos, porém, continuam entre os mais usados para analisar relações entre conhecimento e poder."
+  ],
+  "tags": [
+    "Teórico",
+    "Histórico-comparativo"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1961",
+      "titulo": "Histoire de la folie à l'âge classique",
+      "link": ""
+    },
+    {
+      "ano": "1966",
+      "titulo": "Les mots et les choses",
+      "link": ""
+    },
+    {
+      "ano": "1975",
+      "titulo": "Surveiller et punir",
+      "link": ""
+    },
+    {
+      "ano": "1976",
+      "titulo": "Histoire de la sexualité I: La volonté de savoir",
+      "link": ""
+    }
+  ]
+}

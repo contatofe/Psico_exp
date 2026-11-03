@@ -1,0 +1,45 @@
+{
+  "id": "robert-sapolsky",
+  "nome": "Robert Sapolsky",
+  "periodo": "1957–presente",
+  "disciplinas": [
+    "Endocrinologia do desenvolvimento"
+  ],
+  "resumo": "Neuroendocrinologista de Stanford que une laboratório e trabalho de campo com babuínos para explicar como o estresse afeta cérebro e comportamento.",
+  "bio": [
+    "Robert Sapolsky nasceu em Nova York, em 1957, estudou antropologia em Harvard e fez o doutorado em neuroendocrinologia na Universidade Rockefeller, sob orientação de Bruce McEwen. Trabalha na Universidade Stanford, onde é professor de biologia, neurologia e neurocirurgia. Desde o fim dos anos 1970, passa parte de cada ano no Quênia, estudando um grupo de babuínos selvagens e alternando o trabalho de campo com análises hormonais em laboratório, combinação incomum que marcou sua carreira. Recebeu uma bolsa MacArthur em 1987.",
+    "Sua pergunta central é como o estresse afeta o corpo e o cérebro. Em laboratório, com McEwen e Lawrence Krey, propôs em 1986 a hipótese da cascata de glicocorticoides: níveis altos e persistentes do hormônio do estresse podem danificar neurônios do hipocampo, o que reduz a capacidade de frear a própria resposta ao estresse e perpetua o excesso hormonal. No campo, coletava sangue dos babuínos com dardos anestésicos e relacionava os níveis de cortisol à posição social e ao temperamento. Os resultados mostraram que a relação entre hierarquia e estresse não é simples: depende da estabilidade da hierarquia, e machos capazes de distinguir ameaças reais de situações neutras, ou que dispõem de apoio social, tendem a ter níveis menores de cortisol. Os dados ilustram que estresse tem componente psicológico e social, e não apenas físico.",
+    "Sapolsky também estudou a cultura de um grupo de babuínos: após a morte de machos mais agressivos, em um episódio de tuberculose associada ao acesso a lixo de um hotel, o grupo passou a ter relações mais pacíficas por anos, mesmo com a chegada de novos machos, observação interpretada como indício de transmissão cultural. Tornou-se conhecido do grande público com livros como Why Zebras Don't Get Ulcers (1994), sobre estresse e saúde, A Primate's Memoir (2001), que narra sua vida entre os babuínos, e Behave (2017), em que examina a biologia do comportamento humano em escalas de tempo, de segundos antes de um ato até a evolução da espécie. Em Determined (2023), defende que o livre-arbítrio não existe.",
+    "A hipótese da cascata de glicocorticoides inspirou uma grande linha de pesquisa, embora sua formulação original tenha sido refinada por estudos que apontam efeitos mais complexos, que variam entre indivíduos e entre as regiões do cérebro. Sua posição sobre o livre-arbítrio, por sua vez, é contestada por filósofos e cientistas que defendem concepções compatibilistas. Seu legado combina pesquisa original em estresse com uma rara capacidade de divulgação científica."
+  ],
+  "tags": [
+    "Observacional",
+    "Trabalho de campo",
+    "Experimental"
+  ],
+  "influencias": [
+    "bruce-mcewen"
+  ],
+  "obras": [
+    {
+      "ano": "1986",
+      "titulo": "The neuroendocrinology of stress and aging: the glucocorticoid cascade hypothesis",
+      "link": ""
+    },
+    {
+      "ano": "1994",
+      "titulo": "Why Zebras Don't Get Ulcers",
+      "link": ""
+    },
+    {
+      "ano": "2017",
+      "titulo": "Behave: The Biology of Humans at Our Best and Worst",
+      "link": ""
+    },
+    {
+      "ano": "2023",
+      "titulo": "Determined: A Science of Life Without Free Will",
+      "link": ""
+    }
+  ]
+}

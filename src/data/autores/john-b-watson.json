@@ -1,0 +1,45 @@
+{
+  "id": "john-b-watson",
+  "nome": "John B. Watson",
+  "periodo": "1878–1958",
+  "disciplinas": [
+    "Análise Experimental do Comportamento"
+  ],
+  "resumo": "Fundador do behaviorismo metodológico: defendeu que a psicologia estudasse comportamento observável e conduziu o experimento do Pequeno Albert.",
+  "bio": [
+    "John Broadus Watson nasceu em 1878, na Carolina do Sul, e doutorou-se em psicologia na Universidade de Chicago em 1903, com pesquisa sobre aprendizagem em ratos. Em 1908 foi para a Universidade Johns Hopkins, onde dirigiu o laboratório de psicologia. Desconfiava de uma psicologia baseada em relatos introspectivos, em que a pessoa descreve as próprias experiências, porque outros pesquisadores não podiam verificá-los.",
+    "Em 1913 publicou “Psychology as the Behaviorist Views It”, conhecido como o manifesto behaviorista. Nele defendeu que a psicologia fosse uma ciência natural objetiva, com o comportamento observável como dado e a previsão e o controle como metas, deixando consciência e introspecção de fora. O programa, depois chamado de behaviorismo metodológico, orientou a psicologia norte-americana por décadas.",
+    "Em 1920, com a aluna Rosalie Rayner, realizou o experimento do Pequeno Albert, um bebê de cerca de nove meses. Albert foi exposto a um rato branco, a que inicialmente não reagia com medo, junto com um ruído forte produzido ao bater em uma barra de metal. Depois de algumas repetições, passou a chorar diante do rato e, em menor grau, de objetos parecidos, como um coelho e um casaco de pele, o que sugeria condicionamento e generalização de uma resposta emocional. O estudo é muito citado, mas criticado: envolveu uma única criança, não houve tentativa de desfazer o medo, pesquisadores levantaram dúvidas sobre a identidade da criança e sobre os procedimentos, e hoje seria eticamente inaceitável.",
+    "No livro Behaviorism (1924), Watson sustentou que o ambiente moldava o desenvolvimento humano muito mais do que a hereditariedade, tese que ele próprio admitiu extrapolar os dados disponíveis. Deixou a Hopkins em 1920, após um escândalo pessoal, e passou a trabalhar com publicidade, mas continuou a escrever, inclusive um manual de criação infantil, de 1928, que recomendava distanciamento afetivo dos pais e é hoje muito criticado. Seu legado foi deslocar a psicologia para o estudo do comportamento e abrir caminho para Skinner, embora o behaviorismo metodológico tenha sido superado em grande parte pela psicologia cognitiva."
+  ],
+  "tags": [
+    "Experimental",
+    "Filosofia da ciência"
+  ],
+  "influencias": [
+    "ivan-pavlov",
+    "edward-thorndike"
+  ],
+  "obras": [
+    {
+      "ano": "1913",
+      "titulo": "Psychology as the Behaviorist Views It",
+      "link": "https://psychclassics.yorku.ca/Watson/views.htm"
+    },
+    {
+      "ano": "1914",
+      "titulo": "Behavior: An Introduction to Comparative Psychology",
+      "link": ""
+    },
+    {
+      "ano": "1920",
+      "titulo": "Conditioned emotional reactions (com Rayner)",
+      "link": ""
+    },
+    {
+      "ano": "1924",
+      "titulo": "Behaviorism",
+      "link": ""
+    }
+  ]
+}

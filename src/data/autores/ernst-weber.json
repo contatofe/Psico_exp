@@ -1,0 +1,37 @@
+{
+  "id": "ernst-weber",
+  "nome": "Ernst Weber",
+  "periodo": "1795–1878",
+  "disciplinas": [
+    "Psicofísica"
+  ],
+  "resumo": "Fisiólogo alemão que mediu no tato e na percepção de pesos quanta diferença é preciso para notarmos uma mudança, base da lei que leva seu nome.",
+  "bio": [
+    "Ernst Heinrich Weber (1795–1878) foi professor de anatomia e fisiologia na Universidade de Leipzig por mais de meio século. Pertencia a uma família de cientistas: seus irmãos Wilhelm, físico, e Eduard, anatomista, colaboraram com ele em estudos sobre ondas e, em 1845, sobre a inibição do coração pelo nervo vago, resultado importante da fisiologia do século XIX. Sua pergunta própria, porém, era sobre os sentidos: como a sensação se relaciona com o que acontece na pele, nos músculos e nos órgãos dos sentidos?",
+    "Weber estudou o tato com procedimentos simples e sistemáticos. Em um dos mais conhecidos, tocava a pele de uma pessoa, de olhos fechados, com as duas pontas de um compasso e perguntava se ela sentia um ou dois pontos. A distância mínima necessária para que sentisse dois, o limiar de duas pontas, varia muito pelo corpo: é de poucos milímetros nas pontas dos dedos e muito maior nas costas. Com esses dados, produziu uma espécie de mapa da sensibilidade tátil. Estudou também a discriminação de pesos e de comprimentos de linhas e mostrou que a pessoa que levanta ativamente um peso o avalia melhor do que quando ele é simplesmente colocado sobre sua mão, indício de um sentido muscular, a percepção dos movimentos e esforços do próprio corpo.",
+    "Sua descoberta mais famosa é a de que a menor diferença que notamos entre dois estímulos, a diferença apenas perceptível, depende da proporção em relação ao estímulo de partida, e não da diferença absoluta. Por hipótese: se, segurando 100 gramas, só notamos a diferença quando se acrescentam cerca de 2 a 3 gramas, então com 1 quilo será preciso acrescentar cerca de 20 a 30. Weber não escreveu a fórmula ΔI/I = k, em que ΔI é o acréscimo necessário, I é a intensidade inicial e k é uma constante própria de cada sentido. Essa formulação foi dada por Gustav Fechner, que a chamou de lei de Weber e a usou como ponto de partida para criar a psicofísica.",
+    "O legado de Weber é tanto o resultado quanto o método: ele mostrou que a sensação podia ser estudada por experimentos controlados, com medidas repetíveis, o que abriu caminho à psicologia experimental. A lei, na forma simples, vale razoavelmente em intensidades médias de vários sentidos, mas falha nos extremos, perto do limiar e de intensidades muito altas, e a constante muda de um sentido para outro. Pesquisas posteriores refinaram a relação, e o trabalho de S. S. Stevens, no século XX, propôs descrições alternativas."
+  ],
+  "tags": [
+    "Experimental",
+    "Matemática"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1834",
+      "titulo": "De pulsu, resorptione, auditu et tactu: annotationes anatomicae et physiologicae",
+      "link": ""
+    },
+    {
+      "ano": "1846",
+      "titulo": "Der Tastsinn und das Gemeingefühl",
+      "link": ""
+    },
+    {
+      "ano": "1851",
+      "titulo": "Die Lehre vom Tastsinne und Gemeingefühle auf Versuche gegründet",
+      "link": ""
+    }
+  ]
+}

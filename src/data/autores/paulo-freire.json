@@ -1,0 +1,44 @@
+{
+  "id": "paulo-freire",
+  "nome": "Paulo Freire",
+  "periodo": "1921–1997",
+  "disciplinas": [
+    "Educação e mídia"
+  ],
+  "resumo": "Educador brasileiro que defendeu uma pedagogia dialógica e crítica, em que alfabetizar é também ler o mundo e agir sobre ele; sua obra é referência mundial.",
+  "bio": [
+    "Paulo Freire nasceu no Recife, em 1921, e viveu na infância as dificuldades econômicas da família durante a crise dos anos 1930, experiência que marcou sua visão sobre educação e desigualdade. Formou-se em direito, mas dedicou-se à educação: trabalhou no Serviço Social da Indústria (SESI) em Pernambuco, participou de iniciativas de cultura popular no Recife e, no início dos anos 1960, coordenou uma experiência de alfabetização de adultos em Angicos, no Rio Grande do Norte, que ficou famosa pela rapidez com que trabalhadores rurais aprenderam a ler. Com o golpe militar de 1964, foi preso, e exilou-se, passando pela Bolívia, pelo Chile, por Harvard e pelo Conselho Mundial de Igrejas, em Genebra. Voltou ao Brasil em 1980, lecionou na PUC de São Paulo e na Unicamp e foi secretário municipal de Educação de São Paulo entre 1989 e 1991.",
+    "Seu método parte da realidade de quem aprende. Em círculos de cultura, educadores e educandos escolhem palavras geradoras, retiradas do vocabulário e da vida do grupo, e discutem imagens da própria realidade. Aprender a ler a palavra e ler o mundo, afirma Freire, caminham juntos. Ele chamou de conscientização o processo pelo qual as pessoas passam a perceber as condições sociais que as moldam e a agir para transformá-las. Em Pedagogia do oprimido, escrito durante o exílio no Chile, criticou a educação bancária, em que o professor deposita conteúdos em alunos passivos que os memorizam, e propôs uma educação problematizadora, baseada no diálogo e na investigação conjunta, em que ninguém educa ninguém sozinho.",
+    "O livro circulou primeiro no exterior e só foi publicado no Brasil em 1974. Freire insistia na unidade entre reflexão e ação, a práxis, e dialogou com o marxismo, com o pensamento cristão e com a luta anticolonial. Em Pedagogia da esperança (1992), voltou ao livro anterior e reconheceu, por exemplo, o uso de linguagem excludente quanto ao gênero. Em Pedagogia da autonomia (1996), tratou da ética do ofício docente: respeitar os saberes dos educandos, alimentar a curiosidade, combinar rigor e afeto.",
+    "Freire é um dos autores de língua portuguesa mais citados no mundo e foi declarado Patrono da Educação Brasileira, em 2012. Sua obra influencia a educação popular, a pedagogia crítica e debates sobre aprendizagem como processo social, em diálogo com psicólogos como Vygotsky. Também recebeu críticas: a de que conceitos centrais, como conscientização, são pouco definidos, a de que faltam avaliações sistemáticas dos resultados de suas campanhas e a de que o texto é, por vezes, mais programático que empírico. No Brasil, tornou-se também alvo de disputas políticas. Faleceu em São Paulo, em 1997."
+  ],
+  "tags": [
+    "Teórico",
+    "Trabalho de campo"
+  ],
+  "influencias": [
+    "karl-marx"
+  ],
+  "obras": [
+    {
+      "ano": "1967",
+      "titulo": "Educação como prática da liberdade",
+      "link": ""
+    },
+    {
+      "ano": "1968",
+      "titulo": "Pedagogia do oprimido",
+      "link": ""
+    },
+    {
+      "ano": "1992",
+      "titulo": "Pedagogia da esperança",
+      "link": ""
+    },
+    {
+      "ano": "1996",
+      "titulo": "Pedagogia da autonomia",
+      "link": ""
+    }
+  ]
+}

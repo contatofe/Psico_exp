@@ -1,0 +1,40 @@
+{
+  "id": "edward-sapir",
+  "nome": "Edward Sapir",
+  "periodo": "1884–1939",
+  "disciplinas": [
+    "Antropologia"
+  ],
+  "resumo": "Linguista e antropólogo, aluno de Boas, pioneiro do estudo da linguagem em relação à cultura e à mente e inspirador da relatividade linguística.",
+  "bio": [
+    "Edward Sapir nasceu em 1884 na Pomerânia, hoje território polonês, e cresceu em Nova York. Estudou com Franz Boas na Universidade Columbia e doutorou-se em 1909. Trabalhou na Universidade da Pensilvânia, dirigiu a divisão de antropologia do Serviço Geológico do Canadá, em Ottawa, e lecionou em Chicago e, a partir de 1931, em Yale. Morreu em 1939, aos 54 anos.",
+    "Sapir documentou dezenas de línguas indígenas norte-americanas, como o navajo, o takelma, o yana e o paiute do sul, e ajudou a estabelecer métodos para compará-las e classificá-las em famílias. Seu livro Language (1921) é uma introdução clássica que trata a linguagem como forma de comportamento cultural, e não como algo biológico. Em artigos dos anos 1920 e 1930, defendeu a realidade psicológica do fonema: mesmo sem conhecer a teoria, os falantes percebem alguns sons como o mesmo, ignorando diferenças físicas que não importam em sua língua. Era um argumento sobre como a mente organiza o som.",
+    "Sapir interessou-se muito pela relação entre indivíduo, cultura e personalidade, e escreveu sobre como padrões culturais são aprendidos e aplicados sem que as pessoas se deem conta. Em seus textos sobre linguagem e pensamento, sugeriu que os hábitos da língua orientam como percebemos e interpretamos o mundo social. Essas ideias, desenvolvidas por seu aluno Benjamin Lee Whorf, ficaram conhecidas como hipótese Sapir-Whorf ou relatividade linguística, nome dado por estudiosos posteriores. Entre seus alunos estiveram também Mary Haas e Morris Swadesh.",
+    "Sapir é considerado um dos fundadores da antropologia linguística e da sociolinguística e uma influência indireta sobre a ciência cognitiva. A formulação forte da hipótese, em que a língua determinaria o pensamento, não se sustenta na literatura atual, e o próprio Sapir foi mais cauteloso do que a versão popularizada sugere."
+  ],
+  "tags": [
+    "Linguística",
+    "Teórico",
+    "Etnográfico"
+  ],
+  "influencias": [
+    "franz-boas"
+  ],
+  "obras": [
+    {
+      "ano": "1921",
+      "titulo": "Language: An Introduction to the Study of Speech",
+      "link": ""
+    },
+    {
+      "ano": "1929",
+      "titulo": "The Status of Linguistics as a Science",
+      "link": ""
+    },
+    {
+      "ano": "1949",
+      "titulo": "Selected Writings of Edward Sapir in Language, Culture and Personality",
+      "link": ""
+    }
+  ]
+}

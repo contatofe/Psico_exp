@@ -1,0 +1,45 @@
+{
+  "id": "david-laibson",
+  "nome": "David Laibson",
+  "periodo": "1966–presente",
+  "disciplinas": [
+    "Economia comportamental"
+  ],
+  "resumo": "Incorporou o desconto quase-hiperbólico (β–δ) à economia e explicou poupança insuficiente, dívida e consumo compulsivo pelo viés ao presente.",
+  "bio": [
+    "David Laibson é economista da Universidade Harvard, onde ocupa a cátedra Robert I. Goldman, e doutorou-se no MIT em 1994. Estuda por que as pessoas poupam pouco, acumulam dívidas caras e adiam decisões financeiras, combinando modelos matemáticos com dados reais de consumo e de planos de aposentadoria.",
+    "Experimentos de psicologia, como os de Rachlin, Ainslie e Herrnstein com animais e pessoas, mostraram que o valor de uma recompensa cai rapidamente com um pequeno atraso e mais devagar depois, padrão mais próximo de uma curva hiperbólica do que de uma exponencial. Isso gera inconsistência temporal: alguém pode preferir 100 reais hoje a 110 amanhã, mas, escolhendo com antecedência, preferir 110 em 31 dias a 100 em 30 dias; quando o dia chega, troca a decisão. Laibson incorporou o fenômeno a modelos econômicos tratáveis com uma forma simples, o desconto quase-hiperbólico (β–δ), proposto antes por Phelps e Pollak em outro contexto:\nU_t = u_t + β Σ δ^k u_{t+k}, com 0 < β ≤ 1\nem que β < 1 gera viés ao presente e δ é o desconto usual.",
+    "O artigo “Golden Eggs and Hyperbolic Discounting” (1997) mostra que consumidores com viés ao presente poupam menos do que planejam e valorizam mecanismos de compromisso, como ativos de difícil resgate. Com Andrea Repetto e Jeremy Tobacman, analisou dívida de cartão de crédito e poupança ao longo da vida. Com James Choi, Brigitte Madrian e Andrew Metrick, estudou como regras padrão (defaults) afetam a adesão a planos de poupança para aposentadoria, os 401(k) norte-americanos: a inscrição automática eleva muito a participação. Em 2001, propôs uma teoria do consumo movida por pistas, que explica o consumo compulsivo e a dependência pela ativação de desejos por estímulos associados.",
+    "Em 2004, com Samuel McClure, George Loewenstein e Jonathan Cohen, usou ressonância magnética funcional para mostrar que regiões límbicas respondem mais a recompensas imediatas, enquanto áreas do córtex pré-frontal lateral e parietal participam de todas as escolhas, o que liga o modelo β–δ à neurobiologia. Laibson também organizou, com Howard Rachlin, a coletânea dos artigos de Herrnstein publicada como The Matching Law (1997). Entre as críticas, discute-se se o desconto é de fato hiperbólico ou se há explicações alternativas, como incerteza e custos de transação, e as estimativas de desconto monetário variam muito entre estudos."
+  ],
+  "tags": [
+    "Matemática",
+    "Teórico"
+  ],
+  "influencias": [
+    "richard-herrnstein",
+    "howard-rachlin"
+  ],
+  "obras": [
+    {
+      "ano": "1997",
+      "titulo": "Golden Eggs and Hyperbolic Discounting",
+      "link": ""
+    },
+    {
+      "ano": "2001",
+      "titulo": "A cue-theory of consumption",
+      "link": ""
+    },
+    {
+      "ano": "2004",
+      "titulo": "Separate neural systems value immediate and delayed monetary rewards (com McClure, Loewenstein e Cohen)",
+      "link": ""
+    },
+    {
+      "ano": "2004",
+      "titulo": "For better or for worse: Default effects and 401(k) savings behavior (com Choi, Madrian e Metrick)",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "stanley-milgram",
+  "nome": "Stanley Milgram",
+  "periodo": "1933–1984",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Mostrou em laboratório que a maioria das pessoas comuns obedece a uma autoridade mesmo ao causar dor, e estudou também o mundo pequeno e a vida nas cidades.",
+  "bio": [
+    "Stanley Milgram nasceu em Nova York, em 1933, formou-se em ciência política no Queens College, em 1954, e doutorou-se em psicologia social em Harvard, em 1960, com Gordon Allport. Fez um pós-doutorado em Princeton com Solomon Asch e passou por Yale, onde conduziu seus experimentos de obediência, por Harvard e, a partir de 1967, pelo Centro de Pós-Graduação da Universidade da Cidade de Nova York. Morreu em 1984, de infarto, aos 51 anos. Sua pergunta era como pessoas comuns podem participar de atos cruéis, motivada em parte pelo julgamento de Adolf Eichmann.",
+    "No experimento, iniciado em 1961, o participante era designado como professor e deveria aplicar choques elétricos, de 15 a 450 volts, em um aluno, na verdade um ator, a cada erro em um teste de memória. O pesquisador, de jaleco cinza, instava-o a continuar sempre que ele hesitava. Na versão básica, 26 dos 40 participantes, ou 65%, foram até o choque máximo, embora muitos demonstrassem tensão. Milgram variou as condições: a obediência caiu quando a vítima estava mais próxima, quando a autoridade dava ordens por telefone, ou quando outros participantes se recusavam. Para explicar o resultado, propôs o estado agêntico, em que a pessoa se vê como executora da vontade de uma autoridade e deixa de se sentir responsável. A obra Obedience to Authority (1974) reuniu os resultados.",
+    "Milgram também estudou o problema do mundo pequeno. Com Jeffrey Travers (1969), pediu a pessoas em Nebraska e em Boston que fizessem uma carta chegar a um corretor de ações em Boston passando-a a conhecidos. Entre as cadeias que chegaram ao destino, o número mediano de intermediários ficou em torno de cinco a seis, origem da ideia popular de seis graus de separação. Criou ainda a técnica da carta perdida, para medir atitudes em comunidades, e escreveu sobre a sobrecarga de estímulos na vida urbana e sobre o estranho familiar, a pessoa que vemos todo dia sem nunca falar.",
+    "Os experimentos levantaram debate ético, em parte pelo sofrimento dos participantes, tema da crítica de Diana Baumrind (1964). Gina Perry (2012), com base em arquivos, apontou que o roteiro nem sempre foi seguido, que muitos participantes duvidaram da veracidade da situação e que a descrição pública dos procedimentos foi simplificada. Alexander Haslam e Stephen Reicher defendem que a obediência vinha de identificação com a causa científica, e não de submissão cega: a ordem direta era a que mais gerava recusa. Uma replicação parcial de Jerry Burger (2009), interrompida em 150 volts por razões éticas, encontrou taxas semelhantes às de Milgram. Quanto ao estudo do mundo pequeno, houve crítica à baixa taxa de cartas que completaram a cadeia."
+  ],
+  "tags": [
+    "Experimental",
+    "Trabalho de campo"
+  ],
+  "influencias": [
+    "solomon-asch"
+  ],
+  "obras": [
+    {
+      "ano": "1963",
+      "titulo": "Behavioral study of obedience",
+      "link": ""
+    },
+    {
+      "ano": "1969",
+      "titulo": "An experimental study of the small world problem (com Travers)",
+      "link": ""
+    },
+    {
+      "ano": "1970",
+      "titulo": "The experience of living in cities",
+      "link": ""
+    },
+    {
+      "ano": "1974",
+      "titulo": "Obedience to Authority: An Experimental View",
+      "link": ""
+    }
+  ]
+}

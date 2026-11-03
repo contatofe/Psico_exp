@@ -1,0 +1,45 @@
+{
+  "id": "henri-tajfel",
+  "nome": "Henri Tajfel",
+  "periodo": "1919–1982",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Criou a Teoria da Identidade Social e os experimentos de grupos mínimos, mostrando que categorizar pessoas em grupos já basta para gerar favoritismo.",
+  "bio": [
+    "Henri Tajfel nasceu em 1919 em Włocławek, na Polônia, e estudou na Sorbonne, em Paris. Durante a Segunda Guerra, serviu no exército francês, foi capturado pelos alemães em 1940 e passou anos como prisioneiro de guerra, ocultando sua origem judaico-polonesa para sobreviver. Grande parte de sua família morreu no Holocausto. Depois da guerra, trabalhou com refugiados e, em 1951, mudou-se para a Grã-Bretanha. Passou um ano em Harvard com Jerome Bruner (1957–58), lecionou em Oxford e, em 1967, assumiu a cátedra de psicologia social na Universidade de Bristol. Foi um dos fundadores da psicologia social europeia, com a Associação Europeia de Psicologia Social Experimental.",
+    "Sua pergunta era como o preconceito e o conflito entre grupos surgem. A resposta clássica de Muzafer Sherif apontava para competição por recursos. Tajfel testou o oposto: o que acontece quando não há conflito algum? Nos experimentos de grupos mínimos, publicados em 1971 com Michael Billig, Robert Bundy e Claude Flament, meninos de 14 e 15 anos de Bristol foram divididos em dois grupos com base em critérios triviais, como a preferência por um pintor ou outro. Depois, eles distribuíam pontos entre outros participantes, anônimos e identificados apenas pelo grupo. Mesmo sem contato, interesse pessoal ou história comum, os meninos tendiam a favorecer o próprio grupo, e muitas vezes preferiam maximizar a diferença entre os grupos a maximizar o ganho total. A simples categorização já produzia favoritismo.",
+    "Esses resultados levaram, com John Turner, à Teoria da Identidade Social (1979). Segundo ela, as pessoas constroem parte de sua autoimagem a partir dos grupos a que pertencem e buscam uma identidade social positiva ao comparar seu grupo com outros. Quando o grupo ocupa posição desvalorizada, há estratégias possíveis: tentar sair dele (mobilidade individual), redefinir critérios de comparação (criatividade social) ou competir pelo status (competição social). Em trabalho anterior com Wilkes (1963), mostrou também que classificar estímulos em categorias exagera as diferenças entre categorias, um processo que ele aplicou aos estereótipos.",
+    "A teoria é uma das mais influentes na psicologia dos grupos, mas recebeu críticas. A hipótese de que o favoritismo serve para elevar a autoestima teve apoio empírico irregular. Há também assimetrias: favorecer o próprio grupo é mais comum do que prejudicar o outro. Pesquisadores discutem ainda o quanto os resultados de grupos mínimos se transferem para conflitos reais, nos quais história, poder e interesses materiais pesam muito."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [
+    "muzafer-sherif",
+    "jerome-bruner"
+  ],
+  "obras": [
+    {
+      "ano": "1963",
+      "titulo": "Classification and quantitative judgement (com Wilkes)",
+      "link": ""
+    },
+    {
+      "ano": "1971",
+      "titulo": "Social categorization and intergroup behaviour (com Billig, Bundy e Flament)",
+      "link": ""
+    },
+    {
+      "ano": "1979",
+      "titulo": "An integrative theory of intergroup conflict (com Turner)",
+      "link": ""
+    },
+    {
+      "ano": "1981",
+      "titulo": "Human Groups and Social Categories",
+      "link": ""
+    }
+  ]
+}

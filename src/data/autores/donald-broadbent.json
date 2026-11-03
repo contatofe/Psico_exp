@@ -1,0 +1,42 @@
+{
+  "id": "donald-broadbent",
+  "nome": "Donald Broadbent",
+  "periodo": "1926–1993",
+  "disciplinas": [
+    "Psicologia cognitiva"
+  ],
+  "resumo": "Psicólogo britânico que, em Perception and Communication, aplicou a teoria da informação à atenção e abriu caminho para o modelo de processamento de informação.",
+  "bio": [
+    "Donald Broadbent nasceu em Birmingham, em 1926, e trabalhou na Unidade de Psicologia Aplicada (APU) do Conselho de Pesquisa Médica, em Cambridge, que dirigiu de 1958 a 1974, e depois em Oxford. Seus problemas vinham da prática: pilotos, controladores de tráfego aéreo e operadores de rádio precisavam lidar com várias mensagens ao mesmo tempo, e as falhas custavam caro. Ele tomou emprestada a linguagem da engenharia de comunicações e da teoria da informação, de Claude Shannon, em que um canal transmite informação com capacidade limitada, e perguntou se a mente humana funcionava de modo semelhante.",
+    "Em experimentos de escuta dicótica, Broadbent apresentava três dígitos a um ouvido e, ao mesmo tempo, três outros ao outro. Os voluntários não recordavam os dígitos na ordem em que chegaram, mas por ouvido: primeiro os de um lado, depois os do outro. Com base nisso, e em tarefas de sombreamento como as de Colin Cherry, propôs em 1958 o modelo de filtro: a informação dos sentidos chega em paralelo e fica retida brevemente num armazenamento; um filtro seleciona uma fonte com base em características físicas, como o local ou o tom de voz, e deixa passar só ela para um canal de capacidade limitada que opera em série. O resto é bloqueado. Foi um dos primeiros diagramas de fluxo da cognição, em que caixas representam estágios e setas o fluxo de informação.",
+    "O modelo foi rapidamente testado. Neville Moray mostrou que pessoas percebem o próprio nome no canal ignorado, o que contraria o bloqueio total, e Anne Treisman propôs que o filtro apenas atenua. Outros defenderam que a seleção ocorre mais tarde, depois de a informação ser reconhecida. Broadbent revisou suas ideias, e em Decision and Stress (1971) estendeu a abordagem a decisão e estresse, estudando como ruído, calor e privação de sono alteram o desempenho. Com Dianne Berry, mostrou que as pessoas aprendem a controlar sistemas dinâmicos, como uma fábrica de açúcar simulada, sem conseguir descrever como o fazem, um achado importante para a pesquisa sobre aprendizagem implícita. Com colegas, criou também o Questionário de Falhas Cognitivas, de uso corrente para medir lapsos do dia a dia.",
+    "O legado de Broadbent está em ter dado à psicologia um modo de pensar a mente como sistema de processamento de informação com estágios, gargalos e limites de capacidade, e de ter mantido a ponte entre laboratório e aplicação, de painéis de aviões a ambientes de trabalho. Sua versão do filtro, rígida e precoce, não se sustentou diante dos dados, mas definiu as perguntas que a pesquisa de atenção passou a investigar nas décadas seguintes."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1952",
+      "titulo": "Listening to one of two synchronous messages",
+      "link": ""
+    },
+    {
+      "ano": "1958",
+      "titulo": "Perception and Communication",
+      "link": ""
+    },
+    {
+      "ano": "1971",
+      "titulo": "Decision and Stress",
+      "link": ""
+    },
+    {
+      "ano": "1982",
+      "titulo": "The Cognitive Failures Questionnaire (CFQ) and its correlates (com Cooper, FitzGerald e Parkes)",
+      "link": ""
+    }
+  ]
+}

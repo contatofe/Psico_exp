@@ -1,0 +1,45 @@
+{
+  "id": "james-olds",
+  "nome": "James Olds",
+  "periodo": "1922–1976",
+  "disciplinas": [
+    "Neurociência"
+  ],
+  "resumo": "Psicólogo norte-americano que, com Peter Milner, descobriu que ratos trabalham para estimular o próprio cérebro, abrindo o estudo dos circuitos de recompensa.",
+  "bio": [
+    "James Olds (1922–1976) formou-se em psicologia social em Harvard, com um interesse inicial por teoria da motivação, e passou a se dedicar à neurofisiologia depois de um período como pós-doutorando na Universidade McGill, em Montreal, no grupo de Donald Hebb. Foi ali, em 1953, que encontrou o jovem Peter Milner, e a colaboração entre os dois produziu uma das descobertas mais conhecidas da psicologia fisiológica. Olds trabalhou depois na Universidade de Michigan e, a partir do fim da década de 1960, no Instituto de Tecnologia da Califórnia (Caltech).",
+    "O ponto de partida foi um acaso. Os pesquisadores implantavam eletrodos no cérebro de ratos para testar os efeitos da estimulação sobre a vigília. Em um animal, o eletrodo ficou numa região diferente da prevista, e o rato passou a voltar ao canto da caixa onde havia recebido a corrente. Olds e Milner, então, instalaram uma alavanca que, quando pressionada, entregava um pequeno choque elétrico no ponto estimulado. Em 1954 publicaram que, com eletrodos na área septal e em regiões vizinhas, os ratos pressionavam a alavanca centenas e até milhares de vezes por hora, abandonando outras atividades. Nos anos seguintes, Olds mostrou que a estimulação de certas áreas do hipotálamo e do feixe prosencefálico medial produzia taxas de resposta ainda mais altas e que, em alguns experimentos, animais famintos preferiam a autoestimulação ao alimento.",
+    "A conclusão de que existiam estruturas cerebrais cuja ativação funciona como reforço positivo, sem depender de comida, água ou outras recompensas biológicas, mudou o modo como se pensava a motivação. Até então, a psicologia dominante, inclusive a de Skinner, falava em reforço apenas em termos de comportamento observável, e a ideia de que o cérebro tem um sistema próprio de recompensa trouxe o assunto para a neurociência. Olds ficou conhecido por popularizar a expressão centros de prazer, e seus colegas passaram a discutir o que o animal realmente sentia, algo que os experimentos não permitem afirmar. Ele também registrou a atividade de neurônios individuais durante a aprendizagem, ampliando a abordagem eletrofisiológica em animais despertos.",
+    "O trabalho de Olds foi o ponto de partida para a pesquisa sobre o sistema dopaminérgico e sobre dependência química. Estudos posteriores relacionaram a autoestimulação à atividade da dopamina na via mesolímbica, e pesquisas como as de Wolfram Schultz sobre o erro de previsão de recompensa dialogam com essa tradição. A literatura contemporânea, contudo, distingue o querer do gostar e questiona a leitura inicial da dopamina como molécula do prazer. Olds morreu em 1976, em um acidente de afogamento."
+  ],
+  "tags": [
+    "Experimental",
+    "Modelagem animal",
+    "Eletrofisiologia"
+  ],
+  "influencias": [
+    "donald-hebb"
+  ],
+  "obras": [
+    {
+      "ano": "1954",
+      "titulo": "Positive reinforcement produced by electrical stimulation of septal area and other regions of rat brain",
+      "link": ""
+    },
+    {
+      "ano": "1956",
+      "titulo": "Pleasure centers in the brain",
+      "link": ""
+    },
+    {
+      "ano": "1958",
+      "titulo": "Self-stimulation of the brain",
+      "link": ""
+    },
+    {
+      "ano": "1962",
+      "titulo": "Hypothalamic substrates of reward",
+      "link": ""
+    }
+  ]
+}

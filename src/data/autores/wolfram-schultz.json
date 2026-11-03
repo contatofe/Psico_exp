@@ -1,0 +1,39 @@
+{
+  "id": "wolfram-schultz",
+  "nome": "Wolfram Schultz",
+  "periodo": "1944–presente",
+  "disciplinas": [
+    "Neuroeconomia"
+  ],
+  "resumo": "Neurocientista que mostrou, em macacos, que neurônios de dopamina sinalizam o erro de previsão de recompensa, elo entre cérebro e aprendizado por reforço.",
+  "bio": [
+    "Wolfram Schultz (nascido em 1944) é professor de neurociência na Universidade de Cambridge, no Reino Unido, depois de muitos anos na Universidade de Fribourg, na Suíça. Começou estudando a atividade de neurônios dopaminérgicos do mesencéfalo, região do tronco cerebral cujo dano está ligado à doença de Parkinson, e tentava entender sua relação com o movimento. Ao registrar a atividade de neurônios individuais em macacos acordados, notou que eles disparavam não ao movimento, e sim quando o animal recebia recompensas inesperadas, como um pouco de suco ou de alimento.",
+    "A partir daí, a equipe de Schultz passou a usar condicionamento clássico. Um estímulo, como uma luz, indicava que suco viria em seguida. No início, os neurônios disparavam ao receber o suco. Com a aprendizagem, deixavam de disparar ao suco, que já era esperado, e passavam a disparar à luz que o anunciava. E, se a luz aparecia e o suco não vinha, a atividade caía abaixo do nível basal no momento em que ele era esperado. Esse padrão é compatível com um sinal de erro de previsão de recompensa: a diferença entre a recompensa recebida e a esperada. Em 1997, em artigo com Peter Dayan e Read Montague, mostrou que essas respostas correspondem ao erro de previsão por diferença temporal, algoritmo da aprendizagem por reforço estudado em ciência da computação por Richard Sutton e Andrew Barto.",
+    "Com isso, os dados da neurofisiologia passaram a dialogar com a teoria do aprendizado, tanto a psicologia da aprendizagem, em que a surpresa é peça-chave, quanto a computacional. Schultz estudou depois como o cérebro representa valor subjetivo, risco e utilidade e mostrou que respostas de dopamina refletem não apenas o valor numérico de uma recompensa, mas o valor subjetivo que ela tem para o animal. Em 2017, recebeu o Prêmio Cérebro (Brain Prize), concedido a ele, a Peter Dayan e a Ray Dolan pelo trabalho sobre recompensa e decisão.",
+    "O conceito de erro de previsão de recompensa orienta hoje a pesquisa sobre dependência química, motivação e transtornos psiquiátricos, e inspirou algoritmos de inteligência artificial. A literatura atual, porém, mostra que o quadro é mais complexo: neurônios dopaminérgicos formam populações heterogêneas, parte deles responde à novidade, ao estímulo aversivo ou ao movimento, e pesquisadores como Kent Berridge defendem que a dopamina está mais ligada ao querer do que ao prazer. Ainda assim, a descoberta de Schultz é um dos exemplos mais claros de ligação entre dados neurais e teoria formal."
+  ],
+  "tags": [
+    "Eletrofisiologia",
+    "Modelagem animal",
+    "Computacional",
+    "Experimental"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1997",
+      "titulo": "A neural substrate of prediction and reward",
+      "link": ""
+    },
+    {
+      "ano": "1998",
+      "titulo": "Predictive reward signal of dopamine neurons",
+      "link": ""
+    },
+    {
+      "ano": "2016",
+      "titulo": "Dopamine reward prediction error coding",
+      "link": ""
+    }
+  ]
+}

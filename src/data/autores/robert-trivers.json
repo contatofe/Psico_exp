@@ -1,0 +1,47 @@
+{
+  "id": "robert-trivers",
+  "nome": "Robert Trivers",
+  "periodo": "1943–2026",
+  "disciplinas": [
+    "Sociobiologia / Ecologia comportamental"
+  ],
+  "resumo": "Biólogo evolucionista que explicou o altruísmo recíproco, o investimento parental e o conflito entre pais e filhos, bases da evolução do comportamento social.",
+  "bio": [
+    "Robert Trivers foi um biólogo evolucionista norte-americano, ligado à Universidade Harvard e depois à Universidade Rutgers. Nos anos 1970, ainda jovem, publicou uma série de artigos que reorganizaram a teoria evolutiva do comportamento social. Em vez de tratar a cooperação e o conflito como fenômenos separados, mostrou que ambos nascem de interesses genéticos que se sobrepõem em parte e divergem em parte, e que isso vale para parceiros, pais, filhos e irmãos. Seu estilo era o de propor ideias gerais e testáveis, deixando que outros fizessem os experimentos.",
+    "O primeiro artigo, de 1971, trata do altruísmo recíproco. Como explicar que indivíduos sem parentesco ajudem uns aos outros, sendo que o auxílio tem custo? Trivers argumentou que a ajuda pode evoluir quando é trocada em interações repetidas, com a condição de que seja possível reconhecer quem retribui e deixar de ajudar quem trapaceia. Nessa lógica, emoções como gratidão, raiva moral e culpa funcionariam como mecanismos de regulação das trocas. O argumento influenciou a psicologia evolucionista e a teoria dos jogos aplicada à cooperação.",
+    "Em 1972, o artigo sobre investimento parental e seleção sexual propôs que o sexo que investe mais na prole, em tempo, energia e risco, tende a ser mais seletivo na escolha de parceiros, enquanto o sexo que investe menos compete mais pelo acesso a eles. A ideia ajudou a explicar diferenças entre machos e fêmeas em muitas espécies. Em 1973, com Dan Willard, formulou a hipótese de que mães em boas condições deveriam favorecer filhos do sexo cujo sucesso reprodutivo depende mais da condição física. Em 1974, a teoria do conflito entre pais e filhos sugeriu que a prole pode querer mais recursos do que os pais estão dispostos a dar, o que explicaria disputas como o desmame. Com Hope Hare, estendeu a lógica a insetos sociais. Mais tarde, em The Folly of Fools (2011), argumentou que o autoengano pode ter evoluído para facilitar o engano dos outros.",
+    "O legado de Trivers é amplo: a ecologia comportamental, a psicologia evolucionista e a antropologia evolutiva retomam suas hipóteses até hoje. A literatura também registra limites. A hipótese de Trivers e Willard teve resultados mistos em testes empíricos, as evidências de altruísmo recíproco em animais não humanos são menos numerosas do que o esperado, e muitas das hipóteses foram reformuladas. Seu temperamento polêmico também marcou sua trajetória pública."
+  ],
+  "tags": [
+    "Teórico",
+    "Modelagem evolutiva"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1971",
+      "titulo": "The Evolution of Reciprocal Altruism",
+      "link": ""
+    },
+    {
+      "ano": "1972",
+      "titulo": "Parental Investment and Sexual Selection",
+      "link": ""
+    },
+    {
+      "ano": "1973",
+      "titulo": "Natural Selection of Parental Ability to Vary the Sex Ratio of Offspring (com D. Willard)",
+      "link": ""
+    },
+    {
+      "ano": "1974",
+      "titulo": "Parent-Offspring Conflict",
+      "link": ""
+    },
+    {
+      "ano": "2011",
+      "titulo": "The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life",
+      "link": ""
+    }
+  ]
+}

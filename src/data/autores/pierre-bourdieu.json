@@ -1,0 +1,47 @@
+{
+  "id": "pierre-bourdieu",
+  "nome": "Pierre Bourdieu",
+  "periodo": "1930–2002",
+  "disciplinas": [
+    "Sociologia"
+  ],
+  "resumo": "Sociólogo francês cujos conceitos de habitus, campo e capital explicam como a cultura, a escola e o gosto reproduzem desigualdades.",
+  "bio": [
+    "Pierre Bourdieu nasceu em Denguin, no sudoeste da França, em 1930, e formou-se em filosofia na École Normale Supérieure. Durante o serviço militar na guerra da Argélia, passou a fazer pesquisa de campo, sobretudo na Cabília, e deixou a filosofia pela etnologia e pela sociologia. Mais tarde, tornou-se professor do Collège de France, onde ocupou uma cadeira de sociologia a partir de 1981, e morreu em Paris em 2002. Sempre fez questão de unir teoria e pesquisa empírica.",
+    "Seu conceito central é o de habitus: o conjunto de disposições duradouras, incorporadas ao longo da vida, que orientam a forma de perceber, sentir e agir. O habitus se forma nas condições de origem da pessoa, como a família e a classe social, e funciona quase sem que se perceba, o que explica por que o comportamento não é nem pura escolha racional nem simples obediência a regras. Esse habitus opera em campos, espaços sociais com regras próprias, como a arte, a ciência, a política e a escola, em que os agentes disputam recursos que Bourdieu chamou de capitais: econômico, cultural, social e simbólico.",
+    "Em \"A reprodução\", escrito com Jean-Claude Passeron, e em outros trabalhos, mostrou como a escola, que se apresenta como neutra, favorece quem já possui o capital cultural valorizado por ela, contribuindo para reproduzir desigualdades. Em \"A distinção\", de 1979, a partir de dados de pesquisas na França, demonstrou que gostos em música, comida e arte funcionam como marcadores de classe: preferências que parecem pessoais refletem posições sociais e servem para distinguir grupos. Sua noção de violência simbólica descreve a imposição de uma ordem de maneira que os dominados a aceitem como natural.",
+    "Bourdieu se formou no diálogo com Durkheim, Weber, Marx e com o estruturalismo de Lévi-Strauss, e procurou superar a oposição entre o objetivismo, que enfatiza estruturas, e o subjetivismo, que enfatiza a experiência individual. Sua obra influenciou a antropologia, a educação, a psicologia social e os estudos culturais. Entre as críticas, destacam-se a de que o habitus seria determinista e deixaria pouco espaço à mudança, e a de que o conceito seria vago e difícil de testar."
+  ],
+  "tags": [
+    "Teórico",
+    "Etnográfico"
+  ],
+  "influencias": [
+    "emile-durkheim",
+    "max-weber",
+    "karl-marx",
+    "claude-levi-strauss"
+  ],
+  "obras": [
+    {
+      "ano": "1970",
+      "titulo": "La Reproduction",
+      "link": ""
+    },
+    {
+      "ano": "1972",
+      "titulo": "Esquisse d'une théorie de la pratique",
+      "link": ""
+    },
+    {
+      "ano": "1979",
+      "titulo": "La Distinction",
+      "link": ""
+    },
+    {
+      "ano": "1980",
+      "titulo": "Le sens pratique",
+      "link": ""
+    }
+  ]
+}

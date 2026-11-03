@@ -1,0 +1,47 @@
+{
+  "id": "joseph-henrich",
+  "nome": "Joseph Henrich",
+  "periodo": "1968–presente",
+  "disciplinas": [
+    "Evolução cultural",
+    "Antropologia evolutiva"
+  ],
+  "resumo": "Antropólogo que mostrou como aprendizado social e cultura cumulativa moldaram a espécie humana e que a psicologia 'WEIRD' é exceção, não regra.",
+  "bio": [
+    "Joseph Henrich é antropólogo e professor no Departamento de Biologia Evolutiva Humana da Universidade Harvard. Doutorou-se na Universidade da Califórnia em Los Angeles, sob orientação de Robert Boyd, e carrega a herança da tradição de evolução cultural de Boyd e Peter Richerson, a qual combina com o trabalho de campo e experimentos comportamentais. Seu eixo de pesquisa é a pergunta sobre como a cultura e a biologia coevoluíram para produzir uma espécie dependente de aprendizado social.",
+    "Em um projeto internacional com antropólogos que estudaram quinze sociedades de pequena escala, Henrich testou jogos econômicos, como o jogo do ultimato, em que alguém divide uma quantia com outra pessoa que pode aceitar ou recusar a oferta. Os resultados, publicados em 2001, mostraram variação grande: o que parecia ser uma escolha universal de estudantes ocidentais variava de acordo com normas locais de cooperação e troca. Esse achado levou a um segundo argumento, desenvolvido em 2010 com os psicólogos Steven Heine e Ara Norenzayan: a maior parte da psicologia experimental se baseia em amostras de pessoas WEIRD (da sigla em inglês para ocidentais, educadas, industrializadas, ricas e democráticas), que são pouco representativas da humanidade, e por isso resultados tidos como universais podem ser peculiaridades locais.",
+    "Em The Secret of Our Success (2016), Henrich defende que o que nos distingue não é inteligência individual superior, e sim a capacidade de aprender uns com os outros e acumular conhecimento ao longo de gerações. Exemplos ilustram o ponto: técnicas de processar mandioca para eliminar toxinas ou de tratar o milho com cal para liberar nutrientes foram acumuladas por tentativa e erro, sem que quem as usasse entendesse a química por trás. Ele também chamou atenção para o papel do tamanho e da conectividade das populações na manutenção de tecnologias, ao discutir o caso da Tasmânia. Em The WEIRDest People in the World (2020), propõe que a Igreja medieval ocidental, ao restringir o casamento entre parentes, enfraqueceu as estruturas de clã e favoreceu a confiança impessoal, o individualismo e as instituições modernas.",
+    "O legado de Henrich foi consolidar a evolução cultural como campo empírico e ampliar o debate sobre amostragem e universalidade na psicologia. Suas teses são discutidas: historiadores e economistas contestam a força da explicação centrada na Igreja, e alguns críticos veem determinismo histórico na hipótese, enquanto a ideia de uma psicologia WEIRD é por vezes simplificada na recepção popular. Mesmo assim, o conceito se tornou parte do vocabulário comum da ciência do comportamento."
+  ],
+  "tags": [
+    "Experimental",
+    "Etnográfico",
+    "Modelagem evolutiva"
+  ],
+  "influencias": [
+    "robert-boyd",
+    "peter-richerson"
+  ],
+  "obras": [
+    {
+      "ano": "2001",
+      "titulo": "In Search of Homo Economicus: Behavioral Experiments in 15 Small-Scale Societies",
+      "link": ""
+    },
+    {
+      "ano": "2010",
+      "titulo": "The Weirdest People in the World? (com S. Heine e A. Norenzayan)",
+      "link": ""
+    },
+    {
+      "ano": "2016",
+      "titulo": "The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter",
+      "link": ""
+    },
+    {
+      "ano": "2020",
+      "titulo": "The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous",
+      "link": ""
+    }
+  ]
+}

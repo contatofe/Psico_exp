@@ -1,0 +1,51 @@
+{
+  "id": "richard-thaler",
+  "nome": "Richard Thaler",
+  "periodo": "1945–presente",
+  "disciplinas": [
+    "Economia comportamental"
+  ],
+  "resumo": "Integrou psicologia à economia com contabilidade mental, efeito de dotação e nudges; Nobel de Economia em 2017.",
+  "bio": [
+    "Richard Thaler nasceu em 1945, em Nova Jersey, doutorou-se em economia na Universidade de Rochester em 1970 e leciona na Universidade de Chicago desde 1995, depois de passar por Cornell. Formado numa economia que supõe agentes racionais, passou a anotar comportamentos que o modelo padrão não explica, as chamadas anomalias, e a descrevê-los em artigos e em uma coluna regular do Journal of Economic Perspectives.",
+    "Thaler descreveu o efeito de dotação: as pessoas pedem mais para vender um objeto que possuem do que pagariam para comprá-lo. Em experimentos de 1990 com Daniel Kahneman e Jack Knetsch, parte dos participantes recebeu canecas e parte não; os donos pediram cerca do dobro do que os demais aceitaram pagar, e ocorreram poucas trocas. Descreveu também a contabilidade mental: as pessoas dividem o dinheiro em contas mentais, como lazer, casa e poupança, e as tratam como não intercambiáveis, o que viola a ideia de que dinheiro é fungível.",
+    "Com Hersh Shefrin (1981), propôs o modelo do planejador e do executor para o autocontrole: um lado de longo prazo planeja e outro, impulsivo, executa, e regras pessoais e compromissos servem para conter o segundo. Com Shlomo Benartzi (2004), criou o programa Save More Tomorrow, em que o trabalhador se compromete antecipadamente a destinar parte de futuros aumentos de salário à poupança, o que elevou muito as taxas de poupança nas empresas em que foi testado.",
+    "Com Cass Sunstein, escreveu Nudge (2008), que popularizou o paternalismo libertário: arquitetos de escolhas podem orientar o comportamento por meio de opções padrão, enquadramento e saliência, sem proibir alternativas. A obra inspirou unidades governamentais, como a Behavioural Insights Team, do Reino Unido, criada em 2010. Thaler recebeu o Nobel de Economia em 2017 por contribuições à economia comportamental. Entre as críticas, discutem-se o tamanho dos efeitos de nudges, questões éticas de manipulação e a ideia de que anomalias podem diminuir com experiência e mercados competitivos."
+  ],
+  "tags": [
+    "Experimental",
+    "Matemática"
+  ],
+  "influencias": [
+    "daniel-kahneman",
+    "amos-tversky",
+    "herbert-simon"
+  ],
+  "obras": [
+    {
+      "ano": "1980",
+      "titulo": "Toward a positive theory of consumer choice",
+      "link": ""
+    },
+    {
+      "ano": "1981",
+      "titulo": "An economic theory of self-control (com Shefrin)",
+      "link": ""
+    },
+    {
+      "ano": "2004",
+      "titulo": "Save More Tomorrow: Using behavioral economics to increase employee saving (com Benartzi)",
+      "link": ""
+    },
+    {
+      "ano": "2008",
+      "titulo": "Nudge (com Sunstein)",
+      "link": ""
+    },
+    {
+      "ano": "2015",
+      "titulo": "Misbehaving: The Making of Behavioral Economics",
+      "link": ""
+    }
+  ]
+}

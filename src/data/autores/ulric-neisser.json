@@ -1,0 +1,51 @@
+{
+  "id": "ulric-neisser",
+  "nome": "Ulric Neisser",
+  "periodo": "1928–2012",
+  "disciplinas": [
+    "Psicologia cognitiva"
+  ],
+  "resumo": "Psicólogo que nomeou a psicologia cognitiva em 1967 e depois a criticou por se afastar da vida real, defendendo estudos ecologicamente válidos.",
+  "bio": [
+    "Ulric Neisser nasceu em Kiel, na Alemanha, em 1928, e foi criado nos Estados Unidos. Passou por Harvard e Swarthmore e lecionou, entre outras instituições, em Cornell e Emory. Em 1967, publicou Cognitive Psychology, livro que organizou em um único texto pesquisas dispersas sobre percepção, atenção, memória e pensamento e deu nome ao campo. Definiu cognição como o conjunto dos processos pelos quais a entrada sensorial é transformada, reduzida, elaborada, armazenada, recuperada e usada. Foi ele quem cunhou os termos memória icônica e ecoica, para os registros sensoriais muito breves que Sperling e outros haviam estudado.",
+    "Uma ideia central do livro é que perceber e lembrar são atividades construtivas. Neisser comparava a lembrança ao trabalho de um paleontólogo que reconstitui um dinossauro a partir de alguns ossos: o resultado depende do que restou, mas também do conhecimento que guia a reconstrução. A obra apresentava o processamento de informação, com suas caixas e fluxos, como programa de pesquisa, e foi muito influente.",
+    "O próprio Neisser, porém, se afastou desse enfoque. Em Cognition and Reality (1976), criticou a psicologia cognitiva por estudar tarefas artificiais de laboratório que pouco diziam sobre como as pessoas percebem e lembram na vida diária. Inspirado em James Gibson, propôs o ciclo perceptivo: esquemas orientam a exploração do ambiente, a exploração coleta informação disponível, e a informação modifica os esquemas. Com Robert Becklen, mostrou em 1975 que pessoas que acompanham um de dois vídeos sobrepostos deixam de notar eventos inesperados no outro, um precursor de experimentos mais conhecidos de cegueira atencional. Defendeu que a memória deveria ser estudada em situações reais, e testou, por exemplo, a lembrança de John Dean, do caso Watergate, comparando seu depoimento com as gravações da Casa Branca, e a de estudantes sobre o desastre da nave Challenger, em 1986: com Nicole Harsch, mostrou que muitas lembranças vívidas sobre onde se estava ao ouvir a notícia mudavam consideravelmente com o tempo, ainda que as pessoas mantivessem grande confiança nelas.",
+    "Neisser também propôs distinguir cinco tipos de conhecimento de si, coordenou, em 1996, o relatório da Associação Americana de Psicologia sobre inteligência e organizou estudos sobre o aumento dos escores de QI ao longo das gerações. Seu apelo à validade ecológica antecipou debates atuais sobre a generalização de resultados experimentais. Ele foi também criticado: alguns psicólogos da memória afirmaram que o estudo da memória cotidiana carecia de controle experimental, e Neisser respondeu defendendo que rigor e relevância não são excludentes. Faleceu em 2012."
+  ],
+  "tags": [
+    "Experimental",
+    "Filosofia da ciência"
+  ],
+  "influencias": [
+    "george-miller",
+    "james-gibson",
+    "jerome-bruner"
+  ],
+  "obras": [
+    {
+      "ano": "1967",
+      "titulo": "Cognitive Psychology",
+      "link": ""
+    },
+    {
+      "ano": "1976",
+      "titulo": "Cognition and Reality",
+      "link": ""
+    },
+    {
+      "ano": "1982",
+      "titulo": "Memory Observed",
+      "link": ""
+    },
+    {
+      "ano": "1992",
+      "titulo": "Phantom flashbulbs: false recollections of hearing the news about Challenger (com Harsch)",
+      "link": ""
+    },
+    {
+      "ano": "1996",
+      "titulo": "Intelligence: knowns and unknowns",
+      "link": ""
+    }
+  ]
+}

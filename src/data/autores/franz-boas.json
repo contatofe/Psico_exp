@@ -1,0 +1,43 @@
+{
+  "id": "franz-boas",
+  "nome": "Franz Boas",
+  "periodo": "1858–1942",
+  "disciplinas": [
+    "Antropologia"
+  ],
+  "resumo": "Fundador da antropologia norte-americana, combateu o racismo científico, defendeu o relativismo cultural e formou a primeira geração de antropólogos do país.",
+  "bio": [
+    "Franz Boas nasceu em Minden, na Alemanha, em 1858, em uma família judaica. Doutorou-se em física em Kiel, com uma tese sobre a cor da água, e a expedição à ilha de Baffin, no Ártico canadense (1883–1884), onde estudou os inuítes, o levou da geografia para a antropologia. Emigrou para os Estados Unidos, trabalhou em museus e foi professor da Universidade Columbia por cerca de quatro décadas, até morrer em 1942.",
+    "Boas defendia que cada cultura deve ser entendida pela sua história e em seus próprios termos, e não medida por uma escala evolutiva única. Essa posição, que Marvin Harris chamou de particularismo histórico, fundamenta o relativismo cultural. Em um artigo de 1896, criticou o método comparativo dos evolucionistas, que comparavam costumes retirados de seus contextos. Exigia trabalho de campo prolongado, domínio da língua local e coleta de mitos, textos e objetos materiais. Seu principal campo foi a costa noroeste do Pacífico, entre os kwakwaka'wakw, grupo conhecido como kwakiutl.",
+    "Seu trabalho contra o racismo científico também foi decisivo. Em estudo para a Comissão de Imigração dos Estados Unidos, publicado em 1912, comparou filhos de imigrantes europeus nascidos nos Estados Unidos com seus pais e viu que o formato da cabeça, tido como traço racial fixo, mudava com o ambiente. A conclusão foi que traços físicos são mais plásticos do que se supunha. Reanálises posteriores discutiram a magnitude do efeito, mas a defesa de que raça, língua e cultura são fenômenos independentes continuou. Em The Mind of Primitive Man (1911), argumentou que as diferenças entre povos não vêm de capacidades mentais inatas desiguais.",
+    "Boas formou a primeira grande geração de antropólogos norte-americanos, entre eles Alfred Kroeber, Robert Lowie, Edward Sapir, Ruth Benedict, Margaret Mead e Zora Neale Hurston. Sua influência moldou a ideia de que o ambiente cultural modela o comportamento, o que dialoga com a psicologia do desenvolvimento e da personalidade. Críticos apontam que, por seu cuidado empírico, ele produziu poucas sínteses teóricas gerais, e que sua ênfase na particularidade dificultou comparações sistemáticas."
+  ],
+  "tags": [
+    "Etnográfico",
+    "Trabalho de campo",
+    "Teórico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1896",
+      "titulo": "The Limitations of the Comparative Method of Anthropology",
+      "link": ""
+    },
+    {
+      "ano": "1911",
+      "titulo": "The Mind of Primitive Man",
+      "link": ""
+    },
+    {
+      "ano": "1912",
+      "titulo": "Changes in Bodily Form of Descendants of Immigrants",
+      "link": ""
+    },
+    {
+      "ano": "1940",
+      "titulo": "Race, Language and Culture",
+      "link": ""
+    }
+  ]
+}

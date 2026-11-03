@@ -1,0 +1,50 @@
+{
+  "id": "r-duncan-luce",
+  "nome": "R. Duncan Luce",
+  "periodo": "1925–2012",
+  "disciplinas": [
+    "Economia comportamental"
+  ],
+  "resumo": "Pioneiro da psicologia matemática: formulou o axioma de escolha de Luce, base dos modelos logit e softmax, e ajudou a fundar a teoria da medida.",
+  "bio": [
+    "Robert Duncan Luce (1925–2012) formou-se em engenharia aeronáutica no MIT em 1945 e doutorou-se em matemática no mesmo instituto em 1950. Passou por Columbia, Pensilvânia, Harvard e Califórnia em Irvine, e ajudou a fundar a psicologia matemática, que usa modelos formais para descrever percepção, escolha e decisão.",
+    "Em Individual Choice Behavior (1959), Luce formulou o axioma de escolha: a razão entre as probabilidades de escolher dois itens não depende de quais outros itens estão disponíveis, a chamada independência de alternativas irrelevantes. Dessa hipótese decorre:\nP(i|S) = v_i / Σ_{j∈S} v_j\nem que v_i mede a força, ou utilidade, do item i dentro do conjunto S. A escolha passa a ser probabilística: itens de maior valor são mais prováveis, mas não certos. A regra está na base dos modelos logit, usados em economia e marketing, e da função softmax, usada em aprendizado de máquina e em modelos de aprendizagem por reforço.",
+    "A regra tem limites. O exemplo do ônibus vermelho e do ônibus azul, usado na literatura de escolha discreta, ilustra o problema: quem é indiferente entre carro e ônibus vermelho não deve reduzir pela metade a chance do carro quando surge um ônibus azul praticamente idêntico, mas a regra prevê isso. Amos Tversky respondeu com o modelo de eliminação por aspectos (1972). Luce também conectou a escolha à psicofísica, em diálogo com a tradição de Fechner e com S. S. Stevens, de quem discordou em pontos sobre as leis psicofísicas.",
+    "Com Howard Raiffa, escreveu Games and Decisions (1957), introdução à teoria dos jogos e da decisão para cientistas sociais. Com John Tukey, desenvolveu a medida conjunta (1964), e com David Krantz, Patrick Suppes e Amos Tversky, o tratado Foundations of Measurement (volume I, 1971), sobre como atribuir números a atributos psicológicos. Estudou também tempos de reação e, com Peter Fishburn, modelos de utilidade dependente de postos. Recebeu em 2003 a Medalha Nacional de Ciência dos Estados Unidos."
+  ],
+  "tags": [
+    "Matemática",
+    "Experimental"
+  ],
+  "influencias": [
+    "s-s-stevens",
+    "gustav-fechner"
+  ],
+  "obras": [
+    {
+      "ano": "1957",
+      "titulo": "Games and Decisions (com Raiffa)",
+      "link": ""
+    },
+    {
+      "ano": "1959",
+      "titulo": "Individual Choice Behavior: A Theoretical Analysis",
+      "link": ""
+    },
+    {
+      "ano": "1964",
+      "titulo": "Simultaneous conjoint measurement: A new type of fundamental measurement (com Tukey)",
+      "link": ""
+    },
+    {
+      "ano": "1971",
+      "titulo": "Foundations of Measurement, Volume I (com Krantz, Suppes e Tversky)",
+      "link": ""
+    },
+    {
+      "ano": "1986",
+      "titulo": "Response Times: Their Role in Inferring Elementary Mental Organization",
+      "link": ""
+    }
+  ]
+}

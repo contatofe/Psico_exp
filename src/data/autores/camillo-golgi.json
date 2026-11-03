@@ -1,0 +1,37 @@
+{
+  "id": "camillo-golgi",
+  "nome": "Camillo Golgi",
+  "periodo": "1843–1926",
+  "disciplinas": [
+    "Neurociência"
+  ],
+  "resumo": "Médico italiano que criou a coloração com prata que tornou visíveis os neurônios inteiros, mas defendeu uma teoria de rede contínua depois refutada.",
+  "bio": [
+    "Camillo Golgi (1843–1926) nasceu perto de Brescia, na Itália, formou-se em medicina em Pavia e passou a maior parte da vida acadêmica na universidade dessa cidade. No início da década de 1870, trabalhando como médico em um hospital de Abbiategrasso, montou um pequeno laboratório improvisado e se dedicou a um problema que travava a anatomia do sistema nervoso: ao microscópio, o tecido cerebral parecia um emaranhado impossível de decifrar, porque as colorações disponíveis tingiam tudo de uma vez.",
+    "Em 1873 ele descreveu a reação negra (reazione nera). O tecido é endurecido com dicromato de potássio e depois impregnado com nitrato de prata. Por razões que ainda não são totalmente compreendidas, apenas uma fração dos neurônios capta o precipitado, mas os que o fazem aparecem inteiros, com corpo celular, dendritos e axônio, em negro sobre fundo amarelado. Foi a primeira vez que se pôde ver a forma completa de uma célula nervosa. Com o método, Golgi descreveu a organização do cerebelo, do bulbo olfatório e do hipocampo e distinguiu dois tipos de neurônio: os de axônio longo, que projetam para regiões distantes, e os de axônio curto, que atuam localmente, classificação que ainda é usada.",
+    "Golgi também fez contribuições fora da neuroanatomia. Descreveu o órgão tendinoso que leva seu nome, mostrou que os acessos de febre da malária coincidem com a multiplicação do parasita no sangue e, em 1898, identificou nas células nervosas uma estrutura interna em forma de rede, hoje chamada complexo de Golgi, central para o processamento e o envio de proteínas pelas células.",
+    "Sua interpretação do que via, porém, o colocou em conflito com a nova geração. Golgi sustentava a teoria reticular: os axônios formariam uma rede contínua, como uma malha de vasos, e os dendritos teriam papel sobretudo nutritivo. Santiago Ramón y Cajal, usando o método de Golgi, concluiu que os neurônios são células individuais que se comunicam por contato, a doutrina do neurônio. Os dois dividiram o Nobel de Fisiologia ou Medicina em 1906 e, na cerimônia em Estocolmo, apresentaram palestras opostas. A microscopia eletrônica, a partir da década de 1950, confirmou a visão de Cajal ao mostrar a fenda entre as células, embora a descoberta posterior das sinapses elétricas, em que células se comunicam por junções diretas, tenha dado algum respaldo parcial à ideia de continuidade. O legado de Golgi é, assim, duplo: um método que sustentou meio século de neuroanatomia e uma teoria rejeitada pela literatura."
+  ],
+  "tags": [
+    "Observacional",
+    "Histórico-comparativo"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1873",
+      "titulo": "Sulla struttura della sostanza grigia del cervello",
+      "link": ""
+    },
+    {
+      "ano": "1886",
+      "titulo": "Sulla fina anatomia degli organi centrali del sistema nervoso",
+      "link": ""
+    },
+    {
+      "ano": "1906",
+      "titulo": "La doctrine du neurone: théorie et faits",
+      "link": ""
+    }
+  ]
+}

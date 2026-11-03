@@ -1,0 +1,42 @@
+{
+  "id": "charles-nelson",
+  "nome": "Charles Nelson",
+  "periodo": "1951–presente",
+  "disciplinas": [
+    "Neurodesenvolvimento"
+  ],
+  "resumo": "Neurocientista de Harvard cujos estudos com crianças romenas institucionalizadas mostram como a privação precoce afeta o cérebro e como intervir cedo ajuda.",
+  "bio": [
+    "Charles A. Nelson III é neurocientista do desenvolvimento. Doutorou-se em psicologia do desenvolvimento na Universidade do Kansas e fez pós-doutorado em eletrofisiologia na Universidade de Minnesota, onde depois dirigiu um laboratório no Instituto de Desenvolvimento Infantil. Desde 2005, trabalha na Escola de Medicina de Harvard e no Hospital Infantil de Boston, e é professor também na Escola de Educação de Harvard. Sua metodologia central é o eletroencefalograma (EEG) e os potenciais evocados, que registram a atividade elétrica do cérebro por eletrodos no couro cabeludo, e são adequados para bebês, que não conseguem seguir instruções.",
+    "Na primeira metade da carreira, estudou como bebês percebem rostos e expressões emocionais. Depois, voltou-se a uma questão mais ampla: o que acontece com o cérebro quando falta cuidado nos primeiros anos. Em 2000, com Nathan Fox e Charles Zeanah, iniciou em Bucareste, na Romênia, o Bucharest Early Intervention Project (BEIP). Depois de décadas de políticas que levaram muitas crianças a orfanatos com pouca interação com cuidadores, os pesquisadores acompanharam mais de cem crianças institucionalizadas, e designaram metade ao acaso para famílias acolhedoras criadas pelo projeto, enquanto a outra metade permaneceu nas instituições. Um grupo de crianças nunca institucionalizadas serviu de comparação.",
+    "Os resultados mostraram que a privação precoce deixa marcas. Crianças que ficaram nas instituições tiveram, em média, pior desenvolvimento cognitivo, de linguagem e socioemocional, e padrões diferentes de atividade cerebral. As que foram para famílias acolhedoras se recuperaram, em muitos aspectos, mas o ganho foi maior quando a mudança ocorreu antes dos dois anos de idade, o que sugere períodos sensíveis em que a experiência pesa mais. Os achados foram publicados na revista Science em 2007 e resumidos, em 2014, no livro Romania's Abandoned Children, com Fox e Zeanah. Nelson também lidera estudos sobre trajetórias do autismo, usando EEG em irmãos de crianças com o diagnóstico, e sobre adversidade precoce em Bangladesh.",
+    "A pesquisa influenciou o debate sobre políticas de acolhimento e a defesa de investimentos em cuidados na primeira infância. Há limites a considerar. Depois da designação inicial, as crianças podiam ser movidas, o que complica a análise, a recuperação foi incompleta em alguns domínios, e os resultados variam bastante entre crianças. Por isso, muitos pesquisadores preferem falar em períodos sensíveis, e não críticos, e os autores evitam determinismo: a privação aumenta riscos, mas não define destinos."
+  ],
+  "tags": [
+    "Eletrofisiologia",
+    "Experimental"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1996",
+      "titulo": "Neural correlates of infants' visual responsiveness to facial expressions of emotion (com de Haan)",
+      "link": ""
+    },
+    {
+      "ano": "2001",
+      "titulo": "Handbook of Developmental Cognitive Neuroscience (org. com Luciana)",
+      "link": ""
+    },
+    {
+      "ano": "2007",
+      "titulo": "Cognitive recovery in socially deprived young children: the Bucharest Early Intervention Project (com Zeanah, Fox et al.)",
+      "link": ""
+    },
+    {
+      "ano": "2014",
+      "titulo": "Romania's Abandoned Children: Deprivation, Brain Development, and the Struggle for Recovery (com Fox e Zeanah)",
+      "link": ""
+    }
+  ]
+}

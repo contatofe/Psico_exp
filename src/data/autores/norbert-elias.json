@@ -1,0 +1,44 @@
+{
+  "id": "norbert-elias",
+  "nome": "Norbert Elias",
+  "periodo": "1897–1990",
+  "disciplinas": [
+    "Sociologia histórica"
+  ],
+  "resumo": "Autor do Processo Civilizador, mostrou como a formação do Estado e a pacificação social transformam o autocontrole, a vergonha e os modos de conviver.",
+  "bio": [
+    "Norbert Elias nasceu em 1897 em Breslau, então na Alemanha, e morreu em Amsterdã, em 1990. Serviu na Primeira Guerra Mundial, estudou medicina e filosofia e foi assistente do sociólogo Karl Mannheim, em Frankfurt. Com a chegada do nazismo, deixou a Alemanha em 1933 e se estabeleceu na Grã-Bretanha, onde sua carreira só deslanchou tardiamente: foi professor na Universidade de Leicester (1954–62) e passou por Gana e depois por universidades alemãs e holandesas. A mãe morreu em Auschwitz. Seu livro principal passou despercebido por décadas.",
+    "Esse livro é O Processo Civilizador (publicado em 1939 em alemão), cuja pergunta é como os europeus passaram a se comportar de modo mais contido e a sentir vergonha de ações antes comuns. Elias analisou manuais de etiqueta, como o texto de Erasmo de Roterdã sobre boas maneiras para meninos (1530), e viu mudanças graduais em hábitos como comer à mesa, assoar o nariz, cuspir e dormir. Para ele, o limiar de vergonha e delicadeza avançou ao longo de séculos, e coerções externas, como regras de convivência, foram sendo convertidas em autocontrole interiorizado. Isso se ligou à formação do Estado, que concentrou o monopólio da violência física e dos impostos (ideia que ele retoma de Max Weber), tornando os conflitos cotidianos menos violentos e exigindo previsão e moderação. A sociedade de corte, estudada em outro livro, foi o ambiente em que boas maneiras se tornaram sinal de distinção.",
+    "Elias criticou a imagem de indivíduo isolado, fechado em si, e propôs pensar em configurações: redes de pessoas interdependentes cujas ações se entrelaçam. O estudo The Established and the Outsiders (1965), com John Scotson, analisou uma comunidade operária inglesa, que chamaram de Winston Parva, e mostrou que moradores antigos estigmatizavam os recém-chegados sem diferença de cor ou classe, apenas pelo tempo de residência e pela força de seus laços, ou seja, por diferenças de poder. Em outras obras, tratou do tempo, do esporte e do conhecimento. Foi redescoberto nos anos 1960 e 1970, ganhou o Prêmio Adorno em 1977 e hoje é referência em sociologia histórica.",
+    "Há críticas importantes. Hans Peter Duerr contestou, com farta documentação, a tese sobre pudor e nudez na Idade Média. Outros apontam que Elias se baseou em manuais de etiqueta, que mostram o que se pedia, não necessariamente o que as pessoas faziam, e que a narrativa tem tom progressista e eurocêntrico. Zygmunt Bauman argumentou que o Holocausto não pode ser entendido como retrocesso do processo civilizador, mas como algo que a racionalidade moderna também tornou possível. Elias tratou do tema em Os Alemães (1989), em que discute processos de descivilização."
+  ],
+  "tags": [
+    "Histórico-comparativo",
+    "Teórico"
+  ],
+  "influencias": [
+    "max-weber"
+  ],
+  "obras": [
+    {
+      "ano": "1939",
+      "titulo": "Über den Prozeß der Zivilisation",
+      "link": ""
+    },
+    {
+      "ano": "1965",
+      "titulo": "The Established and the Outsiders (com Scotson)",
+      "link": ""
+    },
+    {
+      "ano": "1969",
+      "titulo": "Die höfische Gesellschaft",
+      "link": ""
+    },
+    {
+      "ano": "1970",
+      "titulo": "Was ist Soziologie?",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hans-selye",
+  "nome": "Hans Selye",
+  "periodo": "1907–1982",
+  "disciplinas": [
+    "Psicofisiologia"
+  ],
+  "resumo": "Endocrinologista austro-canadense que descreveu a síndrome geral de adaptação e popularizou o conceito biológico de estresse.",
+  "bio": [
+    "Hans Selye (1907–1982) nasceu em Viena e cresceu na atual Eslováquia, filho de um médico militar. Formou-se em medicina em Praga e, após estágios nos Estados Unidos, fixou-se no Canadá, primeiro na Universidade McGill e, a partir de 1945, na Universidade de Montreal, onde dirigiu o Instituto de Medicina e Cirurgia Experimentais. Seu interesse nasceu de uma decepção: nos anos 1930, injetava extratos de órgãos em ratos esperando descobrir um novo hormônio e viu sempre as mesmas alterações, quaisquer que fossem as substâncias.",
+    "Em 1936, em uma breve nota na revista Nature, descreveu o que chamou de síndrome produzida por diversos agentes nocivos. Os animais apresentavam aumento das glândulas adrenais, atrofia do timo e de outros tecidos linfáticos e úlceras no estômago, e a mesma tríade surgia com frio, fadiga, traumas ou toxinas. Selye concluiu que, além das reações específicas a cada agressão, o organismo tem uma resposta geral e inespecífica, e deu a ela o nome de síndrome geral de adaptação. Descreveu três fases: alarme, em que o corpo mobiliza suas defesas; resistência, em que se adapta ao agente persistente; e exaustão, quando a capacidade de adaptação se esgota. Mostrou que o eixo hipófise-adrenal, com a liberação de hormônios como o cortisol, era peça central do processo. Tomou da física a palavra estresse (stress) para designar o conjunto dessa resposta.",
+    "Selye propôs também que o estresse prolongado poderia contribuir para doenças que chamou de doenças de adaptação, como hipertensão e úlceras, e mais tarde distinguiu o estresse prejudicial, o distress, do estimulante, o eustress. Publicou centenas de artigos e livros, entre eles The Stress of Life (1956), que o tornou conhecido do grande público, e viajou pelo mundo difundindo o conceito. Reconheceu a influência de Walter Cannon, cujo trabalho sobre a reação de emergência do organismo havia aberto caminho para pensar a resposta fisiológica a ameaças.",
+    "O conceito de estresse tornou-se central na medicina e na psicologia, e Selye é considerado fundador do campo. A literatura posterior, porém, fez ressalvas importantes: a ideia de uma resposta totalmente inespecífica foi refinada por pesquisas que mostram que o padrão hormonal varia conforme o tipo de situação e, sobretudo, conforme a interpretação psicológica que o indivíduo faz dela, aspecto que Selye valorizava pouco no início. Além disso, a palavra estresse passou a ser usada de modos distintos, o que a torna imprecisa. Trabalhos como os de Bruce McEwen sobre alostase e carga alostática desenvolveram o tema sobre bases mais detalhadas."
+  ],
+  "tags": [
+    "Experimental",
+    "Modelagem animal"
+  ],
+  "influencias": [
+    "walter-cannon"
+  ],
+  "obras": [
+    {
+      "ano": "1936",
+      "titulo": "A syndrome produced by diverse nocuous agents",
+      "link": ""
+    },
+    {
+      "ano": "1946",
+      "titulo": "The general adaptation syndrome and the diseases of adaptation",
+      "link": ""
+    },
+    {
+      "ano": "1956",
+      "titulo": "The Stress of Life",
+      "link": ""
+    }
+  ]
+}

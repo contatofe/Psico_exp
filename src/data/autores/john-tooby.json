@@ -1,0 +1,45 @@
+{
+  "id": "john-tooby",
+  "nome": "John Tooby",
+  "periodo": "1952–2023",
+  "disciplinas": [
+    "Psicologia evolutiva"
+  ],
+  "resumo": "Antropólogo que, com Leda Cosmides, fundou a psicologia evolutiva moderna e defendeu que a mente humana é um conjunto de adaptações especializadas.",
+  "bio": [
+    "John Tooby foi um antropólogo norte-americano, professor da Universidade da Califórnia em Santa Bárbara, onde codirigiu com Leda Cosmides o Centro de Psicologia Evolutiva. Doutorou-se em Harvard, em um ambiente que unia antropologia, primatologia e biologia evolutiva, e sua obra nasceu da percepção de que as ciências sociais e a psicologia ignoravam o que a biologia evolutiva sabia sobre o desenho de organismos. Sua parceria intelectual e pessoal com Cosmides foi decisiva para todo o programa de pesquisa da área.",
+    "Tooby e Cosmides criticaram o que chamaram de modelo padrão das ciências sociais, a ideia de que a mente humana nasceria como uma folha em branco ou como um processador de propósito geral, e que o conteúdo mental viria quase todo da cultura. Para eles, a mente é como um canivete suíço: um conjunto de mecanismos especializados, cada um moldado pela seleção natural para resolver um problema recorrente enfrentado por nossos ancestrais, como escolher parceiros, detectar enganadores, evitar doenças, reconhecer parentes e avaliar ameaças. Um órgão de uso geral, argumentavam, não resolveria bem esses problemas, que exigem informação específica do domínio. A metáfora ficou associada à tese da modularidade, em versão mais flexível do que a de Jerry Fodor.",
+    "Uma noção importante em suas análises é a do ambiente de adaptação evolutiva (environment of evolutionary adaptedness): como a seleção natural trabalha lentamente, os mecanismos psicológicos atuais foram moldados para condições ancestrais, em grande parte as de caçadores-coletores do Pleistoceno, e podem não funcionar da melhor forma em ambientes modernos. Tooby também contribuiu para o estudo da psicologia coalicional, mostrando em experimentos que a percepção de raça pode ser reduzida quando as pessoas são colocadas em coalizões que cruzam categorias raciais, o que sugere que a categorização por raça seria subproduto de mecanismos de detecção de alianças. Organizou, com Cosmides e Jerome Barkow, o volume The Adapted Mind (1992), que consolidou a área.",
+    "O legado de Tooby é a institucionalização da psicologia evolutiva e a insistência em integrar ciência cognitiva e biologia evolutiva. As críticas são numerosas e bem documentadas: há quem questione a hipótese de uma modularidade massiva da mente, a reconstrução dos ambientes ancestrais, que seria especulativa, e o risco de explicações que servem a qualquer resultado (just-so stories). Seus defensores respondem com testes empíricos em várias culturas e com modelos teóricos explícitos. Tooby faleceu em 2023."
+  ],
+  "tags": [
+    "Teórico",
+    "Modelagem evolutiva"
+  ],
+  "influencias": [
+    "robert-trivers",
+    "noam-chomsky"
+  ],
+  "obras": [
+    {
+      "ano": "1990",
+      "titulo": "The Past Explains the Present: Emotional Adaptations and the Structure of Ancestral Environments (com L. Cosmides)",
+      "link": ""
+    },
+    {
+      "ano": "1992",
+      "titulo": "The Adapted Mind: Evolutionary Psychology and the Generation of Culture (org., com J. Barkow e L. Cosmides)",
+      "link": ""
+    },
+    {
+      "ano": "2001",
+      "titulo": "Can Race Be Erased? Coalitional Computation and Social Categorization (com R. Kurzban e L. Cosmides)",
+      "link": ""
+    },
+    {
+      "ano": "2005",
+      "titulo": "Conceptual Foundations of Evolutionary Psychology (com L. Cosmides)",
+      "link": ""
+    }
+  ]
+}

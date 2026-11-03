@@ -1,0 +1,44 @@
+{
+  "id": "allen-neuringer",
+  "nome": "Allen Neuringer",
+  "periodo": "1940–presente",
+  "disciplinas": [
+    "Análise Experimental do Comportamento"
+  ],
+  "resumo": "Mostrou que a variabilidade do comportamento pode ser reforçada como qualquer operante, aproximando análise do comportamento, criatividade e ação voluntária.",
+  "bio": [
+    "Allen Neuringer é psicólogo experimental ligado ao Reed College, nos Estados Unidos, e trabalha na tradição da análise experimental do comportamento iniciada por Skinner. Durante décadas estudou pombos, ratos e pessoas em laboratório. Uma de suas perguntas centrais foi esta: se o comportamento operante é aquele selecionado por suas consequências, essas consequências também podem selecionar a variação, e não apenas a repetição?",
+    "A resposta mais conhecida veio de um estudo de 1985 com Susan Page, intitulado “Variability is an operant”. Pombos podiam bicar duas teclas e eram reforçados com comida apenas quando a sequência de bicadas diferia das sequências produzidas nas tentativas anteriores, como nos esquemas chamados Lag n. Os animais passaram a gerar sequências muito variadas. Quando a comida era entregue independentemente de a sequência ser nova ou repetida, a variabilidade caía. A variação, portanto, respondia às consequências e não era apenas ruído. Resultados semelhantes já haviam sido obtidos por Karen Pryor e colegas, que treinaram golfinhos a emitir comportamentos inéditos.",
+    "Neuringer também perguntou se pessoas conseguem agir de modo aleatório. Em 1986, mostrou que, ao receber retorno estatístico sobre o próprio desempenho, os participantes aprendiam a produzir sequências muito próximas do acaso, o que contrariava a ideia de que seres humanos seriam incapazes disso. Em 2010, com Chris Jensen, argumentou que a variabilidade operante oferece uma base empírica para discutir ação voluntária e livre-arbítrio: um comportamento voluntário seria aquele que pode ser previsível quando há reforço para repetir e imprevisível quando há reforço para variar.",
+    "Revisões posteriores reuniram evidências em diferentes espécies e aplicações, como criatividade, solução de problemas e aprendizagem de novas habilidades. O trabalho amplia o conceito de operante: não só topografias específicas de resposta, mas também o grau de variabilidade pode ser selecionado por consequências, o que responde à crítica de que o behaviorismo descreveria apenas comportamento repetitivo. Críticos lembram que a aleatoriedade produzida em laboratório não equivale à criatividade humana, que costuma exigir novidade com valor."
+  ],
+  "tags": [
+    "Experimental",
+    "Modelagem animal"
+  ],
+  "influencias": [
+    "b-f-skinner"
+  ],
+  "obras": [
+    {
+      "ano": "1985",
+      "titulo": "Variability is an operant (com Page)",
+      "link": ""
+    },
+    {
+      "ano": "1986",
+      "titulo": "Can people behave “randomly”?: The role of feedback",
+      "link": ""
+    },
+    {
+      "ano": "2002",
+      "titulo": "Operant variability: Evidence, functions, and theory",
+      "link": ""
+    },
+    {
+      "ano": "2010",
+      "titulo": "Operant variability and voluntary action (com Jensen)",
+      "link": ""
+    }
+  ]
+}

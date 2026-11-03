@@ -1,0 +1,37 @@
+{
+  "id": "karl-von-frisch",
+  "nome": "Karl von Frisch",
+  "periodo": "1886–1982",
+  "disciplinas": [
+    "Etologia"
+  ],
+  "resumo": "Zoólogo austríaco que provou a visão de cores nas abelhas e decifrou a dança com que elas comunicam a direção e a distância do alimento.",
+  "bio": [
+    "Karl von Frisch nasceu em Viena em 1886 e fez carreira como zoólogo em universidades de língua alemã, entre elas Rostock, Breslau, Graz e, por muitos anos, Munique. Passou a vida estudando como os sentidos dos animais, sobretudo de abelhas e peixes, são usados na vida real, e fez do apiário o seu laboratório.",
+    "Seu primeiro grande resultado foi mostrar que as abelhas enxergam cores. Na época, um pesquisador influente afirmava que elas eram cegas para cores. Von Frisch treinou abelhas associando um cartão colorido a uma solução de açúcar e depois as colocou diante de cartões cinzentos de vários tons: as abelhas continuavam a procurar o cartão da cor aprendida, o que não seria possível se só distinguissem claro e escuro. Em seguida, mapeou quais cores elas distinguem e descobriu que sua visão se estende ao ultravioleta, e que são insensíveis ao vermelho.",
+    "Sua descoberta mais famosa é a linguagem das danças. Quando uma abelha encontra alimento, volta à colmeia e dança sobre o favo vertical. Se a fonte é próxima, faz uma dança em círculos; se está mais longe, faz a dança do requebrado, em que percorre uma linha reta balançando o abdômen. O ângulo dessa linha em relação à vertical indica o ângulo entre a direção do alimento e a posição do sol, e a duração do requebrado informa a distância. As companheiras de colmeia usam essa informação para voar até o local. Ele também investigou como as abelhas se orientam com o sol e com a luz polarizada do céu, mesmo quando o sol está encoberto.",
+    "Von Frisch resumiu esse trabalho em livros como \"Aus dem Leben der Bienen\" e em \"Tanzsprache und Orientierung der Bienen\", e recebeu o Prêmio Nobel de Fisiologia ou Medicina em 1973, com Lorenz e Tinbergen. Sua interpretação da dança foi contestada nos anos 1960 pelo pesquisador Adrian Wenner, que defendia que o odor do alimento bastava para guiar as abelhas. Experimentos posteriores, incluindo o rastreamento de abelhas por radar, confirmaram que a informação da dança é de fato usada. Sua obra é um dos exemplos mais claros de comunicação simbólica em animais não humanos."
+  ],
+  "tags": [
+    "Experimental",
+    "Trabalho de campo"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1914",
+      "titulo": "Der Farbensinn und Formensinn der Biene",
+      "link": ""
+    },
+    {
+      "ano": "1927",
+      "titulo": "Aus dem Leben der Bienen",
+      "link": ""
+    },
+    {
+      "ano": "1965",
+      "titulo": "Tanzsprache und Orientierung der Bienen",
+      "link": ""
+    }
+  ]
+}

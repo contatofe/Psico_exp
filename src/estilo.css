@@ -1,0 +1,466 @@
+/* Fichário científico: papel claro, mesa de grafite, cores como coordenadas. */
+:root {
+  --mesa: #2f2f2f; --folha: #efefec; --tinta: #20211f; --tinta-2: #484a46;
+  --tinta-3: #646660; --fio: #caccc5; --fio-forte: #969a91; --aba-fundo: #e1e2dc;
+  --fonte: 'Atkinson Hyperlegible Mono', ui-monospace, Menlo, monospace;
+  --leitura: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --margem: clamp(12px, 2.2vw, 42px); --espaco: clamp(24px, 4.4vw, 76px);
+  --raio: 4px; --saida: cubic-bezier(.16, 1, .3, 1); --linha-pasta: 1px;
+  color-scheme: light;
+}
+.col-0 { --cor: #0b9d4a; --sobre-cor: #142318; }
+.col-1 { --cor: #3f6bb4; --sobre-cor: #fff; }
+.col-2 { --cor: #eec626; --sobre-cor: #30280a; }
+.col-3 { --cor: #eb4e1b; --sobre-cor: #23150e; }
+.col-0, .col-1, .col-2, .col-3 {
+  --cor-clara: color-mix(in srgb, var(--cor) 15%, var(--folha));
+  --cor-media: color-mix(in srgb, var(--cor) 28%, var(--folha));
+}
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scrollbar-color: #8b8d85 var(--mesa); scroll-padding-top: 24px; }
+body { margin: 0; background: var(--mesa); color: var(--tinta); font: 400 15px/1.55 var(--fonte); -webkit-font-smoothing: antialiased; caret-color: var(--tinta); }
+#root { max-width: 1920px; margin: auto; }
+img { display: block; max-width: 100%; }
+a { color: inherit; text-underline-offset: .24em; text-decoration-thickness: 1px; }
+button, input, select { font: inherit; color: inherit; }
+button { cursor: pointer; }
+button:disabled { cursor: default; opacity: .4; }
+button, a, input, select { -webkit-tap-highlight-color: transparent; }
+button:active:not(:disabled) { transform: translateY(1px); }
+svg { flex-shrink: 0; }
+h1, h2, h3, p, figure { margin: 0; }
+h1, h2, h3 { line-height: 1.04; font-weight: 450; letter-spacing: -.035em; text-wrap: balance; }
+p { text-wrap: pretty; }
+::selection { background: var(--tinta); color: var(--folha); }
+:focus-visible { outline: 2px solid var(--tinta); outline-offset: 5px; }
+kbd { font: inherit; font-size: 11px; border: 1px solid currentColor; border-radius: 3px; padding: 1px 5px; }
+.visualmente-oculto { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.pular { position: fixed; left: 20px; top: -70px; z-index: 100; background: var(--folha); padding: 12px 20px; }
+.pular:focus { top: 12px; }
+.titulo-ponto { color: var(--tinta-3); }
+.ficha-periodo, .obra-ano, .lt-ano, .fa-periodo, .endereco { font-variant-numeric: tabular-nums; }
+::view-transition-old(root) { animation: pagina-sai .12s ease-out both; }
+::view-transition-new(root) { animation: pagina-entra .18s var(--saida) both; }
+@keyframes pagina-sai { to { opacity: 0; } }
+@keyframes pagina-entra { from { opacity: 0; } }
+
+/* A navegação é a borda do arquivo; a aba selecionada se funde à folha. */
+.topo :focus-visible { outline-color: var(--folha); }
+.topo { display: flex; align-items: flex-end; margin: 18px var(--margem) 0; gap: 16px; }
+.abas { display: flex; position: relative; z-index: 2; min-width: 0; }
+.orelha { position: relative; flex: none; display: inline-flex; align-items: center; justify-content: center; width: clamp(84px, 10vw, 152px); height: 38px; padding: 2px 8px 0 4px; text-align: center; text-decoration: none; color: #d4d6d0; font-size: clamp(12px, 1.05vw, 16px); font-weight: 300; line-height: 1; background: url('./assets/figma/aba.svg') top / 100% 100% no-repeat; transition: color .16s ease; }
+.orelha + .orelha { margin-left: -18px; }
+.orelha:first-child { width: clamp(60px, 6.5vw, 94px); }
+.orelha[aria-current] { z-index: 30; color: var(--tinta); background: var(--folha); mask: url('./assets/figma/aba.svg') top / 100% 100% no-repeat; }
+.marca-capa { font-size: 1.2em; }
+.botao-busca { display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; margin: 0 0 2px auto; width: 40px; min-height: 36px; border: 0; padding: 8px; background: transparent; color: var(--folha); font-size: 12px; }
+.folha { position: relative; z-index: 1; margin: -1px var(--margem) var(--margem); min-height: calc(100svh - 60px - var(--margem)); background: var(--folha); border-radius: 18px; overflow: clip; outline: none; }
+
+/* A ilustração original do Figma é também a entrada para o mapa. */
+.capa-principal { position: relative; min-height: max(clamp(540px, calc(100svh - 60px - var(--margem) * 2), 840px), calc(min(46.54vw, 648px) + 48px)); overflow: hidden; }
+.capa-texto { position: relative; z-index: 2; width: 40%; padding: 42px 0 30px var(--espaco); pointer-events: none; }
+.capa-titulo { font-size: clamp(64px, 6.6vw, 100px); font-weight: 300; line-height: .98; letter-spacing: -.035em; }
+.capa-titulo > span { display: block; font-size: .64em; margin-bottom: 20px; }
+.capa-sub { margin-top: 28px; font-size: clamp(13px, 1.25vw, 18px); line-height: 1.15; }
+.abrir-arquivo { display: inline-flex; align-items: center; justify-content: space-between; gap: 28px; margin-top: 30px; padding: 14px 18px; border: 1px solid var(--tinta); background: var(--tinta); color: var(--folha); font-size: 13px; text-decoration: none; pointer-events: auto; transition: background .18s, color .18s; }
+.abrir-arquivo svg { transition: transform .2s var(--saida); }
+.capa-arquivo { display: block; position: absolute; width: min(56%, 780px); aspect-ratio: 1420 / 1180; right: 1.5%; bottom: 24px; color: var(--tinta); }
+.arquivo-svg { display: block; width: 100%; height: 100%; overflow: visible; }
+.arquivo-gaveta, .arquivo-caixa, .arquivo-caixa-frente { transition: transform .65s var(--saida); will-change: transform; }
+.ficha-cor { transition: transform .55s var(--saida); will-change: transform; }
+.ficha-verde { transition-delay: .05s; }
+.ficha-azul { transition-delay: .08s; }
+.ficha-laranja { transition-delay: .11s; }
+
+/* Contrôles communs: lignes, repères et états explicites. */
+.controle { display: inline-flex; justify-content: center; align-items: center; gap: 8px; min-height: 38px; padding: 8px 13px; border: 1px solid var(--fio-forte); border-radius: 3px; background: transparent; font-size: 12px; }
+.controle[aria-pressed='true'] { border-color: var(--tinta); background: var(--tinta); color: var(--folha); }
+.alternar-vista { display: inline-flex; border: 1px solid var(--fio-forte); border-radius: 3px; padding: 3px; gap: 3px; flex-shrink: 0; }
+.alternar-vista button { display: flex; align-items: center; justify-content: center; gap: 7px; padding: 5px 9px; min-height: 31px; border: 0; border-radius: 1px; background: transparent; color: var(--tinta-2); font-size: 11px; }
+.alternar-vista svg { width: 16px; height: 16px; }
+.alternar-vista [aria-pressed='true'] { background: var(--tinta); color: var(--folha); }
+.botao-texto { border: 0; padding: 6px 0; background: transparent; text-decoration: underline; text-underline-offset: 4px; font-size: 12px; }
+.voltar { display: inline-flex; align-items: center; gap: 10px; margin-top: 32px; font-size: 12px; color: var(--tinta-2); text-decoration: none; }
+.voltar svg { width: 16px; height: 16px; }
+
+/* Figura 1: escala temporal × proximidade causal. */
+.figura { padding: 32px var(--espaco) 32px; }
+.figura-grafico { display: grid; grid-template-columns: clamp(110px, 11.8vw, 190px) minmax(0, 1fr); gap: 24px; height: clamp(480px, calc(100svh - 220px), 720px); }
+.eixo-y, .area-plano { display: grid; grid-template-rows: 62px repeat(4, 1fr); min-height: 0; }
+.area-plano { grid-template-rows: 62px 1fr; }
+.eixo-canto { align-self: end; padding-bottom: 12px; border-bottom: 1px solid var(--fio-forte); color: var(--tinta-3); font-size: 11px; line-height: 1.5; }
+.faixa-y { display: flex; flex-direction: column; gap: 6px; padding: 11px 8px 10px 0; min-height: 0; border-bottom: 1px solid var(--fio-forte); }
+.faixa-y em { font-size: 13px; font-style: normal; color: var(--tinta-3); line-height: 1; }
+.faixa-y strong { font-size: clamp(13px, 1.4vw, 21px); line-height: 1.08; font-weight: 550; overflow-wrap: anywhere; }
+.faixa-y span { font-size: 10px; color: var(--tinta-3); margin-top: auto; }
+.faixa-y.ativa { border-color: var(--tinta); }
+.faixa-y.ativa em { color: var(--tinta); }
+.faixa-y .nome-curto { display: none; }
+.titulos-colunas { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; align-items: end; padding-bottom: 14px; }
+.titulo-coluna { display: flex; gap: 4px; font-size: clamp(12px, 1.45vw, 22px); line-height: 1.07; }
+.titulo-coluna span { overflow-wrap: anywhere; max-width: 13ch; }
+.titulo-coluna b { font-weight: 500; }
+.atenuada { opacity: .3; }
+.plano { position: relative; cursor: crosshair; touch-action: pan-y; }
+.campo-coluna { position: absolute; top: 0; bottom: 0; width: calc(25% - 6px); margin-left: 3px; background: var(--cor-clara); border-radius: 4px; pointer-events: none; transition: opacity .18s; }
+.campo-linha { position: absolute; left: 0; right: 0; height: 25%; background: rgb(32 33 31 / .04); pointer-events: none; }
+.grade-h { position: absolute; left: 0; right: 0; height: 1px; border-top: 1px dashed var(--fio-forte); pointer-events: none; }
+.mira-v, .mira-h { position: absolute; z-index: 1; pointer-events: none; background: var(--tinta); opacity: 0; }
+.mira-v { left: var(--mira-x); top: 0; bottom: 0; width: 1px; }
+.mira-h { top: var(--mira-y); left: 0; right: 0; height: 1px; }
+.ponto { position: absolute; z-index: 2; width: var(--d); height: var(--d); margin: calc(var(--d) / -2) 0 0 calc(var(--d) / -2); border-radius: 50%; text-decoration: none; cursor: pointer; transition: opacity .16s; }
+.ponto::after { content: ''; position: absolute; width: max(44px, calc(var(--d) + 8px)); height: max(44px, calc(var(--d) + 8px)); left: 50%; top: 50%; transform: translate(-50%, -50%); border-radius: 50%; }
+.ponto i { display: block; width: 100%; height: 100%; background: var(--cor); border-radius: 50%; transition: transform .22s var(--saida); }
+.ponto span { position: absolute; top: calc(100% + 9px); left: 50%; transform: translateX(-50%); max-width: 210px; width: max-content; z-index: 5; background: var(--tinta); color: var(--folha); padding: 6px 9px; font-size: 11px; line-height: 1.3; opacity: 0; pointer-events: none; transition: opacity .12s; }
+.ponto.rotulo-esquerda span { left: auto; right: -8px; transform: none; }
+.ponto.ativo { z-index: 8; }
+.ponto.ativo i, .ponto:focus-visible i { transform: scale(1.16); outline: 1px solid var(--tinta); outline-offset: 4px; }
+.ponto.ativo span, .ponto:focus-visible span { opacity: 1; }
+.ponto:focus-visible { outline: none; }
+.plano.com-foco .ponto:not(.ativo) { opacity: .25; }
+.legenda { margin-top: 24px; color: var(--tinta-3); font-size: 11px; line-height: 1.6; max-width: 130ch; }
+.legenda b { color: var(--tinta); font-weight: 550; }
+.legenda a { color: var(--tinta); white-space: nowrap; }
+.indice-disciplinas { display: grid; grid-template-columns: 1fr 1fr; gap: 38px; }
+.indice-disciplinas h2 { display: flex; align-items: baseline; gap: 16px; font-size: 22px; padding: 18px 0; border-top: 1px solid var(--tinta); }
+.indice-disciplinas h2 > span { font-size: 12px; color: var(--tinta-3); }
+.indice-disciplinas ul { list-style: none; margin: 0; padding: 0; }
+.indice-disciplinas li a { display: flex; align-items: center; gap: 14px; padding: 16px 0; border-top: 1px solid var(--fio); text-decoration: none; font-size: 13px; }
+.indice-disciplinas li a > span { flex: 1; }
+.indice-disciplinas small { display: block; font-size: 10px; color: var(--tinta-3); margin-top: 4px; }
+
+/* Páginas editoriais. */
+.pagina { max-width: 1520px; margin: auto; padding: 0 var(--espaco) 90px; }
+.pagina-indice { padding-top: 32px; }
+.cabeca { display: grid; grid-template-columns: 1.1fr 1fr; align-items: end; gap: 36px; padding: 58px 0 40px; border-bottom: 1px solid var(--tinta); margin-bottom: 32px; }
+.cabeca h1 { font-size: clamp(42px, 5.8vw, 86px); overflow-wrap: anywhere; }
+.lede { font: 400 clamp(17px, 1.5vw, 21px)/1.55 var(--leitura); color: var(--tinta-2); max-width: 48ch; }
+.lede a { font-weight: 500; }
+.cabeca-etiquetas { margin-top: 12px; }
+.filtros { display: flex; align-items: end; gap: 24px; padding: 8px 0 25px; }
+.campo { display: flex; flex-direction: column; min-width: 0; flex: 1; }
+.campo > span { font-size: 10px; color: var(--tinta-3); margin-bottom: 8px; }
+.campo input, .campo select { width: 100%; min-width: 0; border: 0; border-bottom: 1px solid var(--fio-forte); border-radius: 0; padding: 11px 0; min-height: 44px; font-size: 13px; background: transparent; }
+.campo select { cursor: pointer; padding-right: 22px; text-overflow: ellipsis; }
+.campo input::placeholder { color: var(--tinta-3); }
+.campo-busca { flex: 1.3; }
+.campo-busca > div { display: flex; align-items: center; gap: 10px; border-bottom: 1px solid var(--fio-forte); }
+.campo-busca input { border: 0; }
+.campo-busca svg { width: 17px; }
+.resultado-barra { display: flex; gap: 20px; align-items: center; justify-content: space-between; margin: 0 0 32px; font-size: 11px; color: var(--tinta-2); }
+.resultado-barra .botao-texto { margin-left: 0; }
+.vazio { padding: 52px 0; color: var(--tinta-2); font-size: 15px; }
+.vazio .controle { margin-top: 24px; }
+
+/* Retratos existentes, arquivados como pranchas. */
+.retrato { position: relative; overflow: hidden; container-type: inline-size; background: var(--tinta); }
+.retrato img { width: 100%; height: 100%; object-fit: cover; object-position: center 22%; filter: grayscale(1) contrast(1.06); }
+.retrato.sem-foto { background: var(--cor-clara); color: var(--tinta); display: flex; }
+.retrato-nome { display: flex; flex-direction: column; justify-content: flex-end; width: 100%; padding: 8cqi 7cqi 10cqi; font-weight: 400; line-height: 1; letter-spacing: -.04em; overflow-wrap: anywhere; }
+.retrato-iniciais { margin: auto; font-weight: 400; font-size: 35cqi; line-height: 1; }
+.grade-figuras { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 38px 22px; }
+.figura-autor { display: block; min-width: 0; text-decoration: none; padding-top: 27px; position: relative; }
+.fa-aba { position: absolute; top: 0; left: 0; height: 28px; width: 100%; display: flex; justify-content: space-between; align-items: center; font-size: 10px; }
+.fa-aba b { display: inline-flex; align-items: center; width: 74px; height: 28px; padding: 0 12px; font-weight: 400; background: var(--cor-clara); border: 1px solid var(--fio-forte); border-bottom: 0; border-radius: 6px 10px 0 0; }
+.fa-aba svg { width: 16px; height: 16px; opacity: 0; transform: translateX(-5px); transition: opacity .18s, transform .22s var(--saida); }
+.figura-autor .retrato { aspect-ratio: 4 / 5; border-radius: 0 3px 3px 3px; }
+.figura-autor img { transition: transform .45s var(--saida); }
+.fa-legenda { display: grid; gap: 5px; padding: 13px 0 14px; border-bottom: 1px solid var(--fio-forte); }
+.fa-nome { font-weight: 500; font-size: 14px; line-height: 1.3; }
+.fa-periodo { font-size: 10px; color: var(--tinta-3); }
+.indice-autores { list-style: none; padding: 0; margin: 0; }
+.indice-autores a { display: flex; align-items: center; gap: 22px; padding: 14px 0; border-top: 1px solid var(--fio); text-decoration: none; }
+.indice-autores .retrato { width: 46px; height: 55px; flex-shrink: 0; }
+.ia-nome { flex: 1; font-size: 17px; min-width: 0; }
+.ia-nome small { display: block; font-size: 11px; color: var(--tinta-3); margin-top: 5px; }
+.ia-periodo { font-size: 12px; color: var(--tinta-3); }
+.endereco { display: inline-block; flex-shrink: 0; padding: 3px 7px; background: var(--cor-clara); color: var(--tinta); font-size: 11px; font-weight: 500; border-radius: 2px; }
+.etiqueta { display: inline-flex; align-items: center; gap: 8px; padding: 3px 9px 3px 3px; text-decoration: none; font-size: 11px; line-height: 1.4; background: var(--cor-clara); color: var(--tinta); border-radius: 2px; }
+.etiqueta b { align-self: stretch; display: inline-flex; align-items: center; padding: 2px 6px; background: var(--cor); color: var(--sobre-cor); font-size: 10px; font-weight: 500; white-space: nowrap; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip-autor { display: inline-flex; align-items: center; gap: 10px; padding: 4px 11px 4px 4px; border: 1px solid var(--fio); text-decoration: none; font-size: 12px; }
+.chip-autor .retrato { width: 28px; height: 32px; flex-shrink: 0; }
+
+/* Fiche biographique: grand portrait et lecture calme. */
+.ficha { display: grid; grid-template-columns: minmax(0, .92fr) minmax(0, 1.08fr); }
+.ficha-prancha { position: sticky; top: 0; height: min(100svh, 1050px); margin: 0; border-right: 1px solid var(--fio-forte); }
+.ficha-prancha .retrato { width: 100%; height: 100%; }
+.ficha-prancha .sem-foto { background: var(--cor-clara); }
+.ficha-prancha figcaption { position: absolute; left: 0; bottom: 0; padding: 12px 20px; width: 100%; background: var(--folha); border-top: 1px solid var(--fio-forte); color: var(--tinta-2); font-size: 10px; }
+.ficha-prancha .retrato-nome { padding-bottom: calc(10cqi + 36px); }
+.ficha-texto { min-width: 0; padding: 0 clamp(26px, 4vw, 72px) 72px; }
+.ficha-texto .voltar { margin-bottom: 50px; }
+.ficha-cabeca h1 { font-size: clamp(40px, 4.7vw, 76px); line-height: 1.04; overflow-wrap: anywhere; }
+.ficha-periodo { margin-top: 20px; font-size: 12px; color: var(--tinta-3); }
+.ficha-disciplinas { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+.ficha-resumo { margin: 36px 0; padding-top: 28px; border-top: 1px solid var(--tinta); font: 400 clamp(21px, 2vw, 28px)/1.45 var(--leitura); }
+.ficha-bio { max-width: 70ch; font: 400 18px/1.8 var(--leitura); color: var(--tinta-2); }
+.ficha-bio p + p { margin-top: 1.3em; }
+.pendente { color: var(--tinta-3); }
+.ficha-dados { margin: 48px 0 0; }
+.ficha-dados > div { padding: 22px 0; border-top: 1px solid var(--fio-forte); }
+.ficha-dados dt { font-size: 11px; color: var(--tinta-3); margin-bottom: 16px; }
+.ficha-dados dd { margin: 0; font-size: 14px; line-height: 1.55; }
+.obras, .lista-links { list-style: none; margin: 0; padding: 0; display: grid; gap: 13px; }
+.obras li { display: grid; grid-template-columns: 52px minmax(0, 1fr); gap: 12px; }
+.obra-ano { color: var(--tinta-3); font-size: 12px; }
+.vizinhos { display: grid; grid-template-columns: 1fr 1fr; gap: 26px; margin-top: 56px; padding-top: 24px; border-top: 1px solid var(--tinta); }
+.vizinhos a { text-decoration: none; font-size: 20px; line-height: 1.25; overflow-wrap: anywhere; }
+.vizinhos small { display: block; font-size: 10px; color: var(--tinta-3); margin-bottom: 12px; }
+.vizinhos .fim { text-align: right; }
+
+/* Dossiers de disciplines et fiches de théories. */
+.pasta-disciplina { margin-top: 42px; }
+.aba { display: inline-flex; align-items: center; gap: 10px; position: relative; }
+.aba-pasta { max-width: 100%; padding: 10px 24px 10px 12px; background: var(--cor-clara); border: 1px solid var(--fio-forte); border-bottom: 0; border-radius: 6px 20px 0 0; font-size: 11px; }
+.aba-pasta b { font-weight: 500; white-space: nowrap; padding: 3px 6px; background: var(--cor); color: var(--sobre-cor); }
+.pasta-corpo { padding: clamp(28px, 4vw, 58px); background: var(--cor-clara); border-top: 1px solid var(--fio-forte); }
+.pasta-corpo h1 { font-size: clamp(36px, 5vw, 76px); max-width: 20ch; overflow-wrap: anywhere; }
+.pasta-corpo .lede { margin-top: 28px; max-width: 62ch; color: var(--tinta); }
+.secao { margin-top: 55px; }
+.secao h2 { display: flex; align-items: baseline; gap: 12px; font-size: 30px; margin-bottom: 28px; }
+.secao h2 > span { font-size: 12px; color: var(--tinta-3); }
+.lista-teorias { list-style: none; margin: 0; padding: 28px 0 0; display: grid; gap: 34px; }
+.lista-teorias a { position: relative; display: grid; grid-template-columns: 54px minmax(0, 1fr) auto 20px; align-items: center; gap: 20px; padding: 26px 24px; min-height: 100px; background: var(--cor-clara); border: 1px solid var(--fio-forte); border-radius: 3px; text-decoration: none; transition: background .18s, transform .22s var(--saida); }
+.lt-ano { position: absolute; bottom: 100%; left: var(--recuo, 0); padding: 5px 20px 5px 12px; min-width: 85px; background: var(--cor-clara); border: 1px solid var(--fio-forte); border-bottom: 0; border-radius: 6px 14px 0 0; font-size: 11px; }
+.lt-endereco { align-self: start; padding-top: 4px; font-size: 11px; }
+.lt-nome { font-size: clamp(18px, 1.8vw, 26px); line-height: 1.2; font-weight: 450; overflow-wrap: anywhere; }
+.lt-nome small { display: block; font-size: 11px; line-height: 1.5; font-weight: 400; margin-top: 9px; }
+.lt-formula { font-size: 15px; max-width: 30ch; overflow-wrap: anywhere; }
+.teoria .cabeca { display: block; margin-bottom: 36px; padding-top: 34px; }
+.teoria .cabeca h1 { font-size: clamp(36px, 4.8vw, 74px); max-width: 25ch; }
+.formula { padding: 48px 38px; background: var(--cor-clara); border-top: 1px solid var(--tinta); border-bottom: 1px solid var(--tinta); color: var(--tinta); font-size: clamp(26px, 5vw, 68px); line-height: 1.25; overflow-x: auto; }
+.teoria-corpo { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 60px; margin-top: 42px; }
+.teoria-corpo aside { border-top: 1px solid var(--fio-forte); padding-top: 16px; }
+.rotulo { font-size: 12px; letter-spacing: 0; margin-bottom: 20px; }
+.sobre .cabeca { padding-bottom: 48px; }
+.sobre-eixos { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; }
+.sobre-eixos h2 { font-size: 24px; max-width: 22ch; }
+.sobre-eixos > section > p { color: var(--tinta-3); margin: 12px 0 24px; font-size: 12px; }
+.sobre-eixos ol { list-style: none; margin: 0; padding: 0; }
+.sobre-eixos li { padding: 18px 0; border-top: 1px solid var(--fio-forte); font-size: 16px; }
+.sobre-eixos li b { font-size: 11px; font-weight: 400; margin-right: 14px; }
+.sobre-eixos li small { display: block; font-size: 12px; color: var(--tinta-3); margin: 8px 0 0 34px; }
+.sobre-texto { margin: 56px 0 0 auto; padding-top: 28px; border-top: 1px solid var(--tinta); }
+.nao-encontrada { padding-top: 64px; }
+.nao-encontrada h1 { font-size: 54px; margin-bottom: 24px; }
+
+/* A rede assume o traço de um diagrama técnico. */
+.rede-ferramentas { display: flex; align-items: end; justify-content: space-between; gap: 30px; }
+.rede-ferramentas .campo { max-width: 420px; }
+.rede-leitura { display: flex; align-items: center; gap: 20px; min-height: 72px; margin-top: 24px; padding: 16px 0; border-top: 1px solid var(--tinta); color: var(--tinta-2); font-size: 11px; }
+.rede-leitura strong { font-size: 14px; font-weight: 500; }
+.rede-leitura a { display: flex; align-items: center; gap: 10px; margin-left: auto; text-decoration: none; }
+.rede-moldura { overflow-x: auto; padding: 30px 12px; border: 1px solid var(--fio-forte); background: #e7e8e2; scrollbar-color: var(--fio-forte) transparent; }
+.rede { width: 100%; min-width: 1100px; display: block; font-family: var(--fonte); }
+.rede-bloco { fill: none; stroke: var(--fio-forte); stroke-dasharray: 3 4; rx: 2; }
+.rede-bloco-nome { font-size: 11px; font-weight: 400; fill: var(--tinta-2); }
+.rede-aresta { fill: none; stroke: var(--tinta-3); stroke-width: .8; opacity: .35; transition: opacity .16s; }
+.rede-aresta.ativa { stroke: var(--tinta); stroke-width: 1.7; opacity: 1; }
+.rede-aresta.apagada { opacity: .05; }
+.rede marker path { fill: var(--tinta-3); }
+.rede-no rect { fill: var(--folha); stroke: var(--tinta-3); stroke-width: .8; rx: 2; }
+.rede-no text { font-size: 11px; font-weight: 400; fill: var(--tinta); text-anchor: middle; dominant-baseline: central; pointer-events: none; }
+.rede-no.foco rect { fill: var(--tinta); }
+.rede-no.foco text { fill: var(--folha); }
+.rede-no.apagado { opacity: .25; }
+.rede-no { cursor: pointer; transition: opacity .16s; }
+.rede-no:focus-visible { outline: none; }
+.rede-no:focus-visible rect { stroke-width: 2.5; }
+
+/* Linha do tempo: régua contínua, nomes fixos e escala ajustável. */
+.crono-filtro { max-width: 420px; margin-bottom: 26px; }
+.crono-ferramentas { display: flex; align-items: center; gap: 6px; margin-bottom: 14px; }
+.crono-ferramentas button { min-width: 38px; min-height: 38px; padding: 0 12px; border: 1px solid var(--fio-forte); border-radius: 2px; background: transparent; font-size: 18px; line-height: 1; }
+.crono-ferramentas .crono-reset { font-size: 11px; margin-left: 6px; }
+.crono-ferramentas output { min-width: 58px; text-align: center; font-size: 12px; font-variant-numeric: tabular-nums; }
+.crono-dica { margin-left: auto; font-size: 10px; color: var(--tinta-3); }
+.crono-moldura { overflow: auto; max-height: 74vh; overscroll-behavior: contain; border: 1px solid var(--fio-forte); scrollbar-color: var(--fio-forte) var(--folha); }
+.crono { width: calc(var(--largura) + 200px); }
+.crono-eixo, .crono-grupo { display: grid; grid-template-columns: 200px 1fr; }
+.crono-eixo { position: sticky; top: 0; z-index: 3; background: var(--folha); border-bottom: 1px solid var(--tinta); }
+.crono-rotulo { position: sticky; left: 0; z-index: 2; padding: 16px; background: var(--cor-clara, var(--folha)); border-right: 1px solid var(--fio-forte); text-decoration: none; font-size: 13px; line-height: 1.35; }
+.crono-eixo .crono-rotulo { font-size: 11px; }
+.crono-rotulo small { display: block; font-size: 10px; margin-top: 8px; }
+.crono-eixo .crono-trilho { height: 46px; }
+.crono-grupo { border-bottom: 1px solid var(--fio-forte); }
+.crono-grupo:last-child { border-bottom: 0; }
+.crono-trilho { position: relative; }
+.crono-marca { position: absolute; top: 15px; transform: translateX(-50%); font-size: 10px; color: var(--tinta-2); font-variant-numeric: tabular-nums; }
+.crono-grade { position: absolute; top: 0; bottom: 0; border-left: 1px dashed var(--fio); }
+.crono-vida { position: absolute; height: 34px; display: flex; align-items: center; text-decoration: none; }
+.crono-barra { position: absolute; left: 0; top: 50%; height: 2px; margin-top: -1px; background: var(--fio-forte); }
+.crono-barra.viva { background: linear-gradient(90deg, var(--fio-forte) 75%, transparent); }
+.crono-obra { position: absolute; top: 50%; width: 7px; height: 7px; margin: -3.5px 0 0 -3.5px; border-radius: 50%; background: var(--folha); border: 1px solid var(--tinta); z-index: 1; }
+.crono-vida .retrato { position: relative; z-index: 2; width: 28px; height: 30px; margin-left: -14px; outline: 2px solid var(--folha); }
+.crono-nome { position: relative; z-index: 2; margin-left: 8px; white-space: nowrap; font-size: 11px; padding: 1px 4px; background: var(--folha); }
+.crono-nome small { font-size: 10px; color: var(--tinta-3); margin-left: 6px; font-variant-numeric: tabular-nums; }
+
+/* Recherche: accès direct, navigation clavier, aucune animation d'attente. */
+.busca { width: min(720px, calc(100vw - 28px)); max-height: 82svh; margin: 9svh auto auto; padding: 0; border: 0; border-radius: 8px; background: var(--folha); color: var(--tinta); box-shadow: 0 24px 70px rgb(0 0 0 / .25); overflow: auto; }
+.busca::backdrop { background: rgb(16 18 15 / .55); }
+.busca-cabeca { display: flex; align-items: center; justify-content: space-between; padding: 18px 24px; border-bottom: 1px solid var(--fio); }
+.busca-cabeca h2 { font-size: 12px; letter-spacing: 0; font-weight: 400; }
+.busca-cabeca button { display: grid; place-items: center; width: 36px; height: 36px; border: 0; background: transparent; }
+.busca-campo { display: flex; align-items: center; gap: 16px; padding: 8px 24px; border-bottom: 1px solid var(--tinta); }
+.busca input { width: 100%; min-width: 0; padding: 16px 0; border: 0; background: transparent; outline: none; font-size: 21px; font-weight: 400; }
+.busca input::placeholder { color: var(--tinta-3); }
+.busca-contagem { padding: 16px 24px 8px; font-size: 10px; color: var(--tinta-3); }
+.busca-resultados { list-style: none; margin: 0; padding: 0; max-height: 48svh; overflow-y: auto; }
+.busca-resultados a { display: grid; grid-template-columns: 40px minmax(0, 1fr) auto; align-items: center; gap: 14px; padding: 14px 24px; text-decoration: none; }
+.busca-resultados a:focus-visible, .busca-atalhos a:focus-visible { background: var(--aba-fundo); outline: 1px solid var(--tinta); outline-offset: -3px; }
+.busca-resultados .retrato { width: 34px; height: 40px; }
+.busca-marca { font-size: 11px; }
+.busca-titulo { min-width: 0; font-size: 13px; line-height: 1.3; }
+.busca-titulo small { display: block; font-size: 10px; color: var(--tinta-3); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin-top: 5px; }
+.busca-tipo { font-size: 10px; color: var(--tinta-3); }
+.busca-vazio { padding: 24px; color: var(--tinta-2); font-size: 13px; }
+.busca-atalhos { padding: 14px 0; }
+.busca-atalhos a { display: flex; align-items: center; gap: 16px; text-decoration: none; font-size: 13px; padding: 16px 24px; }
+.busca-atalhos a > svg:last-child { margin-left: auto; }
+.busca-rodape { display: flex; gap: 20px; justify-content: flex-end; padding: 12px 24px; border-top: 1px solid var(--fio); font-size: 10px; color: var(--tinta-3); }
+.busca-rodape kbd { font-size: 9px; }
+
+@media (hover: hover) and (pointer: fine) {
+  .orelha:hover { color: #fff; }
+  .orelha[aria-current]:hover { color: var(--tinta); }
+  .abrir-arquivo:hover { background: transparent; color: var(--tinta); }
+  .abrir-arquivo:hover svg, .capa-colunas a:hover svg { transform: translateX(4px); }
+  .capa-arquivo:hover .arquivo-gaveta, .capa-principal:has(.abrir-arquivo:hover) .arquivo-gaveta { transform: translate(-26px, 10.6px); }
+  .capa-arquivo:hover .arquivo-caixa, .capa-arquivo:hover .arquivo-caixa-frente,
+  .capa-principal:has(.abrir-arquivo:hover) .arquivo-caixa, .capa-principal:has(.abrir-arquivo:hover) .arquivo-caixa-frente { transform: translate(-10px, 4.1px); }
+  .capa-arquivo:hover .ficha-amarela, .capa-principal:has(.abrir-arquivo:hover) .ficha-amarela { transform: translate(3.8px, -17px); }
+  .capa-arquivo:hover .ficha-verde, .capa-principal:has(.abrir-arquivo:hover) .ficha-verde { transform: translate(3.2px, -14.5px); }
+  .capa-arquivo:hover .ficha-azul, .capa-principal:has(.abrir-arquivo:hover) .ficha-azul { transform: translate(3.2px, -14.5px); }
+  .capa-arquivo:hover .ficha-laranja, .capa-principal:has(.abrir-arquivo:hover) .ficha-laranja { transform: translate(3.2px, -14.5px); }
+  .capa-colunas a:hover { border-color: var(--cor); }
+  .controle:hover:not(:disabled), .alternar-vista button:hover:not([aria-pressed='true']) { background: var(--aba-fundo); color: var(--tinta); }
+  .mapa-filtros button:hover { border-color: var(--fio-forte); }
+  .plano:hover .mira-v, .plano:hover .mira-h { opacity: .2; }
+  .voltar:hover, .vizinhos a:hover, .lista-relacoes a:hover, .ia-nome:hover { text-decoration: underline; }
+  .figura-autor:hover img { transform: scale(1.025); }
+  .figura-autor:hover .fa-aba svg { opacity: 1; transform: none; }
+  .figura-autor:hover .fa-legenda { border-color: var(--tinta); }
+  .chip-autor:hover { border-color: var(--tinta); }
+  .etiqueta:hover { background: var(--cor-media); }
+  .lista-teorias a:hover { background: var(--cor-media); transform: translateY(-3px); }
+  .lista-teorias a:hover .lt-ano { background: var(--cor-media); }
+  .crono-ferramentas button:hover:not(:disabled) { background: var(--tinta); color: var(--folha); }
+  .crono-vida:hover .crono-nome, a.crono-rotulo:hover { text-decoration: underline; }
+  .crono-vida:hover .crono-barra { background: var(--tinta); }
+  .busca-resultados a:hover, .busca-atalhos a:hover { background: var(--aba-fundo); }
+}
+.capa-arquivo:focus-visible .arquivo-gaveta { transform: translate(-26px, 10.6px); }
+.capa-arquivo:focus-visible .arquivo-caixa, .capa-arquivo:focus-visible .arquivo-caixa-frente { transform: translate(-10px, 4.1px); }
+.capa-arquivo:focus-visible .ficha-amarela { transform: translate(3.8px, -17px); }
+.capa-arquivo:focus-visible .ficha-verde, .capa-arquivo:focus-visible .ficha-azul, .capa-arquivo:focus-visible .ficha-laranja { transform: translate(3.2px, -14.5px); }
+
+@media (min-width: 1700px) { .grade-figuras { grid-template-columns: repeat(5, minmax(0, 1fr)); } }
+@media (max-width: 1100px) {
+  .grade-figuras { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .ficha { grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr); }
+  .ficha-texto { padding-inline: 28px; }
+  .ficha-cabeca h1 { font-size: 44px; }
+  .teoria-corpo { grid-template-columns: minmax(0, 1fr) 210px; gap: 32px; }
+  .lt-formula { max-width: 18ch; font-size: 13px; }
+  .crono-dica { display: none; }
+}
+@media (max-width: 800px) {
+  :root { --espaco: 24px; }
+  .masthead { min-height: 44px; font-size: 10px; }
+  .masthead a > span, .masthead > span { display: none; }
+  .topo { gap: 4px; }
+  .abas { flex: 1; overflow-x: auto; scrollbar-width: none; }
+  .orelha { width: 92px; height: 36px; padding: 2px 4px 0; font-size: 13px; }
+  .orelha:first-child { width: 58px; }
+  .botao-busca { margin: 0 0 2px; min-height: 34px; padding: 4px 8px; }
+  .folha { border-radius: 12px; }
+  .capa-principal { height: auto; min-height: 0; }
+  .capa-texto { width: 100%; padding: 32px 28px 0; }
+  .capa-titulo { font-size: clamp(64px, 12vw, 96px); }
+  .capa-titulo > span { font-size: .5em; margin-bottom: 14px; }
+  .capa-sub { margin-top: 22px; font-size: 15px; }
+  .abrir-arquivo { margin-top: 24px; }
+  .capa-arquivo { position: relative; bottom: auto; right: auto; width: 86%; max-width: none; margin: -20px 2% 24px auto; }
+  .cabeca { grid-template-columns: 1fr; gap: 22px; padding-top: 38px; margin-bottom: 24px; }
+  .cabeca h1 { font-size: clamp(40px, 7.5vw, 66px); }
+  .lede { font-size: 18px; }
+  .figura { padding: 24px 16px; }
+  .figura-grafico { grid-template-columns: 74px minmax(0, 1fr); gap: 8px; height: 560px; }
+  .eixo-y { grid-template-rows: 88px repeat(4, 1fr); }
+  .area-plano { grid-template-rows: 88px 1fr; }
+  .eixo-canto { font-size: 9px; padding-bottom: 10px; }
+  .faixa-y .nome-longo { display: none; }
+  .faixa-y .nome-curto { display: block; font-size: 10px; }
+  .faixa-y span { font-size: 8px; line-height: 1.4; }
+  .titulo-coluna { display: block; font-size: 10px; }
+  .titulo-coluna b { display: block; font-size: 18px; margin-bottom: 6px; }
+  .titulos-colunas { gap: 6px; padding-bottom: 12px; }
+  .ponto span { max-width: 155px; font-size: 10px; }
+  .ponto.rotulo-esquerda span { right: -3px; }
+  .filtros { flex-wrap: wrap; gap: 20px 16px; }
+  .campo-busca { flex-basis: 100%; }
+  .campo { min-width: 0; }
+  .campo input, .campo select { font-size: 16px; }
+  .resultado-barra { gap: 10px; }
+  .resultado-barra .botao-texto { display: block; margin-left: 0; }
+  .grade-figuras { gap: 28px 16px; }
+  .ficha { grid-template-columns: 1fr; }
+  .ficha-prancha { position: relative; height: min(78svh, 650px); border-right: 0; border-bottom: 1px solid var(--fio-forte); }
+  .ficha-texto { padding: 0 28px 48px; }
+  .ficha-texto .voltar { margin-bottom: 32px; }
+  .ficha-cabeca h1 { font-size: clamp(40px, 7.5vw, 64px); }
+  .ficha-resumo { font-size: 23px; margin-block: 28px; }
+  .ficha-bio { font-size: 18px; }
+  .teoria-corpo { grid-template-columns: 1fr; gap: 30px; }
+  .sobre-eixos { grid-template-columns: 1fr; gap: 36px; }
+  .lista-teorias a { grid-template-columns: minmax(0, 1fr) 20px; gap: 12px; padding: 22px 20px; }
+  .lt-endereco { grid-column: 1; font-size: 10px; }
+  .lt-nome { grid-column: 1; font-size: 20px; }
+  .lt-seta { grid-column: 2; grid-row: 1 / 3; }
+  .lt-formula { grid-column: 1 / -1; max-width: none; padding-top: 8px; font-size: 14px; }
+  .formula { padding: 28px 20px; }
+  .rede-ferramentas { flex-wrap: wrap; gap: 18px; }
+  .rede-ferramentas .campo { flex-basis: 100%; max-width: none; }
+  .rede-leitura { flex-wrap: wrap; gap: 8px 16px; padding-block: 18px; }
+  .rede-leitura > span { flex-basis: 100%; }
+  .rede-leitura a { margin-left: 0; }
+  .rede-moldura { margin-inline: -8px; }
+  .crono-eixo, .crono-grupo { grid-template-columns: 132px 1fr; }
+  .crono { width: calc(var(--largura) + 132px); }
+  .crono-rotulo { font-size: 11px; padding: 12px; }
+  .ia-periodo { display: none; }
+  .indice-autores a { gap: 12px; }
+  .ia-nome { font-size: 14px; }
+  .ia-nome small { font-size: 10px; }
+}
+@media (max-width: 520px) {
+  :root { --espaco: 22px; }
+  .capa-arquivo { margin: 20px 2% 24px auto; width: 96%; }
+  .capa-texto { padding: 30px 26px 0; }
+  .capa-titulo { font-size: 68px; }
+  .grade-figuras { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 14px; }
+  .fa-nome { font-size: 12px; }
+  .fa-periodo { font-size: 9px; }
+  .figura { padding-inline: 14px; }
+  .figura-grafico { grid-template-columns: 64px minmax(0, 1fr); }
+  .eixo-canto { font-size: 8px; }
+  .titulo-coluna { font-size: 9px; }
+  .faixa-y .nome-curto { font-size: 9px; }
+  .ponto span { max-width: 125px; }
+  .ficha-texto { padding-inline: 24px; }
+  .vizinhos a { font-size: 17px; }
+  .pasta-corpo { padding: 28px 20px; }
+  .aba-pasta { font-size: 10px; padding-right: 14px; }
+  .busca-cabeca, .busca-campo { padding-inline: 18px; }
+  .busca input { font-size: 16px; }
+  .busca-resultados a { grid-template-columns: 32px minmax(0, 1fr); gap: 12px; padding: 12px 18px; }
+  .busca-tipo { display: none; }
+  .busca-rodape { gap: 10px; padding-inline: 18px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+  .capa-arquivo:hover .arquivo-gaveta, .capa-arquivo:hover .arquivo-caixa, .capa-arquivo:hover .arquivo-caixa-frente, .capa-arquivo:hover .ficha-cor,
+  .capa-principal:has(.abrir-arquivo:hover) .arquivo-gaveta, .capa-principal:has(.abrir-arquivo:hover) .arquivo-caixa, .capa-principal:has(.abrir-arquivo:hover) .arquivo-caixa-frente, .capa-principal:has(.abrir-arquivo:hover) .ficha-cor,
+  .capa-arquivo:focus-visible .arquivo-gaveta, .capa-arquivo:focus-visible .arquivo-caixa, .capa-arquivo:focus-visible .arquivo-caixa-frente, .capa-arquivo:focus-visible .ficha-cor { transform: none; }
+}

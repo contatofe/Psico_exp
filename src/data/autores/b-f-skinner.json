@@ -1,0 +1,51 @@
+{
+  "id": "b-f-skinner",
+  "nome": "B. F. Skinner",
+  "periodo": "1904–1990",
+  "disciplinas": [
+    "Análise Experimental do Comportamento"
+  ],
+  "resumo": "Fundador da análise experimental do comportamento: mostrou como as consequências selecionam respostas e descreveu o condicionamento operante.",
+  "bio": [
+    "Burrhus Frederic Skinner nasceu em Susquehanna, na Pensilvânia, em 1904. Formou-se em literatura inglesa no Hamilton College e tentou ser escritor antes de se voltar à psicologia, atraído pelos textos de Pavlov e pela defesa do estudo do comportamento feita por Watson. Doutorou-se em Harvard em 1931, lecionou nas universidades de Minnesota e de Indiana e voltou a Harvard em 1948, onde ficou até a aposentadoria. A pergunta que o movia era como as consequências de um ato mudam a probabilidade de ele ocorrer de novo.",
+    "Skinner distinguiu o comportamento respondente, eliciado por estímulos, como a salivação estudada por Pavlov, do comportamento operante, emitido pelo organismo e mantido por suas consequências. Para estudá-lo, criou a câmara de condicionamento operante, conhecida como caixa de Skinner, e o registrador cumulativo, que traça a taxa de respostas ao longo do tempo. Com pombos e ratos, mostrou que o reforço aumenta a frequência da resposta e defendeu que a análise deve partir do organismo individual, não de médias de grupos. Sua unidade de análise é a contingência de três termos: o estímulo discriminativo (a ocasião), a resposta e a consequência.",
+    "Com Charles Ferster, Skinner estudou os esquemas de reforçamento, regras que definem quando uma resposta é reforçada. Nos esquemas de razão fixa, em que o reforço depende de um número fixo de respostas, surgem pausas após cada reforço; nos de razão variável, as taxas são altas e estáveis. Ele aplicou esses princípios ao ensino, com máquinas de ensinar e instrução programada, e, durante a Segunda Guerra Mundial, conduziu o Projeto Pigeon, tentativa de usar pombos para guiar mísseis que nunca foi empregada na prática. Em Verbal Behavior (1957), tratou a linguagem como comportamento operante, com categorias como mando e tato, proposta que sofreu dura resenha de Noam Chomsky em 1959.",
+    "Skinner também escreveu o romance Walden Two (1948) e o ensaio Beyond Freedom and Dignity (1971), em que defendeu planejar culturas por meio de contingências, o que lhe rendeu acusações de ameaçar a liberdade humana. Seu legado inclui a análise do comportamento aplicada, usada em educação e em intervenções clínicas, e modelos de escolha e autocontrole que seguem em uso. A crítica mais recorrente é a de que o behaviorismo radical deixa de lado processos internos; Skinner respondia que eventos privados são comportamento a ser explicado, não causas."
+  ],
+  "tags": [
+    "Experimental",
+    "Modelagem animal"
+  ],
+  "influencias": [
+    "edward-thorndike",
+    "ivan-pavlov",
+    "john-b-watson"
+  ],
+  "obras": [
+    {
+      "ano": "1938",
+      "titulo": "The Behavior of Organisms",
+      "link": ""
+    },
+    {
+      "ano": "1953",
+      "titulo": "Science and Human Behavior",
+      "link": ""
+    },
+    {
+      "ano": "1957",
+      "titulo": "Verbal Behavior",
+      "link": ""
+    },
+    {
+      "ano": "1957",
+      "titulo": "Schedules of Reinforcement (com Ferster)",
+      "link": ""
+    },
+    {
+      "ano": "1971",
+      "titulo": "Beyond Freedom and Dignity",
+      "link": ""
+    }
+  ]
+}

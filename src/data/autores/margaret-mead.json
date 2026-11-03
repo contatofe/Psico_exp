@@ -1,0 +1,45 @@
+{
+  "id": "margaret-mead",
+  "nome": "Margaret Mead",
+  "periodo": "1901–1978",
+  "disciplinas": [
+    "Antropologia"
+  ],
+  "resumo": "Antropóloga norte-americana, aluna de Boas, mostrou com estudos no Pacífico que adolescência e papéis de gênero variam com a cultura.",
+  "bio": [
+    "Margaret Mead nasceu na Filadélfia, em 1901. Estudou em Barnard e doutorou-se em Columbia, orientada por Franz Boas e Ruth Benedict. Passou a maior parte da carreira no Museu Americano de História Natural, em Nova York, e foi presidente da Associação Americana para o Avanço da Ciência em 1975. Morreu em 1978. Foi também uma das antropólogas mais conhecidas do público, graças a livros e colunas voltados para o grande público.",
+    "Seu primeiro livro, Coming of Age in Samoa (1928), resultou de nove meses de pesquisa, aos 23 anos, em Manu'a, na Samoa Americana. Mead testou, para uma questão debatida na psicologia da época, a ideia de que as turbulências da adolescência eram biológicas e universais. Ela descreveu jovens samoanas com transição relativamente tranquila para a vida adulta e concluiu que a cultura molda de forma decisiva a experiência da adolescência, argumento central no debate sobre natureza e criação.",
+    "Na Nova Guiné, estudou povos como Arapesh, Mundugumor e Tchambuli. Em Sex and Temperament in Three Primitive Societies (1935), afirmou que os papéis de homens e mulheres e traços tidos como masculinos ou femininos variam de uma sociedade para outra, o que influenciou debates sobre gênero. Em Bali, trabalhou com o antropólogo Gregory Bateson, de quem foi casada, e os dois usaram fotografia e filme de forma pioneira no estudo do comportamento, resultando em Balinese Character (1942).",
+    "Em 1983, o antropólogo neozelandês Derek Freeman publicou críticas severas ao trabalho em Samoa, afirmando que Mead fora enganada por suas informantes e que a sociedade samoana era mais restritiva. A polêmica gerou debate extenso. Muitos antropólogos apontam falhas metodológicas de Mead, como a curta estadia e o uso limitado do idioma, mas também falhas na crítica de Freeman, e o episódio é hoje discutido como estudo de caso sobre validade etnográfica. Seu legado inclui a valorização da cultura como variável central na formação da personalidade."
+  ],
+  "tags": [
+    "Etnográfico",
+    "Trabalho de campo",
+    "Observacional"
+  ],
+  "influencias": [
+    "franz-boas"
+  ],
+  "obras": [
+    {
+      "ano": "1928",
+      "titulo": "Coming of Age in Samoa",
+      "link": ""
+    },
+    {
+      "ano": "1930",
+      "titulo": "Growing Up in New Guinea",
+      "link": ""
+    },
+    {
+      "ano": "1935",
+      "titulo": "Sex and Temperament in Three Primitive Societies",
+      "link": ""
+    },
+    {
+      "ano": "1942",
+      "titulo": "Balinese Character: A Photographic Analysis",
+      "link": ""
+    }
+  ]
+}

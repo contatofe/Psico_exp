@@ -1,0 +1,42 @@
+{
+  "id": "anthony-greenwald",
+  "nome": "Anthony Greenwald",
+  "periodo": "1939–presente",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Criou o Teste de Associação Implícita e ajudou a mostrar que atitudes e estereótipos podem operar fora da consciência e do relato verbal.",
+  "bio": [
+    "Anthony Greenwald (nascido em 1939) é psicólogo social. Graduou-se em Yale (1959) e fez mestrado e doutorado em Harvard, este concluído em 1963. Lecionou na Ohio State University de 1965 a 1986 e, desde então, na Universidade de Washington, em Seattle. Antes de ficar conhecido pelo trabalho sobre processos implícitos, estudou persuasão, envolvimento do ego e a tendência das pessoas de reescrever o próprio passado para manter uma imagem favorável de si.",
+    "Sua contribuição central é a ideia de que parte do que sentimos e pensamos sobre grupos sociais opera de modo automático, sem que a pessoa perceba ou consiga relatar. Em 1995, com Mahzarin Banaji, ele formulou o conceito de cognição social implícita. Em 1998, com Debbie McGhee e Jordan Schwartz, publicou o Teste de Associação Implícita (IAT, na sigla em inglês). A tarefa é simples: no computador, a pessoa classifica o mais rápido possível palavras e imagens usando duas teclas de resposta. Quando categorias que a mente associa com facilidade dividem a mesma tecla (por exemplo, flores e palavras agradáveis), as respostas saem mais rápidas do que quando categorias pouco associadas dividem a tecla (por exemplo, insetos e palavras agradáveis). A diferença nos tempos de reação é lida como medida da força de uma associação. Em versões com rostos de pessoas brancas e negras, muitos participantes norte-americanos respondem mais rápido quando rostos brancos compartilham a tecla com palavras agradáveis, mesmo declarando não ter preconceito.",
+    "Greenwald, Banaji e Brian Nosek fundaram o Project Implicit, site em que qualquer pessoa pode fazer o teste e cujos dados alimentam pesquisas em larga escala. Em 2013, Greenwald e Banaji levaram o tema ao grande público no livro Blindspot. O IAT passou a ser usado em estudos sobre racismo, sexismo, saúde e também em treinamentos de diversidade em empresas e instituições.",
+    "A literatura reconhece limites importantes. A confiabilidade teste-reteste do IAT para um mesmo indivíduo é moderada, e o escore de uma pessoa varia entre aplicações. As correlações entre o teste e comportamentos discriminatórios medidos em laboratório costumam ser pequenas, e meta-análises chegaram a conclusões diferentes sobre seu valor preditivo, com debate público entre Greenwald e outros pesquisadores. Há ainda evidências de que alterar escores implícitos nem sempre altera comportamento. Por isso, muitos especialistas recomendam usar o IAT como ferramenta de pesquisa em grupos, e não como diagnóstico individual de preconceito."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1995",
+      "titulo": "Implicit social cognition: Attitudes, self-esteem, and stereotypes (com Banaji)",
+      "link": ""
+    },
+    {
+      "ano": "1998",
+      "titulo": "Measuring individual differences in implicit cognition: The Implicit Association Test (com McGhee e Schwartz)",
+      "link": ""
+    },
+    {
+      "ano": "2009",
+      "titulo": "Understanding and using the Implicit Association Test: III. Meta-analysis of predictive validity (com Poehlman, Uhlmann e Banaji)",
+      "link": ""
+    },
+    {
+      "ano": "2013",
+      "titulo": "Blindspot: Hidden Biases of Good People (com Banaji)",
+      "link": ""
+    }
+  ]
+}

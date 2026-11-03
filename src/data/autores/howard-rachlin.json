@@ -1,0 +1,51 @@
+{
+  "id": "howard-rachlin",
+  "nome": "Howard Rachlin",
+  "periodo": "1935–2021",
+  "disciplinas": [
+    "Análise Experimental do Comportamento"
+  ],
+  "resumo": "Estudou autocontrole e desconto temporal e propôs o behaviorismo teleológico, que entende a mente como padrões de comportamento estendidos no tempo.",
+  "bio": [
+    "Howard Rachlin (1935–2021) foi psicólogo na Universidade Estadual de Nova York em Stony Brook, nos Estados Unidos. Doutorou-se em Harvard, na tradição de Skinner e Herrnstein. Dedicou a carreira a duas questões: por que escolhemos recompensas imediatas pequenas em vez de recompensas maiores e tardias, e o que significa, para um behaviorista, falar de mente, intenção e propósito.",
+    "Em um estudo clássico de 1972, Rachlin e Leonard Green deram a pombos a escolha entre comida pequena e imediata e comida maior após uma espera. Os animais tendiam a escolher a opção impulsiva quando ela estava próxima, mas, quando podiam se comprometer antecipadamente com a opção maior e tardia, bloqueando a alternativa impulsiva, muitos passaram a fazê-lo. O experimento mostrou que impulsividade e autocontrole podem ser estudados em laboratório e que o compromisso, como se afastar da tentação, é uma estratégia de autocontrole.",
+    "O valor de uma recompensa diminui com o atraso para obtê-la. O modelo hiperbólico, V = A / (1 + kD), em que A é a magnitude, D o atraso e k a taxa de desconto, descreve bem esse declínio e prevê reversões de preferência: duas opções podem ser ordenadas de um modo quando estão distantes e de outro quando a menor se aproxima. Esse modelo resultou de uma linha de pesquisa que envolveu Herrnstein, George Ainslie e James Mazur, entre outros, e Rachlin estendeu a ideia a escolhas sociais. Com Bryan Jones, mostrou o desconto social: quanto mais distante socialmente está uma pessoa, menos alguém aceita abrir mão de dinheiro em favor dela, também segundo uma curva hiperbólica.",
+    "Rachlin propôs o behaviorismo teleológico: estados mentais como intenção e vontade seriam padrões de comportamento organizados ao longo do tempo, e não eventos internos que causam o ato. Com isso procurou explicar altruísmo e cooperação sem recorrer a uma mente interior. Seu legado aparece na economia comportamental e em estudos de dependência e saúde que usam medidas de desconto. A proposta teleológica é minoritária e criticada por deixar pouco espaço para mecanismos cognitivos e neurais."
+  ],
+  "tags": [
+    "Experimental",
+    "Matemática",
+    "Filosofia da ciência"
+  ],
+  "influencias": [
+    "richard-herrnstein",
+    "b-f-skinner"
+  ],
+  "obras": [
+    {
+      "ano": "1972",
+      "titulo": "Commitment, choice and self-control (com Green)",
+      "link": ""
+    },
+    {
+      "ano": "1994",
+      "titulo": "Behavior and Mind: The Roots of Modern Psychology",
+      "link": ""
+    },
+    {
+      "ano": "2000",
+      "titulo": "The Science of Self-Control",
+      "link": ""
+    },
+    {
+      "ano": "2006",
+      "titulo": "Social discounting (com Jones)",
+      "link": ""
+    },
+    {
+      "ano": "2014",
+      "titulo": "The Escape of the Mind",
+      "link": ""
+    }
+  ]
+}

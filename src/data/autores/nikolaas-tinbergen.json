@@ -1,0 +1,45 @@
+{
+  "id": "nikolaas-tinbergen",
+  "nome": "Nikolaas Tinbergen",
+  "periodo": "1907–1988",
+  "disciplinas": [
+    "Etologia"
+  ],
+  "resumo": "Etólogo holandês que levou o experimento ao campo e formulou as quatro perguntas que ainda organizam a biologia do comportamento.",
+  "bio": [
+    "Nikolaas Tinbergen nasceu em Haia, nos Países Baixos, em 1907, e estudou biologia na Universidade de Leiden. Desde jovem gostava de observar animais em seu ambiente: seus primeiros estudos foram com gaivotas-prateadas, vespas-escavadoras e peixes esgana-gatas. Em 1949 mudou-se para a Universidade de Oxford, onde formou um grupo de pesquisa que ajudou a consolidar a etologia, o estudo biológico do comportamento, na Europa e no mundo de língua inglesa.",
+    "Seu traço mais marcante foi a combinação entre observação cuidadosa e experimentos simples, feitos no próprio local onde os animais vivem. Com a vespa Philanthus, mostrou que ela memoriza os pontos de referência ao redor do ninho: quando ele deslocava um círculo de pinhas colocado em volta da entrada, a vespa, ao voltar, procurava o ninho no lugar errado, guiada pelo novo arranjo. Com o esgana-gata, usou modelos de madeira para demonstrar que o macho ataca qualquer objeto grosseiro com a parte inferior vermelha, mas ignora um modelo detalhado sem essa cor. E, com filhotes de gaivota, mostrou que eles bicam a mancha vermelha no bico do adulto, o que estimula o pai ou a mãe a regurgitar o alimento. Esses estímulos simples que disparam respostas complexas eram, para ele, peças-chave para entender o comportamento.",
+    "Em um artigo de 1963, Tinbergen propôs que todo comportamento pode ser explicado em quatro níveis complementares: seu mecanismo imediato (o que o desencadeia), seu desenvolvimento ao longo da vida do indivíduo, sua função (como contribui para a sobrevivência e a reprodução) e sua história evolutiva. Essas quatro perguntas continuam sendo usadas para separar causas próximas de causas últimas e servem de base para a ecologia comportamental e a psicologia evolutiva. Em 1973, ele dividiu o Prêmio Nobel de Fisiologia ou Medicina com Konrad Lorenz e Karl von Frisch.",
+    "Nos últimos anos de carreira, Tinbergen e sua esposa, Elisabeth, voltaram-se ao autismo infantil, defendendo que parte dos sintomas poderia ser entendida como evitamento de estímulos sociais excessivos; essa hipótese é vista hoje com ceticismo. A etologia clássica que ele ajudou a fundar também recebeu críticas por conceitos como o de instinto, que subestimavam o papel do aprendizado e da variação individual, mas seu método e suas quatro perguntas seguem como referência."
+  ],
+  "tags": [
+    "Observacional",
+    "Experimental",
+    "Trabalho de campo"
+  ],
+  "influencias": [
+    "konrad-lorenz"
+  ],
+  "obras": [
+    {
+      "ano": "1951",
+      "titulo": "The Study of Instinct",
+      "link": ""
+    },
+    {
+      "ano": "1953",
+      "titulo": "The Herring Gull's World",
+      "link": ""
+    },
+    {
+      "ano": "1963",
+      "titulo": "On Aims and Methods of Ethology",
+      "link": ""
+    },
+    {
+      "ano": "1972",
+      "titulo": "The Animal in Its World",
+      "link": ""
+    }
+  ]
+}

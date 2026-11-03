@@ -1,0 +1,44 @@
+{
+  "id": "philip-zimbardo",
+  "nome": "Philip Zimbardo",
+  "periodo": "1933–2024",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Conduziu o Experimento da Prisão de Stanford e popularizou o efeito Lúcifer, tese hoje muito contestada sobre o poder de situações sobre o comportamento moral.",
+  "bio": [
+    "Philip Zimbardo (1933–2024) nasceu em Nova York, formou-se no Brooklyn College e doutorou-se em Yale, em 1959. Lecionou na Universidade de Nova York e, desde 1968, em Stanford. Interessava-se por como situações sociais alteram o comportamento, e estudou desindividuação, vandalismo, timidez e percepção do tempo. Em 1969, em um estudo com carros abandonados no Bronx e em Palo Alto, discutiu como o anonimato e o abandono favorecem a depredação.",
+    "Em agosto de 1971, Zimbardo e colaboradores montaram no porão do prédio de psicologia de Stanford uma prisão simulada. Vinte e quatro estudantes, selecionados após anúncio em jornal e triagem, foram sorteados como guardas ou prisioneiros; os prisioneiros foram presos em suas casas pela polícia local. Planejado para duas semanas, o estudo foi encerrado após seis dias, porque os guardas mostraram comportamento cada vez mais abusivo e vários prisioneiros apresentaram sofrimento intenso. A psicóloga Christina Maslach, que visitou o experimento, objetou ao que viu e teve papel decisivo no encerramento. Zimbardo interpretou o episódio como prova de que o papel social e a situação, mais do que a personalidade, levam pessoas comuns ao abuso, ideia que ele ampliou no livro The Lucifer Effect (2007). Em 2004, serviu como perito de defesa de um militar julgado por maus-tratos em Abu Ghraib.",
+    "Zimbardo também criou uma clínica de timidez em Stanford, escreveu o popular livro Shyness (1977) e, com John Boyd, desenvolveu o Inventário de Perspectiva Temporal (1999), que mede a orientação das pessoas para passado, presente e futuro. Fundou ainda o Heroic Imagination Project, voltado a incentivar a ação diante de injustiças.",
+    "O Experimento da Prisão de Stanford é hoje um dos estudos mais criticados da psicologia. Banuazizi e Movahedi (1975) apontaram características de demanda, ou seja, os participantes podem ter agido como achavam que se esperava. Carnahan e McFarland (2007) observaram que o anúncio, ao mencionar vida na prisão, pode ter atraído pessoas com traços mais agressivos. O pesquisador Thibault Le Texier (2019), com base em arquivos, mostrou que os guardas receberam orientações dos pesquisadores sobre como agir, e que o próprio Zimbardo atuou como superintendente da prisão, o que compromete a neutralidade. O estudo da BBC (2002) conduzido por Alexander Haslam e Stephen Reicher não replicou o abuso espontâneo. Não é um experimento controlado nem foi replicado, e as conclusões sobre papéis automáticos não são consideradas bem sustentadas."
+  ],
+  "tags": [
+    "Experimental",
+    "Observacional"
+  ],
+  "influencias": [
+    "stanley-milgram"
+  ],
+  "obras": [
+    {
+      "ano": "1969",
+      "titulo": "The human choice: Individuation, reason, and order versus deindividuation, impulse, and chaos",
+      "link": ""
+    },
+    {
+      "ano": "1973",
+      "titulo": "Interpersonal dynamics in a simulated prison (com Haney e Banks)",
+      "link": ""
+    },
+    {
+      "ano": "1977",
+      "titulo": "Shyness: What It Is, What to Do About It",
+      "link": ""
+    },
+    {
+      "ano": "2007",
+      "titulo": "The Lucifer Effect: Understanding How Good People Turn Evil",
+      "link": ""
+    }
+  ]
+}

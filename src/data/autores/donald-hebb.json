@@ -1,0 +1,40 @@
+{
+  "id": "donald-hebb",
+  "nome": "Donald Hebb",
+  "periodo": "1904–1985",
+  "disciplinas": [
+    "Neurociência"
+  ],
+  "resumo": "Psicólogo canadense que propôs como a experiência fortalece conexões entre neurônios e criou a ideia de conjuntos celulares, base da plasticidade sináptica.",
+  "bio": [
+    "Donald Hebb (1904–1985) nasceu na Nova Escócia, no Canadá, e chegou à psicologia por um caminho tortuoso: foi professor primário, tentou a carreira de escritor e só depois passou a estudar psicologia, na Universidade McGill. Doutorou-se em Harvard, em 1936, sob orientação de Karl Lashley, que procurava sem sucesso o lugar do córtex onde a memória ficava guardada. Hebb trabalhou depois no Instituto Neurológico de Montreal, com o neurocirurgião Wilder Penfield, e observou que lesões extensas nos lobos frontais afetavam pouco a inteligência medida em testes. Voltou a McGill, onde dirigiu o departamento de psicologia, e presidiu a Associação Americana de Psicologia em 1960.",
+    "Sua obra central, The Organization of Behavior (1949), enfrentava uma pergunta que o behaviorismo deixava de lado: o que ocorre no cérebro entre um estímulo e uma resposta? A resposta de Hebb foi um postulado sobre aprendizagem. Se um neurônio A participa repetidamente do disparo de um neurônio B, algum processo de crescimento ou mudança metabólica torna A mais eficaz em ativar B. A frase popular sobre neurônios que disparam juntos e se conectam é uma paráfrase posterior dessa ideia. Dela Hebb derivou os conjuntos celulares (cell assemblies): grupos de neurônios que, por terem sido ativados juntos muitas vezes, passam a funcionar como unidade e podem sustentar uma representação, de um objeto, de uma palavra ou de uma lembrança.",
+    "Hebb queria uma psicologia que levasse o cérebro a sério sem reduzir o mental à anatomia. Em McGill, seu grupo conduziu os experimentos de privação sensorial dos anos 1950 (Bexton, Heron e Scott, 1954), nos quais voluntários, deitados em salas silenciosas, com olhos cobertos e mãos protegidas, passaram a ter alucinações e a render menos em testes cognitivos, sugerindo que o cérebro precisa de estimulação variada para funcionar bem. Hebb estudou também o efeito do ambiente: ratos criados como animais de estimação em sua casa saíam-se melhor em labirintos do que ratos de laboratório. Em seu grupo trabalharam James Olds e Peter Milner, que descobriram ali os circuitos de recompensa.",
+    "O postulado ganhou apoio experimental décadas depois: em 1973, Timothy Bliss e Terje Lømo descreveram no hipocampo a potenciação de longa duração (LTP), fortalecimento sináptico duradouro compatível com a regra hebbiana, e estudos como os de Eric Kandel com a lesma-do-mar Aplysia mostraram mudanças sinápticas ligadas à aprendizagem. A aprendizagem hebbiana também inspirou algoritmos de redes neurais e modelos conexionistas. Como limitação, a regra em sua forma simples não explica sozinha a estabilidade das redes nem o aprendizado guiado por erro, e o livro de 1949 era antes uma proposta teórica do que a descrição de um mecanismo demonstrado."
+  ],
+  "tags": [
+    "Teórico",
+    "Computacional",
+    "Neuropsicológico"
+  ],
+  "influencias": [
+    "ivan-pavlov"
+  ],
+  "obras": [
+    {
+      "ano": "1946",
+      "titulo": "On the nature of fear",
+      "link": ""
+    },
+    {
+      "ano": "1949",
+      "titulo": "The Organization of Behavior",
+      "link": ""
+    },
+    {
+      "ano": "1955",
+      "titulo": "Drives and the C.N.S. (conceptual nervous system)",
+      "link": ""
+    }
+  ]
+}

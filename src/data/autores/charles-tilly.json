@@ -1,0 +1,50 @@
+{
+  "id": "charles-tilly",
+  "nome": "Charles Tilly",
+  "periodo": "1929–2008",
+  "disciplinas": [
+    "Sociologia histórica"
+  ],
+  "resumo": "Sociólogo histórico que explicou a formação dos Estados europeus pela guerra e criou conceitos como repertório de ação coletiva para estudar movimentos sociais.",
+  "bio": [
+    "Charles Tilly nasceu em 1929 em Illinois, nos Estados Unidos, e morreu em Nova York, em 2008. Graduou-se em Harvard e doutorou-se em sociologia na mesma universidade, em 1958. Lecionou nas universidades de Delaware, Toronto e Michigan, na New School for Social Research e, a partir de 1996, na Universidade Colúmbia. Escreveu dezenas de livros e formou muitos pesquisadores. Sua marca foi insistir que processos sociais amplos, como a formação do Estado, devem ser estudados com comparação histórica e dados concretos, e não só com teoria abstrata.",
+    "Seu primeiro grande livro, The Vendée (1964), estudou por que parte do oeste da França se levantou contra a Revolução de 1789. Nos anos 1970 e 1980, voltou-se à relação entre guerra e Estado. No ensaio sobre guerra e formação do Estado como crime organizado (1985), argumentou que governantes europeus, ao se prepararem para guerras, precisaram extrair recursos de suas populações, e que esse esforço criou exércitos permanentes, impostos e burocracias. A comparação com extorsão protetora é provocadora: o Estado oferece proteção contra uma ameaça que ele próprio ajuda a criar. Em Coercion, Capital, and European States (1990), mostrou que diferentes combinações entre coerção e capital produziram trajetórias distintas, e que os Estados nacionais não eram inevitáveis, mas um resultado histórico.",
+    "Na segunda frente, estudou movimentos sociais e política contestatória. Em From Mobilization to Revolution (1978), analisou como grupos se organizam, aproveitam oportunidades e enfrentam repressão. Propôs o conceito de repertório de ação coletiva: em cada época e lugar, as pessoas conhecem um conjunto limitado de formas de protestar, como petições, passeatas e greves, e inovam apenas nas margens. Em Durable Inequality (1998), explicou a persistência de desigualdades por mecanismos como exploração e acúmulo de oportunidades por quem pertence a categorias privilegiadas. Em Dynamics of Contention (2001), com Doug McAdam e Sidney Tarrow, propôs que a análise se concentre em mecanismos e processos recorrentes, em vez de leis gerais.",
+    "As críticas incluem a de que a tese do Estado nascido da guerra descreve bem a Europa, mas se aplica pior a outras regiões, como a América Latina e a África, em que a guerra entre Estados teve papel diferente. Há também a observação de que o foco em estruturas e oportunidades políticas deixou em segundo plano emoções, cultura e identidades, tema que pesquisadores posteriores buscaram corrigir, e de que a ideia de mecanismos é às vezes vaga."
+  ],
+  "tags": [
+    "Histórico-comparativo",
+    "Teórico"
+  ],
+  "influencias": [
+    "max-weber",
+    "karl-marx"
+  ],
+  "obras": [
+    {
+      "ano": "1978",
+      "titulo": "From Mobilization to Revolution",
+      "link": ""
+    },
+    {
+      "ano": "1985",
+      "titulo": "War making and state making as organized crime",
+      "link": ""
+    },
+    {
+      "ano": "1990",
+      "titulo": "Coercion, Capital, and European States, AD 990–1990",
+      "link": ""
+    },
+    {
+      "ano": "1998",
+      "titulo": "Durable Inequality",
+      "link": ""
+    },
+    {
+      "ano": "2001",
+      "titulo": "Dynamics of Contention (com McAdam e Tarrow)",
+      "link": ""
+    }
+  ]
+}

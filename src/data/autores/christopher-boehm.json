@@ -1,0 +1,38 @@
+{
+  "id": "christopher-boehm",
+  "nome": "Christopher Boehm",
+  "periodo": "1931–2021",
+  "disciplinas": [
+    "Antropologia evolutiva"
+  ],
+  "resumo": "Antropólogo que mostrou como grupos igualitários de caçadores-coletores usam coalizões para barrar dominadores, uma pista sobre a origem da moral humana.",
+  "bio": [
+    "Christopher Boehm foi um antropólogo norte-americano ligado à Universidade do Sul da Califórnia, onde dirigiu o Centro de Pesquisa Jane Goodall. Sua carreira combinou duas frentes que raramente andavam juntas: o trabalho de campo etnográfico com sociedades humanas e a observação de primatas, em especial chimpanzés. Começou estudando conflito e vingança entre povos de organização tribal nos Bálcãs, tema do livro sobre as vendetas em Montenegro, e levou essa preocupação com a resolução de disputas para a pergunta sobre a evolução da vida política.",
+    "A ideia mais conhecida de Boehm é a da hierarquia de dominância invertida (reverse dominance hierarchy). Primatas como os chimpanzés vivem em grupos com machos alfa que impõem sua vontade pela força. Já em quase todos os grupos de caçadores-coletores nômades conhecidos, os indivíduos que tentam mandar, se exibir ou monopolizar recursos são zombados, criticados, ostracizados e, em casos extremos, expulsos ou mortos pelo coletivo. Ou seja, os subordinados, juntos, passam a dominar quem queria dominar. Boehm usou esse padrão para sustentar que o igualitarismo das bandas não é ausência de hierarquia, e sim uma hierarquia ativamente vigiada de baixo para cima.",
+    "A partir daí, ele propôs uma explicação para a origem da consciência moral. Se, durante dezenas de milhares de anos, o grupo puniu sistematicamente valentões, trapaceiros e aproveitadores, essa pressão teria favorecido pessoas capazes de antecipar a reprovação alheia, sentir vergonha e internalizar regras. Em outras palavras, a punição coletiva teria funcionado como uma forma de seleção social, que ajuda a explicar tanto a cooperação em grupos grandes de indivíduos não aparentados quanto a presença de algo semelhante a uma consciência. Em seus livros, a fofoca, a reputação e a execução de transgressores aparecem como ferramentas centrais desse processo, e ele discutiu ainda por que a sedentarização e a acumulação de riqueza enfraqueceram o controle igualitário em sociedades posteriores.",
+    "O legado de Boehm está em ter ligado primatologia, etnografia comparada e teoria evolutiva num mesmo argumento, influenciando debates sobre a evolução da cooperação, da punição e da liderança. As críticas apontam que a reconstrução do passado pré-histórico depende de analogias com caçadores-coletores atuais, que não são relíquias do Paleolítico, e que a evidência para a execução sistemática de dominadores em sociedades ancestrais é indireta. Ainda assim, a hipótese continua sendo ponto de partida para quem estuda a origem das normas sociais."
+  ],
+  "tags": [
+    "Etnográfico",
+    "Trabalho de campo",
+    "Teórico"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1984",
+      "titulo": "Blood Revenge: The Anthropology of Feuding in Montenegro and Other Tribal Societies",
+      "link": ""
+    },
+    {
+      "ano": "1999",
+      "titulo": "Hierarchy in the Forest: The Evolution of Egalitarian Behavior",
+      "link": ""
+    },
+    {
+      "ano": "2012",
+      "titulo": "Moral Origins: The Evolution of Virtue, Altruism, and Shame",
+      "link": ""
+    }
+  ]
+}

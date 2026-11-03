@@ -1,0 +1,42 @@
+{
+  "id": "edward-thorndike",
+  "nome": "Edward Thorndike",
+  "periodo": "1874–1949",
+  "disciplinas": [
+    "Análise Experimental do Comportamento"
+  ],
+  "resumo": "Com experimentos de caixas-problema, formulou a Lei do Efeito e abriu o estudo experimental da aprendizagem animal, antecipando o condicionamento operante.",
+  "bio": [
+    "Edward Lee Thorndike nasceu em 1874, em Massachusetts, estudou em Harvard, onde conviveu com William James, e concluiu o doutorado na Universidade de Columbia em 1898. A tese, sobre inteligência animal, inaugurou o estudo experimental da aprendizagem em laboratório. Passou a maior parte da carreira no Teachers College, em Columbia, trabalhando ao mesmo tempo com psicologia animal, testes mentais e educação.",
+    "Thorndike colocava gatos famintos em caixas-problema, das quais só escapavam acionando um mecanismo, como puxar uma corda ou pressionar uma alavanca, para alcançar a comida do lado de fora. Nas primeiras tentativas os animais faziam movimentos variados até acertar por acaso; com a repetição, o tempo de fuga diminuía de forma gradual, sem sinal de compreensão súbita. Ele concluiu que aprender consiste em formar conexões entre uma situação e uma resposta, fortalecidas pelo resultado do ato.",
+    "Dessa conclusão saiu a Lei do Efeito: respostas seguidas de satisfação numa dada situação tendem a ser repetidas, e as seguidas de desconforto tendem a ocorrer menos. Ao lado dela, formulou a Lei do Exercício, segundo a qual o uso fortalece uma conexão e o desuso a enfraquece. No início da década de 1930, a partir de novos experimentos com pessoas, abandonou a Lei do Exercício e reduziu o papel da punição, que passou a considerar menos eficaz para enfraquecer conexões do que a recompensa para fortalecê-las. Sua teoria ficou conhecida como conexionismo.",
+    "Na educação, produziu testes, escalas de medida e livros-texto, como Educational Psychology (1913), além de listas de frequência de palavras usadas em dicionários escolares. Sua insistência em medir resultados marcou a pedagogia norte-americana. Skinner reconheceu a Lei do Efeito como antecessora do reforçamento operante, e a análise do comportamento a trata como ponto de partida. Entre as críticas estão o uso de situações artificiais e a ideia de aprendizagem cega por tentativa e erro, contestada pelos psicólogos da Gestalt, como Wolfgang Köhler, com experimentos sobre insight em chimpanzés."
+  ],
+  "tags": [
+    "Experimental",
+    "Modelagem animal"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1898",
+      "titulo": "Animal Intelligence: An Experimental Study of the Associative Processes in Animals",
+      "link": ""
+    },
+    {
+      "ano": "1911",
+      "titulo": "Animal Intelligence: Experimental Studies",
+      "link": ""
+    },
+    {
+      "ano": "1913",
+      "titulo": "Educational Psychology",
+      "link": ""
+    },
+    {
+      "ano": "1932",
+      "titulo": "The Fundamentals of Learning",
+      "link": ""
+    }
+  ]
+}

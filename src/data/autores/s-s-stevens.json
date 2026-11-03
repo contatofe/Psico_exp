@@ -1,0 +1,45 @@
+{
+  "id": "s-s-stevens",
+  "nome": "S. S. Stevens",
+  "periodo": "1906–1973",
+  "disciplinas": [
+    "Psicofísica"
+  ],
+  "resumo": "Psicólogo de Harvard que propôs a lei de potência da sensação, criou escalas de loudness e de altura e a classificação das escalas de medida (nominal a razão).",
+  "bio": [
+    "Stanley Smith Stevens (1906–1973) nasceu em Utah, nos Estados Unidos, e teve trajetória incomum: abandonou os estudos em jovem, viveu como missionário mórmon e só depois passou por Stanford e chegou a Harvard, onde fez doutorado em psicologia e passou o resto da carreira. Dirigiu o Laboratório Psico-Acústico, criado durante a Segunda Guerra para estudar comunicação em ambientes ruidosos, e o Laboratório de Psicofísica. Entre seus estudantes esteve George Miller, mais tarde figura central da psicologia cognitiva.",
+    "Stevens deu a Gustav Fechner uma resposta empírica. Se Fechner defendia que a sensação cresce com o logaritmo do estímulo, Stevens, usando a estimativa de magnitude, em que o participante atribui números à intensidade que percebe, concluiu que a relação é de potência: S = k Iⁿ. O expoente n depende do sentido. Para o brilho de uma luz ele é menor do que 1, o que significa que a sensação cresce mais lentamente do que o estímulo; para o comprimento de uma linha, é próximo de 1; para choque elétrico na pele, é bem maior do que 1, e pequenos aumentos de corrente produzem grandes aumentos da sensação. Ele reuniu essas ideias no artigo de 1957 sobre a lei psicofísica e aprimorou a técnica de combinar intensidades entre sentidos diferentes, a correspondência intermodal.",
+    "Antes disso, Stevens já tinha criado, nos anos 1930, escalas de percepção da sonoridade (o sone) e da altura de tons (o mel), que ajudaram a traduzir medidas físicas de som em medidas psicológicas. Em 1946, em um artigo de grande influência, propôs a classificação das escalas de medida em quatro tipos: nominal, ordinal, intervalar e de razão, associando a cada um as operações estatísticas permitidas. Essa tipologia entrou nos manuais de estatística e de métodos de pesquisa de psicologia e ciências sociais. Organizou ainda o Handbook of Experimental Psychology (1951), obra de referência por décadas.",
+    "A lei de potência continua muito citada, embora a literatura mostre que expoentes variam com procedimento, contexto e participante. R. Duncan Luce e outros questionaram a ideia de que números atribuídos livremente por pessoas formem uma escala de razão, e estatísticos criticaram a rigidez de ligar o tipo de escala ao teste permitido. A tipologia de 1946 segue sendo ensinada, mas com ressalvas. De todo modo, Stevens reposicionou a psicofísica como estudo das relações entre estímulo e experiência baseadas em escalas subjetivas."
+  ],
+  "tags": [
+    "Experimental",
+    "Matemática",
+    "Filosofia da ciência"
+  ],
+  "influencias": [
+    "gustav-fechner"
+  ],
+  "obras": [
+    {
+      "ano": "1936",
+      "titulo": "A scale for the measurement of a psychological magnitude: loudness",
+      "link": ""
+    },
+    {
+      "ano": "1946",
+      "titulo": "On the theory of scales of measurement",
+      "link": ""
+    },
+    {
+      "ano": "1951",
+      "titulo": "Handbook of Experimental Psychology",
+      "link": ""
+    },
+    {
+      "ano": "1957",
+      "titulo": "On the psychophysical law",
+      "link": ""
+    }
+  ]
+}

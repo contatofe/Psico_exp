@@ -1,0 +1,45 @@
+{
+  "id": "sarah-blaffer-hrdy",
+  "nome": "Sarah Blaffer Hrdy",
+  "periodo": "1946–presente",
+  "disciplinas": [
+    "Antropologia evolutiva"
+  ],
+  "resumo": "Antropóloga e primatóloga que questionou a visão da fêmea passiva e propôs que a criação cooperativa de filhos moldou a empatia e a cognição social humanas.",
+  "bio": [
+    "Sarah Blaffer Hrdy é antropóloga e primatóloga norte-americana, professora emérita da Universidade da Califórnia em Davis. Formou-se em Harvard, no ambiente em que a sociobiologia nascia, e começou a carreira observando langures-cinzentos em Mount Abu, na Índia. Naquele campo ela se deparou com um fenômeno chocante: machos que assumiam o comando de um grupo matavam os filhotes gerados por machos anteriores. Hrdy interpretou o infanticídio como uma estratégia reprodutiva, já que a perda do filho encurtaria o período em que a mãe estaria sem ovular, hipótese que gerou um dos debates mais acalorados da primatologia.",
+    "Sua segunda grande contribuição foi desafiar a imagem da fêmea primata como figura passiva e recatada, vinda de leituras simplificadas de Darwin. Em The Woman That Never Evolved (1981), Hrdy reuniu dados de campo mostrando que fêmeas de muitas espécies competem entre si, acasalam com vários machos e tomam decisões ativas sobre quando e com quem se reproduzir. O livro ajudou a reorientar a biologia evolutiva do comportamento, que passou a levar em conta as estratégias femininas, e foi uma referência para a primatologia feminista.",
+    "A parte mais influente de sua obra tardia é a hipótese da criação cooperativa (cooperative breeding). Em Mothers and Others (2009), Hrdy sustenta que, entre os grandes primatas, os humanos são excepcionais porque criam seus filhos com ajuda de muitos cuidadores além da mãe, os chamados aloparentais, entre os quais pais, avós, irmãos mais velhos e outros membros do grupo. Como uma criança humana é cara de criar e demora muito a se tornar independente, a mãe sozinha não conseguiria arcar com esse custo, e a ajuda de outros teria sido decisiva. Hrdy acrescenta um argumento sobre a mente: bebês criados por vários cuidadores precisariam aprender a ler intenções, atrair atenção e avaliar quem é confiável, o que teria favorecido a empatia e a cognição social. Na versão defendida por ela, essas disposições cooperativas surgiram antes dos cérebros grandes e ajudaram a possibilitá-los, invertendo a ordem usual da narrativa.",
+    "O legado de Hrdy está em ter colocado a maternidade, a infância e a aloparentalidade no centro da evolução humana. As críticas incluem a discussão sobre se o infanticídio dos langures é de fato adaptativo ou resulta de perturbação ambiental, e dúvidas sobre o peso relativo de pais, avós e outros cuidadores no passado remoto, assunto que continua em disputa."
+  ],
+  "tags": [
+    "Trabalho de campo",
+    "Observacional",
+    "Teórico"
+  ],
+  "influencias": [
+    "robert-trivers"
+  ],
+  "obras": [
+    {
+      "ano": "1977",
+      "titulo": "The Langurs of Abu: Female and Male Strategies of Reproduction",
+      "link": ""
+    },
+    {
+      "ano": "1981",
+      "titulo": "The Woman That Never Evolved",
+      "link": ""
+    },
+    {
+      "ano": "1999",
+      "titulo": "Mother Nature: A History of Mothers, Infants, and Natural Selection",
+      "link": ""
+    },
+    {
+      "ano": "2009",
+      "titulo": "Mothers and Others: The Evolutionary Origins of Mutual Understanding",
+      "link": ""
+    }
+  ]
+}

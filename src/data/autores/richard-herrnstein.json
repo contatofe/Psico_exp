@@ -1,0 +1,45 @@
+{
+  "id": "richard-herrnstein",
+  "nome": "Richard Herrnstein",
+  "periodo": "1930–1994",
+  "disciplinas": [
+    "Análise Experimental do Comportamento"
+  ],
+  "resumo": "Formulou a lei da igualação, que liga a distribuição de respostas às taxas de reforço, e levou a análise do comportamento ao diálogo com a economia.",
+  "bio": [
+    "Richard J. Herrnstein doutorou-se em Harvard em 1955, sob orientação de Skinner, e passou quase toda a carreira nessa universidade. Estudou com pombos como organismos escolhem entre alternativas. Nos anos 1960, também investigou a capacidade dos animais de formar categorias: com Douglas Loveland, mostrou que pombos aprendiam a responder à presença de pessoas em fotografias.",
+    "Em 1961, Herrnstein apresentou pombos a duas teclas, cada uma associada a um esquema de reforço de intervalo variável, em que o alimento fica disponível após tempos imprevisíveis. Os pombos distribuíam as bicadas entre as teclas na mesma proporção em que recebiam reforços de cada uma. Essa regularidade ficou conhecida como lei da igualação (matching law):\nB1 / (B1 + B2) = R1 / (R1 + R2)\nonde B são as respostas e R os reforços em cada alternativa. Em 1970, estendeu a ideia ao comportamento em uma só alternativa: a taxa de resposta cresce com a de reforço, com retornos decrescentes, e depende também do reforço obtido por outras atividades disponíveis. A forma generalizada, com parâmetros de sensibilidade e viés, foi proposta depois por William Baum.",
+    "Herrnstein investigou casos em que igualar não maximiza o ganho total. Com William Vaughan, propôs a melhoração (melioration): o organismo tende a deslocar respostas para a alternativa de maior retorno local, o que pode reduzir o retorno global. A ideia ajuda a explicar impulsividade e hábitos prejudiciais e dialogou com economistas, e Herrnstein defendeu que a teoria da escolha racional é necessária, mas insuficiente para descrever o comportamento. Seus alunos e colaboradores, como Howard Rachlin e William Baum, desenvolveram o estudo do desconto temporal e da escolha.",
+    "Herrnstein também ficou conhecido fora do laboratório. Em 1971 publicou na revista The Atlantic um artigo sobre inteligência e hereditariedade, e o livro The Bell Curve, escrito com Charles Murray, saiu em 1994, pouco depois de sua morte. A obra trata de QI, classe social e desigualdade e foi muito criticada por suas conclusões e pelo tratamento de diferenças entre grupos. A polêmica ofuscou em parte sua obra experimental, que segue central para a análise do comportamento, a economia comportamental e a neuroeconomia."
+  ],
+  "tags": [
+    "Experimental",
+    "Matemática",
+    "Modelagem animal"
+  ],
+  "influencias": [
+    "b-f-skinner"
+  ],
+  "obras": [
+    {
+      "ano": "1961",
+      "titulo": "Relative and absolute strength of response as a function of frequency of reinforcement",
+      "link": "https://doi.org/10.1901/jeab.1961.4-267"
+    },
+    {
+      "ano": "1964",
+      "titulo": "Complex visual concept in the pigeon (com Loveland)",
+      "link": ""
+    },
+    {
+      "ano": "1970",
+      "titulo": "On the law of effect",
+      "link": "https://doi.org/10.1901/jeab.1970.13-243"
+    },
+    {
+      "ano": "1980",
+      "titulo": "Melioration and behavioral allocation (com Vaughan)",
+      "link": ""
+    }
+  ]
+}

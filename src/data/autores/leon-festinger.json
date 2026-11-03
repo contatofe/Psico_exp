@@ -1,0 +1,45 @@
+{
+  "id": "leon-festinger",
+  "nome": "Leon Festinger",
+  "periodo": "1919–1989",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Criou as teorias da dissonância cognitiva e da comparação social e estudou como um grupo reage quando a profecia em que acredita falha.",
+  "bio": [
+    "Leon Festinger nasceu em 1919, em Nova York, e doutorou-se na Universidade de Iowa, em 1942, sob orientação de Kurt Lewin. Trabalhou no MIT, em Michigan e em Minnesota, e depois em Stanford, de 1955 a 1968, período em que desenvolveu suas teorias mais conhecidas. Mais tarde, na New School, no fim da carreira, abandonou a psicologia social para estudar percepção visual e, depois, a arqueologia e a evolução humana. Morreu em 1989.",
+    "Em 1954, propôs a teoria da comparação social: na falta de critérios objetivos, avaliamos nossas opiniões e capacidades comparando-as com as de outras pessoas, preferindo comparar-nos com quem se parece conosco. Em 1957, publicou A Theory of Cognitive Dissonance. A ideia é que duas cognições incompatíveis, como acreditar que fumar faz mal e fumar, geram um desconforto que motiva a pessoa a reduzi-lo, mudando um dos elementos, acrescentando justificativas ou evitando informações ameaçadoras. O experimento mais famoso, com James Carlsmith (1959), pediu a estudantes de Stanford que realizassem uma tarefa muito monótona e depois dissessem a outro participante que ela era interessante. Quem recebeu 1 dólar acabou avaliando a tarefa como mais agradável do que quem recebeu 20. Com pouca recompensa, a pessoa não tinha justificativa externa suficiente e passou a ajustar a própria opinião.",
+    "Em 1956, Festinger, Henry Riecken e Stanley Schachter publicaram When Prophecy Fails, sobre um grupo de Chicago que previa um dilúvio e a chegada de discos voadores para resgatá-lo. Pesquisadores se infiltraram no grupo. Quando a data passou sem que nada acontecesse, os membros mais comprometidos não abandonaram a crença, e passaram a divulgá-la com mais energia. Antes, em 1950, com Schachter e Kurt Back, havia mostrado que a proximidade física em conjuntos habitacionais prediz a formação de amizades.",
+    "A dissonância gerou milhares de estudos, e também debate sobre seus mecanismos. Daryl Bem sustentou que o resultado dos 1 versus 20 dólares podia ser explicado pela autopercepção, sem desconforto interno; outros defenderam o papel de consequências aversivas, de imagem pública ou de ameaças à autoestima. O estudo da profecia também é criticado por se basear em um único grupo e em observadores que interagiram com os participantes e podem ter influenciado o curso dos eventos."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico",
+    "Observacional"
+  ],
+  "influencias": [
+    "kurt-lewin"
+  ],
+  "obras": [
+    {
+      "ano": "1954",
+      "titulo": "A theory of social comparison processes",
+      "link": ""
+    },
+    {
+      "ano": "1956",
+      "titulo": "When Prophecy Fails (com Riecken e Schachter)",
+      "link": ""
+    },
+    {
+      "ano": "1957",
+      "titulo": "A Theory of Cognitive Dissonance",
+      "link": ""
+    },
+    {
+      "ano": "1959",
+      "titulo": "Cognitive consequences of forced compliance (com Carlsmith)",
+      "link": ""
+    }
+  ]
+}

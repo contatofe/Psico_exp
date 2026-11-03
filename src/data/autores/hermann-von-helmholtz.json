@@ -1,0 +1,38 @@
+{
+  "id": "hermann-von-helmholtz",
+  "nome": "Hermann von Helmholtz",
+  "periodo": "1821–1894",
+  "disciplinas": [
+    "Psicofísica"
+  ],
+  "resumo": "Médico, físico e fisiólogo alemão que mediu a velocidade do impulso nervoso e propôs teorias da visão de cores, da audição e da percepção como inferência.",
+  "bio": [
+    "Hermann von Helmholtz (1821–1894) nasceu em Potsdam, na Alemanha, e, sem recursos para estudar física, formou-se em medicina em Berlim, em um programa que garantia bolsa em troca de anos de serviço como médico militar. Estudou com o fisiologista Johannes Müller e foi professor em Königsberg, Bonn, Heidelberg e Berlim. Em Heidelberg teve como assistente, entre 1858 e 1864, Wilhelm Wundt, que depois fundaria o primeiro laboratório de psicologia experimental. Em 1888 tornou-se o primeiro presidente do Instituto Imperial de Física e Tecnologia, em Berlim.",
+    "Em 1847, num texto sobre a conservação da força, formulou de modo geral o princípio de conservação da energia. Em 1850, mediu a velocidade de condução do impulso nervoso em nervos de rã, o que muitos consideravam impossível por supor que seria tão rápido que não poderia ser medido. O valor encontrado, algumas dezenas de metros por segundo, mostrou que o processo nervoso é um fenômeno físico mensurável. Em 1851, inventou o oftalmoscópio, instrumento que permite ver o fundo do olho e que tornou possível o exame clínico da retina.",
+    "Na percepção, Helmholtz retomou a teoria tricromática de Thomas Young, segundo a qual a visão de cores se baseia em três tipos de receptores, e a desenvolveu, propondo a base do que hoje se chama teoria de Young-Helmholtz. Na audição, propôs que a membrana basilar da cóclea funciona como um conjunto de ressonadores, cada região sintonizada a uma frequência, ideia que antecipa a teoria do lugar para a percepção de tons. Seus livros Handbuch der physiologischen Optik (1856–1867) e Die Lehre von den Tonempfindungen (1863), este último também uma obra de teoria musical, são marcos da psicologia da percepção.",
+    "Sua ideia mais discutida é a de inferência inconsciente: sensações são sinais ambíguos, e o cérebro, por experiências passadas, chega a interpretações de objetos por processos semelhantes a raciocínios, mas que não percebemos como tais. Era uma posição empirista, em oposição a quem, como Ewald Hering, defendia que muita coisa da percepção é inata. A formulação de Helmholtz é hoje apontada como precursora de teorias que tratam a percepção como inferência probabilística, a exemplo da abordagem bayesiana e do processamento preditivo. Como limitação, sua noção de inferência inconsciente era mais conceitual do que formalizada, e a comparação com modelos atuais é uma reinterpretação posterior."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico",
+    "Matemática"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1847",
+      "titulo": "Über die Erhaltung der Kraft",
+      "link": ""
+    },
+    {
+      "ano": "1856",
+      "titulo": "Handbuch der physiologischen Optik",
+      "link": ""
+    },
+    {
+      "ano": "1863",
+      "titulo": "Die Lehre von den Tonempfindungen als physiologische Grundlage für die Theorie der Musik",
+      "link": ""
+    }
+  ]
+}

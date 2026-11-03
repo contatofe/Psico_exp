@@ -1,0 +1,46 @@
+{
+  "id": "john-bowlby",
+  "nome": "John Bowlby",
+  "periodo": "1907–1990",
+  "disciplinas": [
+    "Etologia",
+    "Psicologia do desenvolvimento"
+  ],
+  "resumo": "Psiquiatra britânico que uniu psicanálise e etologia na teoria do apego e mostrou o peso dos vínculos precoces no desenvolvimento.",
+  "bio": [
+    "John Bowlby nasceu em Londres em 1907, formou-se em medicina e especializou-se em psiquiatria infantil e psicanálise. Trabalhou por décadas na Clínica Tavistock, em Londres. Em um de seus primeiros estudos, de 1944, comparou jovens que cometiam pequenos furtos com outros jovens atendidos na clínica e observou que muitos dos primeiros haviam passado por separações prolongadas de suas mães na infância. A pergunta que o acompanhou a partir daí era como os primeiros vínculos moldam a personalidade e a saúde mental.",
+    "Em 1951, a Organização Mundial da Saúde encomendou-lhe um relatório sobre crianças sem lar após a guerra; dele saiu \"Maternal Care and Mental Health\", que reuniu evidências de que a privação de cuidado afetuoso e estável prejudica o desenvolvimento. Bowlby ficou insatisfeito com as explicações da psicanálise da época, que atribuíam o laço da criança com a mãe sobretudo à alimentação. Buscou apoio na etologia, em especial nos trabalhos de Konrad Lorenz sobre a impressão e nos de Nikolaas Tinbergen, e propôs que o apego é um sistema comportamental de origem evolutiva: bebês têm tendência a buscar proximidade com uma figura de cuidado, o que aumentava as chances de sobrevivência na história da espécie.",
+    "Esse raciocínio deu origem à trilogia \"Attachment and Loss\", publicada entre 1969 e 1980. Nela, Bowlby descreve como protestos, desespero e distanciamento podem surgir quando uma criança é separada da figura de apego, e propõe a ideia de modelos internos de funcionamento: expectativas sobre si e sobre os outros, formadas nas primeiras relações e que influenciam relações posteriores. Bowlby trabalhou com James Robertson, cujos filmes de crianças hospitalizadas contribuíram para mudar o regime de visitas em hospitais, e com Mary Ainsworth, que desenvolveu o procedimento da Situação Estranha para classificar padrões de apego.",
+    "A teoria do apego tornou-se uma das mais influentes da psicologia do desenvolvimento e inspirou pesquisas em clínica, em creches e em relacionamentos adultos. A literatura também apontou limites: a ênfase inicial na mãe e na ideia de um vínculo único foi revista, a variação entre culturas e arranjos familiares ganhou mais espaço, e pesquisadores como Michael Rutter mostraram que os efeitos da privação nem sempre são irreversíveis, dependendo do que acontece depois."
+  ],
+  "tags": [
+    "Clínico",
+    "Teórico"
+  ],
+  "influencias": [
+    "konrad-lorenz",
+    "nikolaas-tinbergen"
+  ],
+  "obras": [
+    {
+      "ano": "1944",
+      "titulo": "Forty-four Juvenile Thieves: Their Characters and Home-Life",
+      "link": ""
+    },
+    {
+      "ano": "1951",
+      "titulo": "Maternal Care and Mental Health",
+      "link": ""
+    },
+    {
+      "ano": "1969",
+      "titulo": "Attachment and Loss, Vol. 1: Attachment",
+      "link": ""
+    },
+    {
+      "ano": "1988",
+      "titulo": "A Secure Base",
+      "link": ""
+    }
+  ]
+}

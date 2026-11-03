@@ -1,0 +1,50 @@
+{
+  "id": "susan-fiske",
+  "nome": "Susan Fiske",
+  "periodo": "1952–presente",
+  "disciplinas": [
+    "Psicologia social"
+  ],
+  "resumo": "Mostrou que avaliamos grupos por calor e competência, o que prevê emoções como inveja e desprezo, e ajudou a consolidar a cognição social.",
+  "bio": [
+    "Susan Fiske (nascida em 1952) graduou-se em Harvard e doutorou-se na mesma universidade, em 1978. Lecionou na Universidade de Massachusetts, em Amherst, na Carnegie Mellon e, desde os anos 1990, em Princeton. Com Shelley Taylor, escreveu o manual Social Cognition (1984), que organizou a área que estuda como as pessoas processam informação sobre os outros. O conceito de avarento cognitivo, que descreve a tendência de economizar esforço mental com atalhos e categorias, está ligado a esse trabalho. Mais tarde, as autoras o completaram com a imagem do tático motivado, que escolhe quando se esforçar.",
+    "Com Steven Neuberg (1990), propôs o modelo do contínuo de formação de impressões: vemos as pessoas primeiro por categorias, como idade, gênero e raça, e só passamos à análise individual se tivermos atenção, motivação e informação para isso. A contribuição mais conhecida é o Modelo do Conteúdo dos Estereótipos (SCM), de 2002, com Amy Cuddy, Peter Glick e Jun Xu. Segundo o modelo, avaliamos grupos em duas dimensões: calor (se têm boas ou más intenções, o que se liga à percepção de competição) e competência (se são capazes de agir sobre elas, o que se liga a status). A combinação gera quatro tipos de reação. Grupos de alto calor e alta competência causam admiração; baixo calor e baixa competência, desprezo; alto calor e baixa competência, piedade; baixo calor e alta competência, inveja. Os estereótipos mistos ajudam a entender por que o preconceito nem sempre é hostilidade aberta.",
+    "Fiske pesquisou também o sexismo ambivalente, com Peter Glick (1996), que distingue sexismo hostil e sexismo benevolente, e o efeito do poder sobre estereótipos. Em 1989, no caso Price Waterhouse contra Hopkins, depôs como perita sobre estereótipos de gênero, e seu testemunho foi mencionado pela Suprema Corte dos Estados Unidos. Com Lasana Harris, em 2006, mostrou em neuroimagem que a ativação cerebral ligada a perceber outras pessoas como pessoas é menor diante de grupos de baixo calor e baixa competência, como moradores de rua. O livro Envy Up, Scorn Down (2011) reúne esses temas.",
+    "Entre as limitações, pesquisadores discutem se as duas dimensões bastam para descrever estereótipos, e propostas alternativas, como as dimensões de agência e comunhão, sugerem organizações diferentes. As reações a cada quadrante também variam entre culturas, e há dúvidas sobre o quanto resultados com escalas de avaliação se traduzem em comportamento real."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [
+    "fritz-heider",
+    "solomon-asch"
+  ],
+  "obras": [
+    {
+      "ano": "1984",
+      "titulo": "Social Cognition (com Taylor)",
+      "link": ""
+    },
+    {
+      "ano": "1990",
+      "titulo": "A continuum of impression formation, from category-based to individuating processes (com Neuberg)",
+      "link": ""
+    },
+    {
+      "ano": "1996",
+      "titulo": "The Ambivalent Sexism Inventory: Differentiating hostile and benevolent sexism (com Glick)",
+      "link": ""
+    },
+    {
+      "ano": "2002",
+      "titulo": "A model of (often mixed) stereotype content: Competence and warmth respectively follow from perceived status and competition (com Cuddy, Glick e Xu)",
+      "link": ""
+    },
+    {
+      "ano": "2011",
+      "titulo": "Envy Up, Scorn Down: How Status Divides Us",
+      "link": ""
+    }
+  ]
+}

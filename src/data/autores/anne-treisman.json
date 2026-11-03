@@ -1,0 +1,44 @@
+{
+  "id": "anne-treisman",
+  "nome": "Anne Treisman",
+  "periodo": "1935–2018",
+  "disciplinas": [
+    "Psicologia cognitiva"
+  ],
+  "resumo": "Psicóloga que refinou o filtro de Broadbent com a atenuação e propôs a teoria da integração de características para explicar a atenção visual.",
+  "bio": [
+    "Anne Treisman nasceu em Wakefield, na Inglaterra, em 1935, estudou em Cambridge e fez o doutorado em Oxford. Começou investigando atenção auditiva com a tarefa de sombreamento: o voluntário ouve duas mensagens diferentes, uma em cada ouvido, e repete em voz alta apenas uma delas. O modelo dominante, o de Donald Broadbent, dizia que um filtro bloqueava por completo a mensagem ignorada. Mas já se sabia que muitas pessoas percebem o próprio nome vindo do canal ignorado.",
+    "Num experimento de 1960, Treisman fez a mensagem a ser repetida mudar de ouvido no meio de uma frase. Por um instante, os participantes continuavam a seguir o sentido do texto no ouvido que deveriam ignorar, o que mostrava que o significado era processado antes da seleção. Sua proposta, a teoria da atenuação, foi que o filtro não bloqueia, mas reduz a intensidade da informação não atendida. Itens com limiar baixo de reconhecimento, como o próprio nome ou uma palavra urgente, ainda assim ultrapassam a barreira. A proposta abriu o debate sobre em que ponto a seleção ocorre, que continuou com os modelos de seleção tardia.",
+    "Nos anos 1980, Treisman voltou-se para a atenção visual. Com Garry Gelade, publicou em 1980 a teoria da integração de características. Em tarefas de busca visual, encontrar um item que se distingue por um único traço, como um círculo vermelho entre círculos verdes, leva quase o mesmo tempo qualquer que seja o número de distratores: o item salta aos olhos. Já encontrar um item definido pela combinação de dois traços, como uma barra vermelha vertical entre barras vermelhas horizontais e verdes verticais, exige mais tempo à medida que aumentam os itens. A explicação é que cor, orientação e outros traços são extraídos em paralelo, em mapas separados, mas ligá-los num objeto exige atenção focalizada. Quando a atenção é sobrecarregada, surgem conjunções ilusórias, em que o observador combina erroneamente traços de objetos distintos, como ver um X azul ao ter visto um X vermelho e um T azul. Com Daniel Kahneman, Treisman também propôs a ideia de arquivos de objeto (1984), registros temporários que reúnem as propriedades de um objeto ao longo do tempo.",
+    "A teoria de Treisman colocou o problema da ligação (binding problem) no centro da psicologia e da neurociência: como o cérebro une traços processados em áreas diferentes numa percepção unificada. Ela foi criticada e revisada. Estudos posteriores mostraram que certas buscas por conjunção são mais eficientes do que o previsto, o que levou a modelos como o de busca guiada, de Jeremy Wolfe, e à ideia de que a atenção é guiada por traços e não apenas serial. Treisman recebeu a Medalha Nacional de Ciência dos Estados Unidos e faleceu em 2018."
+  ],
+  "tags": [
+    "Experimental",
+    "Teórico"
+  ],
+  "influencias": [
+    "donald-broadbent"
+  ],
+  "obras": [
+    {
+      "ano": "1960",
+      "titulo": "Contextual cues in selective listening",
+      "link": ""
+    },
+    {
+      "ano": "1980",
+      "titulo": "A feature-integration theory of attention (com Gelade)",
+      "link": "https://doi.org/10.1016/0010-0285(80)90005-5"
+    },
+    {
+      "ano": "1982",
+      "titulo": "Illusory conjunctions in the perception of objects (com Schmidt)",
+      "link": ""
+    },
+    {
+      "ano": "1996",
+      "titulo": "The binding problem",
+      "link": ""
+    }
+  ]
+}

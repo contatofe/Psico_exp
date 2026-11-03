@@ -1,0 +1,51 @@
+{
+  "id": "john-maynard-smith",
+  "nome": "John Maynard Smith",
+  "periodo": "1920–2004",
+  "disciplinas": [
+    "Sociobiologia / Ecologia comportamental"
+  ],
+  "resumo": "Biólogo que levou a teoria dos jogos à evolução, criou o conceito de estratégia evolutivamente estável e explicou conflitos, cooperação e a origem do sexo.",
+  "bio": [
+    "John Maynard Smith foi um biólogo evolucionista britânico com uma trajetória pouco usual. Formou-se em engenharia aeronáutica e trabalhou com aviões durante a Segunda Guerra Mundial, mas depois trocou de área e estudou genética sob a orientação de J. B. S. Haldane, no University College de Londres. Nos anos 1960, foi um dos fundadores da Universidade de Sussex, onde ajudou a criar a escola de ciências biológicas e permaneceu por décadas. Sua formação em engenharia aparece em seu estilo: construir modelos simples, matemáticos, que deixem claras as consequências de cada hipótese.",
+    "Sua contribuição mais célebre é o conceito de estratégia evolutivamente estável (ESS, em inglês). Em artigo de 1973 com George Price, ele propôs usar a teoria dos jogos para analisar conflitos entre animais. A pergunta era por que tantos confrontos entre indivíduos da mesma espécie são resolvidos com ameaças e exibições em vez de lutas até a morte. O modelo mais conhecido é o do jogo falcão-pomba: falcões escalam o combate e pombas só exibem e recuam. Se o custo de ferimentos for maior do que o valor do recurso disputado, nenhuma estratégia pura vence sozinha, e a população tende a uma mistura estável das duas. Uma ESS é uma estratégia que, se adotada pela maior parte da população, não pode ser invadida por nenhuma alternativa. A ideia pegou porque o sucesso de um comportamento depende do que os outros fazem, algo que a teoria clássica de seleção tratava mal.",
+    "Maynard Smith trabalhou ainda em outros problemas importantes. Cunhou o termo seleção de parentesco (kin selection), nos anos 1960, ao analisar as ideias de W. D. Hamilton sobre altruísmo entre parentes, e discutiu as limitações da seleção de grupo ingênua. Em The Evolution of Sex (1978), debruçou-se sobre o chamado custo duplo do sexo: uma população assexuada deveria crescer mais rápido, o que torna intrigante a persistência da reprodução sexuada. Em The Major Transitions in Evolution (1995), com Eörs Szathmáry, descreveu grandes saltos na complexidade da vida, como a origem das células com núcleo, dos organismos multicelulares e da linguagem, que envolvem a integração de entidades antes independentes. Recebeu o prêmio Crafoord em 1999.",
+    "Seu legado inclui a incorporação da teoria dos jogos à ecologia comportamental e à biologia evolutiva, influenciando trabalhos de Robert Trivers e outros. Entre as limitações reconhecidas está a suposição, no modelo básico, de que o comportamento se reduz a estratégias simples, sem considerar em detalhe a genética por trás delas, o que o próprio Maynard Smith chamou de gambito fenotípico. Mesmo assim, o conceito de ESS é hoje uma ferramenta padrão da biologia teórica."
+  ],
+  "tags": [
+    "Teoria dos jogos",
+    "Matemática",
+    "Modelagem evolutiva"
+  ],
+  "influencias": [
+    "r-a-fisher",
+    "john-nash"
+  ],
+  "obras": [
+    {
+      "ano": "1964",
+      "titulo": "Group Selection and Kin Selection",
+      "link": ""
+    },
+    {
+      "ano": "1973",
+      "titulo": "The Logic of Animal Conflict (com G. R. Price)",
+      "link": ""
+    },
+    {
+      "ano": "1978",
+      "titulo": "The Evolution of Sex",
+      "link": ""
+    },
+    {
+      "ano": "1982",
+      "titulo": "Evolution and the Theory of Games",
+      "link": ""
+    },
+    {
+      "ano": "1995",
+      "titulo": "The Major Transitions in Evolution (com E. Szathmáry)",
+      "link": ""
+    }
+  ]
+}

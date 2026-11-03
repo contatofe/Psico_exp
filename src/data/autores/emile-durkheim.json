@@ -1,0 +1,42 @@
+{
+  "id": "emile-durkheim",
+  "nome": "Émile Durkheim",
+  "periodo": "1858–1917",
+  "disciplinas": [
+    "Sociologia"
+  ],
+  "resumo": "Sociólogo francês que deu método próprio à sociologia e mostrou que até o suicídio varia com as condições sociais.",
+  "bio": [
+    "Émile Durkheim nasceu em Épinal, na França, em 1858, e foi professor em Bordeaux e depois na Sorbonne, em Paris. Trabalhou numa época em que a sociologia ainda tentava se firmar como disciplina universitária, e dedicou-se a mostrar que existe um objeto de estudo que não se reduz nem à biologia nem à psicologia individual: a vida social. Fundou a revista L'Année sociologique, em 1898, em torno da qual se formou uma escola de pesquisadores.",
+    "Em \"As regras do método sociológico\", propôs tratar os fatos sociais como coisas: maneiras de agir, pensar e sentir que são exteriores ao indivíduo e exercem sobre ele uma força de coerção, como as normas, as leis e os costumes. Em \"Da divisão do trabalho social\", distinguiu dois tipos de coesão: a solidariedade mecânica, típica de sociedades pequenas em que as pessoas são semelhantes entre si, e a solidariedade orgânica, de sociedades mais complexas em que a coesão nasce da interdependência entre funções diferentes.",
+    "O estudo \"O suicídio\", de 1897, é o seu exemplo mais citado. Comparando estatísticas de diferentes países e grupos, Durkheim mostrou que as taxas de suicídio variam de modo regular com características sociais, como a religião e o estado civil, e que esse ato tão íntimo não pode ser explicado só por motivos individuais. Distinguiu tipos de suicídio, entre eles o egoísta, ligado à fraca integração social, e o anômico, ligado à falta de regras claras em períodos de mudança rápida. O conceito de anomia tornou-se central na sociologia.",
+    "Em \"As formas elementares da vida religiosa\", de 1912, analisou a religião de grupos aborígines australianos para sustentar que o sagrado expressa a própria sociedade e que rituais coletivos geram um sentimento de efervescência que reforça os laços do grupo. Suas ideias sobre representações coletivas influenciaram a antropologia e a psicologia social. Entre as críticas, destacam-se o uso de estatísticas da época, de qualidade limitada, o risco de inferir sobre indivíduos a partir de dados agregados e a tendência a tratar a sociedade como um todo harmônico, o que dava pouco espaço ao conflito."
+  ],
+  "tags": [
+    "Teórico",
+    "Histórico-comparativo"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1893",
+      "titulo": "De la division du travail social",
+      "link": ""
+    },
+    {
+      "ano": "1895",
+      "titulo": "Les règles de la méthode sociologique",
+      "link": ""
+    },
+    {
+      "ano": "1897",
+      "titulo": "Le suicide",
+      "link": ""
+    },
+    {
+      "ano": "1912",
+      "titulo": "Les formes élémentaires de la vie religieuse",
+      "link": ""
+    }
+  ]
+}

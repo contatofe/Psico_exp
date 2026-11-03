@@ -1,0 +1,44 @@
+{
+  "id": "john-nash",
+  "nome": "John Nash",
+  "periodo": "1928–2015",
+  "disciplinas": [
+    "Teoria dos jogos"
+  ],
+  "resumo": "Matemático que definiu o equilíbrio de Nash e estendeu a teoria dos jogos a qualquer número de jogadores; Nobel de Economia em 1994 e Prêmio Abel em 2015.",
+  "bio": [
+    "John Forbes Nash Jr. nasceu em 1928, em Bluefield, na Virgínia Ocidental, estudou no atual Carnegie Mellon e, em 1948, entrou em Princeton, onde concluiu o doutorado em 1950 com uma tese curta sobre jogos não cooperativos, orientada por Albert Tucker. Trabalhou depois no MIT. Durante boa parte da vida adulta sofreu de esquizofrenia, que interrompeu sua atividade por longos períodos.",
+    "A teoria dos jogos de von Neumann e Morgenstern concentrava-se em jogos de soma zero entre dois jogadores. Nash estendeu a análise a qualquer número de jogadores e a situações em que os interesses coincidem em parte. Definiu como equilíbrio um conjunto de estratégias em que nenhum jogador consegue ganhar mudando apenas a própria estratégia, dado o que os outros fazem, e demonstrou (1950, 1951), com um teorema de ponto fixo, que todo jogo finito tem ao menos um equilíbrio, possivelmente em estratégias mistas. No dilema do prisioneiro, o equilíbrio é os dois delatarem, embora ambos ficassem melhor se cooperassem.",
+    "Nash também formulou o problema da barganha (1950), com uma solução baseada em axiomas, e propôs reduzir jogos cooperativos a jogos não cooperativos (1953). Fora da teoria dos jogos, produziu trabalhos de matemática pura, como os teoremas de mergulho de variedades riemannianas e resultados sobre equações diferenciais parciais. Recebeu o Prêmio de Ciências Econômicas em memória de Alfred Nobel em 1994, com John Harsanyi e Reinhard Selten, e o Prêmio Abel em 2015, com Louis Nirenberg, por trabalhos em equações diferenciais parciais não lineares.",
+    "O equilíbrio de Nash tornou-se ferramenta em economia, biologia evolutiva (a estratégia evolutivamente estável de Maynard Smith é um refinamento dele), ciência política e ciência da computação. Entre as limitações, muitos jogos têm vários equilíbrios, o conceito supõe jogadores plenamente racionais e experimentos, como os do ultimato e do jogo da centopeia, mostram desvios sistemáticos, que motivaram a teoria dos jogos comportamental. Nash morreu em 2015 em um acidente de carro em Nova Jersey, com a esposa, Alicia. Sua vida foi contada no livro A Beautiful Mind, de Sylvia Nasar (1998), e no filme de 2001, que simplifica vários aspectos."
+  ],
+  "tags": [
+    "Teoria dos jogos",
+    "Matemática"
+  ],
+  "influencias": [
+    "john-von-neumann"
+  ],
+  "obras": [
+    {
+      "ano": "1950",
+      "titulo": "Equilibrium points in n-person games",
+      "link": ""
+    },
+    {
+      "ano": "1950",
+      "titulo": "The bargaining problem",
+      "link": ""
+    },
+    {
+      "ano": "1951",
+      "titulo": "Non-cooperative games",
+      "link": ""
+    },
+    {
+      "ano": "1953",
+      "titulo": "Two-person cooperative games",
+      "link": ""
+    }
+  ]
+}

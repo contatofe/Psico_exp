@@ -1,0 +1,43 @@
+{
+  "id": "john-von-neumann",
+  "nome": "John von Neumann",
+  "periodo": "1903–1957",
+  "disciplinas": [
+    "Teoria dos jogos"
+  ],
+  "resumo": "Matemático húngaro-americano que fundou a teoria dos jogos com o teorema minimax e a teoria da utilidade esperada, e contribuiu para a computação.",
+  "bio": [
+    "John von Neumann (János Neumann) nasceu em Budapeste, em 1903, formou-se engenheiro químico em Zurique e doutorou-se em matemática em Budapeste, em 1926. Lecionou em Berlim e Hamburgo e, em 1930, mudou-se para os Estados Unidos. Foi professor em Princeton e, desde 1933, do Instituto de Estudos Avançados. Morreu em 1957, aos 53 anos, de câncer.",
+    "Em 1928 provou o teorema minimax. Em um jogo de soma zero entre dois jogadores, em que o ganho de um é a perda do outro, mostrou que, se os jogadores podem aleatorizar suas jogadas (estratégias mistas), existe um valor do jogo: cada um tem uma estratégia que garante o melhor resultado possível contra o pior caso, e esse valor coincide para os dois. O resultado deu à teoria dos jogos uma base matemática.",
+    "Em Theory of Games and Economic Behavior (1944), com o economista Oskar Morgenstern, ampliou a teoria dos jogos, tratando de coalizões e de jogos com mais de dois jogadores. A obra apresentou também uma teoria da utilidade esperada: se as preferências de uma pessoa obedecem a certos axiomas (completude, transitividade, continuidade e independência), elas podem ser representadas por uma utilidade cujo valor esperado a pessoa maximiza. Esse modelo virou base da economia da incerteza e foi alvo de desvios documentados, como o paradoxo de Allais (1953) e a teoria do prospecto de Kahneman e Tversky (1979).",
+    "Von Neumann também contribuiu para a formulação matemática da mecânica quântica (1932), para a arquitetura de computadores com programa armazenado, no relatório de 1945 sobre o EDVAC, para o método de Monte Carlo, com Stanislaw Ulam, e para o estudo de autômatos autorreprodutores. Participou do Projeto Manhattan. No fim da vida escreveu The Computer and the Brain (publicado em 1958), em que compara o computador e o sistema nervoso. John Nash estendeu sua teoria dos jogos além do caso de soma zero. Entre as limitações, o minimax vale como solução apenas para jogos de soma zero, e em jogos cooperativos a teoria admite várias soluções."
+  ],
+  "tags": [
+    "Teoria dos jogos",
+    "Matemática",
+    "Computacional"
+  ],
+  "influencias": [],
+  "obras": [
+    {
+      "ano": "1928",
+      "titulo": "Zur Theorie der Gesellschaftsspiele",
+      "link": ""
+    },
+    {
+      "ano": "1932",
+      "titulo": "Mathematische Grundlagen der Quantenmechanik",
+      "link": ""
+    },
+    {
+      "ano": "1944",
+      "titulo": "Theory of Games and Economic Behavior (com Morgenstern)",
+      "link": ""
+    },
+    {
+      "ano": "1958",
+      "titulo": "The Computer and the Brain",
+      "link": ""
+    }
+  ]
+}

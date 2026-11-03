@@ -1,0 +1,45 @@
+{
+  "id": "richard-shweder",
+  "nome": "Richard Shweder",
+  "periodo": "1945–presente",
+  "disciplinas": [
+    "Psicologia cultural"
+  ],
+  "resumo": "Antropólogo e psicólogo cultural que defende pluralismo cultural na mente e na moral e criticou a universalização de modelos psicológicos ocidentais.",
+  "bio": [
+    "Richard Shweder, nascido em 1945, é professor da Universidade de Chicago, onde lecionou por décadas no Departamento de Desenvolvimento Humano. Doutorou-se em antropologia social em Harvard e se tornou um dos principais nomes da psicologia cultural, campo que trata mente e cultura como processos que se constituem mutuamente. Foi influenciado pela antropologia interpretativa de Clifford Geertz.",
+    "Shweder criticou a psicologia que toma amostras ocidentais como medida da natureza humana, e defendeu a ideia de uma só mente humana com muitas mentalidades: processos psicológicos básicos podem ser compartilhados, mas seu conteúdo e organização variam com os significados e práticas de cada cultura. Em um ensaio de 1984, chamou de rebelião romântica a tendência da antropologia de resistir a modelos universalistas herdados do Iluminismo. Em Thinking Through Cultures (1991), reuniu argumentos e estudos sobre emoção, desenvolvimento e razão que sustentam essa visão.",
+    "Uma das áreas em que sua obra mais influenciou é a moralidade. A partir de pesquisas em Bhubaneswar, na Índia, com Manamohan Mahapatra e outros colaboradores, argumentou que os modelos de desenvolvimento moral, como o de Lawrence Kohlberg, privilegiavam justiça e direitos individuais. Em um trabalho de 1997, propôs três éticas, as chamadas big three: autonomia, que gira em torno de direitos, dano e justiça, comunidade, que valoriza deveres, hierarquia e lealdade, e divindade, ligada a pureza, santidade e ordem natural. Culturas teriam combinações diferentes dessas éticas, e o pesquisador Jonathan Haidt reconheceu a dívida de sua teoria dos fundamentos morais com esse trabalho.",
+    "Shweder também discutiu concepções de pessoa, contrastando noções mais sociocêntricas e mais egocêntricas, e participou de debates públicos sobre relativismo e costumes. Críticos acham que a ênfase na diferença cultural corre o risco de subestimar universais psicológicos e de dificultar julgamentos morais sobre práticas controversas. Seu legado está na ideia de que investigar cognição e moral exige amostras e conceitos que respeitem a diversidade humana, argumento que dialoga com críticas recentes sobre amostras limitadas à população WEIRD."
+  ],
+  "tags": [
+    "Teórico",
+    "Etnográfico",
+    "Filosofia da ciência"
+  ],
+  "influencias": [
+    "clifford-geertz"
+  ],
+  "obras": [
+    {
+      "ano": "1984",
+      "titulo": "Culture Theory: Essays on Mind, Self, and Emotion",
+      "link": ""
+    },
+    {
+      "ano": "1991",
+      "titulo": "Thinking Through Cultures: Expeditions in Cultural Psychology",
+      "link": ""
+    },
+    {
+      "ano": "1997",
+      "titulo": "The \"Big Three\" of Morality (Autonomy, Community, Divinity) and the \"Big Three\" Explanations of Suffering",
+      "link": ""
+    },
+    {
+      "ano": "2003",
+      "titulo": "Why Do Men Barbecue? Recipes for Cultural Psychology",
+      "link": ""
+    }
+  ]
+}
